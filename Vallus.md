@@ -8,7 +8,7 @@ Vallus has one regret: her marriage to King [[Acastus]]. Over the centuries, she
 
 ## Vallus's True Form
 
-Vallus was the young bronze dragon who served as a mount for Telamok Arkelander. While Telamok was responsible for almost as many atrocities as his brother Estor, Vallus understands this was part of the cost of settling in [[Thylea]]. She is not wracked with the same second-hand guilt that plagues [[Kyrah]].
+Vallus was the young bronze dragon who served as a mount for [[Telamok Arkelander]]. While Telamok was responsible for almost as many atrocities as his brother Estor, Vallus understands this was part of the cost of settling in [[Thylea]]. She is not wracked with the same second-hand guilt that plagues [[Kyrah]].
 
 ## Roleplaying Vallus
 

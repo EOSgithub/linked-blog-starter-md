@@ -1,0 +1,1 @@
+Karpathos (Aresianos), oathsworn of (? who became a Dracolich ?), traitor, left [[The Dragonlords]] with [[Damon]]'s Cadiceus, and founded Aresia. Was cursed and became a Vampire the heroes will face during the last chapters.

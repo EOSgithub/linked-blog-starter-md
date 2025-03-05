@@ -1,0 +1,22 @@
+The Dragonlords were settlers who came across the sea during the Xanderiad, along with their bounded dragon mounts.
+
+They took the side of the settlers, then waged war on the natives and their gods [[Sydon]] and [[Lutheria]]. Tide of war shifted several times, until an Oath of Peace was signed by new gods.
+
+#### PCs might find following infos :
+
+- [[Xander Huorath]], oathsworn of Balmytria, first leader of the Dragonlords and initiator of the crossing (the Xanderiad). Died during the first battles aganst the Gygans -12, rumours have it it was due to treachery. Buried at Telamok.
+- [[Cosmo Phobas]]. Cosmo was the first-born son of Rizon. He succeeded Xander as the leader of the Dragonlords. (Might have been second Oathsworn of Balmytria). Survived the war. Buried at Telamok.
+- [[Adonis Neurdagon]], oathsworn of Raspytrion, killed during the battle at Praxis -1. Buried at Telamok.
+- [[Telamok Arkelander]], oathsworn of Tysophale, created the kingdom of Telamok, had great political influence in the order, died at Praxis -1. Buried at Telamok.
+- [[Ochos Arkelander]] (Might be oathsworn of Hexia). Ochos is another in the Arkelander family, but he was a soldier rather than a king. Buried at Telamok.
+- [[Gregor Huoarath]] (Might be oathsworn of Hezzebal) The body of Gregor of the Huorath family was never found. Empty tomb at Telamok.
+- [[Rizon Phobas]], oathsworn of Sybolkorax, won against the Minotaurs, survived the war. (Her quotes were collected into a book, Aesop and Corina have a copy). Buried at Telamok.
+- [[Myrto the Magnificient]] was the grandson of Adonis. He used his family wealth to bribe the other Dragonlords, so that he would be elected third leader after the death of Cosmo. Buried at Telamok.
+- [[Isadore Huorath]] was the granddaughter of Xander. Buried at Telamok. [[Damon]] served as her chief advisor when she ruled the Dragonlords as 4th leader. After she died, [[Damon]] retreated from life in the city of Mytros and came to the Necropolis to be its guardian, and to watch over Isadore in particular.
+- [[Lysis Arkelander]] was the great grandson of Estor, and he was the last of his family to rule Estoria. The Arkelanders had ruled Estoria as kings for over a century, but Lysis proved to be a mad tyrant who stained the throne with wanton murder and torture. The god [[Pythor]], unable to stand by and watch, overthrew him and took the throne in 340. Buried at Telamok.
+- [[Damon]], unbound wizard, creator of the academy, was in love with [[Isadore Huorath]] and is still alive, enigmatic guardian of Telamok.
+- [[Estor Arkelander]], oathsworn of Arkyraniah, great but cruel general who dismantled the Gygan empire, created the kingdom of Estoria. Disappeared with his ship, the Ultros. Made a pact with [[Lutheria]] to achieve immortality. Haunts the Ultros. Wants to get his magic Xyphos back and possess the Ultros's new captain. Empty tomb at Telamok.
+- [[Jasena Ventrak]], oathsworn of Arystonar, disappeared and considered a traitor by [[Damon]]. Can be made male, good Vanished One possibility, a dragonlord who was convinced by [[Versi]] that the real war would be fought 500 years in the furture (good choice for a Medusae curse : she broke her oath to the order when vanishing, but did it for a greater good). Or she might have tried to infiltrate Praxis to get her captured dragon back (see Aesop's message who thinks they were captured) and her stuff can be found there, or she died in Aresia out of grief trying to find him as she tracked him there.
+- [[Karpathos]] (Aresianos), oathsworn of (? who became a Dracolich ?), traitor, left the dragonlords with [[Damon]]'s Cadiceus, and founded Aresia. Was cursed and became a Vampire the heroes will face during the last chapters.
+- [[Dorion Neurdagon]] was the last of his family to take up the mantle of Dragonlord. (5th leader of the order ?)
+- [[Nicholas Phobas]] was the very last of the Dragonlords. He ruled and died one century ago, though the order had long been corrupted at that point. In his lifetime, Nicholas swore fealty to [[Sydon]] as a symbolic gesture of peace, earning the blessing of the Titan. The Order of [[Sydon]] modeled themselves after his example.

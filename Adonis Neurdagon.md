@@ -1,0 +1,1 @@
+Adonis Neurdagon, oathsworn of Raspytrion, killed during the battle at Praxis -1. Buried at Telamok.

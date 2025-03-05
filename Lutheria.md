@@ -1,4 +1,4 @@
-Lutheria was once a goddess of many things. She created all the fey races, including satyrs, nymphs, and dryads. As the sister-wife of [[Sydon]], she suffered the same losses as the Lord of Storms when humanity came to [[Thylea]]. Her children were slaughtered, and many of her powers were stolen by the Five Gods. In the years that followed, a vengeful madness grew in her mind. Now, Lutheria schemes to capture the souls of the sinful, to fuel her dream of transforming humanity into brutish beasts, remaking their world into an endless nightmare.
+Lutheria was once a goddess of many things. She created all the fey races, including satyrs, nymphs, and dryads. As the sister-wife of [[Sydon]], she suffered the same losses as the Lord of Storms when humanity came to [[Thylea]]. Her children were slaughtered, and many of her powers were stolen by [[The Five Gods]]. In the years that followed, a vengeful madness grew in her mind. Now, Lutheria schemes to capture the souls of the sinful, to fuel her dream of transforming humanity into brutish beasts, remaking their world into an endless nightmare.
 
 
 ## Aspetto

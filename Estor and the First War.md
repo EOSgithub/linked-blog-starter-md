@@ -1,4 +1,4 @@
-Of all the Dragonlords, the brothers Telamok and Estor Arkelander were the most ruthless and savage. Telamok, the elder, dreamed of being a great king. He offered his protection, and that of his dragon, to any who would swear allegiance to him. He promised a future in which the so-called civilized species had utter dominance over [[Thylea]] and the fey creatures.
+Of all [[The Dragonlords]], the brothers Telamok and [[Estor Arkelander]] were the most ruthless and savage. Telamok, the elder, dreamed of being a great king. He offered his protection, and that of his dragon, to any who would swear allegiance to him. He promised a future in which the so-called civilized species had utter dominance over [[Thylea]] and the fey creatures.
 
 Mortals of all races flocked to his banner. He built fortresses and walled cities to protect his followers from attack, the foundation of what would one day become the great kingdom of Mytros. The ranks of his armies, under the command of his younger brother Estor, swelled.
 

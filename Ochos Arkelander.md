@@ -1,0 +1,1 @@
+Ochos Arkelander (Might be oathsworn of Hexia). Ochos is another in the Arkelander family, but he was a soldier rather than a king. Buried at Telamok.

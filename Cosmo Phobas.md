@@ -1,0 +1,1 @@
+Cosmo was the first-born son of Rizon. He succeeded Xander as the leader of [[The Dragonlords]]. (Might have been second Oathsworn of Balmytria). Survived the war. Buried at Telamok.

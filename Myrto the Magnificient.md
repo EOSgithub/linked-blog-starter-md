@@ -1,0 +1,1 @@
+Myrto the Magnificient was the grandson of Adonis. He used his family wealth to bribe the other Dragonlords, so that he would be elected third leader after the death of Cosmo. Buried at Telamok.

@@ -26,7 +26,7 @@ But Balmytria only smiled. "I have staked my life on this game, and you have sta
 
 When Balmytria's blood mixed with the magic of the dice, the fate of the world was forever altered.
 
-Balmytria knew the dragons could not defeat the immortal Titans unless they became immortals themselves. That was her plan all along. She never intended to kill [[Sydon]] and [[Lutheria]], for she knew that the Fates were working against her. Instead, she sought to steal the divine power of the Titans for her own blood.
+Balmytria knew the dragons could not defeat the immortal Titans unless they became immortals themselves. That was her plan all along. She never intended to kill [[Sydon]] and [[Lutheria]], for she knew that [[The Fates]] were working against her. Instead, she sought to steal the divine power of the Titans for her own blood.
 
 As Balmytria's blood drained from her body, the Titans' divine power replaced it. She ascended into the heavens as Mytros, the Goddess of Dawn. Her husband became [[Volkan]], the God of the Forge. Her children became [[Vallus]], the Goddess of Wisdom; [[Pythor]], the God of Battle; Narsus, the God of Beauty; and [[Kyrah]], the Goddess of Music. Together, this new pantheon would turn the tide of the war completely.
 

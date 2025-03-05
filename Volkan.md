@@ -3,7 +3,7 @@ As one of the Five, Volkan is revered as the forge god of artifice and crafting,
 Volkan appears to be an unassuming, grey-bearded old dwarf clad in a blacksmith's apron. He is easily (and perhaps deliberately) overlooked by the locals in his home city of Estoria. He was less humble during the First War, when he was known to don a radiant suit of silver platemail, wear a golden crown, and carry a mighty warhammer. These days, he claims his bones ache too much to participate in battles. He prefers to smoke his pipe near the warmth of the forge-fires, pondering his next invention.
 
 ### Volkan's True Form
-Volkan originally came to [[Thylea]] as an ancient bronze dragon. In that form, he and Balmytria produced four bronze dragons in the Old World many centuries ago: [[Kyrah]], [[Pythor]], [[Vallus]], and Narsus. Together, the family of dragons became the mounts of the Dragonlords. Volkan had the honor to bond with Rizon Phobas.
+Volkan originally came to [[Thylea]] as an ancient bronze dragon. In that form, he and Balmytria produced four bronze dragons in the Old World many centuries ago: [[Kyrah]], [[Pythor]], [[Vallus]], and Narsus. Together, the family of dragons became the mounts of [[The Dragonlords]]. Volkan had the honor to bond with [[Rizon Phobas]].
 
 Volkan cannot transform back into his dragon form until [[The Oath of Peace]] ends.
 

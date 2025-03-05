@@ -10,7 +10,7 @@ Il Perduto incontra l'Oracolo, che lo indirizza verso Demetria nel Tempio Muschi
 2. **Attivare l'artefatto minore** – Sintonizzandosi con l'artefatto, il Perduto sente le voci della sua famiglia e scopre che un secondo artefatto è in possesso della Regina delle Amazzoni.
 3. **Recuperare e attivare l'artefatto maggiore** – Con il secondo artefatto, il Perduto rafforza il suo legame con il mondo dei morti, scoprendo che solo le Moire conoscono la verità sulla sua storia.
 4. **Incontrare le Moire** – Le Moire rivelano come [[Lutheria]] ha cancellato il Perduto dalla storia e gli spiegano che distruggere la falce della dea libererà le anime della sua famiglia.
-5. **Affrontare Estor Arkelander** – Estor offre al Perduto un patto per recuperare il tesoro dei Dragonlords, ma solo la sua arma, la Xyphos della Carneficina, può porre fine al suo spirito.
+5. **Affrontare [[Estor Arkelander]]** – Estor offre al Perduto un patto per recuperare il tesoro dei Dragonlords, ma solo la sua arma, la Xyphos della Carneficina, può porre fine al suo spirito.
 6. **Confrontarsi con [[Lutheria]]** – [[Lutheria]] ricorda la profezia e tenta di eliminare il Perduto prima che possa realizzarsi.
 7. **Distruggere la Falce** – Rompere la falce di [[Lutheria]] libera le anime intrappolate e ristabilisce la memoria perduta della famiglia del Perduto.
 
@@ -24,7 +24,7 @@ Il Perduto incontra l'Oracolo, che lo indirizza verso Demetria nel Tempio Muschi
 - **Demetria:** Possiede l'artefatto minore e si oppone al Perduto nel Tempio Muschioso.
 - **Regina delle Amazzoni:** Custodisce l'artefatto maggiore.
 - **Le Moire:** Conoscono la verità sulla famiglia del Perduto e il suo legame con [[Lutheria]].
-- **Estor Arkelander:** Vuole recuperare la sua arma e sfida il Perduto nel Mare Infero.
+- **[[Estor Arkelander]]:** Vuole recuperare la sua arma e sfida il Perduto nel Mare Infero.
 - **[[Lutheria]]:** La nemesi principale del Perduto, detiene le anime della sua famiglia nella sua falce.
 
 ## Il Viaggio  
@@ -54,7 +54,7 @@ Il Perduto avrà molteplici occasioni per interagire con gli spiriti inquieti di
 
 - **La Nave Fantasma Ultros:** *The crew of the Ultros can be put to rest either by slaying them in their undead forms, or by leading a mutiny against Estor. Of the thanes, Metron has a task tied to the Psychopomp. The only way for the tortured souls of Estor’s victims trapped within the box to find peace is if they are destroyed in their spectre forms.*
 
-- **L’Isola delle Moire:** *There are many lost souls here, not dead but trapped within cursed bodies. Only death will free them from the curses laid upon them by the Fates. Their spirits will thank the Psychopomp before moving on.*
+- **L’Isola delle Moire:** *There are many lost souls here, not dead but trapped within cursed bodies. Only death will free them from the curses laid upon them by [[The Fates]]. Their spirits will thank the Psychopomp before moving on.*
 
 - **L'Isola degli Esiliati:** *Two of the four dead men cling to unlife here as restless spirits, and can name the killer. The problem is they are both criminals themselves, and do not name the same person, as one lies in order to take vengeance on another exile. This effectively reduces the number of possible explanations from three to two.*
 
@@ -62,7 +62,7 @@ Il Perduto avrà molteplici occasioni per interagire con gli spiriti inquieti di
 
 - **L'Isola di Themis:** *If the party slays the [[medusa]] sisters and places Darien (or the Exile) on the throne, the spirit of Queen Thesilea VI, who will thank them for the good they’ve done for the Amazons and for Themis itself.*
 
-- **L'Isola di Yonder:** *Carpeted with the bones of its former giant inhabitants, the Island of Yonder was once the capital of the gygan empire before it was razed in Estor Arkelander’s genocide. The island is teeming with restless spirits that can only be put to rest by vanquishing Estor himself. While on the island, the Psychopomp receives a vision, telling the story of [[Estor and the First War]].*
+- **L'Isola di Yonder:** *Carpeted with the bones of its former giant inhabitants, the Island of Yonder was once the capital of the gygan empire before it was razed in [[Estor Arkelander]]’s genocide. The island is teeming with restless spirits that can only be put to rest by vanquishing Estor himself. While on the island, the Psychopomp receives a vision, telling the story of [[Estor and the First War]].*
 
 - **L'isola del Drago:** *A feeling of unease permeates the jungle, full of the skeletal remains of unburied elves, killed by Hexia for sport.*
 

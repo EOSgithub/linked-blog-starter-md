@@ -1,0 +1,1 @@
+Xander Huorath, oathsworn of Balmytria, first leader of [[The Dragonlords]] and initiator of the crossing (the Xanderiad). Died during the first battles aganst the Gygans -12, rumours have it it was due to treachery. Buried at Telamok.

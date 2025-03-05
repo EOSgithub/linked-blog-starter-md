@@ -1,0 +1,1 @@
+Telamok Arkelander, oathsworn of Tysophale, created the kingdom of Telamok, had great political influence in the order, died at Praxis -1. Buried at Telamok.

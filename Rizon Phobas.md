@@ -1,0 +1,1 @@
+Rizon Phobas, oathsworn of Sybolkorax, won against the Minotaurs, survived the war. (Her quotes were collected into a book, Aesop and Corina have a copy). Buried at Telamok.

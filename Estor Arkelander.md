@@ -1,0 +1,1 @@
+Estor Arkelander, oathsworn of Arkyraniah, great but cruel general who dismantled the Gygan empire, created the kingdom of Estoria. Disappeared with his ship, the Ultros. Made a pact with [[Lutheria]] to achieve immortality. Haunts the Ultros. Wants to get his magic Xyphos back and possess the Ultros's new captain. Empty tomb at Telamok.

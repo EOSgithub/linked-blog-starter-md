@@ -1,0 +1,1 @@
+Isadore Huorath was the granddaughter of Xander. Buried at Telamok. [[Damon]] served as her chief advisor when she ruled [[The Dragonlords]] as 4th leader. After she died, [[Damon]] retreated from life in the city of Mytros and came to the Necropolis to be its guardian, and to watch over Isadore in particular.

@@ -1,6 +1,6 @@
 Versi is the daughter of [[Sydon]] and a naiad named Delphea. She is a water [[nymph]] like her mother, but her father's empyrean blood gave her the power of prophecy. She was born with a third eye at the center of her forehead. She hides this with a golden diadem.
 
-Versi has been known throughout [[Thylea]] as "the Oracle"since before the founding of Mytros. She prophesied the coming of the Dragonlords and the birth of the Five Gods. She was also instrumental in forging [[The Oath of Peace]], as she negotiated the meeting between the Five Gods and the Titans.
+Versi has been known throughout [[Thylea]] as "the Oracle"since before the founding of Mytros. She prophesied the coming of [[The Dragonlords]] and the birth of [[The Five Gods]]. She was also instrumental in forging [[The Oath of Peace]], as she negotiated the meeting between [[The Five Gods]] and the Titans.
 
 Versi wishes to protect both the mortals and the fey races of [[Thylea]]. She once believed that the gods and Titans could coexist peacefully, but she has witnessed too much death and destruction to sustain her optimism. Now, she puts her faith in the heroes, because they represent a chance for the best possible outcome in all her visions of the many possible futures.
 

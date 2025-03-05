@@ -12,6 +12,9 @@ However, if one party brings about harm to the other while the bond is in effect
 ## Sacred Oaths
 Oaths are sworn between men and their kings all the time, but oaths between men and gods are rarer and more binding. Oaths sworn to powerful creatures of the Fey, or to demons and devils can be just as binding.
 
+## Enforcing Oaths
+When Oaths are made, the Furies usually hear them and decide to enforce them, so the intention is binding, not it's written representation. But sometimes the Furies don't see or don't care when it is broken
+
 ### Oath of Peace
 An oath of peace is one where a powerful creature or king demands that the person swearing the oath will commit no violence against them or any of their servants. There is almost always a time limit to such an oath. Sometimes the time limit can be weeks or months, but other times it may be years or centuries. An oath of peace is central to the story presented in this book.
 

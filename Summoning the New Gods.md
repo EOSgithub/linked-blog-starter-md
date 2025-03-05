@@ -1,4 +1,4 @@
-At the beginning of the First War the civilized peoples won many victories. Led by the Dragonlords, they rode roughshod over the armies of the Titans. The children of [[Thylea]] could not stand against the great dragons and were routed time and time again.
+At the beginning of the First War the civilized peoples won many victories. Led by [[The Dragonlords]], they rode roughshod over the armies of the Titans. The children of [[Thylea]] could not stand against the great dragons and were routed time and time again.
 
 The armies of gygans and centaurs prayed to [[Sydon]] and [[Lutheria]] for aid, crying out to the Twins to save them from extinction. They begged the Titans to destroy the dragons, so that they could meet the civilized races in equal strength on the battlefield.
 
@@ -6,7 +6,7 @@ The armies of gygans and centaurs prayed to [[Sydon]] and [[Lutheria]] for aid, 
 
 Many dragons were lost, and others fled. But the silver dragon, Balmytria, knew that [[Lutheria]] and [[Sydon]] would eventually find them all. In her final stand against the tyranny of the Titans, the silver dragon threw herself heedlessly against them, tearing and clawing, even after suffering numerous mortal injuries. When at last her energy was exhausted, she collapsed to the ground dead, and the Twins spat on her corpse.
 
-Balmytria's death ripped a hole in the very fabric of reality that rippled throughout the multiverse. Inspired by her sacrifice, five celestial beings answered her prayer and came to [[Thylea]] to protect her people. These beings are known as the Five Gods, who we still worship today: Mytros, [[Volkan]], Pylor, [[Vallus]] and [[Kyrah]].
+Balmytria's death ripped a hole in the very fabric of reality that rippled throughout the multiverse. Inspired by her sacrifice, five celestial beings answered her prayer and came to [[Thylea]] to protect her people. These beings are known as [[The Five Gods]], who we still worship today: Mytros, [[Volkan]], Pylor, [[Vallus]] and [[Kyrah]].
 
 The Five pledged themselves to protect the civilized races, restoring the balance of power. In the years that followed, an uneasy truce was brokered, creating a peace that has lasted for 500 years.
 

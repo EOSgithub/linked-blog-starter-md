@@ -1,0 +1,1 @@
+Lysis Arkelander was the great grandson of Estor, and he was the last of his family to rule Estoria. The Arkelanders had ruled Estoria as kings for over a century, but Lysis proved to be a mad tyrant who stained the throne with wanton murder and torture. The god [[Pythor]], unable to stand by and watch, overthrew him and took the throne in 340. Buried at Telamok.

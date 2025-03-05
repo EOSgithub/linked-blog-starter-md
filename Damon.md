@@ -1,0 +1,1 @@
+Damon, unbound wizard, creator of the academy, was in love with [[Isadore Huorath]] and is still alive, enigmatic guardian of Telamok.

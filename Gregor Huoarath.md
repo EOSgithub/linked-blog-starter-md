@@ -1,0 +1,1 @@
+Gregor Huoarath (Might be oathsworn of Hezzebal) The body of Gregor of the Huorath family was never found. Empty tomb at Telamok.

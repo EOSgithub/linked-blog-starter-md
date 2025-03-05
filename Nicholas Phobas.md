@@ -1,0 +1,1 @@
+Nicholas Phobas was the very last of [[The Dragonlords]]. He ruled and died one century ago, though the order had long been corrupted at that point. In his lifetime, Nicholas swore fealty to [[Sydon]] as a symbolic gesture of peace, earning the blessing of the Titan. The Order of [[Sydon]] modeled themselves after his example.
