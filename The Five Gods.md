@@ -34,3 +34,13 @@ The gods have different reactions to the situation, which you must understand to
 - [[Volkan]] mourns his wife and the loss of the forge, and isn't that interested in the settlers agenda. A spark of interest will be seen when PCs look for the Forge, or when they speak of Mytros, or of Balmytria.
 - [[Kyrah]] played music in the 4 winds band, she profited from her godhood knowing it will disappear. But, morale boosted by [[Versi]]'s visions she made a cunning plan. [[Kyrah]] now plays around the oaths posing as a music teacher with the god's name.
 
+## PCs might find following info
+- Narsus was part of them but refused to help out during the First War and the 5 disowned him.
+- Mytros is mentioned as one of the Five Gods (reinforcing the belief that Balmytria was a completely different entity than Mytros).
+- The Dragon Names:
+	- Sybolkorax ([[Volkan]])
+	- Raspytrion ([[Pythor]])
+	- Arkyrania ([[Kyrah]])
+	- Tysophale ([[Vallus]])
+	- Arystonar (Narsus)]
+
