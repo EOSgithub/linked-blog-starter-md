@@ -1,7 +1,7 @@
 
 ## Personaggi  
   
-**Aria.** (Delay).  Ragazzina bardo umano. 
+**Aria.** (Delay). Ragazzina bardo umano. The Haunted One. Musica e Irriverenza. Membro delle Quattro Arie. Gamba prostetica. Follia di Lutheria.
   
 **Kosmo.** Description.  
   
