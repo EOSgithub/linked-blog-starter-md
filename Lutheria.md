@@ -11,9 +11,16 @@ Nevertheless, she is still celebrated in Mytros with annual wine festivals and s
 Epithets of Lutheria. The Lady of Dreams. The Queen of Hypnos. The Mistress of Death. Goddess of the Underworld. Queen of the Nether Sea. The Mad Goddess. The Twin Titan.
 
 ## Carattere
-
 **Curious.** Lutheria is curious about the lands beyond Thylea, especially of distant civilizations, gods, and dragons. She seeks the means to expand her power and influence, and her ambitions extend beyond the reaches of the Forgotten Sea.
 
 **Apparently Empathetic.** Lutheria understands the hopes, dreams, and fears of mortals far better than most gods. She is charming and approachable (with just a tinge of madness in her eyes), and never outwardly judgmental. Thieves, murderers, and other criminals venerate her, taking solace in her apparently forgiving nature. Few discover her secret loathing for mortal weaknesses until it's much too late to escape her scythe.
 
 **Manipulative.** Lutheria is fond of bargaining with mortals, offering them their dreams and riches, but she will always exact a terrifying price. She is true to her promises, but she always finds a way to bend and twist consequences to her advantage, or for her amusement.
+
+
+## Statistiche
+
+```statblock  
+monster: Lutheria
+```
+
