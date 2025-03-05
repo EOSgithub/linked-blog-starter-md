@@ -44,7 +44,7 @@ Harpy Ability: Luring Song. The harpy sings a magical melody, and every humanoi
 While [charmed](http://localhost:5000/conditionsdiseases.html#charmed_phb) by the harpy, a target is [incapacitated](http://localhost:5000/conditionsdiseases.html#incapacitated_phb) and ignores all other charm effects. If the [charmed](http://localhost:5000/conditionsdiseases.html#charmed_phb) target is more than 5 feet from the harpy, they must attempt to move toward the harpy by the most direct route. The target doesn't avoid opportunity attacks, but it may repeat a saving throw before moving into damaging terrain, such as lava. A [charmed](http://localhost:5000/conditionsdiseases.html#charmed_phb) victim should also repeat a saving throw when it takes damage from another character, as well as at the end of each of its turns. If a creature's saving throw is successful, the effect ends. Targets that successfully save are immune to this ability for the next 24 hours.
 
 ### Curse of the [[Medusa]]
-A person cursed in this fashion will slowly transform into a [[Medusa]]. This curse usually comes from bargains made with devils and demons: a mortal might have been asking for beauty or eternal life, but instead was granted the terrifying form of a [[[Medusa]]](http://localhost:5000/bestiary.html#[[medusa]]_mm). Sometimes, ancient fey creatures such as hags will transform a victim into a [[Medusa]], often simply for amusement.
+A person cursed in this fashion will slowly transform into a [[Medusa]]. This curse usually comes from bargains made with devils and demons: a mortal might have been asking for beauty or eternal life, but instead was granted the terrifying form of a [[Medusa]]. Sometimes, ancient fey creatures such as hags will transform a victim into a [[Medusa]], often simply for amusement.
 
 The transformation can be stopped with divine magic, but without intervention the victim will transform within a few weeks.
 
@@ -53,7 +53,7 @@ The transformation can be stopped with divine magic, but without intervention th
 |2 weeks|Creature's skin turns sickly green. Gains darkvision 60 ft.|
 |3 weeks|Creature's hair transforms into snakes. Gains the _snake hair_ ability.|
 |4 weeks|Creature gains the _petrifying gaze_ action.|
-|5 weeks|The cursed victim fully transforms into a [[[Medusa]]](http://localhost:5000/bestiary.html#[[medusa]]_mm), Alignment becomes lawful evil, and this character is now controlled by the GM. Only reversible with [wish](http://localhost:5000/spells.html#wish_phb) spell.|
+|5 weeks|The cursed victim fully transforms into a [[Medugsgsedg]]](http://localhost:5000/bestiary.html#[[medusa]]_mm), Alignment becomes lawful evil, and this character is now controlled by the GM. Only reversible with [wish](http://localhost:5000/spells.html#wish_phb) spell.|
 
 Curing the Curse. Someone must cast the [greater restoration](http://localhost:5000/spells.html#greater%20restoration_phb) spell on the creature once per day for three days, and each time the spell is cast, the transformation is reversed a little. The spells have no effect once the subject has been completely transformed, and if a casting is missed the process must restart.
 
