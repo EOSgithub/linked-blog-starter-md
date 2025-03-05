@@ -1,7 +1,6 @@
 Medusa are humanoids that have made a bargain with dark powers to achieve beauty, eternal youth, great wealth, or some other mortal desire. As a consequence, their hair has been replaced with snakes, and their eyes have the power to petrify the unwary. They are despised and shunned by all other mortal races, and they must be careful to hide their identity when Traveling in the civilized places of the world.
 
 ## Legend of the Medusa
-
 Thousands of years ago, a woman came to [[Thylea]] seeking her fortune. When the creatures of that land asked her from whence she came, she would only say, "I am from the land of the Gorgons."In those days, [[Thylea]] was rich in natural beauty but poor in wealth. But the woman would not be deterred.
 
 First, the woman searched the steppes and mountains, and she came to the centaurs, asking, "Where may I find gems and jewels to rival the stars?" The centaurs offered her a shank of lamb and said, "Why seek gems and jewels when the stars are free to everyone?" Disappointed, she cast away the food and left the centaurs to their star-gazing.
@@ -13,9 +12,7 @@ Now, the woman wandered high and low, seeking her fortune to no avail, and final
 The woman's eyes suddenly gleamed like golden coins, and wherever she turned her gaze, creatures were turned to stone. "So that none may rob you of your treasure," said the Fates. The woman's hair grew long and sinuous, slithering and scaled like snakes. "So that always you will have the company of hearts as cold as your own." And finally, the woman's hands were filled with gems and coins that were beautiful beyond the reckoning of stars or songs. Her name was Medusa, and she was the namesake of her curse, which afflicts many such mortals with more ambition than sense.
 
 ## Cursed by Dark Powers
-
 Medusae have typically made bargains with some sort of fiend or fiendish power, but in some cases, they are oathbreakers who have displeased the gods or the Fates. Either way, they have been afflicted with the [curse of the medusa](http://localhost:5000/rewards.html#curse%20of%20the%20medusa_arcanumworldsodysseyofthedragonlords) as punishment, and recovery from the curse is not possible without the use of powerful magic. In some cases, even the [greater restoration](http://localhost:5000/spells.html#greater%20restoration_phb) spell may not be enough to break the curse. But in many other cases, the medusa simply embraces the curse as part of her identity. Children born to medusae are also affected by the curse.
 
 ## Ophidian Schemers
-
 Medusae are known to spend much of their time plotting against those who rival them in wealth, power, or beauty. Some medusae name their snakes and speak to them as if they were speaking to cherished pets or loved ones. Others are ashamed of their curse and seek to break it. Medusae must train themselves to never gaze into a mirror or stare at their reflection, for in an ironic twist of fate, they are vulnerable to their own petrifying gaze.

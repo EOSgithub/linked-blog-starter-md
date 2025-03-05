@@ -53,7 +53,7 @@ The transformation can be stopped with divine magic, but without intervention th
 |2 weeks|Creature's skin turns sickly green. Gains darkvision 60 ft.|
 |3 weeks|Creature's hair transforms into snakes. Gains the _snake hair_ ability.|
 |4 weeks|Creature gains the _petrifying gaze_ action.|
-|5 weeks|The cursed victim fully transforms into a [[Medugsgsedg]]](http://localhost:5000/bestiary.html#[[medusa]]_mm), Alignment becomes lawful evil, and this character is now controlled by the GM. Only reversible with [wish](http://localhost:5000/spells.html#wish_phb) spell.|
+|5 weeks|The cursed victim fully transforms into a [[Medusa]], Alignment becomes lawful evil, and this character is now controlled by the GM. Only reversible with [wish](http://localhost:5000/spells.html#wish_phb) spell.|
 
 Curing the Curse. Someone must cast the [greater restoration](http://localhost:5000/spells.html#greater%20restoration_phb) spell on the creature once per day for three days, and each time the spell is cast, the transformation is reversed a little. The spells have no effect once the subject has been completely transformed, and if a casting is missed the process must restart.
 
