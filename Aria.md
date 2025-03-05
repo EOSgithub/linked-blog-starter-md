@@ -6,10 +6,9 @@
 - **Giocatore:** Matteo Delay
 
 ## Aspetto
-- **Età:** 
-- **Altezza:** 
-- **Caratteristiche:** 
-- **Descrizione Generale:** 
+- **Età:** 16
+- **Altezza:** 160cm
+- **Caratteristiche:** Capelli rossi, Giovane, Gamba prostetica
 
 ## Punteggi Abilitàs
 | Ability      | Score | Modifier | Saving Throw |
@@ -25,32 +24,22 @@
 - **Armor Class:** 
 - **Hit Points:** 
 - **Initiative Bonus:** 
-- **Spellcasting:** 
+- **Spellcasting:** +7 to hit
 - **Weapons:**
   - **Weapon 1:** (Attack Bonus, Damage)
   - **Weapon 2:** (Attack Bonus, Damage)
 
-## Skills & Proficiencies
-- **Skill Proficiencies:** 
-- **Tool Proficiencies:** 
-- **Languages:** 
+## Altre Statistiche
+- **Linguaggi:** 
+- **Visione**:
+- **Additional Abilities:** 
 
-## Features & Abilities
-- **Class Features:** 
-- **Racial Traits:** 
-- **Feats:** 
-- **Other Abilities:** 
-
-## Personality & Roleplaying
-- **Personality Traits:** 
-- **Ideals:** 
-- **Bonds:** 
-- **Flaws:** 
-- **Backstory:** 
+## Backstory
+Informazioni backstory.
 
 ## Relationships
 - **Allies & Friends:** 
 - **Rivals & Enemies:** 
 - **Notable NPCs:** 
 
-## Notes & Additional Information
+## Informazioni Aggiuntive
