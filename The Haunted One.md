@@ -42,15 +42,15 @@ Il Perduto incontra l'Oracolo, che lo indirizza verso Demetria nel Tempio Muschi
 
 ## Incontri con gli Spiriti
 
-Il Perduto avrà molteplici occasioni per interagire con gli spiriti inquieti di Thylea, scoprendo i segreti del passato:
+Il Perduto avrà molteplici occasioni per interagire con gli spiriti inquieti di [[Thylea]], scoprendo i segreti del passato:
 
 - **La Roccia di Estor:** *The cries of thousands of animals haunt this island. A feeling of unease sets in as the braying of animals turns into the shrieking of men, women, and children that were chained to the Rock. Blessing this site will cleanse it of the uneasy feeling that permeates it, but will also anger [[Sydon]].*
 
 - **La Forgia di Mithral:** *Near the body of the dead Cerberus, the Psychopomp receives a brief vision: a dwarf is being chased by something massive. The elderly smith knows he is too slow. The exit explodes and collapses, locking him inside with the beast. A loud growl starts behind him, then another, then another. Then darkness. Bringing the skulls of the dwarves that died in the Mithral Mines back to their kin in Estoria will allow them to rest in peace.*
 
-- **Il Tempio Muschioso:** *A profound sense of wrongness permeates the Mossy Temple. Upon entering the Ancient Glade, the Psychopomp comes to feel that a terrible crime against Thylea herself occurred here. Approaching the heartwood stump and the urn containing the ashes of Demetria’s sister grants a vision of Estor sacking the temple. Demetria and her sister cried out, attempting to surrender and offering peace, but instead Estor had Demetria’s sister bound to her heartwood while he chopped it down with an axe.*
+- **Il Tempio Muschioso:** *A profound sense of wrongness permeates the Mossy Temple. Upon entering the Ancient Glade, the Psychopomp comes to feel that a terrible crime against [[Thylea]] herself occurred here. Approaching the heartwood stump and the urn containing the ashes of Demetria’s sister grants a vision of Estor sacking the temple. Demetria and her sister cried out, attempting to surrender and offering peace, but instead Estor had Demetria’s sister bound to her heartwood while he chopped it down with an axe.*
 
-- **La Necropoli di Telamok:**  *Most of the dead here are at peace. The human and minotaur skeletons that roam the labyrinth are not. The only way for the minotaur clan’s restless dead to be at peace is if Graxis is slain, for he is the final living link that binds them to Telamok. After dealing with Graxis and interacting with Xander, the ancient Dragonlord’s soul can also be put to rest, knowing that a new group of heroes is there to carry on in his place.*
+- **La Necropoli di Telamok:**  *Most of the dead here are at peace. The human and [[minotaur]] skeletons that roam the labyrinth are not. The only way for the [[minotaur]] clan’s restless dead to be at peace is if Graxis is slain, for he is the final living link that binds them to Telamok. After dealing with Graxis and interacting with Xander, the ancient Dragonlord’s soul can also be put to rest, knowing that a new group of heroes is there to carry on in his place.*
 
 - **La Nave Fantasma Ultros:** *The crew of the Ultros can be put to rest either by slaying them in their undead forms, or by leading a mutiny against Estor. Of the thanes, Metron has a task tied to the Psychopomp. The only way for the tortured souls of Estor’s victims trapped within the box to find peace is if they are destroyed in their spectre forms.*
 
@@ -58,15 +58,15 @@ Il Perduto avrà molteplici occasioni per interagire con gli spiriti inquieti di
 
 - **L'Isola degli Esiliati:** *Two of the four dead men cling to unlife here as restless spirits, and can name the killer. The problem is they are both criminals themselves, and do not name the same person, as one lies in order to take vengeance on another exile. This effectively reduces the number of possible explanations from three to two.*
 
-- **L'Isola dello Scorpione:** *The grateful spirit of a centaur will be briefly visible to the Psychopomp after the slaying of any giant scorpion.*
+- **L'Isola dello Scorpione:** *The grateful spirit of a [[centaur]] will be briefly visible to the Psychopomp after the slaying of any giant scorpion.*
 
-- **L'Isola di Themis:** *If the party slays the medusa sisters and places Darien (or the Exile) on the throne, the spirit of Queen Thesilea VI, who will thank them for the good they’ve done for the Amazons and for Themis itself.*
+- **L'Isola di Themis:** *If the party slays the [[medusa]] sisters and places Darien (or the Exile) on the throne, the spirit of Queen Thesilea VI, who will thank them for the good they’ve done for the Amazons and for Themis itself.*
 
 - **L'Isola di Yonder:** *Carpeted with the bones of its former giant inhabitants, the Island of Yonder was once the capital of the gygan empire before it was razed in Estor Arkelander’s genocide. The island is teeming with restless spirits that can only be put to rest by vanquishing Estor himself. While on the island, the Psychopomp receives a vision, telling the story of Estor and the First War.*
 
 - **L'isola del Drago:** *A feeling of unease permeates the jungle, full of the skeletal remains of unburied elves, killed by Hexia for sport.*
 
-- **La Fauce di Typhone:** *The petrified remains of the victims of the euryale Medusa require burial.*
+- **La Fauce di Typhone:** *The petrified remains of the victims of the euryale [[Medusa]] require burial.*
 
 - **Il Mare degli Inferi:** *Spirits of dead allies, enemies, or other NPCs that have died in the campaign may appear before the Psychopomp as they remain in this realm, offering advice, requests, threats or curses, as appropriate*
 

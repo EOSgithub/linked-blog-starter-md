@@ -1,4 +1,4 @@
-Le quattro arie sono un gruppo di avventurieri locati nei pressi di Estoria che sta rapidamente guadagnado fama nelle terre di Thylea.
+Le quattro arie sono un gruppo di avventurieri locati nei pressi di Estoria che sta rapidamente guadagnado fama nelle terre di [[Thylea]].
 
 ## Imprese
 
