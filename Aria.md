@@ -1,7 +1,7 @@
 ## Informazioni Generali
 - **Razza:** Mezz'Elfa
 - **Classe**: Bardo, College del Glamour
-- **Cammino Epico:** The Haunted One
+- **Cammino Epico:** [[The Haunted One]]
 - **Allineamento:** Caotico Neutrale
 - **Giocatore:** Matteo Delay
 

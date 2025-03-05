@@ -1,7 +1,7 @@
 ## Informazioni Generali
 - **Razza:** Umano
 - **Classe**: Mago, Scuola di Abiurazione
-- **Cammino Epico:** The Curious One
+- **Cammino Epico:** [[The Curious One]]
 - **Allineamento:** Neutrale Buono
 - **Giocatore:** Luca Catelli
 

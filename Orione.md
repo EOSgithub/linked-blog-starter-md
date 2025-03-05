@@ -1,7 +1,7 @@
 ## Informazioni Generali
 - **Razza:** Umano
 - **Classe**: Guerriero, Oplita
-- **Cammino Epico:** The Demititan
+- **Cammino Epico:** [[The Demititan]]
 - **Allineamento:** Caotico Buono
 - **Giocatore:** Matteo IT
 

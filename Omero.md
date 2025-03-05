@@ -1,7 +1,7 @@
 ## Informazioni Generali
 - **Razza:** Umano
 - **Classe**: Furfante, Ladro
-- **Cammino Epico:** The Demigod
+- **Cammino Epico:** [[The Demigod]]
 - **Allineamento:** Caotico Buono
 - **Giocatore:** Lorenzo Ginelli
 
