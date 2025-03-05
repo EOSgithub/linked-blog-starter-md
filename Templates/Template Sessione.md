@@ -7,7 +7,7 @@
   
 **[[Orione]].** Ragazzo Guerriero Umano. [[The Demititan]]. Onore e Violenza. Membro delle [[Quattro Arie]]. Impulsivo. Guardia Estoriana. Odio per [[Sydon]]. Prono a Patti.
   
-**[[Omero]].** Ragazzo Ladro Satiro. [[The Demigod]]. Astuzia e Compassione. Membro delle [[Quattro Arie]]. Prono al furto. Patto contro i Titani. Solido codice morale. Attent ai dettagli.
+**[[Omero]].** Ragazzo Ladro [[Satyr]]. [[The Demigod]]. Astuzia e Compassione. Membro delle [[Quattro Arie]]. Prono al furto. Patto contro i Titani. Solido codice morale. Attent ai dettagli.
   
 ## Strong Start  
   

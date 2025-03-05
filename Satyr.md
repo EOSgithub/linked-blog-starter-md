@@ -11,10 +11,10 @@ They love music, wine, and dancing. They also enjoy an interest in carnal pleasu
 ## Music Lovers
 Satyrs love to listen to music. They will happily spend long stretches of time both playing and composing new music. They are known to travel great distances to hear new songs, instruments, and poetry.
 
-## Satyrs in Thylea
-Satyrs don't have the same strained relationship with the civilized races of Thylea that the centaurs do. Satyrs can be found in many towns and villages throughout Thylea, as well as the great city of Mytros. They are attracted to the abundance of experiences that civilization provides: the food, the wine, and most especially the music.
+## Satyrs in [[Thylea]]
+Satyrs don't have the same strained relationship with the civilized races of [[Thylea]] that the centaurs do. Satyrs can be found in many towns and villages throughout [[Thylea]], as well as the great city of Mytros. They are attracted to the abundance of experiences that civilization provides: the food, the wine, and most especially the music.
 
-The civilized races of Thylea are suspicious of satyrs, for there are many stories of satyrs seducing and corrupting both the old and the young alike.
+The civilized races of [[Thylea]] are suspicious of satyrs, for there are many stories of satyrs seducing and corrupting both the old and the young alike.
 
 ## Satyr Names
 Satyrs have names that they draw from legends and myths—and from the powers that rule over the Feywild.
