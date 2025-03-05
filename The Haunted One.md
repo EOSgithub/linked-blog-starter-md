@@ -62,7 +62,7 @@ Il Perduto avrà molteplici occasioni per interagire con gli spiriti inquieti di
 
 - **L'Isola di Themis:** *If the party slays the [[medusa]] sisters and places Darien (or the Exile) on the throne, the spirit of Queen Thesilea VI, who will thank them for the good they’ve done for the Amazons and for Themis itself.*
 
-- **L'Isola di Yonder:** *Carpeted with the bones of its former giant inhabitants, the Island of Yonder was once the capital of the gygan empire before it was razed in Estor Arkelander’s genocide. The island is teeming with restless spirits that can only be put to rest by vanquishing Estor himself. While on the island, the Psychopomp receives a vision, telling the story of Estor and the First War.*
+- **L'Isola di Yonder:** *Carpeted with the bones of its former giant inhabitants, the Island of Yonder was once the capital of the gygan empire before it was razed in Estor Arkelander’s genocide. The island is teeming with restless spirits that can only be put to rest by vanquishing Estor himself. While on the island, the Psychopomp receives a vision, telling the story of [[Estor and the First War]].*
 
 - **L'isola del Drago:** *A feeling of unease permeates the jungle, full of the skeletal remains of unburied elves, killed by Hexia for sport.*
 

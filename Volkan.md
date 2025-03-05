@@ -5,7 +5,7 @@ Volkan appears to be an unassuming, grey-bearded old dwarf clad in a blacksmith'
 ### Volkan's True Form
 Volkan originally came to [[Thylea]] as an ancient bronze dragon. In that form, he and Balmytria produced four bronze dragons in the Old World many centuries ago: [[Kyrah]], [[Pythor]], [[Vallus]], and Narsus. Together, the family of dragons became the mounts of the Dragonlords. Volkan had the honor to bond with Rizon Phobas.
 
-Volkan cannot transform back into his dragon form until the Oath of Peace ends.
+Volkan cannot transform back into his dragon form until [[The Oath of Peace]] ends.
 
 ### Roleplaying Volkan
 Crafty. Volkan is known for devising ingenious strategies. He thinks of the world as a puzzle to be solved, and he often works out problems in his head for days or weeks at a time. He may be gruff and silent for long stretches, only to suddenly appear with some miracle device or solution. He delights in creation, rather than destruction, and he is always intrigued by an intricate new device or stratagem.

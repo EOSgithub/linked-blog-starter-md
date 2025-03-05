@@ -6,7 +6,7 @@ Pythor appears to be a tall, copper-haired man carrying a mithral axe. For centu
 
 ## Pythor's True Form
 
-Before coming to [[Thylea]], Pythor was a young bronze dragon. He served the Dragonlord Adonis Neurdagon before the events of the First War. Pythor loved Adonis intently, and he spent decades mourning his death. Pythor cannot transform back into his dragon form until the Oath of Peace ends.
+Before coming to [[Thylea]], Pythor was a young bronze dragon. He served the Dragonlord Adonis Neurdagon before the events of the First War. Pythor loved Adonis intently, and he spent decades mourning his death. Pythor cannot transform back into his dragon form until [[The Oath of Peace]] ends.
 
 ## Husband of Hexia
 

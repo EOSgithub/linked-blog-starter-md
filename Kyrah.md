@@ -8,7 +8,7 @@ Kyrah wishes above all else to write a great epic poem, something that would mak
 
 ## Kyrah's True Form
 
-Kyrah came to [[Thylea]] as a young bronze dragon. She served as the mount for the infamous Dragonlord Estor Arkelander. She is still weighed down by shame for the atrocities that Estor committed while the two of them were oathsworn. Kyrah cannot transform back into her dragon form until the Oath of Peace ends.
+Kyrah came to [[Thylea]] as a young bronze dragon. She served as the mount for the infamous Dragonlord Estor Arkelander. She is still weighed down by shame for the atrocities that Estor committed while the two of them were oathsworn. Kyrah cannot transform back into her dragon form until [[The Oath of Peace]] ends.
 
 ## Roleplaying Kyrah
 
