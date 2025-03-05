@@ -14,3 +14,8 @@ Epithets of Sydon. The Lord of Storms. The Lord of Oceans. The Lord of All. The
 **Ambitious.** Sydon seeks to bring all of Thylea under his direct control by forging a new pantheon of loyal gods and lesser heroes. He envisions himself as the architect of a future Golden Age, and he is eager to share his ambitious plans with mortals, and even more eager to be praised and worshipped for this grand vision.
 
 **Tempestuous.** Sydon suffers from mood swings. He may at first seem a gracious host, lauding the virtues of his guests, only to fall into a blind rage without warning and at the merest slight. In spite of this, his anger can vanish suddenly, replaced by a child-like fear of his father, Kentimane.
+
+## Statistiche
+```statblock  
+monster: Sydon
+```
