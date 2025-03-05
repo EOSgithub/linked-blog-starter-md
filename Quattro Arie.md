@@ -19,3 +19,9 @@ Le quattro arie sono un gruppo di avventurieri locati nei pressi di Estoria che 
 |      **4**      |         Quando visitate insediamenti più piccoli, gli abitanti vi accolgono con cibo, vino e doni. Tirate una volta sulla tabella dei gingilli per determinare il dono ricevuto.         |
 |      **5**      | Nei piccoli insediamenti della campagna si tengono festival in vostro onore. Avete alloggio gratuito nei piccoli insediamenti e vantaggio sulle prove di Persuasione durante i festival. |
 ## Dicerie
+- **Hanno convinto un potente Oracolo a restare in città.** O lo hanno minacciato? Chi lo sa.
+- **Hanno salvato la principessa di Estoria.** Ma uno di loro continua a flirtare con lei.
+- **[[Aria]] dice di essere un’artista, ma porta sempre guai.** Coincidenza?
+- **[[Kosmo]] può fermare un incantesimo con uno sguardo.** Ma non può fermare i suoi compagni dal mettersi nei guai.
+- **[[Omero]] ruba ai ricchi, ma solo se lo fanno arrabbiare.** O se hanno una bella meridiana.
+- **[[Orione]] ha combattuto un Merrow a mani nude.** Il Merrow ha chiesto pietà.
