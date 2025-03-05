@@ -5,9 +5,9 @@
   
 **[[Kosmo]].** (Luca) Ragazzo Mago Umano. The Curious One. Logica e Cautela. Membro delle Quattro Arie. Libreria Pergamene di Thylea. Isolato. Scorcio oltre il Velo. Interesse di Oriana.
   
-**Orione.** Ragazzo Guerriero Umano. The Demititan. Onore e Violenza. Membro delle Quattro Arie. Impulsivo. Guardia Estoriana. Odio per Sydon. Prono a Patti.
+**[[Orione]].** Ragazzo Guerriero Umano. The Demititan. Onore e Violenza. Membro delle Quattro Arie. Impulsivo. Guardia Estoriana. Odio per Sydon. Prono a Patti.
   
-**Omero.** Ragazzo Ladro Satiro. The Demigod. Astuzia e Compassione. Membro delle Quattro Arie. Prono al furto. Patto contro i Titani. Solido codice morale. Attent ai dettagli.
+**[[Omero]].** Ragazzo Ladro Satiro. The Demigod. Astuzia e Compassione. Membro delle Quattro Arie. Prono al furto. Patto contro i Titani. Solido codice morale. Attent ai dettagli.
   
 ## Strong Start  
   

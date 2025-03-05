@@ -1,5 +1,5 @@
 ## Informazioni Generali
-- **Razza:** Umana
+- **Razza:** Mezz'Elfa
 - **Classe**: Bardo, College del Glamour
 - **Cammino Epico:** The Haunted One
 - **Allineamento:** Caotico Neutrale
