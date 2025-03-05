@@ -1,19 +1,19 @@
 ## Informazioni Generali
-- **Razza:** Umana
-- **Classe**: Bardo, College del Glamour
-- **Cammino Epico:** The Haunted One
-- **Allineamento:** Caotico Neutrale
-- **Giocatore:** Matteo Delay
+- **Razza:** Umano
+- **Classe**: Guerriero, Oplita
+- **Cammino Epico:** The Demititan
+- **Allineamento:** Caotico Buono
+- **Giocatore:** Matteo IT
 
 ## Aspetto
-- **Età:** 16
-- **Altezza:** 160cm
-- **Caratteristiche:** Capelli rossi, Giovane, Gamba prostetica
+- **Età:** 24
+- **Altezza:** 185cm
+- **Caratteristiche:** Bell'aspetto, In forma
 
 ## Punteggi Abilitàs
 | Ability      | Score | Modifier | Saving Throw |
-| ------------ | ----: | -------: | ------------ |
-| Strength     |       |          |              |
+| ------------ | :---: | :------: | :----------: |
+| Strength     |  16   |    +3    |              |
 | Dexterity    |       |          |              |
 | Constitution |       |          |              |
 | Intelligence |       |          |              |
@@ -24,16 +24,16 @@
 - **Armor Class:** 
 - **Hit Points:** 
 - **Initiative Bonus:** 
-- **Spellcasting:** +7 to hit /// DC 15
+- **Spellcasting:** -
 - **Weapons:**
-  - **Weapon 1:** (Attack Bonus, Damage)
+  - **Trailblazer Tail (Longsword):** +7 to hit, 1d8+4 (o 1d10+4)
   - **Weapon 2:** (Attack Bonus, Damage)
 
 ## Altre Statistiche
 - **Linguaggi:** 
 - **Visione**:
-- **Abilità Custom:** 
-- **Malus**: Identità Corrotta (Pazzia Indeterminata)
+- **Abilità Custom:** Scorcio oltre il Velo
+- **Malus**: 
 
 ## Backstory
 Informazioni backstory.

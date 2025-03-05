@@ -1,14 +1,14 @@
 ## Informazioni Generali
-- **Razza:** Umana
-- **Classe**: Bardo, College del Glamour
-- **Cammino Epico:** The Haunted One
-- **Allineamento:** Caotico Neutrale
-- **Giocatore:** Matteo Delay
+- **Razza:** Umano
+- **Classe**: Mago, Scuola di Abiurazione
+- **Cammino Epico:** The Curious One
+- **Allineamento:** Neutrale Buono
+- **Giocatore:** Luca Catelli
 
 ## Aspetto
-- **Età:** 16
-- **Altezza:** 160cm
-- **Caratteristiche:** Capelli rossi, Giovane, Gamba prostetica
+- **Età:** 20
+- **Altezza:** 175cm
+- **Caratteristiche:** Capelli verdi, Aspetto comune
 
 ## Punteggi Abilitàs
 | Ability      | Score | Modifier | Saving Throw |
@@ -32,8 +32,8 @@
 ## Altre Statistiche
 - **Linguaggi:** 
 - **Visione**:
-- **Abilità Custom:** 
-- **Malus**: Identità Corrotta (Pazzia Indeterminata)
+- **Abilità Custom:** Scorcio oltre il Velo
+- **Malus**: 
 
 ## Backstory
 Informazioni backstory.

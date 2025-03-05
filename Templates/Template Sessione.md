@@ -1,9 +1,9 @@
 
 ## Personaggi  
   
-**Aria.** (Delay). Ragazzina Bardo Mezz'elfa. The Haunted One. Musica e Irriverenza. Membro delle Quattro Arie. Gamba prostetica. Interesse di Lutheria.
+**[[Aria]].** (Delay). Ragazzina Bardo Mezz'elfa. The Haunted One. Musica e Irriverenza. Membro delle Quattro Arie. Gamba prostetica. Interesse di Lutheria.
   
-**Kosmo.** (Luca) Ragazzo Mago Umano. The Curious One. Logica e Cautela. Membro delle Quattro Arie. Libreria Pergamene di Thylea. Isolato. Scorcio oltre il Velo. Interesse di Oriana.
+**[[Kosmo]].** (Luca) Ragazzo Mago Umano. The Curious One. Logica e Cautela. Membro delle Quattro Arie. Libreria Pergamene di Thylea. Isolato. Scorcio oltre il Velo. Interesse di Oriana.
   
 **Orione.** Ragazzo Guerriero Umano. The Demititan. Onore e Violenza. Membro delle Quattro Arie. Impulsivo. Guardia Estoriana. Odio per Sydon. Prono a Patti.
   
