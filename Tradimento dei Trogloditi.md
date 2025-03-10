@@ -14,15 +14,16 @@ Description of your strong start.
   
 ### Scena 1: Il Monologo del Re
 Il Troglodyte King compie un monologo esponendo le sue motivazioni:
-> **Permettetemi di porgervi il mio più sincero ringraziamento. Per lo zelo con il quale avete purgato le mie caverne da quelle bestie infernali! Con quale abbandono vi siete affidati a un mostro come me!**
+
+> **Permettetemi di porgervi i miei più sinceri ringraziamenti. Lo zelo con il quale avete purgato le mie caverne da quelle bestie infernali! Con quale abbandono vi siete affidati a un mostro come me!**
 > 
-> **"E quanto è stato generoso il tempo che mi avete concesso! Un’intera notte per lasciarmi riflettere, per lasciarmi… preparare. Vi rendete conto di quanto sia raro ricevere un simile dono? I miei scaltri esploratori hanno seguito le vostre orme, hanno sussurrato ai miei orecchi il segreto del vostro rifugio, hanno intinto la mia mente nei vostri piani. E, come ciliegina sulla torta, la mia Signora Lutheria ha avuto il piacere di sapere del vostro intento. Oh, che gioia nei suoi occhi immortali! Si è affrettata a prepararvi un dono, un piccolo… diversivo. Qualcosa per rendere la vostra impresa meno… monotona."**
+> **"E quanto è stato generoso il tempo che mi avete concesso! Un’intera notte per lasciarmi riflettere, per lasciarmi… preparare. Vi rendete conto di quanto sia raro ricevere un simile dono? I miei esploratori hanno seguito le vostre orme, hanno sussurrato ai miei orecchi il segreto del vostro rifugio, hanno intinto la mia mente nei vostri piani. E, come ciliegina sulla torta, la mia Signora Lutheria ha avuto il piacere di sapere del vostro intento. Oh, che gioia nei suoi occhi immortali! Si è affrettata a prepararvi un dono, un piccolo… diversivo. Qualcosa per rendere la vostra impresa meno… monotona."**
 > 
-> **"Eppure, eppure! Contro ogni mia aspettativa, siete sopravvissuti. Ah, quale delizia inattesa! Lo confesso, sono genuinamente sorpreso. In verità, c’è in me quasi vi ammiro. Quasi.”**
+> **"Eppure, eppure! Contro ogni mia aspettativa, siete sopravvissuti. Ah, quale delizia inattesa! Lo confesso, sono genuinamente sorpreso. In verità, c’è in me un barlume di ammirazione. Quasi.”**
 > 
 > **"Ora, voi potreste chiedervi: se tanto bramavo questa forgia, perché non ho agito prima?"**
 > 
-> **"Un ultimo ringraziamento è dovuto. Voi, sì, voi avete convinto l’anima della forgia, la dolce Elira, a risvegliare queste fiamme dormienti. E nel farlo, avete chiesto tanto, troppo, da lei. Avete prosciugato ciò che restava delle sue forze. Com’è il detto tra voi mortali? Due cockatrici con una fava?"**
+> **"Voi, beh, voi avete convinto l’anima della forgia, la dolce Elira, a risvegliare queste fiamme dormienti. E nel farlo, avete chiesto tanto, troppo, da lei. Avete prosciugato ciò che restava delle sue forze. Com’è il detto tra voi mortali? Due cockatrici con una fava?"**
 > 
 > **"E così, il sipario cala. Resta un solo atto da compiere."**
 > 
@@ -30,17 +31,29 @@ Il Troglodyte King compie un monologo esponendo le sue motivazioni:
 
 Ora, qui ci sono due strade che la storia può prendere:
 - Durante il monologo i personaggi interrompono, insultano, attaccano o provano a scappare dai trogoloditi. In questo caso la battaglia è inevitabile, si lancia iniziativa e si va direttamente alla Scena 3.
-- Se i personaggi ascoltano in monologo o cercano di contrattare il Troglodyte King li riconsidera, e deciderà di proporre una via alternativa al loro sterminio, in effetti sarebbero più utili da vivi che come cibo per i suoi coetanei. Propone di giocare al gioco sacro di Thylea, "The Game of Twenty Squares" puntando tutto quello che sono e hanno contro la loro incolumità reciproca da parte del regno dei Trogloditi e utilizzo personale delle forgie, in questo caso si va alla scena 2.
+- Se i personaggi ascoltano in monologo o cercano di contrattare il Troglodyte King li riconsidera, e deciderà di proporre una via alternativa al loro sterminio, in effetti sarebbero più utili da vivi che come cibo per i suoi coetanei. Propone di giocare al gioco sacro di Thylea, "The Game of Twenty Squares" puntando tutto quello che gli avventurieri sono e hanno contro la loro incolumità reciproca da parte del regno dei Trogloditi e utilizzo personale delle forgie, in questo caso si va alla scena 2.
 
 ### Scena 2: Il Sacro gioco delle venti caselle
-The Troglodyte King says "Questo è quello che avrei detto se fossi come i miei bruti consanguinei, ma visot che sembrate persone ragionevoli, non ho intenzione di ricorrere alla violenza... per adesso."
+Se gli avventurieri non interrompono, se ascoltano e aspettano, forse nella vana speranza di trovare un’opportunità o semplicemente per il brivido del gioco, il Re li osserva con occhi brillanti di perversa soddisfazione.
+
+> **"Oh? Silenzio? Non un insulto, non una spada levata? Ah, forse c’è ancora speranza per il vostro genere. Vi confesso, mi ero preparato a una carneficina, alla gioia dei miei fratelli che avrebbero squarciato la vostra carne con bramosia… Ma ora, ora vedo che forse siete di un’altra stoffa. E questo, miei cari, mi intriga."**
+> 
+> Si siede con un gesto fluido e fa cenno ai suoi sottoposti di depositare un oggetto tra lui e voi: una tavola intarsiata, antica, con venti caselle incise in filigrana d’oro.
+> 
+> **"Conoscete il Gioco Sacro di Thylea? 'Il Gioco delle 20 Caselle', il gioco del destino. E poiché il destino è ciò che ora pesa su di voi, propongo una scommessa."**
+> 
+> **"Giocheremo, e metteremo in palio tutto ciò che siete e avete contro il vostro diritto di vivere, la vostra incolumità dal mio regno e… l’utilizzo personale delle forge che avete così generosamente risvegliato. Vincerete? Sarete padroni del vostro destino. Perdete? Beh… allora la mia Signora avrà presto nuovi giocattoli da tormentare."**
+> 
+> Lentamente, posa la mano artigliata sul bordo della tavola e inclina il capo.
+> 
+> **"Allora, cosa dite, eroi? La mente sopra la spada… o l’acciaio sopra il pensiero?"**
 
 ### Scena 3: Il Conflitto
 Se uno degli avventurieri osa interrompere il Re—con una provocazione, un insulto o, peggio ancora, un attacco—l'atmosfera si spezza come un vetro lanciato contro la roccia.
 
-Il Troglodyte King alza un sopracciglio scaglioso, poi scuote la testa con un sospiro teatrale.
-
-**"Oh, quale prevedibilità, quale miseria d’ingegno. Ma che ciò sia! Se per voi il martello è più dolce della parola, allora danzate, danzate con le mie zanne e annaffiate la forgia del vostro icore!"**
+> Il Troglodyte King alza un sopracciglio, poi scuote la testa con un sospiro teatrale.
+> 
+> **"Oh, quale prevedibilità, quale miseria d’ingegno. Ma che ciò sia! Se per voi il martello è più dolce della parola, allora danzate, danzate con le mie zanne e impregnate la forgia del vostro icore!"**
 
 Si lancia iniziativa.
 
