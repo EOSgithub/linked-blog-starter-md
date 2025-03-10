@@ -1,12 +1,11 @@
-### **La Rivelazione di Lutheria – Il Brindisi ai Perdenti**
 
-L’oscurità cala come un sipario pesante, silenziosa e assoluta. Nessuna stella, nessun suono. Poi, un tintinnio. Il delicato suono del vetro che sfiora il vetro. E una risata.
+Il sonno cala come un sipario, silenzioso e assoluto. Nessuna stella, nessun suono, nulla, Il Nulla. Poi, un tintinnio. Il delicato suono del vetro che sfiora il vetro. E una risata.
 
 Non è un riso maligno, non è scherno. È il riso di chi ha appena assistito a qualcosa di _inaspettato_.
 
 Poi… una voce.
 
-**"Oh! Ma che meraviglia! Che sorpresa! Avete _vinto!_"**
+**"Oh… _Oh!_ Ma che delizia!"**
 
 Una luce tenue illumina lo spazio intorno a voi. Siete seduti attorno a un lungo tavolo da banchetto, apparecchiato con coppe di cristallo e piatti d’oro. Non c’è cibo, non c’è vino. Solo candele basse che tremolano nel buio infinito.
 
@@ -69,11 +68,7 @@ E vi svegliate, con il suo brindisi ancora impresso nella mente.
 
 ### **La Rivelazione di Lutheria – Il Brindisi ai Folli**
 
-L'oscurità si stende su di voi come un sudario di velluto. Nessun suono, nessuna luce. Poi, un tintinnio. Un calice che urta contro un altro. E una risata.
 
-Non è la risata di un mostro. Non è la risata di un dio. È il riso di chi ha appena scoperto un nuovo giocattolo.
-
-Poi, una voce.
 
 **"Oh… _Oh!_ Ma che delizia!"**
 
