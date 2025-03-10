@@ -15,7 +15,7 @@ Description of your strong start.
 ### Scena 1: Il Monologo del Re
 Il Troglodyte King compie un monologo esponendo le sue motivazioni:
 
-> **Permettetemi di porgervi i miei più sinceri ringraziamenti. Lo zelo con il quale avete purgato le mie caverne da quelle bestie infernali! Con quale abbandono vi siete affidati a un mostro come me!**
+> **Permettetemi di porgervi i miei più sinceri ringraziamenti. Per lo zelo con il quale avete purgato le mie caverne e l'abbandono con cui vi siete affidati a un mostro come me!**
 > 
 > **"E quanto è stato generoso il tempo che mi avete concesso! Un’intera notte per lasciarmi riflettere, per lasciarmi… preparare. Vi rendete conto di quanto sia raro ricevere un simile dono? I miei esploratori hanno seguito le vostre orme, hanno sussurrato ai miei orecchi il segreto del vostro rifugio, hanno intinto la mia mente nei vostri piani. E, come ciliegina sulla torta, la mia Signora Lutheria ha avuto il piacere di sapere del vostro intento. Oh, che gioia nei suoi occhi immortali! Si è affrettata a prepararvi un dono, un piccolo… diversivo. Qualcosa per rendere la vostra impresa meno… monotona."**
 > 
