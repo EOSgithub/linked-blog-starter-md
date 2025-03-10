@@ -1,15 +1,18 @@
 
-Il sonno cala come un sipario, silenzioso e assoluto. Nessuna stella, nessun suono, nulla, Il Nulla. Poi, un tintinnio. Il delicato suono del vetro che sfiora il vetro. E una risata.
+Il sonno cala come un sipario, silenzioso e assoluto. Nessuna stella, nessun suono, nulla, Il Nulla. Poi, un tintinnio. Il delicato suono di vetro che sfiora vetro. 
 
-Non è un riso maligno, non è scherno. È il riso di chi ha appena assistito a qualcosa di _inaspettato_.
-
-Poi… una voce.
+Una risata.
+Non maligna, non di scherno. Il riso di chi ha appena assistito a qualcosa di _inaspettato_.
 
 **"Oh… _Oh!_ Ma che delizia!"**
 
-Una luce tenue illumina lo spazio intorno a voi. Siete seduti attorno a un lungo tavolo da banchetto, apparecchiato con coppe di cristallo e piatti d’oro. Non c’è cibo, non c’è vino. Solo candele basse che tremolano nel buio infinito.
+Una luce tenue illumina lo spazio intorno a voi. Siete seduti ad un lungo tavolo da banchetto, apparecchiato con coppe di cristallo e piatti d’oro. Non c’è cibo, non c’è vino. Solo candele basse che tremano nel buio.
 
-Dall’altro lato del tavolo, sdraiata su un trono d’ossa e fiori marci, [[Lutheria]] vi osserva con un sorriso compiaciuto. Indossa un abito di seta nera che sembra dissolversi nel nulla attorno a lei. Nella mano destra, un calice ricolmo di vino scuro come il sangue.
+Dall’altro lato del tavolo, sdraiata su un trono di fiori secchi e costole spezzate, _Lei_. 
+
+[[Lutheria]].
+
+Indossa un abito di seta nera che sembra dissolversi nel nulla attorno a lei. Nella mano destra, un calice ricolmo di vino scuro come il sangue.
 
 **"Davvero, non posso che applaudire. Nessuno pensava che sareste arrivati fino a qui. Io per prima!"**
 
