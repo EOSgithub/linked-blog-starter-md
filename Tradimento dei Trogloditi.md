@@ -107,6 +107,7 @@ Si lancia iniziativa.
 
 
 ### Scena 4: Fine della prima Fatica
-
-Quando i personaggi andranno a dormire questa notte saranno visitati da Lutheria nell'evento:
-"Sogno di Lutheria 1".
+- Elira si dirige verso Estoria!
+- La forgia perduta è ora disponibile a creare oggetti magici!
+- I personaggi salgono al livello 6!
+- Quando i personaggi andranno a dormire questa notte saranno visitati da [[Lutheria]] nell'evento: "[[Sogno di Lutheria 1]]".
