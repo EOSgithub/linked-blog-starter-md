@@ -12,4 +12,12 @@ Two players are required to play the game. They must agree to their wager before
 The game is resolved by making a series of seven opposed skill check, which represent the various strategies that can be used to win the game. Each opposed skill check to determines the outcome of a race between two game pieces. The winner of the game is the player who wins at least four rounds, which means that it is possible to win in just four rounds.
 
 ### The Seven Rounds
-The seven rounds proceed as a series of opposed skill checks. The skill checks are made in this order: Performance, Insight, History, Deception, Intimidation, Persuasion, Perception. Tied skill checks must be repeated until one player prevails.
+The seven rounds proceed as a series of opposed skill checks. The skill checks are made in this order: 
+- Performance (Cha)
+- Insight (Wis)
+- History (Int)
+- Deception (Cha)
+- Perception (Wis)
+- Investigation (Int)
+- Luck ( - )
+Tied skill checks must be repeated until one player prevails.

@@ -67,7 +67,7 @@ Se uno degli avventurieri osa interrompere il Re—con una provocazione, un insu
 
 Si lancia iniziativa.
 
-### Scena 3a: Vittoria nel Gioco delle Venti Caselle
+### Scena 3a: Fine del Gioco delle Venti Caselle
 > Il campo di battaglia è diverso dal solito, è silenzioso. Sul tabellone i pezzi sono stati mossi, le strategie si sono confrontate, e alla fine, un ultima, magistrale mossa ha sigillato il destino del Re Troglodita.
 > 
 > Un lungo silenzio avvolge la forgia. Il Re rimane immobile, gli occhi fissi sulla scacchiera, le dita artigliate che stringono il mento in un gesto contemplativo. Poi, una risata lenta e roca lo scuote.
@@ -88,7 +88,7 @@ Si lancia iniziativa.
 > 
 > La forgia è  finalmente libera.
 
-### Scena 3b: Vittoria nel Combattimento
+### Scena 3b: Fine del Combattimento
 > La battaglia infuria con ferocia primordiale. Il clangore delle armi, il sibilo degli incantesimi e le urla dei trogloditi si fondono in una cacofonia di pura violenza. Ma alla fine, il sangue rettiliano cola sulle pietre annerite della forgia, e l’ultimo dei servitori del Re cade privo di vita.
 > 
 > Il Troglodyte King, ferito e ansimante, si trascina indietro, lo sguardo febbrile che guizza tra i cadaveri dei suoi sudditi e gli avventurieri vittoriosi. Sputa un grumo di sangue nero e ride, una risata gorgogliante, distorta dal dolore.
@@ -105,8 +105,7 @@ Si lancia iniziativa.
 > 
 > La forgia è finalmente libera.
 
-
-### Scena 4: Fine della prima Fatica
+### Scena 4: Il Calore della Vittoria
 - Elira si dirige verso Estoria!
 - La forgia perduta è ora disponibile a creare oggetti magici!
 - I personaggi salgono al livello 6!
