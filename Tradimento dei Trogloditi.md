@@ -1,11 +1,16 @@
 ## Personaggi  
-**[[Aria]].** (Delay). Ragazzina Bardo Mezz'elfa. [[The Haunted One]]. Musica e Irriverenza. Membro delle [[Quattro Arie]]. Gamba prostetica. Interesse di [[Lutheria]].
+**[[Aria]].** (Delay). Ragazzina Bardo Mezz'elfa. [[The Haunted One]]. Musica e Irriverenza. Membro delle [[Quattro Arie]]. Gamba prostetica. [[Seme della Follia]].
   
-**[[Kosmo]].** (Luca) Ragazzo Mago Umano. [[The Curious One]]. Logica e Cautela. Membro delle [[Quattro Arie]]. Libreria "Pergamene di [[Thylea]]". Isolato. Scorcio oltre il Velo. Interesse di Oriana.
+**[[Kosmo]].** (Luca) Ragazzo Mago Umano. [[The Curious One]]. Logica e Cautela. Membro delle [[Quattro Arie]]. Libreria "Pergamene di [[Thylea]]". Isolato. Scorcio oltre il Velo. Interesse di [[Planeswalker Oriana]].
   
 **[[Orione]].** Ragazzo Guerriero Umano. [[The Demititan]]. Onore e Violenza. Membro delle [[Quattro Arie]]. Impulsivo. Guardia mandata da Mytros. Odio per [[Sydon]]. Prono a Patti.
   
 **[[Omero]].** Ragazzo Ladro [[Satyr]]. [[The Demigod]]. Astuzia e Compassione. Membro delle [[Quattro Arie]]. Prono al furto. Patto contro i Titani. Solido codice morale. Attento ai dettagli.
+
+## Overlook della Sessione
+Le [[Quattro Arie]] si trovano in una situazione difficile: dopo aver sconfitto il Cerbero evocato da [[Lutheria]], il Re dei Trogloditi della [[Mythrall Forge]] li ha traditi.
+Il party dovrà decidere se affrontare quest'ultima sfida con l'intelletto o con le armi, per poi mettere finalmente il punto a questo capitolo della loro storia.
+Dopo aver ricevuto le ricompense che si sono meritati i loro sogni saranno invasi da [[Lutheria]] in persona, e avranno modo di conoscere il titano dei Sogni, della Morte e della Follia.
   
 ## Strong Start  
 Description of your strong start.  
