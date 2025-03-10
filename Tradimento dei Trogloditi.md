@@ -104,3 +104,9 @@ Si lancia iniziativa.
 > Il silenzio cala sulla forgia. Solo il crepitio delle fiamme argentee rompe la tensione.
 > 
 > La forgia è finalmente libera.
+
+
+### Scena 4: Fine della prima Fatica
+
+Quando i personaggi andranno a dormire questa notte saranno visitati da Lutheria nell'evento:
+"Sogno di Lutheria 1".
