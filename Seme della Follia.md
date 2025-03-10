@@ -1,4 +1,4 @@
-Un seme della follia è un fragmento della psiche di [[Lutheria]] che è stato scheggiato durante un confronto tra lei e una qualsiasi entità che ha provato ad invadere il mondo di [[Thylea]] dopo la morte del titano primordiale.
+Un seme della follia è un fragmento della psiche di [[Lutheria]] che è stato scheggiato durante un confronto tra lei e una qualsiasi entità che ha provato ad invadere il mondo di [[Thylea]] dopo la morte del titano primordiale Thyleah.
 
 Una volta che un personaggio ottiene un seme della follia il DM può attivarlo in un momento narrativamente adatto. Una volta fatto il seme della follia è consumato.
 
