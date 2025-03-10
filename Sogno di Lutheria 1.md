@@ -10,7 +10,7 @@ Poi… una voce.
 
 Una luce tenue illumina lo spazio intorno a voi. Siete seduti attorno a un lungo tavolo da banchetto, apparecchiato con coppe di cristallo e piatti d’oro. Non c’è cibo, non c’è vino. Solo candele basse che tremolano nel buio infinito.
 
-Dall’altro lato del tavolo, sdraiata su un trono d’ossa e fiori marci, Lutheria vi osserva con un sorriso compiaciuto. Indossa un abito di seta nera che sembra dissolversi nel nulla attorno a lei. Nella mano destra, un calice ricolmo di vino scuro come il sangue.
+Dall’altro lato del tavolo, sdraiata su un trono d’ossa e fiori marci, [[Lutheria]] vi osserva con un sorriso compiaciuto. Indossa un abito di seta nera che sembra dissolversi nel nulla attorno a lei. Nella mano destra, un calice ricolmo di vino scuro come il sangue.
 
 **"Davvero, non posso che applaudire. Nessuno pensava che sareste arrivati fino a qui. Io per prima!"**
 
@@ -32,7 +32,7 @@ Alza gli occhi, brillano di un divertimento genuino.
 
 Inclina il calice e lascia colare una goccia di vino sul tavolo. Il liquido si espande, formando la sagoma di uomini armati, fieri, gloriosi. Ma con il passare dei secondi, la figura si scioglie, lasciando solo una macchia scura.
 
-Lutheria ride, sincera.
+[[Lutheria]] ride, sincera.
 
 **"Ma loro sono morti."**
 
@@ -79,7 +79,7 @@ Poi, una voce.
 
 Un lampo di luce fioca rivela il mondo intorno a voi. Siete seduti a un lungo tavolo da banchetto, ma le posate sono fatte di ossa, i piatti colmi di cibo che cambia forma ogni volta che distogliete lo sguardo. Il vino nei calici si scurisce, poi diventa limpido, poi sparisce, poi trabocca. E dall’altro capo del tavolo, sdraiata su un trono di fiori secchi e costole spezzate, _Lei_.
 
-Lutheria.
+[[Lutheria]].
 
 Avvolta in una veste nera che sembra sgretolarsi e ricostruirsi con ogni suo movimento, vi osserva con un sorriso compiaciuto. Le sue dita accarezzano il calice come se fosse un animale domestico.
 
@@ -89,7 +89,7 @@ Si porta una mano alla bocca, come per trattenere una risata troppo grande per e
 
 **"Oh, ma voi non siete i veri eroi, no, no, no. Quelli erano alti, belli, forti… destinati. Sapete cosa significa _destino_, vero? Quel filo invisibile che vi tira come marionette? Tira, tira, tira, fino a quando—_snap!_"**
 
-Fa scattare le dita. Qualcosa si rompe nell'aria.
+Fa scattare le dita. Qualcosa si rompe nell'[[Aria]].
 
 **"Loro hanno tirato troppo. E ora non sono più qui."**
 
