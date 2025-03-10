@@ -16,4 +16,4 @@ L'effetto entra subito in gioco e il seme della follia posseduto dal personaggio
 
 ### Log degli Eventi
 - [[Aria]] ottiene un seme della follia apprendendo degli incantesimi dal manoscritto maledetto "Gli occhi di Memnosine".
-- Il seme della follia di [[Aria]] viene attivato durante il confronto con il Cerbero nella [[Mythrall Forge]] causando la Follia Indeterminata "Corruzione del Corpo".
+- Il seme della follia di [[Aria]] viene attivato durante il confronto con il Cerbero nella [[Mythrall Forge]] causando la Follia Indeterminata "[[Corruzione del Corpo]]".
