@@ -15,7 +15,7 @@ Description of your strong start.
 ### Scena 1: Il Monologo del Re
 Il Troglodyte King compie un monologo esponendo le sue motivazioni:
 
-> **Permettetemi di porgervi i miei più sinceri ringraziamenti. Per lo zelo con il quale avete purgato le mie caverne e la generosità che mi avete concesso! Un’intera notte per lasciarmi riflettere, per lasciarmi… preparare. Vi rendete conto di quanto sia raro ricevere un simile dono? I miei esploratori hanno seguito le vostre orme e hanno intinto la mia mente nei vostri piani. E, come ciliegina sulla torta, la mia Signora Lutheria ha avuto il piacere di sapere del vostro intento. Oh, che gioia nei suoi occhi immortali! Si è affrettata a prepararvi un dono, un piccolo… diversivo. Qualcosa per rendere la vostra impresa meno… monotona."**
+> **Permettetemi di porgervi i miei più sinceri ringraziamenti. Per lo zelo con il quale avete purgato le mie caverne e la generosità che mi avete concesso! Un’intera notte per lasciarmi riflettere, per lasciarmi… preparare. Vi rendete conto di quanto sia raro ricevere un simile dono? I miei esploratori hanno seguito le vostre orme e hanno intinto la mia mente nei vostri piani. E, come ciliegina sulla torta, la mia Signora [[Lutheria]] ha avuto il piacere di sapere del vostro intento. Oh, che gioia nei suoi occhi immortali! Si è affrettata a prepararvi un dono, un piccolo… diversivo. Qualcosa per rendere la vostra impresa meno… monotona."**
 > 
 > **"Eppure, eppure! Contro ogni mia aspettativa, siete sopravvissuti. Ah, quale delizia inattesa! Lo confesso, sono genuinamente sorpreso. In verità, provo quasi un barlume di ammirazione. Quasi.”**
 > 
@@ -29,7 +29,7 @@ Il Troglodyte King compie un monologo esponendo le sue motivazioni:
 
 Ora, qui ci sono due strade che la storia può prendere:
 - Durante il monologo i personaggi interrompono, insultano, attaccano o provano a scappare dai trogoloditi. In questo caso la battaglia è inevitabile, si lancia iniziativa e si va direttamente alla Scena 3.
-- Se i personaggi ascoltano in monologo o cercano di contrattare, il Troglodyte King li riconsidera, e deciderà di proporre una via alternativa al loro sterminio, in effetti sarebbero più utili da vivi che come cibo per i suoi coetanei. Propone di giocare al gioco sacro di Thylea, "The Game of Twenty Squares" puntando tutto quello che gli avventurieri sono e hanno contro la loro incolumità reciproca da parte del regno dei Trogloditi e utilizzo personale delle forgie. In questo caso si va alla scena 2.
+- Se i personaggi ascoltano in monologo o cercano di contrattare, il Troglodyte King li riconsidera, e deciderà di proporre una via alternativa al loro sterminio, in effetti sarebbero più utili da vivi che come cibo per i suoi coetanei. Propone di giocare al gioco sacro di [[Thylea]], "The [[Game of Twenty Squares]]" puntando tutto quello che gli avventurieri sono e hanno contro la loro incolumità reciproca da parte del regno dei Trogloditi e utilizzo personale delle forgie. In questo caso si va alla scena 2.
 
 ### Scena 2: Il Sacro gioco delle venti caselle
 Se gli avventurieri non interrompono, se ascoltano e aspettano, forse nella vana speranza di trovare un’opportunità o semplicemente per il brivido del gioco, il Re li osserva con occhi brillanti di perversa soddisfazione.
@@ -38,13 +38,23 @@ Se gli avventurieri non interrompono, se ascoltano e aspettano, forse nella vana
 > 
 > Si siede con un gesto fluido e fa cenno ai suoi sottoposti di depositare un oggetto tra lui e voi: una tavola intarsiata, antica, con venti caselle incise in filigrana d’oro.
 > 
-> **"Conoscete il Gioco Sacro di Thylea? 'Il Gioco delle 20 Caselle', il gioco del destino. E poiché il destino è ciò che ora pesa su di voi, propongo una scommessa."**
+> **"Conoscete il Gioco Sacro di [[Thylea]]? 'Il Gioco Regale di Ur, il gioco del destino. E poiché il destino è ciò che ora pesa su di voi, propongo una scommessa."**
 > 
 > **"Giocheremo, e metteremo in palio tutto ciò che siete e avete contro il vostro diritto di vivere, la vostra incolumità dal mio regno e… l’utilizzo personale delle forge che avete così generosamente risvegliato. Vincerete? Sarete padroni del vostro destino. Perdete? Beh… allora la mia Signora avrà presto nuovi giocattoli da tormentare."**
 > 
 > Lentamente, posa la mano artigliata sul bordo della tavola e inclina il capo.
 > 
 > **"Allora, cosa dite, eroi? La mente sopra la spada… o l’acciaio sopra il pensiero?"**
+
+Se i personaggi decidono di giocare contro il Re Troglodita gli verrà chiesto di scegliere un loro rappresentante o se vogliono sfidarlo individualmente. Una volta fatto ci sara una manifestazione di fulmini cremisi e una delle Eneridi comparirà e farà da giudice silenzioso.
+
+> **"Ora, scegliete il vostro campione, o giocate ognuno per sé..."**
+> 
+> Le parole sono interrote da un rumore di elettrcità statica mentre una donna alata compare in un lampo di luce cremisi poco lontano.
+> 
+> **"Ammirate, perfino il destino stesso veglia ora su di noi."**
+
+Inizia il [[Game of Twenty Squares]].
 
 ### Scena 3: Il Conflitto
 Se uno degli avventurieri osa interrompere il Re—con una provocazione, un insulto o, peggio ancora, un attacco—lo scontro diventa inevitabile.
@@ -55,7 +65,7 @@ Se uno degli avventurieri osa interrompere il Re—con una provocazione, un insu
 
 Si lancia iniziativa.
 
-### Room Five: Reward, Revelation, Plot Twist
+### Scena 4: Reward, Revelation, Plot Twist
 Here’s your opportunity to change the players’ bragging to “we came, we saw, we slipped on a banana peel.”
 Room Five doesn’t always represent a complication or point of failure for the PCs, but it can. Room Five doesn’t always need to be a physical location either - it can be a twist revealed in Room Four.
 Room Five is where your creativity can shine and is often what will make the dungeon different and memorable from the other crawls in your campaigns.
