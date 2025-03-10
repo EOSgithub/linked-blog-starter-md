@@ -8,9 +8,9 @@
 **[[Omero]].** Ragazzo Ladro [[Satyr]]. [[The Demigod]]. Astuzia e Compassione. Membro delle [[Quattro Arie]]. Prono al furto. Patto contro i Titani. Solido codice morale. Attento ai dettagli.
 
 ## Overlook della Sessione
-Le [[Quattro Arie]] si trovano in una situazione difficile: dopo aver sconfitto il Cerbero evocato da [[Lutheria]], il Re dei Trogloditi della [[Mythrall Forge]] li ha traditi.
-Il party dovrà decidere se affrontare quest'ultima sfida con l'intelletto o con le armi, per poi mettere finalmente il punto a questo capitolo della loro storia.
-Dopo aver ricevuto le ricompense che si sono meritati i loro sogni saranno invasi da [[Lutheria]] in persona, e avranno modo di conoscere il titano dei Sogni, della Morte e della Follia.
+Le [[Quattro Arie]] si trovano in una situazione difficile: dopo aver sconfitto il Cerbero evocato da [[Lutheria]], il Re dei Trogloditi della [[Mythrall Forge]] li ha traditi e messi alle strette.
+Il party dovrà decidere se affrontare quest'ultima sfida con l'intelletto o con la forza, per poi mettere finalmente il punto a questo capitolo della loro storia.
+Dopo aver ricevuto le meritate ricompense i loro sogni saranno invasi da [[Lutheria]] in persona, e avranno modo di fare conoscenza con il titano dei Sogni, della Morte e della Follia.
   
 ## Strong Start  
 Description of your strong start.  

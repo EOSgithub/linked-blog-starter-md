@@ -1,8 +1,7 @@
 
 Il sonno cala come un sipario, silenzioso e assoluto. Nessuna stella, nessun suono, nulla, Il Nulla. Poi, un tintinnio. Il delicato suono di vetro che sfiora vetro. 
 
-Una risata.
-Il riso di chi ha appena assistito a qualcosa di _inaspettato_.
+Poi, Una risata *sorpresa*. 
 
 **"Oh… _Oh!_ Ma che delizia!"**
 
@@ -32,8 +31,6 @@ Incrocia il vostro sguardo, la vostra mente inizia a sfilacciarsi.
 
 **"E al loro posto, cosa rimane? Voi. _Voi_ che non dovevate esserci. _Voi_ che siete inciampati nella Storia con la grazia di un elefante in un negozio di specchi!"**
 
-Scorre un'unghia lungo il bordo del calice, producendo un suono stridente.
-
 **"Eppure eccovi qui. Seduti alla mia tavola. Un errore… _o una variazione?_ Mmm…"**
 
 Si morde un dito, pensierosa.
@@ -44,7 +41,7 @@ Inclina la testa, come una bambina curiosa.
 
 **"Vi piace essere sassolini? O preferireste essere sabbia? Oh, la sabbia è così triste! Scorre, scorre, scorre… e poi puff! Via con il vento. Nessuno ricorda un granello di sabbia."**
 
-Beve un sorso di vino e lascia che una goccia le scivoli sul mento, marchiando il suo collo cremisi.
+Scorre un'unghia lungo il bordo del calice, producendo un suono stridente.
 
 **"Ma voi non siete sabbia, vero? No, voi volete essere rocce! Montagne! Oh, ma le montagne sono così _pesanti_, così lente… E alla fine si sgretolano tutte nello stesso modo. Tic, tac. Tic, tac."**
 
@@ -52,7 +49,7 @@ Lascia cadere il calice. Invece di frantumarsi, rimbalza, rotola, si ferma. Lei 
 
 **"Oh, che divertente! Un bicchiere che non si rompe! Come voi. Vi ho lasciato cadere… e siete ancora qui."**
 
-Si alza in piedi, cammina a piedi nudi sopra il tavolo.
+Si avvicina a voi camminando a piedi nudi sopra il tavolo.
 
 **"Siete un passatempo euforico, piccole rocce."** 
 
