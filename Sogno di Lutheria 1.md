@@ -1,7 +1,9 @@
 
 Il sonno cala come un sipario, silenzioso e assoluto. Nessuna stella, nessun suono, nulla, Il Nulla. Poi, un tintinnio. Il delicato suono di vetro che sfiora vetro. 
 
-Una risata.
+![[wine-glass-clink-36036.mp3]]
+
+E una risata.
 Il riso di chi ha appena assistito a qualcosa di _inaspettato_.
 
 **"Oh… _Oh!_ Ma che delizia!"**
@@ -68,4 +70,6 @@ Una sensazione di labbra sulle vostre.
 Le candele si spengono. 
 Il tavolo scompare.
 
-E vi svegliate, con il suono di un brindisi impresso nella mente.
+E vi svegliate, 
+![[wine-glass-clink-36036.mp3]]
+Con il suono di un brindisi impresso nella mente.

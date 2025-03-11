@@ -31,15 +31,15 @@ E con questo...
 ### Scena 1: Il Soliloquio del Re
 Il Re Troglodita tiene un monologo esponendo le sue motivazioni:
 
-> **Permettetemi di porgervi i miei più sinceri ringraziamenti. Per lo zelo con il quale avete purgato le mie caverne e la generosità che mi avete concesso! Un’intera notte per lasciarmi riflettere, per lasciarmi… preparare. Vi rendete conto di quanto sia raro ricevere un simile dono? 
+> **Permettetemi di porgervi i miei più sinceri ringraziamenti. Per lo zelo con il quale avete purgato le mie caverne e la generosità che mi avete concesso! Un’intera notte per lasciarmi riflettere, per lasciarmi… preparare.
 > 
 > I miei esploratori hanno seguito le vostre orme e hanno intinto la mia mente nei vostri piani. E, come ciliegina sulla torta, la mia Signora [[Lutheria]] ha avuto il piacere di sapere del vostro intento. Oh, che gioia nei suoi occhi immortali! Si è affrettata a prepararvi un dono, un piccolo… diversivo. Qualcosa per rendere la vostra impresa meno… monotona."**
 > 
 > **"Eppure, eppure! Contro ogni mia aspettativa, siete sopravvissuti. Ah, quale delizia inattesa! Lo confesso, sono genuinamente sorpreso. In verità, provo quasi un barlume di ammirazione. Quasi.”**
 > 
-> **"Ora, voi potreste chiedervi: se tanto bramavo questa forgia, perché non ho agito prima?"**
+> **"Ora, potreste chiedervi: se tanto bramavo questa forgia, perché non ho agito prima?"**
 > 
-> **"Semplice! Speravo sareste riuciti a convincere l’anima della forgia, la dolce Elira, a risvegliare queste fiamme dormienti. E nel farlo, avete chiesto tanto, troppo, da lei. Avete prosciugato ciò che restava delle sue forze. Com’è il detto tra voi mortali? Due cockatrici con una fava?"**
+> **"Semplice! Speravo sareste riuciti a convincere l’anima della forgia, la dolce Elira, a risvegliare queste fiamme dormienti. E nel farlo, avete chiesto tanto, troppo, da lei. Avete prosciugato ciò che restava delle sue forze. Due cockatrici con una fava!"**
 > 
 > **"Ed ora resta un solo atto da compiere. La mia Signora vi osserva. E vi attende dall’altra parte."**
 > 
@@ -98,15 +98,17 @@ Si lancia iniziativa!
 > 
 > Un lungo silenzio avvolge la forgia. Il Re rimane immobile, gli occhi fissi sulla scacchiera, le dita artigliate che stringono il mento in un gesto contemplativo. Poi, una risata lenta e roca lo scuote.
 > 
-> **“Shishishishi… sublime. Avevo sottovalutato il peso del vostro ingegno, eppure eccoci qui, testimoni di un capovolgimento degno degli annali. La sorte, ha deciso di concedervi grazia.”**
+> **“Shishishishi… sublime. Avevo sottovalutato il peso del vostro ingegno, eppure eccoci qui. La sorte, ha deciso di concedervi grazia.”**
 > 
 > Si alza con un gesto teatrale, sollevando le braccia in segno di resa.
 > 
-> **“La forgia è a vostra disposizione, come promesso. Le mie creature non alzeranno più  mano su di voi. Non fate quelle facce, non sono tanto stolto da infrangere un patto sancito di fronte ad un giudice supremo.”**
+> **“La forgia è a vostra disposizione, come promesso. Le mie creature non alzeranno più  mano su di voi.
+>  
+> Non fate quelle facce, non sono tanto stolto da infrangere un patto sancito di fronte ad un giudice supremo.”**
 > 
 > La creatura, fino a quel momento immobile e silenziosa, solleva una mano. Un fulmine cremisi avvolge la scacchiera e la dissolve in un lampo di energia, lasciando solo cenere fumante al suo posto. Poi, senza una parola, svanisce come nebbia dissolta al sole.
 > 
-> Il Re Troglodita si volta verso i suoi sudditi, il suo sguardo ora colmo di odio e impotenza.
+> Il Re Troglodita si volta verso i suoi sudditi, il suo sguardo ora colmo di rabbia e impotenza.
 > 
 > **“Abbiamo perso, e il fato esige che accettiamo il verdetto.”**
 > 
@@ -115,9 +117,9 @@ Si lancia iniziativa!
 > La forgia è finalmente libera.
 
 ### Scena 3b: Fine del Combattimento
-> La battaglia infuria con ferocia primordiale. Il clangore delle armi, il sibilo degli incantesimi e le urla dei trogloditi si fondono in una cacofonia di pura violenza. Ma alla fine, il sangue rettiliano cola sulle pietre annerite della forgia, e l’ultimo dei servitori del Re cade privo di vita.
+> La battaglia infuria con ferocia. Il clangore delle armi, il sibilo di incantesimi e le urla dei trogloditi si fondono in una cacofonia di pura violenza. Ma alla fine, il sangue che cola sulle pietre della forgia è rettiliano, e l’ultimo dei servitori del Re cade privo di vita.
 > 
-> Il Troglodyte King, ferito e ansimante, si trascina indietro, lo sguardo febbrile che guizza tra i cadaveri dei suoi sudditi e gli avventurieri vittoriosi. Sputa un grumo di sangue nero e ride, una risata gorgogliante, distorta dal dolore.
+> Il Troglodyte King, ferito e ansimante, si trascina indietro, lo sguardo febbrile che guizza tra i cadaveri dei suoi sudditi e voi. Sputa un grumo di bile nera e ride raucamente.
 > 
 > **“Ah… e così, il fato ha scritto la mia caduta. Che tragedia, che ironia… che spettacolo magnifico avete offerto alla mia signora.”**
 > 
@@ -125,9 +127,9 @@ Si lancia iniziativa!
 > 
 > **“[[Lutheria]] vi ha visti. E vi attende.”**
 > 
-> Poi, il suo corpo si affloscia, privo di vita.
+> Poi, il suo corpo si spegne, privo di vita.
 > 
-> Il silenzio cala sulla forgia. Solo il crepitio delle fiamme rompe la tensione.
+> Il silenzio cala sulla forgia. Solo il crepitio della lava rompe la tensione.
 > 
 > La forgia è finalmente libera.
 
