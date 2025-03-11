@@ -8,14 +8,27 @@
 **[[Omero]].** Ragazzo Ladro [[Satyr]]. [[The Demigod]]. Astuzia e Compassione. Membro delle [[Quattro Arie]]. Prono al furto. Patto contro i Titani. Solido codice morale. Attento ai dettagli.
 
 ## Overlook della Sessione
-Le [[Quattro Arie]] si trovano in una situazione difficile: dopo aver sconfitto il Cerbero evocato da [[Lutheria]], il Re dei Trogloditi della [[Mythrall Forge]] li ha traditi.
-Il party dovrà decidere se affrontare quest'ultima sfida con l'intelletto o con le armi, per poi mettere finalmente il punto a questo capitolo della loro storia.
-Dopo aver ricevuto le ricompense che si sono meritati i loro sogni saranno invasi da [[Lutheria]] in persona, e avranno modo di conoscere il titano dei Sogni, della Morte e della Follia.
+- Le [[Quattro Arie]] si trovano in una situazione difficile: dopo aver sconfitto il Cerbero evocato da [[Lutheria]], il Re dei Trogloditi della [[Mythrall Forge]] li ha traditi.
+- Il party dovrà decidere se affrontare quest'ultima sfida con l'intelletto o con le armi, per poi mettere finalmente il punto a questo capitolo della loro storia.
+- Dopo aver ricevuto le ricompense che si sono meritati i loro sogni saranno invasi da [[Lutheria]] in persona, e avranno modo di conoscere il titano dei Sogni, della Morte e della Follia.
   
-## Strong Start  
-Description of your strong start.  
+### Monologo Iniziale
+Ricordatevi di dare spazio a ogni giocatore e di ascoltarli.
+Se fate fatica a concentrarvi, provate a prendere appunti.
+Andiamo di creare scene in cui è possibile immedesimarsi, riducendo al minimo i discorsi meta.
+
+E con questo...
+> Ogni nuova era è definita da quella precedente.
+> 
+> Quest'epoca di tenue pace è definita dalla fine della Guerra dei Titani, dall'arrivo dei Cinque Dei e dalla profezia che deciderà il futuro di Thylea.
+> 
+> Era la notte del 5 Maggio 499, quando le Quattro Arie affrontarono il Cerbero a guardia della Forgia di Mythrall. Fu in quella terrificante battaglia che venne a mancare il loro alleato temporaneo Gralx e che la mente di Aria si incrinò ulteriormente, ma nonostante tutto, gli eroi ebbero la meglio.
+> 
+> Giunti al cuore della forgia, incontrarono lo spirito che la abitava: Elira. Furiosa e consumata da secoli di prigionia, bramava vendetta— lo sterminio di tutti i nani e, soprattutto, Volkan. Ma con parole e azioni, convinsero a Elira posporre il suo giudizio e a vedere la situazione con i suoi occhi. 
+> 
+> Quando tutto sembrava risolto, il colpo di scena! Dalle ombre della forgia emersero dozzine e dozzine di figure. Trogloditi. Un esercito intero, accerchiò gli eroi. E, al centro di tutto, il loro re, proclamò il suo tradimento quando disse:
   
-### Scena 1: Il Monologo del Re
+### Scena 1: Il Soliloquio del Re
 Il Re Troglodita tiene un monologo esponendo le sue motivazioni:
 
 > **Permettetemi di porgervi i miei più sinceri ringraziamenti. Per lo zelo con il quale avete purgato le mie caverne e la generosità che mi avete concesso! Un’intera notte per lasciarmi riflettere, per lasciarmi… preparare. Vi rendete conto di quanto sia raro ricevere un simile dono? 
