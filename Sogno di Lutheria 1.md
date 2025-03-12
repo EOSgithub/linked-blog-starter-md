@@ -65,4 +65,5 @@ Una sensazione di labbra sulle vostre.
 Le candele si spengono. 
 Il tavolo scompare.
 
-E vi svegliate, con il suono di un brindisi impresso nella mente.
+E vi svegliate, 
+Con il suono di un brindisi impresso nella mente.

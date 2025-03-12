@@ -8,25 +8,38 @@
 **[[Omero]].** Ragazzo Ladro [[Satyr]]. [[The Demigod]]. Astuzia e Compassione. Membro delle [[Quattro Arie]]. Prono al furto. Patto contro i Titani. Solido codice morale. Attento ai dettagli.
 
 ## Overlook della Sessione
-Le [[Quattro Arie]] si trovano in una situazione difficile: dopo aver sconfitto il Cerbero evocato da [[Lutheria]], il Re dei Trogloditi della [[Mythrall Forge]] li ha traditi e messi alle strette.
-Il party dovrà decidere se affrontare quest'ultima sfida con l'intelletto o con la forza, per poi mettere finalmente il punto a questo capitolo della loro storia.
-Dopo aver ricevuto le meritate ricompense i loro sogni saranno invasi da [[Lutheria]] in persona, e avranno modo di fare conoscenza con il titano dei Sogni, della Morte e della Follia.
+- Le [[Quattro Arie]] si trovano in una situazione difficile: dopo aver sconfitto il Cerbero evocato da [[Lutheria]], il Re dei Trogloditi della [[Mythrall Forge]] li ha traditi.
+- Il party dovrà decidere se affrontare quest'ultima sfida con l'intelletto o con le armi, per poi mettere finalmente il punto a questo capitolo della loro storia.
+- Dopo aver ricevuto le ricompense che si sono meritati i loro sogni saranno invasi da [[Lutheria]] in persona, e avranno modo di conoscere il titano dei Sogni, della Morte e della Follia.
   
-## Strong Start  
-Description of your strong start.  
+### Monologo Iniziale
+Ricordatevi di dare spazio a ogni giocatore e di ascoltarli.
+Se fate fatica a concentrarvi, provate a prendere appunti.
+Andiamo di creare scene in cui è possibile immedesimarsi, riducendo al minimo i discorsi meta.
+
+E con questo...
+> Ogni nuova era è definita da quella precedente.
+> 
+> Quest'epoca di tenue pace è definita dalla fine della Guerra dei Titani, dall'arrivo dei Cinque Dei e dalla profezia che deciderà il futuro di Thylea.
+> 
+> Era la notte del 5 Maggio 499, quando le Quattro Arie affrontarono il Cerbero a guardia della Forgia di Mythrall. Fu in quella terrificante battaglia che venne a mancare il loro alleato temporaneo Gralx e che la mente di Aria si incrinò ulteriormente, ma nonostante tutto, gli eroi ebbero la meglio.
+> 
+> Giunti al cuore della forgia, incontrarono lo spirito che la abitava: Elira. Furiosa e consumata da secoli di prigionia, bramava vendetta— lo sterminio di tutti i nani e, soprattutto, Volkan. Ma con parole e azioni, convinsero a Elira posporre il suo giudizio e a vedere la situazione con i suoi occhi. 
+> 
+> Quando tutto sembrava risolto, il colpo di scena! Dalle ombre della forgia emersero dozzine e dozzine di figure. Trogloditi. Un esercito intero, accerchiò gli eroi. E, al centro di tutto, il loro re, proclamò il suo tradimento quando disse:
   
-### Scena 1: Il Monologo del Re
+### Scena 1: Il Soliloquio del Re
 Il Re Troglodita tiene un monologo esponendo le sue motivazioni:
 
-> **Permettetemi di porgervi i miei più sinceri ringraziamenti. Per lo zelo con il quale avete purgato le mie caverne e la generosità che mi avete concesso! Un’intera notte per lasciarmi riflettere, per lasciarmi… preparare. Vi rendete conto di quanto sia raro ricevere un simile dono? 
+> **Permettetemi di porgervi i miei più sinceri ringraziamenti. Per lo zelo con il quale avete purgato le mie caverne e la generosità che mi avete concesso! Un’intera notte per lasciarmi riflettere, per lasciarmi… preparare.
 > 
 > I miei esploratori hanno seguito le vostre orme e hanno intinto la mia mente nei vostri piani. E, come ciliegina sulla torta, la mia Signora [[Lutheria]] ha avuto il piacere di sapere del vostro intento. Oh, che gioia nei suoi occhi immortali! Si è affrettata a prepararvi un dono, un piccolo… diversivo. Qualcosa per rendere la vostra impresa meno… monotona."**
 > 
 > **"Eppure, eppure! Contro ogni mia aspettativa, siete sopravvissuti. Ah, quale delizia inattesa! Lo confesso, sono genuinamente sorpreso. In verità, provo quasi un barlume di ammirazione. Quasi.”**
 > 
-> **"Ora, voi potreste chiedervi: se tanto bramavo questa forgia, perché non ho agito prima?"**
+> **"Ora, potreste chiedervi: se tanto bramavo questa forgia, perché non ho agito prima?"**
 > 
-> **"Semplice! Speravo sareste riuciti a convincere l’anima della forgia, la dolce Elira, a risvegliare queste fiamme dormienti. E nel farlo, avete chiesto tanto, troppo, da lei. Avete prosciugato ciò che restava delle sue forze. Com’è il detto tra voi mortali? Due cockatrici con una fava?"**
+> **"Semplice! Speravo sareste riuciti a convincere l’anima della forgia, la dolce Elira, a risvegliare queste fiamme dormienti. E nel farlo, avete chiesto tanto, troppo, da lei. Avete prosciugato ciò che restava delle sue forze. Due cockatrici con una fava!"**
 > 
 > **"Ed ora resta un solo atto da compiere. La mia Signora vi osserva. E vi attende dall’altra parte."**
 > 
@@ -85,15 +98,17 @@ Si lancia iniziativa!
 > 
 > Un lungo silenzio avvolge la forgia. Il Re rimane immobile, gli occhi fissi sulla scacchiera, le dita artigliate che stringono il mento in un gesto contemplativo. Poi, una risata lenta e roca lo scuote.
 > 
-> **“Shishishishi… sublime. Avevo sottovalutato il peso del vostro ingegno, eppure eccoci qui, testimoni di un capovolgimento degno degli annali. La sorte, ha deciso di concedervi grazia.”**
+> **“Shishishishi… sublime. Avevo sottovalutato il peso del vostro ingegno, eppure eccoci qui. La sorte, ha deciso di concedervi grazia.”**
 > 
 > Si alza con un gesto teatrale, sollevando le braccia in segno di resa.
 > 
-> **“La forgia è a vostra disposizione, come promesso. Le mie creature non alzeranno più  mano su di voi. Non fate quelle facce, non sono tanto stolto da infrangere un patto sancito di fronte ad un giudice supremo.”**
+> **“La forgia è a vostra disposizione, come promesso. Le mie creature non alzeranno più  mano su di voi.
+>  
+> Non fate quelle facce, non sono tanto stolto da infrangere un patto sancito di fronte ad un giudice supremo.”**
 > 
 > La creatura, fino a quel momento immobile e silenziosa, solleva una mano. Un fulmine cremisi avvolge la scacchiera e la dissolve in un lampo di energia, lasciando solo cenere fumante al suo posto. Poi, senza una parola, svanisce come nebbia dissolta al sole.
 > 
-> Il Re Troglodita si volta verso i suoi sudditi, il suo sguardo ora colmo di odio e impotenza.
+> Il Re Troglodita si volta verso i suoi sudditi, il suo sguardo ora colmo di rabbia e impotenza.
 > 
 > **“Abbiamo perso, e il fato esige che accettiamo il verdetto.”**
 > 
@@ -102,9 +117,9 @@ Si lancia iniziativa!
 > La forgia è finalmente libera.
 
 ### Scena 3b: Fine del Combattimento
-> La battaglia infuria con ferocia primordiale. Il clangore delle armi, il sibilo degli incantesimi e le urla dei trogloditi si fondono in una cacofonia di pura violenza. Ma alla fine, il sangue rettiliano cola sulle pietre annerite della forgia, e l’ultimo dei servitori del Re cade privo di vita.
+> La battaglia infuria con ferocia. Il clangore delle armi, il sibilo di incantesimi e le urla dei trogloditi si fondono in una cacofonia di pura violenza. Ma alla fine, il sangue che cola sulle pietre della forgia è rettiliano, e l’ultimo dei servitori del Re cade privo di vita.
 > 
-> Il Troglodyte King, ferito e ansimante, si trascina indietro, lo sguardo febbrile che guizza tra i cadaveri dei suoi sudditi e gli avventurieri vittoriosi. Sputa un grumo di sangue nero e ride, una risata gorgogliante, distorta dal dolore.
+> Il Troglodyte King, ferito e ansimante, si trascina indietro, lo sguardo febbrile che guizza tra i cadaveri dei suoi sudditi e voi. Sputa un grumo di bile nera e ride raucamente.
 > 
 > **“Ah… e così, il fato ha scritto la mia caduta. Che tragedia, che ironia… che spettacolo magnifico avete offerto alla mia signora.”**
 > 
@@ -112,9 +127,9 @@ Si lancia iniziativa!
 > 
 > **“[[Lutheria]] vi ha visti. E vi attende.”**
 > 
-> Poi, il suo corpo si affloscia, privo di vita.
+> Poi, il suo corpo si spegne, privo di vita.
 > 
-> Il silenzio cala sulla forgia. Solo il crepitio delle fiamme rompe la tensione.
+> Il silenzio cala sulla forgia. Solo il crepitio della lava rompe la tensione.
 > 
 > La forgia è finalmente libera.
 
