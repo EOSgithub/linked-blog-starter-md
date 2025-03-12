@@ -1,6 +1,7 @@
 
-Il sonno cala come un sipario, silenzioso e assoluto. Nessuna stella, nessun suono, nulla, Il Nulla. Poi, un tintinnio. Il delicato suono di vetro che sfiora vetro. 
+Il sonno cala come un sipario, silenzioso e assoluto. Nessuna stella, nessun suono, nulla, Il Nulla. 
 
+Un tintinnio. Il delicato suono di vetro che sfiora vetro. 
 Poi, Una risata *sorpresa*. 
 
 **"Oh… _Oh!_ Ma che delizia!"**
@@ -35,7 +36,7 @@ Incrocia il vostro sguardo, la vostra mente inizia a sfilacciarsi.
 
 Si morde un dito, pensierosa.
 
-**"Vedete, l’universo è un grande orologio. Tic, tac, tic, tac. Gli dèi girano le lancette, i mortali seguono il ritmo. Ma ogni tanto… una piccola scheggia cade tra gli ingranaggi. Un sassolino in una ruota perfetta."**
+**"Vedete, l’universo è un grande orologio. Tic, tac, tic, tac. Gli dèi sono le lancette, i mortali seguono il ritmo. Ma ogni tanto… una piccola scheggia cade tra gli ingranaggi. Un sassolino in una ruota perfetta."**
 
 Inclina la testa, come una bambina curiosa.
 

@@ -20,16 +20,16 @@ Andiamo di creare scene in cui è possibile immedesimarsi, riducendo al minimo i
 E con questo...
 > Ogni nuova era è definita da quella precedente.
 > 
-> Quest'epoca di tenue pace è definita dalla fine della Guerra dei Titani, dall'arrivo dei Cinque Dei e dalla profezia che deciderà il futuro di Thylea.
+> Quest'epoca di tenue pace è definita dalla fine della Guerra dei Titani, dall'arrivo dei Cinque Dei e dalla profezia che deciderà il futuro di [[Thylea]].
 > 
-> Era la notte del 5 Maggio 499, quando le Quattro Arie affrontarono il Cerbero a guardia della Forgia di Mythrall. Fu in quella terrificante battaglia che venne a mancare il loro alleato temporaneo Gralx e che la mente di Aria si incrinò ulteriormente, ma nonostante tutto, gli eroi ebbero la meglio.
+> Era la notte del 5 Maggio 499, quando le [[Quattro Arie]] affrontarono il Cerbero a guardia della Forgia di Mythrall. Fu in quella terrificante battaglia che venne a mancare il loro alleato temporaneo Gralx e che la mente di [[Aria]] si incrinò ulteriormente, ma nonostante tutto, gli eroi ebbero la meglio.
 > 
-> Giunti al cuore della forgia, incontrarono lo spirito che la abitava: Elira. Furiosa e consumata da secoli di prigionia, bramava vendetta— lo sterminio di tutti i nani e, soprattutto, Volkan. Ma con parole e azioni, convinsero a Elira posporre il suo giudizio e a vedere la situazione con i suoi occhi. 
+> Giunti al cuore della forgia, incontrarono lo spirito che la abitava: Elira. Furiosa e consumata da secoli di prigionia, bramava vendetta— lo sterminio di tutti i nani e, soprattutto, [[Volkan]]. Ma con parole e azioni, convinsero a Elira posporre il suo giudizio e a vedere la situazione con i suoi occhi. 
 > 
-> Quando tutto sembrava risolto, il colpo di scena! Dalle ombre della forgia emersero dozzine e dozzine di figure. Trogloditi. Un esercito intero, accerchiò gli eroi. E, al centro di tutto, il loro re, proclamò il suo tradimento quando disse:
+> Quando tutto sembrava risolto, il colpo di scena! Dalle ombre della forgia emersero dozzine di figure. Trogloditi. Un esercito intero accerchiò gli eroi. E, al centro di tutto, il loro re, proclamò il suo tradimento quando disse:
   
 ### Scena 1: Il Soliloquio del Re
-Il Re Troglodita tiene un monologo esponendo le sue motivazioni:
+Il Re Troglodita tiene un monologo esponendo le sue motivazioni e testando il gruppo:
 
 > **Permettetemi di porgervi i miei più sinceri ringraziamenti. Per lo zelo con il quale avete purgato le mie caverne e la generosità che mi avete concesso! Un’intera notte per lasciarmi riflettere, per lasciarmi… preparare.
 > 
@@ -56,9 +56,9 @@ Se gli avventurieri non interrompono, se ascoltano e aspettano, forse nella vana
 > 
 > Si siede con un gesto fluido e fa cenno ai suoi sottoposti di depositare un oggetto tra lui e voi: una tavola intarsiata, antica, con venti caselle incise in filigrana d’oro.
 > 
-> **"Conoscete il Gioco Sacro di [[Thylea]]? 'Il Gioco Regale di Ur, il gioco del destino. E poiché il destino è proprio ciò che ora pesa su di voi, propongo una scommessa."**
+> **"Conoscete il Gioco Sacro di [[Thylea]]? 'Il Gioco Regale di Ur, il gioco del destino. E poiché è proprio il destino che ora pesa su di voi, propongo una scommessa."**
 > 
-> **"Giocheremo, e metteremo in palio tutto ciò che siete e avete contro il vostro diritto di vivere, la vostra incolumità dal mio regno e… l’utilizzo personale delle forge che avete così generosamente risvegliato. Vincerete? Avrete quello che desiderate. Perdete? Beh… allora la mia Signora avrà presto nuovi giocattoli."**
+> **"Giocheremo, e metteremo in palio tutto ciò che siete e avete contro il vostro diritto di vivere, la vostra incolumità dal mio regno e… l’utilizzo personale delle forge che avete così generosamente risvegliato."**
 > 
 > Lentamente, posa la mano artigliata sul bordo della tavola e inclina il capo.
 > 
@@ -96,17 +96,19 @@ Si lancia iniziativa!
 ### Scena 3a: Fine del Gioco delle Venti Caselle
 > Il campo di battaglia è diverso dal solito, è silenzioso. Sul tabellone i pezzi sono stati mossi, le strategie si sono confrontate, e alla fine, un ultima, magistrale mossa ha sigillato la vostra vittoria.
 > 
-> Un lungo silenzio avvolge la forgia. Il Re rimane immobile, gli occhi fissi sulla scacchiera, le dita artigliate che stringono il mento in un gesto contemplativo. Poi, una risata lenta e roca lo scuote.
+> Un lungo silenzio avvolge la forgia. Il Re rimane immobile, gli occhi fissi sulla scacchiera, le dita artigliate che stringono il mento in un gesto contemplativo.
 > 
 > **“Shishishishi… sublime. Avevo sottovalutato il peso del vostro ingegno, eppure eccoci qui. La sorte, ha deciso di concedervi grazia.”**
 > 
 > Si alza con un gesto teatrale, sollevando le braccia in segno di resa.
 > 
 > **“La forgia è a vostra disposizione, come promesso. Le mie creature non alzeranno più  mano su di voi.
->  
-> Non fate quelle facce, non sono tanto stolto da infrangere un patto sancito di fronte ad un giudice supremo.”**
 > 
-> La creatura, fino a quel momento immobile e silenziosa, solleva una mano. Un fulmine cremisi avvolge la scacchiera e la dissolve in un lampo di energia, lasciando solo cenere fumante al suo posto. Poi, senza una parola, svanisce come nebbia dissolta al sole.
+>  ...
+>  
+> "Non fate quelle facce, non sono tanto stolto da infrangere un patto sancito di fronte ad un giudice supremo.”**
+> 
+> La creatura alata, fino a quel momento immobile e silenziosa, solleva una mano. Un fulmine cremisi avvolge la scacchiera e la dissolve in un lampo di energia, lasciando solo cenere fumante al suo posto. Poi, senza una parola, svanisce come nebbia dissolta al sole.
 > 
 > Il Re Troglodita si volta verso i suoi sudditi, il suo sguardo ora colmo di rabbia e impotenza.
 > 
@@ -117,13 +119,13 @@ Si lancia iniziativa!
 > La forgia è finalmente libera.
 
 ### Scena 3b: Fine del Combattimento
-> La battaglia infuria con ferocia. Il clangore delle armi, il sibilo di incantesimi e le urla dei trogloditi si fondono in una cacofonia di pura violenza. Ma alla fine, il sangue che cola sulle pietre della forgia è rettiliano, e l’ultimo dei servitori del Re cade privo di vita.
+> La battaglia infuria. Il clangore delle armi, il sibilo di incantesimi e le urla dei trogloditi si fondono in una cacofonia di pura violenza. Ma alla fine, il sangue che cola sulle pietre della forgia è rettiliano, e l’ultimo dei servitori del Re cade privo di vita.
 > 
-> Il Troglodyte King, ferito e ansimante, si trascina indietro, lo sguardo febbrile che guizza tra i cadaveri dei suoi sudditi e voi. Sputa un grumo di bile nera e ride raucamente.
+> Il Troglodyte King, ferito e ansimante, si trascina indietro, con lo sguardo che guizza tra i cadaveri dei suoi sudditi e voi. Sputa un grumo di bile nera e ride raucamente.
 > 
 > **“Ah… e così, il fato ha scritto la mia caduta. Che tragedia, che ironia… che spettacolo magnifico avete offerto alla mia signora.”**
 > 
-> Si inginocchia, il respiro spezzato. Il suo sguardo si fa vitreo, e con un ultimo, velenoso sussurro, pronuncia:
+> Si affloscia, il respiro spezzato. Il suo sguardo si fa vitreo, e con un ultimo, velenoso sussurro, pronuncia:
 > 
 > **“[[Lutheria]] vi ha visti. E vi attende.”**
 > 
@@ -134,10 +136,10 @@ Si lancia iniziativa!
 > La forgia è finalmente libera.
 
 ### Scena 4: Il Calore della Vittoria
-> I Fuochi ardono di luce argentea nella Fucina Perduta.
-> Per la prima volta dopo giorni di tensione, i vostri muscoli si distendono mentre vi sedete su casse di legno e vecchi banchi da lavoro. 
+> Per la prima volta in 500 anni, la Fucina perduta arde di luce argentea.
+> Per la prima volta dopo giorni di tensione, i vostri muscoli si rilassano mentre vi sedete su casse di legno e vecchi banchi da lavoro. 
 > 
-> Man mano che il tempo passa, l’euforia della vittoria lascia il posto a una dolce stanchezza. Vi concedete un ultimo sorso di vino da una vecchia caraffa di bronzo trovata nella forgia e infine vi stendete sui giacigli improvvisati.
+> L’euforia della vittoria lascia il posto a una dolce stanchezza. Vi concedete un ultimo sorso di vino da una vecchia caraffa di bronzo e infine vi stendete su giacigli improvvisati.
 > 
 > Mentre il suono dei martelli continua a battere nel cuore della montagna, gli occhi si chiudono uno dopo l’altro, il calore della forgia avvolge i vostri corpi stanchi, e lentamente, il sonno vi reclama…
 
