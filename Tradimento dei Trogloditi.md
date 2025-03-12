@@ -144,7 +144,8 @@ Si lancia iniziativa!
 > Mentre il suono dei martelli continua a battere nel cuore della montagna, gli occhi si chiudono uno dopo l’altro, il calore della forgia avvolge i vostri corpi stanchi, e lentamente, il sonno vi reclama…
 
 **Ricompense**
-- Oggetto: Scettro del Re vigliacco!
+- Oggetto: Scettro del Re Vigliacco!
+- Oggetto: Corona del Re Vigliacco!
 - La forgia perduta, Elira e/o [[Volkan]] sono ora disponibili a creare oggetti magici!
 - Elira si dirige ad Estoria!
 - Quando i personaggi andranno a dormire saranno visitati da [[Lutheria]] nell'evento: "[[Sogno di Lutheria 1]]".
