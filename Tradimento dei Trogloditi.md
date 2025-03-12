@@ -64,13 +64,13 @@ Se gli avventurieri non interrompono, se ascoltano e aspettano, forse nella vana
 > 
 > **"Allora, cosa dite, eroi? La mente sopra la spada… o l’acciaio sopra il pensiero?"**
 
-Se i personaggi decidono di giocare contro il Re Troglodita gli verrà chiesto di scegliere un loro rappresentante o se vogliono sfidarlo individualmente. Una volta fatto ci sara una manifestazione di fulmini cremisi e una delle Eneridi comparirà e farà da giudice silenzioso.
+Se i personaggi decidono di giocare contro il Re Troglodita gli verrà chiesto di scegliere un loro rappresentante o se vogliono sfidarlo individualmente. Una volta fatto ci sara una manifestazione di fulmini cremisi e una delle [[Furie]], Megaera, comparirà e farà da giudice silenzioso.
 
 > **"Ora, scegliete il vostro campione, o giocate ognuno per sé..."**
 > 
 > Le parole sono interrote da un rumore di elettrcità statica mentre una donna alata compare in un lampo di luce cremisi poco lontano.
 > 
-> **"Perfino il fato stesso veglia ora sul nostro gioco."**
+> **"Perfino il fato stesso veglia sul nostro gioco."**
 
 Inizia il [[Game of Twenty Squares]].
 
