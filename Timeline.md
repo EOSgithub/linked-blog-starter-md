@@ -3,9 +3,9 @@
 | **~2,000 DA** | Height of the Gygan empire             |
 | **24 DA**     | [[Arrival of the Dragonlords]]         |
 | **18 DA**     | Founding of the first settler kingdoms |
-| **14 DA**     | The First [[War of the Titans]] begins     |
+| **14 DA**     | The First [[War of the Titans]] begins |
 | **12 DA**     | [[Sydon]] kills the last dragon        |
-| **10 DA**     | [[The Five Gods]] appear                   |
+| **10 DA**     | [[The Five Gods]] appear               |
 | **1 DA**      | Mytros ascends to the heavens          |
 | **0 CE**      | [[The Oath of Peace]] is sworn         |
 | **1 CE**      | Founding of the Kingdom of Mytros      |
