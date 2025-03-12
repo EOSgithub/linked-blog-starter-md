@@ -1,11 +1,11 @@
 ## Personaggi  
-**[[Aria]].** (Delay). Ragazzina Bardo Mezz'elfa. [[The Haunted One]]. Musica e Irriverenza. Membro delle [[Quattro Arie]]. Gamba prostetica. [[Seme della Follia]](Consumato).
+**[[Aria]].** Giocatore: Delay. Ragazzina Bardo Mezz'elfa. [[The Haunted One]]. Musica e Irriverenza. Membro delle [[Quattro Arie]]. Gamba prostetica. [[Seme della Follia]](Consumato).
   
-**[[Kosmo]].** (Luca) Ragazzo Mago Umano. [[The Curious One]]. Logica e Cautela. Membro delle [[Quattro Arie]]. Libreria "Pergamene di [[Thylea]]". Isolato. Scorcio oltre il Velo. Interesse di [[Planeswalker Oriana]].
+**[[Kosmo]].** Giocatore: Luca. Ragazzo Mago Umano. [[The Curious One]]. Logica e Cautela. Membro delle [[Quattro Arie]]. Libreria "Pergamene di [[Thylea]]". Isolato. Scorcio oltre il Velo. Interesse di [[Planeswalker Oriana]].
   
-**[[Orione]].** Ragazzo Guerriero Umano. [[The Demititan]]. Onore e Violenza. Membro delle [[Quattro Arie]]. Impulsivo. Guardia mandata da Mytros. Odio per [[Sydon]]. Prono a Patti.
+**[[Orione]].** Giocatore: Matteo. Ragazzo Guerriero Umano. [[The Demititan]]. Onore e Violenza. Membro delle [[Quattro Arie]]. Impulsivo. Guardia mandata da Mytros. Odio per [[Sydon]]. Prono a Patti.
   
-**[[Omero]].** Ragazzo Ladro [[Satyr]]. [[The Demigod]]. Astuzia e Compassione. Membro delle [[Quattro Arie]]. Prono al furto. Patto contro i Titani. Solido codice morale. Attento ai dettagli.
+**[[Omero]].** Giocatore: Gine. Ragazzo Ladro [[Satyr]]. [[The Demigod]]. Astuzia e Compassione. Membro delle [[Quattro Arie]]. Prono al furto. Patto contro i Titani. Solido codice morale. Attento ai dettagli.
 
 ## Overlook della Sessione
 - Le [[Quattro Arie]] si trovano in una situazione difficile: dopo aver sconfitto il Cerbero evocato da [[Lutheria]], il Re dei Trogloditi della [[Mythrall Forge]] li ha traditi.
@@ -15,7 +15,7 @@
 ### Monologo Iniziale
 Ricordatevi di dare spazio a ogni giocatore e di ascoltarli.
 Se fate fatica a concentrarvi, provate a prendere appunti.
-Andiamo di creare scene in cui è possibile immedesimarsi, riducendo al minimo i discorsi meta.
+Andiamo a creare scene in cui è possibile immedesimarsi, riducendo al minimo i discorsi meta.
 
 E con questo...
 > Ogni nuova era è definita da quella precedente.
