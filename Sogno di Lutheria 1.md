@@ -12,11 +12,13 @@ Dall’altro lato del tavolo, sdraiata su un trono di fiori secchi e costole spe
 
 [[Lutheria]].
 
-Indossa un sensuale abito di seta nera. Le sue dita accarezzano un calice.
+Indossa un sensuale abito di seta bianca. Le sue dita accarezzano un calice. 
+
+![[Lutheria.webp]]
 
 **"Così avete _vinto_. Voi."**
 
-Si porta una delicata mano alle labbra, trattenendo una risata.
+Si porta una mano alle labbra, trattenendo una risata.
 
 **"Oh, ma voi non siete i veri eroi, no, no, no. Quelli erano belli, forti… destinati. Sapete cosa significa _destino_, vero? Quel filo invisibile che vi tira come marionette? Tira, tira, tira, fino a quando—_snap!_"**
 
