@@ -3,10 +3,10 @@
 Nessuno crede che la famiglia del Perduto sia mai esistita, nemmeno gli dèi. Solo le Moire conoscono la verità. Il Perduto è stato predetto come colui che "spezzerebbe il potere della morte". Quando [[Remote Notes/Lutheria]] lo scoprì, sterminò la sua intera famiglia. Tuttavia, Mytros, la Dea dell'Aurora, intervenne e cancellò ogni ricordo della loro esistenza, salvando il Perduto. Ora, le anime della sua famiglia sono intrappolate nella falce cristallina di [[Remote Notes/Lutheria]].
 
 ## Gancio dell'Avventura  
-Il Perduto incontra l'Oracolo, che lo indirizza verso Demetria nel Tempio Muschioso. Demetria possiede un artefatto della sua famiglia, un indizio per scoprire il proprio passato e il destino della sua famiglia scomparsa.
+Il Perduto incontra l'Oracolo, che lo indirizza verso [[Demetria]] nel Tempio Muschioso. [[Demetria]] possiede un artefatto della sua famiglia, un indizio per scoprire il proprio passato e il destino della sua famiglia scomparsa.
 
 ## Imprese Eroiche  
-1. **Recuperare l'artefatto minore da Demetria** – Il Perduto affronta Demetria e i suoi servitori caprini per reclamare un oggetto appartenente alla sua famiglia.
+1. **Recuperare l'artefatto minore da [[Demetria]]** – Il Perduto affronta [[Demetria]] e i suoi servitori caprini per reclamare un oggetto appartenente alla sua famiglia.
 2. **Attivare l'artefatto minore** – Sintonizzandosi con l'artefatto, il Perduto sente le voci della sua famiglia e scopre che un secondo artefatto è in possesso della Regina delle Amazzoni.
 3. **Recuperare e attivare l'artefatto maggiore** – Con il secondo artefatto, il Perduto rafforza il suo legame con il mondo dei morti, scoprendo che solo le Moire conoscono la verità sulla sua storia.
 4. **Incontrare le Moire** – Le Moire rivelano come [[Remote Notes/Lutheria]] ha cancellato il Perduto dalla storia e gli spiegano che distruggere la falce della dea libererà le anime della sua famiglia.
@@ -21,7 +21,7 @@ Il Perduto incontra l'Oracolo, che lo indirizza verso Demetria nel Tempio Muschi
     - _Legame Spirituale:_ Una volta per riposo lungo, dopo aver attivato il secondo artefatto, il Perduto può chiedere l'aiuto temporaneo di uno spirito legato all'amuleto.
 
 ## PNG Chiave  
-- **Demetria:** Possiede l'artefatto minore e si oppone al Perduto nel Tempio Muschioso.
+- **[[Demetria]]:** Possiede l'artefatto minore e si oppone al Perduto nel Tempio Muschioso.
 - **Regina delle Amazzoni:** Custodisce l'artefatto maggiore.
 - **Le Moire:** Conoscono la verità sulla famiglia del Perduto e il suo legame con [[Remote Notes/Lutheria]].
 - **[[Estor Arkelander]]:** Vuole recuperare la sua arma e sfida il Perduto nel Mare Infero.
@@ -48,7 +48,7 @@ Il Perduto avrà molteplici occasioni per interagire con gli spiriti inquieti di
 
 - **La Forgia di Mithral:** *Near the body of the dead Cerberus, the Psychopomp receives a brief vision: a dwarf is being chased by something massive. The elderly smith knows he is too slow. The exit explodes and collapses, locking him inside with the beast. A loud growl starts behind him, then another, then another. Then darkness. Bringing the skulls of the dwarves that died in the Mithral Mines back to their kin in Estoria will allow them to rest in peace.*
 
-- **Il Tempio Muschioso:** *A profound sense of wrongness permeates the Mossy Temple. Upon entering the Ancient Glade, the Psychopomp comes to feel that a terrible crime against [[Thylea]] herself occurred here. Approaching the heartwood stump and the urn containing the ashes of Demetria’s sister grants a vision of Estor sacking the temple. Demetria and her sister cried out, attempting to surrender and offering peace, but instead Estor had Demetria’s sister bound to her heartwood while he chopped it down with an axe.*
+- **[[Il Tempio Muschioso]]:** *A profound sense of wrongness permeates the Mossy Temple. Upon entering the Ancient Glade, the Psychopomp comes to feel that a terrible crime against [[Thylea]] herself occurred here. Approaching the heartwood stump and the urn containing the ashes of [[Demetria]]’s sister grants a vision of Estor sacking the temple. [[Demetria]] and her sister cried out, attempting to surrender and offering peace, but instead Estor had [[Demetria]]’s sister bound to her heartwood while he chopped it down with an axe.*
 
 - **La Necropoli di Telamok:**  *Most of the dead here are at peace. The human and [[minotaur]] skeletons that roam the labyrinth are not. The only way for the [[minotaur]] clan’s restless dead to be at peace is if Graxis is slain, for he is the final living link that binds them to Telamok. After dealing with Graxis and interacting with Xander, the ancient Dragonlord’s soul can also be put to rest, knowing that a new group of heroes is there to carry on in his place.*
 

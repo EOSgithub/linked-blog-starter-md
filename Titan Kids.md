@@ -31,7 +31,7 @@ Yala and Hergeron have (like their parents), a love/hate relationship in which t
 [[Sydon]] had childs with the dryad Delphia. Those are :
 
 - [[Versi]] (see Temple of the Oracle & NPC section).
-- Demetria (see Mossy Temple).
+- [[Demetria]] (see Mossy Temple).
 - A third unnamed dryad who was killed by [[The Dragonlords]] who took her tree to make the Ultros's mast, which i called Ultraia, and i had her haunt the ship.
 
 ## Helios
