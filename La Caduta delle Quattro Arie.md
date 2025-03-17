@@ -35,3 +35,7 @@ Ora, qualche piccola scena che incapsulano la fine della loro storia:
 > [[Lutheria]] si ferma. Per la prima volta, il suo sguardo perde il solito divertimento. Poi sorride, e il destino si riscrive ancora una volta.
 > 
 > _"Oh, bambina mia... abbiamo molto di cui parlare."_
+
+
+### Evoluzione del Mondo (Timeskip di 3 mesi)
+
