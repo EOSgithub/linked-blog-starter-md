@@ -16,7 +16,7 @@ Ora, qualche piccola scena che incapsulano la fine della loro storia:
 > Le sue mani non tremano mentre impugna l’arma per l’ultima volta. L’acciaio trova la carne e la sua anima sfugge dalle catene del patto prima che possano bloccarlo.
 > 
 > **La Visita della Titana**
-> La notte porta con sé un vento caldo e dolce, l’[[Aria]] densa di promesse sussurrate e desideri proibiti. Le ombre si piegano come amanti al passaggio di [[Remote Notes/Lutheria]], la Titana dai capelli intrecciati di stelle e dalle labbra curve in un sorriso imperscrutabile.
+> La notte porta con sé un vento caldo e dolce, l’[[Aria]] densa di promesse sussurrate e desideri proibiti. Le ombre si piegano come amanti al passaggio di [[Lutheria]], la Titana dai capelli intrecciati di stelle e dalle labbra curve in un sorriso imperscrutabile.
 > 
 > Si avvicina a [[Omero]]. Lo osserva con il divertimento crudele di un bambino che rompe un giocattolo.
 > 
@@ -24,7 +24,7 @@ Ora, qualche piccola scena che incapsulano la fine della loro storia:
 > 
 > Il suo tocco è una condanna. [[Omero]] crolla, il suo corpo svuotato di vita, il suo nome già dimenticato tra i sussurri dell’Ade.
 > 
-> [[Kosmo]] trema. Non di paura, ma di bramosia. [[Remote Notes/Lutheria]] lo accarezza con parole che sono miele avvelenato. Gli parla di segreti che nemmeno gli dèi osano sussurrare, di porte che si aprono solo a chi osa vedere oltre il velo. E [[Kosmo]] osa.
+> [[Kosmo]] trema. Non di paura, ma di bramosia. [[Lutheria]] lo accarezza con parole che sono miele avvelenato. Gli parla di segreti che nemmeno gli dèi osano sussurrare, di porte che si aprono solo a chi osa vedere oltre il velo. E [[Kosmo]] osa.
 > 
 > _"Dimmi di più..."_
 > 
@@ -32,7 +32,7 @@ Ora, qualche piccola scena che incapsulano la fine della loro storia:
 > 
 > _"Qualcuno ha giocato con i ricordi della gente. Qualcuno ha giocato con i tuoi."_
 > 
-> [[Remote Notes/Lutheria]] si ferma. Per la prima volta, il suo sguardo perde il solito divertimento. Poi sorride, e il destino si riscrive ancora una volta.
+> [[Lutheria]] si ferma. Per la prima volta, il suo sguardo perde il solito divertimento. Poi sorride, e il destino si riscrive ancora una volta.
 > 
 > _"Oh, bambina mia... abbiamo molto di cui parlare."_
 
