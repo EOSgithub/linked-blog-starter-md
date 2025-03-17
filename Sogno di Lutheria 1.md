@@ -14,7 +14,7 @@ Dall’altro lato del tavolo, sdraiata su un trono di fiori secchi e costole spe
 
 Indossa un sensuale abito di seta bianca. Le sue dita accarezzano un calice. 
 
-![[Lutheria.webp]]
+![[[[Lutheria]].webp]]
 
 **"Così avete _vinto_. Voi."**
 
