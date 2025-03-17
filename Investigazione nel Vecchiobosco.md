@@ -16,7 +16,13 @@ E con questo...
 > 
 > Quest'epoca di tenue pace è definita dalla fine della Guerra dei Titani, dall'arrivo dei Cinque Dei e dalla profezia che deciderà il futuro di [[Thylea]].
 > 
-> Era la mattina del 6 Agosto 499, quando la notizia del furto del corno sacro di Balmytria si sparse per Estoria. Il caso volle che Lucius, Phiore, Bayle e Kyrgios si ritrovarono a partecipare all'investigazione nello stesso gruppo. Gli indizi nel reliquario sembravano suggerire i colpevoli come capridi e umanoidi, vino per terra e scehggi di vettro dalla direzione sbagliata della teca. Il gruppo decise di ignorare gli indizi e seguire le tracce, prima che la pioggia le cancellasse. Dopo ore di cammino le tracce li portarono all'ingeresso del vecchiobosco. Nelle vicinanze scorsero una casa abitata e decisero di chiedere agli abitanti se avessere visto qualcosa di sospetto. Dopo aver bussato la porta venne aperta da un uomo sulla quarantina che disse:...
+> Era la mattina del 6 Agosto 499, quando la notizia del furto del corno sacro di **Balmytria** si diffuse per le strade di **Estoria**. Fù allora che i destini di quattro anime si intrecciarono e il loro cammino ebbe inizio.
+> 
+> Giunti al reliquario, trovarono indizi: vino versato sul pavimento, schegge di vetro disperse nella direzione sbagliata, e segni di zoccoli intrecciati a impronte. Ma gli eroi non si attardarono in sterili congetture—il tempo stringeva, e la pioggia minacciava di cancellare le uniche tracce.
+> 
+> Così marciarono, seguendo i segni lasciati dai colpevoli. Per ore avanzarono attraverso colline e sentieri, finché i loro occhi non si posarono sul confine del **Vecchiobosco**. Poco lontano sorgeva anche una modesta dimora apparentemente abitata.
+> 
+> Desiderosi di risposte, gli eroi si avvicinarono e bussarono alla porta. Dopo un istante di silenzio, questa si aprì, rivelando un uomo dalla barba rada e dallo sguardo segnato dagli anni. Egli li scrutò con occhi attenti e, con voce grave, pronunciò parole che avrebbero dato inizio a una delle più grandi avventure mai raccontate…
 
 ### Scena 1: La Casa del Cacciatore
 
