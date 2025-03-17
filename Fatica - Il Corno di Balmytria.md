@@ -1,19 +1,3 @@
-Deep within the Oldwoods lies a ruined temple complex covered in a thick layer of moss and surrounded by massive trees. No one knows who built the temple, but the Druids of Oldwood believe that it is the oldest structure in the Heartlands. They maintain a circle of standing stones nearby, hoping to appease the spirits that haunt the temple. None who enter the temple have ever returned.
-
-## The History of the Temple
-The temple's true name is lost to history. It was built thousands of years ago by an ancient race of six-armed cyclops called the gygans. It honors [[Sydon]], and it harkens to a time long before the mortal races arrived in [[Thylea]]. During this period, the gygans were devout servants of the Titans. They propitiated [[Sydon]] with great sacrifices, earned his favor, and their empire spanned all the islands of [[Thylea]]. The gygans were thought to have been exterminated by [[Pythor]] and [[The Dragonlords]] by the end of the First War.
-
-## Demetria, the Vengeful Dryad
-Recently, teenagers have been disappearing from the towns and farms around Estoria. They are lured into the forest by roving bands of goatlings that serve the mistress of the temple, a dryad named [Demetria](http://localhost:5000/bestiary.html#demetria_arcanumworldsodysseyofthedragonlords).
-
-[[Demetria]] has good cause to hate the people of Mytros and Estoria. Centuries ago, the Dragonlord [[Estor Arkelander]] chopped down her sister's oak tree to use as the mast for his ship, the _Ultros_. [[Demetria]] went mad with grief for her sister. She swore fealty to [[Lutheria]], who embraced her and further stoked her rage.
-
-You can consider [[Demetria]]'s hatred was improved recently by [[Lutheria]], fueled because the arrival of the end of the Oath, and kids kidnappings are the start of her Maenad army. The pact she has with [[Lutheria]] might be recent, she was a follower of [[Sydon]] before. She's a result of the recent dispute between [[Sydon]] and [[Lutheria]].
-
-[[Demetria]]’s goal is to snuff out the city of Estoria and demolish [[Estor Arkelander]]’s legacy. [[Demetria]]’s plan has a clear through line between stealing the Horn of Balmytria and her final goal: raising a city-destroying treant that will annihilate Estoria, while enacting a ritual that will siphon the souls of all casualties to [[Lutheria]]. 
-
-Regarding [[The Oath of Peace]], [[Lutheria]] can't be held accountable for what her followers might do, she didn't COMMAND [[Demetria]] to do any of the stuff here.
-
 ### Phase 1: Steal the Horn of Balmytria
 This is pretty much the first thing [[Demetria]] does. What changes her is [[Demetria]]’s PURPOSE for stealing the Horn. In addition to granting [[Demetria]] the ritual to produce maenads, [[Lutheria]] provided [[Demetria]] with a ritual to use the wine from the Horn of Balmytria to forcefully convert human females into maenads with none of the hoops, driving them mad instantly and overwriting any personality they might have had. The corrupted wine also has this effect on human males, converting them into crazed satyrs that are just as devoted to her. Similarly, any existing fey become maddened and devoted if they drink the wine.
 
