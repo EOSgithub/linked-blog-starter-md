@@ -2,9 +2,9 @@
 - 
 
 ## Overlook della Sessione
-- Il Party investiga la casa prima del vecchiobosco per indizi. Qui scopriranno della sparizione di Corinna dai suoi genitori. Il Padre di Corinna si offrirà di accompagnarli nel vecchiobosco visto che ci caccia sempre.
-- Seguendo le tracce il party incontrerà un bacanale di goatlings e menadi, dopo l'assalto del campo troveranno un inidizio che farà capire che Corinna è pasatta di qui.
-- Il gruppo arriverà al tempio muschioso
+- Il party investiga la casa ai margini del Vecchiobosco in cerca di indizi. Qui scopriranno della scomparsa di Corinna dai racconti dei suoi genitori. Il padre di Corinna, esperto cacciatore, si offrirà di accompagnarli nel bosco.
+- Seguendo le tracce, il party si imbatterà in un baccanale di goatlings e menadi. Dopo aver assaltato il campo, troveranno un indizio che confermerà il passaggio di Corinna.
+- Il gruppo raggiungerà un antico tempio avvolto nel muschio e scoprirà cosa sta realmente accadendo. Il dungeon è ampio e complesso, quindi potrebbe richiedere più di una sessione per esplorarlo completamente.
   
 ### Monologo Iniziale
 Ricordatevi di dare spazio a ogni giocatore e di ascoltarli.
@@ -16,7 +16,7 @@ E con questo...
 > 
 > Quest'epoca di tenue pace è definita dalla fine della Guerra dei Titani, dall'arrivo dei Cinque Dei e dalla profezia che deciderà il futuro di [[Thylea]].
 > 
-> Era il 6 Agosto 499, quando...
+> Era la mattina del 6 Agosto 499, quando la notizia del furto del corno sacro di Balmytria si sparse per Estoria. Il caso volle che Lucius, Phiore, Bayle e Kyrgios si ritrovarono a partecipare all'investigazione nello stesso gruppo. Gli indizi nel reliquario sembravano suggerire i colpevoli come capridi e umanoidi, vino per terra e scehggi di vettro dalla direzione sbagliata della teca. Il gruppo decise di ignorare gli indizi e seguire le tracce, prima che la pioggia le cancellasse. Dopo ore di cammino le tracce li portarono all'ingeresso del vecchiobosco. Nelle vicinanze scorsero una casa abitata e decisero di chiedere agli abitanti se avessere visto qualcosa di sospetto. Dopo aver bussato la porta venne aperta da un uomo sulla quarantina che disse:...
 
 ### Scena 1: La Casa del Cacciatore
 
