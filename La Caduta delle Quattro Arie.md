@@ -38,4 +38,11 @@ Ora, qualche piccola scena che incapsulano la fine della loro storia:
 
 
 ### Evoluzione del Mondo (Timeskip di 3 mesi)
+- I Trogloditi ottengono il controllo completo della forgia di Mythrall ora risvegliata.
+	- Elira viene bandita e lascia la forgia.
+	- Inizia la costruzione della capitale del regno di "???" attorno alle Miniere.
+		- Centinaia di Trogloditi provenienti dall'oltremondo si uniscono sotto lo stendardo del Re Troglodita.
+		- Inizia la creazione di implementi da Guerra e il livello di tecnologia del regno aumenta esponenzialmente.
+		- Il Re troglodita viene ricompensato da lutheria e diventa un suo campione, la titana gli dona anche 
+		
 
