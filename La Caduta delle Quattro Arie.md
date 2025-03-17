@@ -16,7 +16,7 @@ Ora, qualche piccola scena che incapsulano la fine della loro storia:
 > Le sue mani non tremano mentre impugna l’arma per l’ultima volta. L’acciaio trova la carne e la sua anima sfugge dalle catene del patto prima che possano bloccarlo.
 > 
 > **La Visita della Titana**
-> La notte porta con sé un vento caldo e dolce, l’[[Aria]] densa di promesse sussurrate e desideri proibiti. Le ombre si piegano come amanti al passaggio di [[Lutheria]], la Titana dai capelli intrecciati di stelle e dalle labbra curve in un sorriso imperscrutabile.
+> La notte porta con sé un vento caldo e dolce, l’[[Aria]] densa di promesse sussurrate e desideri proibiti. Le ombre si piegano come amanti al passaggio di [[Remote Notes/Lutheria]], la Titana dai capelli intrecciati di stelle e dalle labbra curve in un sorriso imperscrutabile.
 > 
 > Si avvicina a [[Omero]]. Lo osserva con il divertimento crudele di un bambino che rompe un giocattolo.
 > 
@@ -24,7 +24,7 @@ Ora, qualche piccola scena che incapsulano la fine della loro storia:
 > 
 > Il suo tocco è una condanna. [[Omero]] crolla, il suo corpo svuotato di vita, il suo nome già dimenticato tra i sussurri dell’Ade.
 > 
-> [[Kosmo]] trema. Non di paura, ma di bramosia. [[Lutheria]] lo accarezza con parole che sono miele avvelenato. Gli parla di segreti che nemmeno gli dèi osano sussurrare, di porte che si aprono solo a chi osa vedere oltre il velo. E [[Kosmo]] osa.
+> [[Kosmo]] trema. Non di paura, ma di bramosia. [[Remote Notes/Lutheria]] lo accarezza con parole che sono miele avvelenato. Gli parla di segreti che nemmeno gli dèi osano sussurrare, di porte che si aprono solo a chi osa vedere oltre il velo. E [[Kosmo]] osa.
 > 
 > _"Dimmi di più..."_
 > 
@@ -32,7 +32,7 @@ Ora, qualche piccola scena che incapsulano la fine della loro storia:
 > 
 > _"Qualcuno ha giocato con i ricordi della gente. Qualcuno ha giocato con i tuoi."_
 > 
-> [[Lutheria]] si ferma. Per la prima volta, il suo sguardo perde il solito divertimento. Poi sorride, e il destino si riscrive ancora una volta.
+> [[Remote Notes/Lutheria]] si ferma. Per la prima volta, il suo sguardo perde il solito divertimento. Poi sorride, e il destino si riscrive ancora una volta.
 > 
 > _"Oh, bambina mia... abbiamo molto di cui parlare."_
 
@@ -40,9 +40,14 @@ Ora, qualche piccola scena che incapsulano la fine della loro storia:
 ### Evoluzione del Mondo (Timeskip di 3 mesi)
 - I Trogloditi ottengono il controllo completo della forgia di Mythrall ora risvegliata.
 	- Elira viene bandita e lascia la forgia.
-	- Inizia la costruzione della capitale del regno di "???" attorno alle Miniere.
-		- Centinaia di Trogloditi provenienti dall'oltremondo si uniscono sotto lo stendardo del Re Troglodita.
+	- Inizia la costruzione della capitale del regno di "[[Zarkh'Ul]]" attorno alle Miniere.
+		- Il Re troglodita viene nominato "Zarkh" e diventa un campione di [[Lutheria]].
+		- Centinaia di creature (Trogloditi, Ettin, Myconoidi) provenienti dall'oltremondo si uniscono sotto lo stendardo del Re Troglodita.
+			- Il Re degli Ettin e il Re dei Myconoidi diventano i generali del Re dei Trogloditi.
 		- Inizia la creazione di implementi da Guerra e il livello di tecnologia del regno aumenta esponenzialmente.
-		- Il Re troglodita viene ricompensato da lutheria e diventa un suo campione, la titana gli dona anche 
-		
+- Zoppos porta notizie della caduta delle 4 Arie ad Estoria.
+	- [[Volkan]] e Hammund ne sono addolorati, [[Volkan]] rinomina il cane Sirio e Hammund dona ad honorem il titolo di cacciatori di massimo rango.
+	- Il Bastione viene tramuta in un museo sulle [[Quattro Arie]].
+- Kirah Respawna e prende il nome di Notos, sapendo che il tempo stringe sarà più proattiva nel trovare persona che possano aiutarla a scongiurare il ritorno dei titani.
+
 

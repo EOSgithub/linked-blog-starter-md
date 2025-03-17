@@ -10,6 +10,6 @@ Riding on his dragon, he led the charge that routed the gygans. The giants fough
 
 The gygan threat was gone, but Estor was not finished. He pushed his soldiers onwards to the towns where the gygans lived. Their warriors slain, the remainder were now defenseless. Estor's dragon begged him to show mercy, but he was deaf to her pleas. His army massacred mothers and children, the old and the infirm. Only a handful of gygans escaped to warn the other fey folk of Estor's atrocities.
 
-The unbridled slaughter revealed Estor's true nature and his dragon abandoned him. The consequences of his actions went much further. Seeing the slaughter, [[Lutheria]] finally recognized the threat the newcomers posed, and she released [[Sydon]] from his vow to not harm them. With his fury finally unleashed, [[Sydon]] gathered a great army of fey creatures and led them against the civilized races that had butchered the gygans. [[Sydon]] meant to drive the invaders into the sea.
+The unbridled slaughter revealed Estor's true nature and his dragon abandoned him. The consequences of his actions went much further. Seeing the slaughter, [[Remote Notes/Lutheria]] finally recognized the threat the newcomers posed, and she released [[Sydon]] from his vow to not harm them. With his fury finally unleashed, [[Sydon]] gathered a great army of fey creatures and led them against the civilized races that had butchered the gygans. [[Sydon]] meant to drive the invaders into the sea.
 
 The First War had begun.

@@ -10,11 +10,11 @@ Una luce tenue illumina lo spazio intorno a voi. Siete seduti ad un lungo tavolo
 
 Dall’altro lato del tavolo, sdraiata su un trono di fiori secchi e costole spezzate, _Lei_. 
 
-[[Lutheria]].
+[[Remote Notes/Lutheria]].
 
 Indossa un sensuale abito di seta bianca. Le sue dita accarezzano un calice. 
 
-![[[[Lutheria]].webp]]
+![[Lutheria]].webp]]
 
 **"Così avete _vinto_. Voi."**
 

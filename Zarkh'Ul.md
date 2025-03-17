@@ -1,0 +1,1 @@
+Il nuovo regno creato dal Re Troglodita Zarkh attorno alle miniere di Mythrall in seguito alla vittoria sulle [[Quattro Arie]].

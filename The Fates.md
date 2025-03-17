@@ -10,4 +10,4 @@ Meanwhile, The Vanished One is part of the Versi's vision of the future. Perhaps
 
 ---
 
-Long term wise, the prophecy that [[Versi]] saw on the end of [[Thylea]] is falsely linked to the end of [[The Oath of Peace]], everybody thinks that this is the danger, but in reality the way the characters handle the war and the battle of Mytros killing [[Sydon]] and [[Kentimane]] is how they make an enemy of a maddening [[Lutheria]] that will be the true designer of the end of [[Thylea]] : the Apokalypsis.
+Long term wise, the prophecy that [[Versi]] saw on the end of [[Thylea]] is falsely linked to the end of [[The Oath of Peace]], everybody thinks that this is the danger, but in reality the way the characters handle the war and the battle of Mytros killing [[Sydon]] and [[Kentimane]] is how they make an enemy of a maddening [[Remote Notes/Lutheria]] that will be the true designer of the end of [[Thylea]] : the Apokalypsis.

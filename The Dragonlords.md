@@ -1,6 +1,6 @@
 The Dragonlords were settlers who came across the sea during the Xanderiad, along with their bounded dragon mounts.
 
-They took the side of the settlers, then waged war on the natives and their gods [[Sydon]] and [[Lutheria]]. Tide of war shifted several times, until an Oath of Peace was signed by new gods.
+They took the side of the settlers, then waged war on the natives and their gods [[Sydon]] and [[Remote Notes/Lutheria]]. Tide of war shifted several times, until an Oath of Peace was signed by new gods.
 
 #### PCs might find following infos :
 
@@ -15,7 +15,7 @@ They took the side of the settlers, then waged war on the natives and their gods
 - [[Isadore Huorath]] was the granddaughter of Xander. Buried at Telamok. [[Damon]] served as her chief advisor when she ruled the Dragonlords as 4th leader. After she died, [[Damon]] retreated from life in the city of Mytros and came to the Necropolis to be its guardian, and to watch over Isadore in particular.
 - [[Lysis Arkelander]] was the great grandson of Estor, and he was the last of his family to rule Estoria. The Arkelanders had ruled Estoria as kings for over a century, but Lysis proved to be a mad tyrant who stained the throne with wanton murder and torture. The god [[Pythor]], unable to stand by and watch, overthrew him and took the throne in 340. Buried at Telamok.
 - [[Damon]], unbound wizard, creator of the academy, was in love with [[Isadore Huorath]] and is still alive, enigmatic guardian of Telamok.
-- [[Estor Arkelander]], oathsworn of Arkyraniah, great but cruel general who dismantled the Gygan empire, created the kingdom of Estoria. Disappeared with his ship, the Ultros. Made a pact with [[Lutheria]] to achieve immortality. Haunts the Ultros. Wants to get his magic Xyphos back and possess the Ultros's new captain. Empty tomb at Telamok.
+- [[Estor Arkelander]], oathsworn of Arkyraniah, great but cruel general who dismantled the Gygan empire, created the kingdom of Estoria. Disappeared with his ship, the Ultros. Made a pact with [[Remote Notes/Lutheria]] to achieve immortality. Haunts the Ultros. Wants to get his magic Xyphos back and possess the Ultros's new captain. Empty tomb at Telamok.
 - [[Jasena Ventrak]], oathsworn of Arystonar, disappeared and considered a traitor by [[Damon]]. Can be made male, good Vanished One possibility, a dragonlord who was convinced by [[Versi]] that the real war would be fought 500 years in the furture (good choice for a Medusae curse : she broke her oath to the order when vanishing, but did it for a greater good). Or she might have tried to infiltrate Praxis to get her captured dragon back (see Aesop's message who thinks they were captured) and her stuff can be found there, or she died in Aresia out of grief trying to find him as she tracked him there.
 - [[Karpathos]] (Aresianos), oathsworn of (? who became a Dracolich ?), traitor, left the dragonlords with [[Damon]]'s Cadiceus, and founded Aresia. Was cursed and became a Vampire the heroes will face during the last chapters.
 - [[Dorion Neurdagon]] was the last of his family to take up the mantle of Dragonlord. (5th leader of the order ?)

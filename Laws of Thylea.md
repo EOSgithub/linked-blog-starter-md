@@ -1,6 +1,6 @@
 There are several aspects of [[Thylea]] that are different from a typical fantasy world. Oaths are expected to be honored upon the life of the swearer, and guests can expect to be shown hospitality even in the homes of their fiercest enemies. When these ancient laws of [[Thylea]] are disobeyed, the resulting punishment can forever change the life of a hero.
 
-Oaths and curses are not enforced by any particular titan or god. These are natural laws that were woven into the fabric of [[Thylea]] at the dawn of time. Even [[Sydon]] and [[Lutheria]] must honor their oaths or suffer dreadful consequences.
+Oaths and curses are not enforced by any particular titan or god. These are natural laws that were woven into the fabric of [[Thylea]] at the dawn of time. Even [[Sydon]] and [[Remote Notes/Lutheria]] must honor their oaths or suffer dreadful consequences.
 
 ## Guest Friendship
 Guest friendship is a concept of great import in the lands of [[Thylea]]. It requires that all hosts show generosity and courtesy to guests who are far from home, no matter what disputes may divide the two parties. For guest friendship to be established, a host must invite someone into their home and provide them with food or drink.

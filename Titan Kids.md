@@ -1,4 +1,4 @@
-Kids of [[Sydon]], and [[Lutheria]] aren't that developed.
+Kids of [[Sydon]], and [[Remote Notes/Lutheria]] aren't that developed.
 Use Young Epyreal stats, and add a few extra glamoury spells and abilities to all.
 
 ### Talieus, young Titan of Beauty
@@ -12,10 +12,10 @@ At ease with words and a cunning planner, he also is a crafter. [[Sydon]] plans 
 He oversees the Games at Mytros for the Praxis team.
 
 ### Goloron, young Titan of Swiftness
-Mad, the only encounter is him off at sea surveying : use the Tempest statblock. He's the black sheep, the reason he's sent out to survey the seas is because he's kinda mad like his mother. He's [[Lutheria]]'s favourite though. May have him make some comments if the party meets him about how he's the only one that understands her suffering, the poisoning of her mind in her shielding against the Far Realm, etc. None of them like Goloron or even invite him to the throne room for meetings/planning
+Mad, the only encounter is him off at sea surveying : use the Tempest statblock. He's the black sheep, the reason he's sent out to survey the seas is because he's kinda mad like his mother. He's [[Remote Notes/Lutheria]]'s favourite though. May have him make some comments if the party meets him about how he's the only one that understands her suffering, the poisoning of her mind in her shielding against the Far Realm, etc. None of them like Goloron or even invite him to the throne room for meetings/planning
 
 ### Yala, young Titan of Strength
-Born a fighter, [[Sydon]] plans to give her [[Pythor]]'s War portfolio after the coming war. She has been a patron of the Amazons, before [[Lutheria]]'s coup at Themis. She's the most straightforward one : use War statblock.
+Born a fighter, [[Sydon]] plans to give her [[Pythor]]'s War portfolio after the coming war. She has been a patron of the Amazons, before [[Remote Notes/Lutheria]]'s coup at Themis. She's the most straightforward one : use War statblock.
 
 She oversees the Games at Mytros for the Praxis team.
 

@@ -8,9 +8,9 @@
 **[[Omero]].** Giocatore: Gine. Ragazzo Ladro [[Satyr]]. [[The Demigod]]. Astuzia e Compassione. Membro delle [[Quattro Arie]]. Prono al furto. Patto contro i Titani. Solido codice morale. Attento ai dettagli.
 
 ## Overlook della Sessione
-- Le [[Quattro Arie]] si trovano in una situazione difficile: dopo aver sconfitto il Cerbero evocato da [[Lutheria]], il Re dei Trogloditi della [[Mythrall Forge]] li ha traditi.
+- Le [[Quattro Arie]] si trovano in una situazione difficile: dopo aver sconfitto il Cerbero evocato da [[Remote Notes/Lutheria]], il Re dei Trogloditi della [[Mythrall Forge]] li ha traditi.
 - Il party dovrà decidere se affrontare quest'ultima sfida con l'intelletto o con le armi, per poi mettere finalmente il punto a questo capitolo della loro storia.
-- Dopo aver ricevuto le ricompense che si sono meritati i loro sogni saranno invasi da [[Lutheria]] in persona, e avranno modo di conoscere il titano dei Sogni, della Morte e della Follia.
+- Dopo aver ricevuto le ricompense che si sono meritati i loro sogni saranno invasi da [[Remote Notes/Lutheria]] in persona, e avranno modo di conoscere il titano dei Sogni, della Morte e della Follia.
   
 ### Monologo Iniziale
 Ricordatevi di dare spazio a ogni giocatore e di ascoltarli.
@@ -35,7 +35,7 @@ Il Re Troglodita tiene un monologo esponendo le sue motivazioni e testando il gr
 
 > **Permettetemi di porgervi i miei più sinceri ringraziamenti. Per lo zelo con il quale avete purgato le mie caverne e la generosità che mi avete concesso! Un’intera notte per lasciarmi riflettere, per lasciarmi… preparare.
 > 
-> I miei esploratori hanno seguito le vostre orme e hanno intinto la mia mente nei vostri piani. E, come ciliegina sulla torta, la mia Signora [[Lutheria]] ha avuto il piacere di sapere del vostro intento. Oh, che gioia nei suoi occhi immortali! Si è affrettata a prepararvi un dono, un piccolo… diversivo. Qualcosa per rendere la vostra impresa meno… monotona."**
+> I miei esploratori hanno seguito le vostre orme e hanno intinto la mia mente nei vostri piani. E, come ciliegina sulla torta, la mia Signora [[Remote Notes/Lutheria]] ha avuto il piacere di sapere del vostro intento. Oh, che gioia nei suoi occhi immortali! Si è affrettata a prepararvi un dono, un piccolo… diversivo. Qualcosa per rendere la vostra impresa meno… monotona."**
 > 
 > **"Eppure, eppure! Contro ogni mia aspettativa, siete sopravvissuti. Ah, quale delizia inattesa! Lo confesso, sono genuinamente sorpreso. In verità, provo quasi un barlume di ammirazione. Quasi.”**
 > 
@@ -49,10 +49,10 @@ Il Re Troglodita tiene un monologo esponendo le sue motivazioni e testando il gr
 
 Ora, qui ci sono due strade che la storia può prendere:
 - Durante il monologo se i personaggi interrompono, insultano, attaccano o provano a scappare la battaglia diventa inevitabile, si lancia iniziativa e si va direttamente alla Scena 2b.
-- Se i personaggi ascoltano in monologo o cercano di contrattare, il Troglodyte King li riconsidera, e deciderà di proporre una via alternativa al loro sterminio, in effetti sarebbero più utili da vivi che come cibo per i suoi coetanei. Propone di giocare al gioco sacro di [[Thylea]], "The [[Game of Twenty Squares]]" puntando tutto quello che gli avventurieri sono e hanno contro la loro incolumità reciproca da parte del regno dei Trogloditi e utilizzo personale delle forgie. In questo caso si va alla scena 2a.
+- Se i personaggi ascoltano in monologo o cercano di contrattare, il Troglodyte King li riconsidera, e deciderà di proporre una via alternativa al loro sterminio, in effetti sarebbero più utili da vivi che come cibo per i suoi coetanei. Propone di giocare al gioco sacro di [[Thylea]], "The [[Remote Notes/Game of Twenty Squares]]" puntando tutto quello che gli avventurieri sono e hanno contro la loro incolumità reciproca da parte del regno dei Trogloditi e utilizzo personale delle forgie. In questo caso si va alla scena 2a.
 
 ### Scena 2a: Il Sacro gioco delle venti caselle
-![[[[Game of Twenty Squares]].png]]
+![[[Game of Twenty Squares]].png]]
 
 Se gli avventurieri non interrompono, se ascoltano e aspettano, forse nella vana speranza di trovare un’opportunità o semplicemente per il brivido del gioco, il Re li osserva con occhi brillanti di perversa soddisfazione.
 
@@ -78,7 +78,7 @@ Se i personaggi decidono di giocare contro il Re Troglodita gli verrà chiesto d
 > 
 > **"Perfino il fato stesso veglia sul nostro gioco."**
 
-Inizia il [[Game of Twenty Squares]].
+Inizia il [[Remote Notes/Game of Twenty Squares]].
 
 ### Scena 2b: Il Conflitto
 ![[Troglodyte Fight.png]]
@@ -135,7 +135,7 @@ Si lancia iniziativa!
 > 
 > Si affloscia, il respiro spezzato. Il suo sguardo si fa vitreo, e con un ultimo, velenoso sussurro, pronuncia:
 > 
-> **“[[Lutheria]] vi ha visti. E vi attende.”**
+> **“[[Remote Notes/Lutheria]] vi ha visti. E vi attende.”**
 > 
 > Poi, il suo corpo si spegne, privo di vita.
 > 
@@ -158,5 +158,5 @@ Si lancia iniziativa!
 - Oggetto: [Corona del Re Vigliacco](https://www.dndbeyond.com/magic-items/9828393-crown-of-the-coward-king)!
 - La forgia perduta, Elira e/o [[Volkan]] sono ora disponibili a creare oggetti magici!
 - Elira si dirige ad Estoria!
-- Quando i personaggi andranno a dormire saranno visitati da [[Lutheria]] nell'evento: "[[Sogno di Lutheria 1]]".
+- Quando i personaggi andranno a dormire saranno visitati da [[Remote Notes/Lutheria]] nell'evento: "[[Sogno di Lutheria 1]]".
 - Quando si svegliano, i personaggi salgono al livello 6!

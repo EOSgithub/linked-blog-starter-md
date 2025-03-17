@@ -9,7 +9,7 @@ Freeing Chalcia is a matter of stopping the sacrifices on Fire Island. Once a da
 This should be a dramatic moment. She might be mad or not. The Timeless One will hear their mother’s voice and receive a vision of themselves giving this solution, but if you have none you should use the "Chacia controls [[Kyrah]]" variant.
 
 #### Talieus, Mad Titan of Craft, Hypnos
-Saving Talieus requires defeating [[Lutheria]], followed by using his sword, Titansbane, to free him from bondage.
+Saving Talieus requires defeating [[Remote Notes/Lutheria]], followed by using his sword, Titansbane, to free him from bondage.
 
 #### Petrified Titans, Titan Island
 - Yala, Titan of Beauty
@@ -37,4 +37,4 @@ Following the communion with [[Thylea]], have the Mother Tree bear a single grea
 
 Feeding some of this brew to any of the Lost Titans - a single fruit is enough to make a batch large enough to cure all the Lost Titans.
 
-Followers of the Twin Titans may seek to steal this fruit to alleviate the mad mind of [[Lutheria]]. If this occurs, make sure that the fruit is recoverable and not lost forever (have it turned into the brew already, with [[Lutheria]] having refused to drink it, believing herself perfect as she is).
+Followers of the Twin Titans may seek to steal this fruit to alleviate the mad mind of [[Remote Notes/Lutheria]]. If this occurs, make sure that the fruit is recoverable and not lost forever (have it turned into the brew already, with [[Remote Notes/Lutheria]] having refused to drink it, believing herself perfect as she is).

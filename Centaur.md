@@ -14,7 +14,7 @@ They normally roam huge expanses of steppe land that they consider their domain.
 ## Centaurs in [[Thylea]]
 Centaurs are distrustful of the civilized races. In the First War that raged five centuries ago, thousands of centaurs were killed by the invading Dragonlords, and the centaurs have never forgotten or forgiven. The distrust is mutual, especially as centaur tribes are now flocking to the banner of [[Sydon]] and raiding outlying farms. Centaurs that enter a Thylean town or city will find that they are tolerated but kept under constant watch.
 
-The centaurs tend to worship the mother goddess, but they will sometimes offer prayers to one of the titans, [[Sydon]] or [[Lutheria]]. They never worship the Five.
+The centaurs tend to worship the mother goddess, but they will sometimes offer prayers to one of the titans, [[Sydon]] or [[Remote Notes/Lutheria]]. They never worship the Five.
 
 ## Centaur Names
 Centaurs have names that are specific to their race. These names can often be difficult for members of other races to pronounce, so they can adopt nicknames when Traveling with a band of non-centaurs.

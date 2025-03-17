@@ -9,7 +9,7 @@ When the sirens learned that [[Sydon]] was displeased, they were heartbroken. Th
 
 This time, the sirens were utterly stricken. They had believed that their songs were cherished by the gods. Their voices were stilled, and in the ensuing silence, the brilliance of the city faded into shadow. Stone foundations cracked, and pediments grew heavy. The pillars collapsed, and the city of the sirens sank deep into the ocean, swallowed by churning waters. Even its name was forgotten.
 
-Centuries passed in silence. Eventually, a new song began—an endless lamentation for the city that now sleeps on the ocean floor. When [[Lutheria]] learned that the city of the sirens had been destroyed, she laughed. She captured an entire flock of the pitiful creatures and gleefully cursed them, twisting them into something monstrous. These were the first harpies.
+Centuries passed in silence. Eventually, a new song began—an endless lamentation for the city that now sleeps on the ocean floor. When [[Remote Notes/Lutheria]] learned that the city of the sirens had been destroyed, she laughed. She captured an entire flock of the pitiful creatures and gleefully cursed them, twisting them into something monstrous. These were the first harpies.
 
 ## Ocean Lovers
 Sirens are not amphibious, but they are well-adapted for living in and around water. They are thought to descend from an ancient Nereid who fell in love with an avian celestial. Iridescent scales cover many parts of their body, and their taloned hands and feet are excellent for fishing. They live in small flocks along the shores of the ocean. Siren artwork, poetry, and architecture emphasize their special relationship with both the clouds above and the sea below.
