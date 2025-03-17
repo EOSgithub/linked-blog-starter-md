@@ -29,7 +29,7 @@ E con questo...
 > Quando tutto sembrava risolto, il colpo di scena! Dalle ombre della forgia emersero dozzine di figure. Trogloditi. Un esercito intero accerchiò gli eroi. E, al centro di tutto, il loro re, proclamò il suo tradimento quando disse:
   
 ### Scena 1: Il Soliloquio del Re
-![[[[Mythrall Forge]].png]]
+
 
 Il Re Troglodita tiene un monologo esponendo le sue motivazioni e testando il gruppo:
 
@@ -52,7 +52,7 @@ Ora, qui ci sono due strade che la storia può prendere:
 - Se i personaggi ascoltano in monologo o cercano di contrattare, il Troglodyte King li riconsidera, e deciderà di proporre una via alternativa al loro sterminio, in effetti sarebbero più utili da vivi che come cibo per i suoi coetanei. Propone di giocare al gioco sacro di [[Thylea]], "The [[Remote Notes/Game of Twenty Squares]]" puntando tutto quello che gli avventurieri sono e hanno contro la loro incolumità reciproca da parte del regno dei Trogloditi e utilizzo personale delle forgie. In questo caso si va alla scena 2a.
 
 ### Scena 2a: Il Sacro gioco delle venti caselle
-![[[[[Game of Twenty Squares]]]].png]]
+
 
 Se gli avventurieri non interrompono, se ascoltano e aspettano, forse nella vana speranza di trovare un’opportunità o semplicemente per il brivido del gioco, il Re li osserva con occhi brillanti di perversa soddisfazione.
 
