@@ -29,6 +29,8 @@ E con questo...
 > Quando tutto sembrava risolto, il colpo di scena! Dalle ombre della forgia emersero dozzine di figure. Trogloditi. Un esercito intero accerchiò gli eroi. E, al centro di tutto, il loro re, proclamò il suo tradimento quando disse:
   
 ### Scena 1: Il Soliloquio del Re
+![[Mythrall Forge.png]]
+
 Il Re Troglodita tiene un monologo esponendo le sue motivazioni e testando il gruppo:
 
 > **Permettetemi di porgervi i miei più sinceri ringraziamenti. Per lo zelo con il quale avete purgato le mie caverne e la generosità che mi avete concesso! Un’intera notte per lasciarmi riflettere, per lasciarmi… preparare.
@@ -50,6 +52,8 @@ Ora, qui ci sono due strade che la storia può prendere:
 - Se i personaggi ascoltano in monologo o cercano di contrattare, il Troglodyte King li riconsidera, e deciderà di proporre una via alternativa al loro sterminio, in effetti sarebbero più utili da vivi che come cibo per i suoi coetanei. Propone di giocare al gioco sacro di [[Thylea]], "The [[Game of Twenty Squares]]" puntando tutto quello che gli avventurieri sono e hanno contro la loro incolumità reciproca da parte del regno dei Trogloditi e utilizzo personale delle forgie. In questo caso si va alla scena 2a.
 
 ### Scena 2a: Il Sacro gioco delle venti caselle
+![[Game of Twenty Squares.png]]
+
 Se gli avventurieri non interrompono, se ascoltano e aspettano, forse nella vana speranza di trovare un’opportunità o semplicemente per il brivido del gioco, il Re li osserva con occhi brillanti di perversa soddisfazione.
 
 > **"Oh? Silenzio? Non un insulto, non una spada levata? Ah, forse c’è ancora speranza per il vostro genere. Vi confesso, mi ero preparato a una carneficina… Ma ora, ora vedo che forse siete fatti di un’altra stoffa. E questo, miei cari, mi intriga."**
@@ -66,6 +70,8 @@ Se gli avventurieri non interrompono, se ascoltano e aspettano, forse nella vana
 
 Se i personaggi decidono di giocare contro il Re Troglodita gli verrà chiesto di scegliere un loro rappresentante o se vogliono sfidarlo individualmente. Una volta fatto ci sara una manifestazione di fulmini cremisi e una delle [[Furie]], Megaera, comparirà e farà da giudice silenzioso.
 
+![](https://assets.forge-vtt.com/63545c07a653017066057503/Tokens/OotD/Megaera%2C%20the%20Fury%202.jpg)
+
 > **"Ora, scegliete il vostro campione, o giocate ognuno per sé..."**
 > 
 > Le parole sono interrote da un rumore di elettrcità statica mentre una donna alata compare in un lampo di luce cremisi poco lontano.
@@ -75,6 +81,8 @@ Se i personaggi decidono di giocare contro il Re Troglodita gli verrà chiesto d
 Inizia il [[Game of Twenty Squares]].
 
 ### Scena 2b: Il Conflitto
+![[Troglodyte Fight.png]]
+
 Se uno degli avventurieri osa interrompere il Re—con una provocazione, un insulto o, peggio ancora, un attacco—lo scontro diventa inevitabile.
 
 > Il Re Troglodita alza un sopracciglio, poi scuote la testa con un sospiro teatrale.
@@ -136,6 +144,8 @@ Si lancia iniziativa!
 > La forgia è finalmente libera.
 
 ### Scena 4: Il Calore della Vittoria
+![[Forge Core.png]]
+
 > Per la prima volta in 500 anni, la Fucina perduta arde di luce argentea.
 > Per la prima volta dopo giorni di tensione, i vostri muscoli si rilassano mentre vi sedete su casse di legno e vecchi banchi da lavoro. 
 > 
