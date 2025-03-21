@@ -1,6 +1,6 @@
 ## Personaggi  
-- Bayle, Dragonide, Blood Hunter, Cacciatore di Mostri, Membo di alto rango della gilda.
-- Lucius, Tiefling, Sorcerer, Magnate del mercato nero di Estoria, mascalzone carismatico.
+- Bayle, Dragonide, Blood Hunter, Cacciatore di Mostri, Membro di alto rango della gilda, in fuga dall'ordine di Midas.
+- Lucius, Tiefling, Sorcerer, Magnate del mercato nero di Estoria, socialita carismatico.
 - Phiore, Goliath, Druid, Eremita dalle montagne, era fan di Aria, gigante buono.
 - Kyrgios, Minotauro, Monk, Atleta Olimpionico, fissazione sull'allenamento.
 
@@ -19,9 +19,9 @@ E con questo...
 > 
 > Quest'epoca di tenue pace è definita dalla fine della Guerra dei Titani, dall'arrivo dei Cinque Dei e dalla profezia che deciderà il futuro di [[Thylea]].
 > 
-> Era la mattina del 6 Agosto 499, quando la notizia del furto del corno di **Balmytria** si diffuse per le strade di **Estoria**, e Fù allora che i destini di quattro importanti anime si intrecciarono.
+> Era la mattina del 6 Agosto 499, quando la notizia del furto del corno sacro si diffuse per le strade di **Estoria**, e Fù allora che i destini di quattro importanti anime si intrecciarono.
 > 
-> Giunti al reliquario, trovarono indizi: vino versato sul pavimento, schegge di vetro disperse nella direzione sbagliata, e segni di zoccoli intrecciati a impronte. Ma gli eroi non si attardarono in sterili congetture—il tempo stringeva, e la pioggia minacciava di cancellare le uniche tracce.
+> Giunti al reliquario, trovarono indizi: vino versato sul pavimento, schegge di vetro disperse nella direzione sbagliata, e segni di zoccoli intrecciati a impronte. Ma gli eroi non si attardarono in sterili congetture—il tempo stringeva, e la pioggia minacciava di cancellare le uniche tracce rimaste.
 > 
 > Così marciarono, seguendo i segni lasciati dai colpevoli. Per ore avanzarono attraverso colline e sentieri, finché i loro occhi non si posarono sul confine del **Vecchiobosco**. Poco lontano sorgeva  una modesta dimora apparentemente abitata.
 > 
