@@ -19,16 +19,23 @@ E con questo...
 > 
 > Quest'epoca di tenue pace è definita dalla fine della Guerra dei Titani, dall'arrivo dei Cinque Dei e dalla profezia che deciderà il futuro di [[Thylea]].
 > 
-> Era la mattina del 6 Agosto 499, quando la notizia del furto del corno sacro si diffuse per le strade di **Estoria**, e Fù allora che i destini di quattro importanti anime si intrecciarono.
+> Era la mattina del 6 Agosto 499, 147 giorni prima della fine del Patto di Pace, quando la notizia del furto del corno sacro si diffuse per le strade di **Estoria**, e Fù allora che i destini di quattro importanti anime si intrecciarono.
 > 
 > Giunti al reliquario, trovarono indizi: vino versato sul pavimento, schegge di vetro disperse nella direzione sbagliata, e segni di zoccoli intrecciati a impronte. Ma gli eroi non si attardarono in sterili congetture—il tempo stringeva, e la pioggia minacciava di cancellare le uniche tracce rimaste.
 > 
-> Così marciarono, seguendo i segni lasciati dai colpevoli. Per ore avanzarono attraverso colline e sentieri, finché i loro occhi non si posarono sul confine del **Vecchiobosco**. Poco lontano sorgeva  una modesta dimora apparentemente abitata.
+> Così marciarono, seguendo i segni lasciati dai colpevoli. Per ore avanzarono attraverso colline e sentieri, finchénon arrivarono ai confini dei vigneti Estoriani. Poco lontano sorgeva una modesta dimora apparentemente abitata.
 > 
 > Desiderosi di risposte, gli eroi si avvicinarono e bussarono alla porta. 
-> A rispondere fù un uomo dalla barba rada e dalle borse sotto gli occhi. Egli li scrutò e, con voce grave, pronunciò parole che avrebbero dato inizio a una delle più grandi avventure mai raccontate…
+> A rispondere fù un uomo sulla cinquantina dalla barba rada. Egli li scrutò e, con voce grave, pronunciò parole che avrebbero dato inizio a una delle più grandi avventure mai raccontate…
 
-### Scena 1: La Casa del Cacciatore
+### Scena 1: La Casa del Cacciatore (Vigneti Estoriani)
+- "E voi che cosa diamine siete?"
+- Alle spalle dell'uomo c'è una donna seduta a un tavolo che singhiozza.
+- L'uomo è un oplita di Pythor in pensione, vuole accompagnare il party come ai vecchi tempi ma sua moglie non glielo permette.
+- Nostra figlia (Corinna) è scomparsa, è una brava ragazza, molto testarda ma una brava persona.
+	- Abbiamo parlato con alcune guardie di Estoria, ma ci hanno detto che probabilmente è scappata con gli altri adolescenti combinaguai, ma non riesco a immaginarla fare una cosa del genere. 
+	- Corinna è scomparsa da ieri. Condivide la stirpe Phobas dei signori dei draghi da suo padre.
+	- Tracce? Ha provato a nascondere le sue tracce, ma sono io che le ho insegnato come farlo, sono sicuro che si è diretta a sud di qui prima che perdessi le sue tracce.
 
 
 ### Scena 2: Imboscata dei Capridi
