@@ -42,10 +42,10 @@ Riassunto Alternativo:
 > 
 > Dopo aver interrotto attività nel dungeon , arrivarono alla **sala del gran ciccio-satiro Xaricus**, il quale stava per lanciare il più nefando dei party: un **banchetto antropofagico** con tanto di brindisi malvagio. Gli eroi, da veri social engineer, usarono la **carta del patto di ospitalità** per infilarsi in casa sua senza far partire l’aggro.
 > 
-> Tutto filò liscio fino a quando qualcuno **droppò un insulto critico** sul povero Xaricus. Il bestione, tiltato peggio di un silver in ranked, perse ogni briciolo di self-control e attaccò i suoi invitati, **rompendo il patto** e lanciandosi in un combattimento degno di una bossfight da patch 1.0. **Cibo volò, sedie si spaccarono, guerre di danza si scatenarono**, e gli eroi, nonostante qualche colpo di troppo, **presero la seconda W** e si portarono a casa **il corno di Balmytria**.
+> Tutto filò liscio fino a quando qualcuno **droppò un insulto critico** sul povero Xaricus. Il bestione, tiltato peggio di un silver in ranked, perse ogni briciolo di self-control e attaccò i suoi invitati, **rompendo il patto** e lanciandosi in un combattimento degno di una bossfight non patchata. Gli eroi, nonostante qualche colpo di troppo, **presero la seconda W** e si portarono a casa **il corno di Balmytria**.
 > 
 > Ma proprio mentre il corpaccione di Xaricus stava per essere lootato, il destino disse **"alt, non oggi"**. Una **creatura con le ali cineree** apparve dal nulla e si portò via il cadavere, dicendo una sola parola: **Oathbreaker**. Il party, fingendo di non aver sentito, decise di esplorare il resto del **tempio muschioso**, raccogliere gli NPC superstiti e poi **droppare un long rest** nella foresta sotterranea.
 > 
-> Al risveglio, uno dei ragazzi, io in persona, guardò il gruppo e chiese con rizz:
+> Al risveglio, proprio io guardai il gruppo e chiesi con max rizz:
 > 
 > **"Ehm, broschis… avete intenzione di spawnkillare quell’idra o dobbiamo skibidi-sgattaiolare via?"**
