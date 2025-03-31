@@ -46,6 +46,6 @@ Riassunto Alternativo:
 > 
 > Ma proprio mentre il corpaccione di Xaricus stava per essere lootato, il destino disse **"alt, non oggi"**. Una **creatura con le ali cineree** apparve dal nulla e si portò via il cadavere, dicendo una sola parola: **Oathbreaker**. Il party, fingendo di non aver sentito, decise di esplorare il resto del **tempio muschioso**, raccogliere gli NPC superstiti e poi **droppare un long rest** nella foresta sotterranea.
 > 
-> Al risveglio, proprio io guardai il gruppo e chiesi con max rizz:
+> Al risveglio, proprio io in persona, guardai il gruppo e chiesi con max rizz:
 > 
 > **"Ehm, broschis… avete intenzione di spawnkillare quell’idra o dobbiamo skibidi-sgattaiolare via?"**
