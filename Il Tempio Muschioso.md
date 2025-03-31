@@ -173,4 +173,3 @@ Turno 3: DEPLOYING EXECUTIONER. Da qualche parte, ben oltre i limiti della perce
 > 
 > Tutto ciò che rimane è il **segno di bruciatura fumante** ed un corno draconico argentato dove una volta si trovava.
 
-### Scena 3: Ritorno al Tempio e Visione personale
