@@ -34,11 +34,11 @@ E con questo...
 
 Riassunto Alternativo:
 > Era il **7 Ag...** hah? Cosa?....
-> Mi stai dicendo che eri li quel giorno? Ah! perfetto!
+> Mi stai dicendo che eri lì quel giorno? Ah! perfetto!
 > Certo certo, per questa volta puoi fare tu da Cantastorie, qual'è il tuo nome?
-> Ok, perfetto, Chad il palco è tuo.
+> Ok, perfetto, Chad, il palco è tuo.
 > 
-> Era il 7 Agosto 499, a **146 giorni dal drop finale del Patto di Pace**, quando i nostri quattro eroi, con più drip che saggezza, si presero la **W** alla cascata sotterranea, dilapidando ogni goatling, fauno e NPC di basso livello che si metteva in mezzo. Con i PNG al sicuro, il party si **infiltrò come degli stealth gamer** nel covo nemico.
+> Mancavano **146 giorni dal drop finale del Patto di Pace**, quando i nostri quattro eroi, con più drip che saggezza, si presero la **W** alla cascata sotterranea, Aura Farming sui goatling, fauni e NPC di basso livello che si mettevano in mezzo. Con i PNG al sicuro, il party si **infiltrò come degli stealth gamer** nel covo nemico.
 > 
 > Dopo aver interrotto attività nel dungeon , arrivarono alla **sala del gran ciccio-satiro Xaricus**, il quale stava per lanciare il più nefando dei party: un **banchetto antropofagico** con tanto di brindisi malvagio. Gli eroi, da veri social engineer, usarono la **carta del patto di ospitalità** per infilarsi in casa sua senza far partire l’aggro.
 > 
