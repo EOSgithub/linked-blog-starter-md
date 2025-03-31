@@ -31,7 +31,7 @@ E con questo...
 ### Scena 1: La Casa del Cacciatore (Vigneti Estoriani)
 - "E voi che cosa diamine siete?"
 - Alle spalle dell'uomo c'è una donna seduta a un tavolo che singhiozza.
-- L'uomo è un oplita di Pythor in pensione, vuole accompagnare il party come ai vecchi tempi ma sua moglie non glielo permette.
+- L'uomo è un oplita di [[Pythor]] in pensione, vuole accompagnare il party come ai vecchi tempi ma sua moglie non glielo permette.
 - Nostra figlia (Corinna) è scomparsa, è una brava ragazza, molto testarda ma una brava persona.
 	- Abbiamo parlato con alcune guardie di Estoria, ma ci hanno detto che probabilmente è scappata con gli altri adolescenti combinaguai, ma non riesco a immaginarla fare una cosa del genere. 
 	- Corinna è scomparsa da ieri. Condivide la stirpe Phobas dei signori dei draghi da suo padre.

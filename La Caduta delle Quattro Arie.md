@@ -16,7 +16,7 @@ Ora, qualche piccola scena che incapsulano la fine della loro storia:
 > Le sue mani non tremano mentre impugna l’arma per l’ultima volta. L’acciaio trova la carne e la sua anima sfugge dalle catene del patto prima che possano bloccarlo.
 > 
 > **La Visita della Titana**
-> La notte porta con sé un vento caldo e dolce, l’[[Aria]] densa di promesse sussurrate e desideri proibiti. Le ombre si piegano come amanti al passaggio di [[Lutheria]], la Titana dai capelli intrecciati di stelle e dalle labbra curve in un sorriso imperscrutabile.
+> La notte porta con sé un vento caldo e dolce, l’[[Ariah]] densa di promesse sussurrate e desideri proibiti. Le ombre si piegano come amanti al passaggio di [[Lutheria]], la Titana dai capelli intrecciati di stelle e dalle labbra curve in un sorriso imperscrutabile.
 > 
 > Si avvicina a [[Omero]]. Lo osserva con il divertimento crudele di un bambino che rompe un giocattolo.
 > 
@@ -28,7 +28,7 @@ Ora, qualche piccola scena che incapsulano la fine della loro storia:
 > 
 > _"Dimmi di più..."_
 > 
-> [[Aria]] rimane. Il suo cuore batte come un tamburo spezzato. Ma quando i suoi occhi incrociano quelli della Titana, non c’è paura, solo fame.
+> [[Ariah]] rimane. Il suo cuore batte come un tamburo spezzato. Ma quando i suoi occhi incrociano quelli della Titana, non c’è paura, solo fame.
 > 
 > _"Qualcuno ha giocato con i ricordi della gente. Qualcuno ha giocato con i tuoi."_
 > 

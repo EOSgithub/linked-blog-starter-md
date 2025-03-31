@@ -1,5 +1,5 @@
 ## Personaggi  
-**[[Aria]].** Giocatore: Delay. Ragazzina Bardo Mezz'elfa. [[The Haunted One]]. Musica e Irriverenza. Membro delle [[Quattro Arie]]. Gamba prostetica. [[Seme della Follia]](Consumato).
+**[[Ariah]].** Giocatore: Delay. Ragazzina Bardo Mezz'elfa. [[The Haunted One]]. Musica e Irriverenza. Membro delle [[Quattro Arie]]. Gamba prostetica. [[Seme della Follia]](Consumato).
   
 **[[Kosmo]].** Giocatore: Luca. Ragazzo Mago Umano. [[The Curious One]]. Logica e Cautela. Membro delle [[Quattro Arie]]. Libreria "Pergamene di [[Thylea]]". Isolato. Scorcio oltre il Velo. Interesse di [[Planeswalker Oriana]].
   

@@ -21,7 +21,7 @@ Le quattro arie sono un gruppo di avventurieri locati nei pressi di Estoria che 
 ## Dicerie
 - **Hanno convinto un potente Oracolo a restare in città.** O lo hanno minacciato? Chi lo sa.
 - **Hanno salvato la principessa di Estoria.** Ma uno di loro continua a flirtare con lei.
-- **[[Aria]] dice di essere un’artista, ma porta sempre guai.** Coincidenza?
+- **[[Ariah]] dice di essere un’artista, ma porta sempre guai.** Coincidenza?
 - **[[Kosmo]] può fermare un incantesimo con uno sguardo.** Ma non può fermare i suoi compagni dal mettersi nei guai.
 - **[[Omero]] ruba ai ricchi, ma solo se lo fanno arrabbiare.** O se hanno una bella meridiana.
 - **[[Orione]] ha combattuto un Merrow a mani nude.** Il Merrow ha chiesto pietà.
