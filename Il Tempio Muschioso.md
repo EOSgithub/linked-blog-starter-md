@@ -25,7 +25,7 @@ E con questo...
 > 
 > Nel cuore della rovina incontrarono **Herkus**, un druido ridotto alla forma di scoiattolo, che svelò loro il piano della ninfa: con il corno, aveva creato un esercito di **capridi e menadi** per i suoi scopi.
 > 
-> Superando una natura ostile e senziente, gli eroi si trovarono davanti a un ostacolo letale: un’**idra** in carne e ossa. Con astuzia, trovarono invece un passaggio segreto che li condusse nella **foresta sotterranea**.
+> Superando liane senzienti, gli eroi si trovarono davanti a un ostacolo letale: un’**idra** in carne e ossa. Con astuzia, trovarono invece un passaggio segreto che li condusse nella **foresta sotterranea**.
 > 
 > Là , dopo che la diplomazia fallì, **Satiri, capridi e driadi** furono accolti da un turbine di violenza. 
 > 
