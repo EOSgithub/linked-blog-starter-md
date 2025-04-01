@@ -44,6 +44,6 @@ _At 7th level, your golden affliction has strengthened your body beyond limits._
 
 **Slaying.** When you hit a creature with an Slaying weapon, the target takes an additional  weapon die of damage if it is of one of the following creature types (chosen when gaining this property): aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes or plants.
 
-**Defensive.** While you are wielding a defensive weapon and no shield, you gain a +1 bonus to your AC. You can add this bonus only once.
+**Defensive.** While you are wielding this weapon and no shield, you gain a +1 bonus to your AC. You can add this bonus only once.
 
-**Executing.** You have advantage on attacks against an incapacitated, paralyzed, restrained, surprised or unconscious creature and you can roll one additional damage die when determining the damage it takes.
+**Executing.** You have advantage on attacks against a paralyzed, restrained, surprised or unconscious creature and you can roll one additional damage die when determining the damage it takes.
