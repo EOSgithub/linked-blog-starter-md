@@ -1,5 +1,5 @@
 ## Personaggi  
-**[[Aria]].** Giocatore: Delay. Ragazzina Bardo Mezz'elfa. [[The Haunted One]]. Musica e Irriverenza. Membro delle [[Quattro Arie]]. Gamba prostetica. [[Seme della Follia]](Consumato).
+**[[Ariah]].** Giocatore: Delay. Ragazzina Bardo Mezz'elfa. [[The Haunted One]]. Musica e Irriverenza. Membro delle [[Quattro Arie]]. Gamba prostetica. [[Seme della Follia]](Consumato).
   
 **[[Kosmo]].** Giocatore: Luca. Ragazzo Mago Umano. [[The Curious One]]. Logica e Cautela. Membro delle [[Quattro Arie]]. Libreria "Pergamene di [[Thylea]]". Isolato. Scorcio oltre il Velo. Interesse di [[Planeswalker Oriana]].
   
@@ -22,7 +22,7 @@ E con questo...
 > 
 > Quest'epoca di tenue pace è definita dalla fine della Guerra dei Titani, dall'arrivo dei Cinque Dei e dalla profezia che deciderà il futuro di [[Thylea]].
 > 
-> Era la notte del 5 Maggio 499, quando le [[Quattro Arie]] affrontarono il Cerbero a guardia della Forgia di Mythrall. Fu in quella terrificante battaglia che venne a mancare il loro alleato temporaneo Gralx e che la mente di [[Aria]] si incrinò ulteriormente, ma nonostante tutto, gli eroi ebbero la meglio.
+> Era la notte del 5 Maggio 499, quando le [[Quattro Arie]] affrontarono il Cerbero a guardia della Forgia di Mythrall. Fu in quella terrificante battaglia che venne a mancare il loro alleato temporaneo Gralx e che la mente di [[Ariah]] si incrinò ulteriormente, ma nonostante tutto, gli eroi ebbero la meglio.
 > 
 > Giunti al cuore della forgia, incontrarono lo spirito che la abitava: Elira. Furiosa e consumata da secoli di prigionia, bramava vendetta— lo sterminio di tutti i nani e, soprattutto, [[Volkan]]. Ma con parole e azioni, convinsero a Elira posporre il suo giudizio e a vedere la situazione con i suoi occhi. 
 > 

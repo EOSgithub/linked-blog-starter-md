@@ -15,5 +15,5 @@ All'inizio del turno di un personaggio che ha in sé un seme della follia, il DM
 L'effetto entra subito in gioco e il seme della follia posseduto dal personaggio viene consumato.
 
 ### Log degli Eventi
-- [[Aria]] ottiene un seme della follia apprendendo degli incantesimi dal manoscritto maledetto "Gli occhi di Memnosine".
-- Il seme della follia di [[Aria]] viene attivato durante il confronto con il Cerbero nella [[Mythrall Forge]] causando la Follia Indeterminata "[[Corruzione del Corpo]]".
+- [[Ariah]] ottiene un seme della follia apprendendo degli incantesimi dal manoscritto maledetto "Gli occhi di Memnosine".
+- Il seme della follia di [[Ariah]] viene attivato durante il confronto con il Cerbero nella [[Mythrall Forge]] causando la Follia Indeterminata "[[Corruzione del Corpo]]".

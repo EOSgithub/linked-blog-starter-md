@@ -1,5 +1,5 @@
-- Sessione 11: Il [[Tradimento dei Trogloditi]]
-- Sessione 12: Investigazione nel Vecchiobosco
+- Sessione 11: Il [[S13 - Tradimento dei Trogloditi]]
+- Sessione 12: [[Investigazione nel Vecchiobosco]]
 - Sessione 13:
 - Sessione 14:
 - Sessione 15:

@@ -2,12 +2,11 @@
 - Bayle, Sangue di Drago, Blood Hunter, Cacciatore di Mostri, Membro di alto rango della gilda, in fuga dall'ordine di Midas.
 - Lucius, Tiefling, Sorcerer, Magnate del mercato nero di Estoria, socialita carismatico.
 - Phiore, Goliath, Druid, Eremita dalle montagne, era fan di Aria, gigante buono.
-- Kyrgios, Minotauro, Monk, Atleta Olimpionico, fissazione sull'allenamento.
+- Asterius, Minotauro, Monk, Atleta Olimpionico, fissazione sull'allenamento.
 
 ## Overlook della Sessione
 - I personaggi finiscono di esplorare la foresta sotterranea e trovano gli altri ragazzi scomparsi, dovranno riuscire a farli rinsavire e potrebbero doverli fermare senza ucciderli ne fargli male nel caso i razzi decidano che vogliono stare qui con le razze fatate.
 - Si addentreranno nella zonda più interna ed arriveranno alla sala del banchetto do Xaricus si ingorda con il corno di Balmitrya in mano e civili al tavolo a mangiare con lui. Sarà offerto loro da mangiare (carne umana tra l'altro) e da bere, ma è facile che la faccenda risulti in un combattimento.
-- Per finire i personaggi tornano ad Estoria, riportano il corno di balmitrya al tempio del drago e bevono da esso ottenendo ciascuno una visione dell'ultros. Esopo gli dirà cosa significa e il fatto che sono destinati a ritrovare la famosa imbarcazione dei signori dei draghi.
   
 ### Monologo Iniziale
 Ricordatevi di dare spazio a ogni giocatore e di non interromperli.
@@ -42,7 +41,7 @@ E con questo...
 - Quattro liane impediscono a chiunque di uscire dall'area.
 - Una coppia di capridi  si nasconde sul retro della caverna tra i ragazzi.
 
-**Adolescenti festaioli.** Ci sono attualmente otto uomini e donne adolescenti nella camera della caverna. Hanno tutti mangiato il fungo Madon e sono in uno stato euforico: sono considerati avvelenati per le prossime due ore. Tutti loro sono sotto l'influsso di Demetria e aspettano il loro turno per essere "iniziati" dal loro best bro Xaricus.
+**Adolescenti festaioli.** Ci sono attualmente otto uomini e donne adolescenti nella camera della caverna. Hanno tutti mangiato il fungo Madon e sono in uno stato euforico: sono considerati avvelenati per le prossime due ore. Tutti loro sono sotto l'influsso di [[Demetria]] e aspettano il loro turno per essere "iniziati" dal loro best bro Xaricus.
 
 Gli adolescenti hanno le statistiche dei popolani e sono divisi in coppie: Lysandra e Bassilus, Kleon e Heron, Irene e Draco, Callisto e Ariston.
 
@@ -86,7 +85,7 @@ Gli adolescenti hanno le statistiche dei popolani e sono divisi in coppie: Lysan
 > - In pochi **attimi**, le giovani donne un tempo bellissime sono **menadi contorte e frenetiche**.
 > 
 > Xaricus osserva con **lascivo piacere**, accarezzando delicatamente la guancia di una delle sue nuove serve.
-> "Shhh, mie dolcissime. _Questa è una benedizione._ Ora, conoscerete il **vero** piacere... nell'abbraccio di **Lutheria**."
+> "Shhh, mie dolcissime. _Questa è una benedizione._ Ora, conoscerete il **vero** piacere... nell'abbraccio di **[[Lutheria]]**."
 > 
 > I suoi **occhietti vispi tornano agli eroi**. Solleva il calice in finta allegria. "Ahhh, che bello spettacolo. Ma oh, santo cielo, vi ha _rovinato_ l'appetito?"
 > 
@@ -173,4 +172,3 @@ Turno 3: DEPLOYING EXECUTIONER. Da qualche parte, ben oltre i limiti della perce
 > 
 > Tutto ciò che rimane è il **segno di bruciatura fumante** ed un corno draconico argentato dove una volta si trovava.
 
-### Scena 3: Ritorno al Tempio e Visione personale
