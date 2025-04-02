@@ -45,22 +45,22 @@ E con questo...
 **Contro**
 - Nessuno del party ha mai affrontato un Hydra, ma tutti sanno che sono mostri quasi leggendari, lo scontro potrebbe rivelarsi più duro del previsto e sicuramente tasserà le loro risorse.
 
-L'idra potrebbe essere legato ad Akònus l'idra primordiale che è il famiglio di Prosimena, la driade madre dell'intero vecchiobosco, mentre magari l'idra presente qui al tempio è il famiglio di Demetria la driade corrotta e quest'idra vede Akonus come un rivale o qualcos'altro... 
+L'idra potrebbe essere legato ad Akònus l'idra primordiale che è il famiglio di Prosimena, la driade madre dell'intero vecchiobosco, mentre magari l'idra presente qui al tempio è il famiglio di [[Demetria]] la driade corrotta e quest'idra vede Akonus come un rivale o qualcos'altro... 
 
 ### Eventi di viaggio
 qualche idea:
-- Un promemoria di ciò che c'è di buono nel mondo di Thylea, incontro con una tribù di elfi  la loro prole che vivono in pace nel vecchiobosco.
+- Un promemoria di ciò che c'è di buono nel mondo di [[Thylea]], incontro con una tribù di elfi  la loro prole che vivono in pace nel vecchiobosco.
 	- Un cucciolo di elfo è in pericolo da un lupo! Se salvato porta gli eroi al suo villaggio.
 - Incontro legato ad Artemisia: quando si accampano gli eroi si accorgono che non riescono a dormire, una maledizione aleggia nell'aria e sembra provenire da delle rovine lunari poco lontane.
 	- Al centro del tempio si trova una grande **piscina d’acqua limpida**, dove la luna è sempre riflessa. Avvicinandosi, i PG vedono **immagini sfocate**: Gli eroi profetizzati si trovano nel tempio, esausti dopo aver affrontato un’enorme Minotauro. Il momento della strage viene vissuto in prima persona dai PG: un urlo straziante, il sangue che si riversa sulle pietre, le lame che trapassano amici e compagni. Artemisia piange mentre uccide chiedendo perdono.
 - Un evento legato a Notos dove scopre che i suoi strumenti magici sono stati rubati e dice che una sua vecchia amica che potrebbe saperne qualcosa abita qui vicino
 	- Notos racconta un po del suo passato e li porta all'evento "Euria, il vento dell'Est"
-- Un incontro con Volkan che cerca di vendere uno dei suoi strani aggeggi ad un contadino di Estoria.
+- Un incontro con [[Volkan]] che cerca di vendere uno dei suoi strani aggeggi ad un contadino di Estoria.
 	- “Senti, vecchio! Ti ho detto che non voglio ‘sta dannata cosa!”
 	- _“Ma certo che lo vuoi, contadino ingrato! Questa è un’invenzione rivoluzionaria!”_
 	
 	**Zappa a Fisarmonica**: 
-	Una zappa che, quando usata, fa un suono di fisarmonica. Può sembrare divertente all'inizio, ma non serve assolutamente a zappare la terra. Volkan dice che è per "alleggerire l'umore durante il lavoro nei campi."
+	Una zappa che, quando usata, fa un suono di fisarmonica. Può sembrare divertente all'inizio, ma non serve assolutamente a zappare la terra. [[Volkan]] dice che è per "alleggerire l'umore durante il lavoro nei campi."
 	
 	**Staff of Dreams**:
 	A very large two handed stick, more of a branch really. It acts like a club, and on a successful strenght check, the target _magically_ becomes unconscious. The DC for the strength check is the target's Constitution **Score**.
@@ -92,10 +92,10 @@ qualche idea:
 	- Se bevono dal corno ottengono la visione dell'ULTROS.
 
 ### Sidequesting in Città
-- Girano voci dell'arrivo di una Quest alla gilda dei cacciatori di Estoria dal Re di Mytros in persona! La gilda sta prendendo piede, ci sono molte missioni disponibili per chiunque sia alla ricerca di fama e denaro. Quest Board Estoria.
-- è in corso un'asta pubblica per il vecchio bastione tra la nuova fucina e la gilda dei cacciatori, ma Hammund  Volkan continuano a rialzare il prezzo a cifre esorbitanti... qualcuni ci parli e li fermi...
-- Questa serà ci sarà la prima esibizione del nuovo spettacolo all'anfiteatro: Pyhtor e le cinque sorelle! Pythor ed Anora sono ospiti d'onore.
+- Girano voci dell'arrivo di una Quest alla gilda dei cacciatori di Estoria dal Re di Mytros in persona! La gilda sta prendendo piede, ci sono molte missioni disponibili per chiunque sia alla ricerca di fama e denaro. [[Quest Board Estoria]].
+- è in corso un'asta pubblica per il vecchio bastione tra la nuova fucina e la gilda dei cacciatori, ma Hammund  [[Volkan]] continuano a rialzare il prezzo a cifre esorbitanti... qualcuni ci parli e li fermi...
+- Questa serà ci sarà la prima esibizione del nuovo spettacolo all'anfiteatro: Pyhtor e le cinque sorelle! [[Pythor]] ed Anora sono ospiti d'onore.
 - Il Graverobber Claus prova a vendere la collana di palle di fuoco al party ma UGO il magnifico mercante spiega la situazione.
 - Le miniere di rame della città siano state per chiuse per via di un infestazione di mostri, sembra che i nani abbiano scavato troppo a fondo... di nuovo. Qualcuno può risolvere la situazione?
-- Girano voci nel mercato nero di un nuovo insediamento che vorrebbe aprire rapporti economici con Estoria, la cosa strana è che Zarkh'Ul dice di essere in grado di fornire del Mythrall, lupo solitario vuole che la fonte sia investigata.
+- Girano voci nel mercato nero di un nuovo insediamento che vorrebbe aprire rapporti economici con Estoria, la cosa strana è che [[Zarkh'Ul]] dice di essere in grado di fornire del Mythrall, lupo solitario vuole che la fonte sia investigata.
 - Beni e Animali stanno sparendo dal villaggio halfling annesso ad Estoria e svariati alberi sono stati trovati tagliati da spiriti della natura. Il sindaco di Woodhike teme lo zampino di un gruppo di banditi e chiede che siano spaventati e cacciati via.
