@@ -1,3 +1,15 @@
+### **"The Blooming"** 🌸 (Rank E)
+
+🔹 **Posted By**: Lykaon, a hunter from the guild  
+🔹 **Location**: Woodhike Woods 
+
+*"Bodies turn up in the woods all the time—bandits, lost hunters, the usual—but I ain’t never seen one like this. I was gathering herbs near the riverbend when I found him. He was covered in flowers.*
+
+*I thought maybe it was some funeral rite—maybe a dryad had taken pity on the poor soul. But when I looked closer, I realized the flowers weren’t laid on him. They were growing out of him.*
+
+*I ain’t going back out there, but if you’ve got the stomach for it, I need someone to burn the whole thing. Plants shouldn’t grow like that. Not from people."*
+
+🔹 **Reward**: 25 gp, a potion of healing
 
 ---
 ## **"Missing Cows"** 🐂 _(Rank D)_
@@ -63,6 +75,6 @@ _"There are things that should never be disturbed. And yet, someone has. I have 
 
 *If you think yourself worthy of such a hunt, come to Estoria. We will plan, we will prepare, and by the time we set sail, we will make history."***
 
-🔹 **Reward**: Fortune, fame, and a place in history books. The spoils of a Calamity's corpse are beyond imagining.
+🔹 **Reward**: Fortune, fame, and a place in history books. The spoils of a Calamity are beyond imagining.
 
 ---
