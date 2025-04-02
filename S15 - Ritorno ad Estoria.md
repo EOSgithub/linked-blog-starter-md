@@ -58,6 +58,9 @@ qualche idea:
 	- “Senti, vecchio! Ti ho detto che non voglio ‘sta dannata cosa!”
 	- _“Ma certo che lo vuoi, contadino ingrato! Questa è un’invenzione rivoluzionaria!”_
 
+**Zappa a Fisarmonica**: 
+Una zappa che, quando usata, fa un suono di fisarmonica. Può sembrare divertente all'inizio, ma non serve assolutamente a zappare la terra. Volkan dice che è per "alleggerire l'umore durante il lavoro nei campi."
+
 **Staff of Dreams**:
 A very large two handed stick, more of a branch really. It acts like a club, and on a successful strenght check, the target _magically_ becomes unconscious. The DC for the strength check is the target's Constitution Score.
 This can’t be done if the target has more than 20 hit points remaining, if the target does not have a head, or if the target cannot fall unconscious.
@@ -65,5 +68,35 @@ This can’t be done if the target has more than 20 hit points remaining, if the
 **Ball of Bear rings:**
 a metal ball made out of interconnecting rings in the shape of tiny bears. When activated the bears become detached and animated. The bears act like a swarm and can't form complex shapes, but they can retrieve objects and will growl in the direction of danger when activated.
 
-**Shoes of teleportation**:
-On activating they teleport 20 feet in any direction.
+**Boots of Teleportation**:
+1/short rest: As a bonus actionthey teleport up to 60ft to a place you can see.
+
+**Earmuffs of silence**: 
+Wearing these enchanted earmuffs makes the user completely unable to hear anything.
+
+**Gem of Blinding**: 
+This gem emits a 120', 5" radius line of bright light directly at the user's eyes.
+
+**Hat of Truth Detection**: 
+Has the appearance of a stylish hat with a gem stone adornment, which lights up when the wearer is being deceitful. Attuned, cannot be removed until the curse is broken.
+
+**Occasional Folding Table**: 
+Sometimes it's a table, sometimes it's not. It tends to choose not to be a table just as you're about to place something fragile on it.
+
+**Teapot of Tea Time**: 
+A teapot that will, every day at 4 o'clock, whistle loudly and make piping hot tea… There is no way to prevent this. 
+
+### Consegnare il Corno
+Il tempio del drago è stato restaurato.
+Chondrus li accoglie e li accompagna nel reliquario, facendo vedere i nuovi sistemi di sicurezza.
+Chondrus rivela che le investigazioni hanno rivelato i colpevoli, dei capridi guidati da un vecchio stregone, chiede al party se l'hanno incontrato e nel caso di riscattare la taglia.
+Viene offerto ai personaggi di bere dal corno di Balmytria, si dice che porti buon auspicio e che si possano ottenenre "Le informazioni di cui si avrà bisogno in futuro."
+- Se bevono dal corno ottengono la visione dell'ULTROS.
+
+### Sidequesting in Città
+
+- Girano voci dell'arrivo di una Quest alla gilda dei cacciatori di Estoria dal Re di Mytros in persona!
+- Questa serà ci sarà la prima esibizione del nuovo spettacolo all'anfiteatro: Pyhtor e le cinque sorelle!
+- Il Graverobber Claus prova a vendere la collana di palle di fuoco al party ma UGO il magnifico mercante spiega la situazione.
+- Le miniere di rame della città siano state per chiuse per via di un infestazione di mostri, sembra che i nani abbiano scavato troppo a fondo... di nuovo.
+- Girano voci nel mercato nero di un nuovo insediamento che vorrebbe aprire rapporti con Estoria e dice di essere in grado di fornire Mythrall
