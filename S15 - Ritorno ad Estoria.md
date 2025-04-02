@@ -44,13 +44,26 @@ Pro
 Contro
 - Nessuno del party ha mai affrontato un Hydra, ma tutti sanno che sono mostri quasi leggendari, lo scontro potrebbe rivelarsi più duro del previsto.
 
-Dettagli scontro con l'idra...
-
-L'idra potrebbe essere legato ad Akònus l'idra primordiale che è il famiglio di Prosimena, la driade madre dell'intero vecchiobosco, mentre magari l'idra presente qui al tempio è il famiglio di Demetria la driade corrotta e quest'idra vede Akonus come un rivale o qualcos'altro... (L'Idra qui al tempio ha ricevuto il comando di attaccare qualsiasi non capride o driade che cerchi di entrare o uscire dal tempio), (Artemisia era stata incaricata da Akonus di tenere d'occhio Uranis, un'altro degli eroi profetizzati).
+L'idra potrebbe essere legato ad Akònus l'idra primordiale che è il famiglio di Prosimena, la driade madre dell'intero vecchiobosco, mentre magari l'idra presente qui al tempio è il famiglio di Demetria la driade corrotta e quest'idra vede Akonus come un rivale o qualcos'altro... 
 
 ### Eventi di viaggio
 qualche idea:
 - Un promemoria di ciò che c'è di buono nel mondo di Thylea, incontro con una tribù di elfi  la loro prole che vivono in pace nel vecchiobosco.
-- Incontro legato ad Artemisia, non diretto (è la druida della luna che faceva parte del party che era destinato a impedire il ritorno dei titani ma durante una missione è stata corrotta dalla pazzia di Lutheria ed ha tradito e ucciso gli altri eroi profetizzati prima di scomparire).
-- Un evento legato a Notos, "Notos, il Vento del Sud" era nota come insegnante di musica presso l'Accademia di Mytros e fece parte dei "4 Venti", un gruppo di musicisti famosi in tutta thylea. Quando era bambina, Volkan costruì i suoi magici strumenti musicali, che venivano regolarmente presi in prestito dagli altri venti. Facevano musica e avevano la regola di non interferire nella politica. Lutheria sa che l'Arpa Boreale potrebbe fermare l'uragano di Sydon su Mytros, e voleva evitare che fosse disponibile, senza rompere il Giuramento di Pace. Lutheria inviò dei sogni a Boreas, mostrando che Notos stava supportando i Cinque, non rispettando la neutralità del vento, e gli fece pensare che gli strumenti della Musa appartenessero di fatto più ai Venti che a Notos, specialmente l'Arpa Boreale a cui Borea era affezionato. Funzionò, e i venti rubarono gli strumenti musicali di Kyrah, mentre Boreas tenne l'Arpa. Durante questo evento, fai in modo che Notos, infastidita, accenni al fatto che ha ricevuto notizia che la sua stanza alla Mytros Academia è stata derubata di alcuni dei suoi strumenti musicali, quindi il gruppo viene a conoscenza del rapimento da parte dei Quattro Venti. Notos dice tutto questo perchè Euria, il Vento d'Autunno: Vento dell'Est (CN oread), possiede la lira degli Euria, vive nella torre di guardia in rovina poco distante da dove si trova il party al momento. Euria (CN Oread vive all'interno della torre di guardia e suona musica su una lira Euros. La ninfa della montagna ha un elementale del fuoco permanentemente ammaliato che funge da faro in cima alla torre. Euria è radiosamente bella e non indossa nulla tranne un mantello di protezione. È educata e accogliente con i viaggiatori, ma non è per niente interessata al motivo per cui gli eroi sono venuti nella sua torre. Tuttavia, li ammira apertamente come avventurieri forti e potenti.Euria vuole attirare i viaggiatori nella sua torre per trasformarli in schiavi. Preferisce che le sue vittime siano consenzienti e si offrirà di portare uno degli eroi in "paradiso".
-- Altre idee di eventi che potrebbero accadere nel viaggio di 2 giorni dal vecchiobosco ad estoria.
+	- Un cucciolo di elfo è in pericolo da un lupo! Se salvato porta gli eroi al suo villaggio.
+- Incontro legato ad Artemisia: quando si accampano gli eroi si accorgono che non riescono a dormire, una maledizione aleggia nell'aria e sembra provenire da delle rovine lunari poco lontane.
+	- Al centro del tempio si trova una grande **piscina d’acqua limpida**, dove la luna è sempre riflessa. Avvicinandosi, i PG vedono **immagini sfocate**: Gli eroi profetizzati si trovano nel tempio, esausti dopo aver affrontato un’enorme Minotauro. Il momento della strage viene vissuto in prima persona dai PG: un urlo straziante, il sangue che si riversa sulle pietre, le lame che trapassano amici e compagni. Artemisia piange mentre uccide chiedendo perdono.
+- Un evento legato a Notos dove scopre che i suoi strumenti magici sono stati rubati e dice che una sua vecchia amica che potrebbe saperne qualcosa abita qui vicino
+	- Notos racconta un po del suo passato e li porta all'evento "Euria, il vento dell'Est"
+- Un incontro con Volkan che cerca di vendere uno dei suoi strani aggeggi ad un contadino di Estoria.
+	- “Senti, vecchio! Ti ho detto che non voglio ‘sta dannata cosa!”
+	- _“Ma certo che lo vuoi, contadino ingrato! Questa è un’invenzione rivoluzionaria!”_
+
+**Staff of Dreams**:
+A very large two handed stick, more of a branch really. It acts like a club, and on a successful strenght check, the target _magically_ becomes unconscious. The DC for the strength check is the target's Constitution Score.
+This can’t be done if the target has more than 20 hit points remaining, if the target does not have a head, or if the target cannot fall unconscious.
+
+**Ball of Bear rings:**
+a metal ball made out of interconnecting rings in the shape of tiny bears. When activated the bears become detached and animated. The bears act like a swarm and can't form complex shapes, but they can retrieve objects and will growl in the direction of danger when activated.
+
+**Shoes of teleportation**:
+On activating they teleport 20 feet in any direction.
