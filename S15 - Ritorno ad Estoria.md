@@ -41,8 +41,9 @@ E con questo...
 Pro
 - Gli eroi hanno con se una ventina di ragazzi e ragazze, uccidere l'idra prima di uscire dal tempio assicurerebbe la loro incolumità senza dover rischiare di essere sentiti mentre scappano.
 - Le Idra sono mostri molto ricercati per via delle potenti propietà curative del loro sangue e  organi, riuscire a sconfiggerla significherebbe ottenere materiali preziosi molto ricercati dalla gilda dei cacciatori di Estoria.
+- Aumento di Fama
 Contro
-- Nessuno del party ha mai affrontato un Hydra, ma tutti sanno che sono mostri quasi leggendari, lo scontro potrebbe rivelarsi più duro del previsto.
+- Nessuno del party ha mai affrontato un Hydra, ma tutti sanno che sono mostri quasi leggendari, lo scontro potrebbe rivelarsi più duro del previsto e sicuramente tasserà le loro risorse.
 
 L'idra potrebbe essere legato ad Akònus l'idra primordiale che è il famiglio di Prosimena, la driade madre dell'intero vecchiobosco, mentre magari l'idra presente qui al tempio è il famiglio di Demetria la driade corrotta e quest'idra vede Akonus come un rivale o qualcos'altro... 
 
@@ -94,9 +95,10 @@ Viene offerto ai personaggi di bere dal corno di Balmytria, si dice che porti bu
 - Se bevono dal corno ottengono la visione dell'ULTROS.
 
 ### Sidequesting in Città
-
-- Girano voci dell'arrivo di una Quest alla gilda dei cacciatori di Estoria dal Re di Mytros in persona!
-- Questa serà ci sarà la prima esibizione del nuovo spettacolo all'anfiteatro: Pyhtor e le cinque sorelle!
+- Girano voci dell'arrivo di una Quest alla gilda dei cacciatori di Estoria dal Re di Mytros in persona! La gilda sta prendendo piede, ci sono molte missioni disponibili per chiunque sia alla ricerca di fama e denaro.
+- è in corso un'asta pubblica per il vecchio bastione tra la nuova fucina e la gilda dei cacciatori, ma Hammund  Volkan continuano a rialzare il prezzo a cifre esorbitanti... qualcuni ci parli e li fermi...
+- Questa serà ci sarà la prima esibizione del nuovo spettacolo all'anfiteatro: Pyhtor e le cinque sorelle! Pythor ed Anora sono ospiti d'onore.
 - Il Graverobber Claus prova a vendere la collana di palle di fuoco al party ma UGO il magnifico mercante spiega la situazione.
-- Le miniere di rame della città siano state per chiuse per via di un infestazione di mostri, sembra che i nani abbiano scavato troppo a fondo... di nuovo.
-- Girano voci nel mercato nero di un nuovo insediamento che vorrebbe aprire rapporti con Estoria e dice di essere in grado di fornire Mythrall
+- Le miniere di rame della città siano state per chiuse per via di un infestazione di mostri, sembra che i nani abbiano scavato troppo a fondo... di nuovo. Qualcuno può risolvere la situazione?
+- Girano voci nel mercato nero di un nuovo insediamento che vorrebbe aprire rapporti economici con Estoria, la cosa strana è che Zarkh'Ul dice di essere in grado di fornire del Mythrall, lupo solitario vuole che la fonte sia investigata.
+- Beni e Animali stanno sparendo dal villaggio halfling annesso ad Estoria e svariati alberi sono stati trovati tagliati da spiriti della natura. Il sindaco di Woodhike teme lo zampino di un gruppo di banditi e chiede che siano spaventati e cacciati via.
