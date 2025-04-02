@@ -25,15 +25,15 @@ E con questo...
 > Certo certo, per questa volta puoi fare tu da Cantastorie, qual'è il tuo nome?
 > Ok, perfetto, Chad, il palco è tuo.
 > 
-> Allora, mancavano **146 giorni dal drop finale del Patto di Pace** quando i nostri quattro bro, con più **drip** che buon senso, si presero una **W** alla cascata sotterranea, Aura farmando su goatling, fauni e NPC come se fossero in un tutorial. Le quattro absolute unit mettono al sicuro gli NPC e poi, come veri **stealth gamers**, entrano nel covo nemico.
+> Allora, mancavano **146 giorni dal drop finale del Patto di Pace** quando i nostri quattro bro, con il loro mega **drip** si presero una **W** alla cascata sotterranea, Aura farmando su goatling, fauni e NPC come se fossero in un tutorial. Le quattro absolute unit mettono al sicuro gli NPC e poi, come veri **stealth gamers**, entrano nel covo nemico.
 > 
 > Arrivati alla **sala del gran ciccio-satiro Xaricus**, scoprono che quel tizio stava per lanciare un banchetto **antropofagico** tipo endgame, ma i nostri eroi sfruttano il loro social engeneering e si infilano nella scena grazie al **pact di ospitalità** senza far partire l'aggro.
 > 
 > Tutto liscio finché qualcuno non **droppò un insulto critico**. Xaricus, tiltato peggio di un silver in ranked, perde il controllo, rompe il patto e attacca. Parte la **bossfight**, e da li a poco il party **si prende la seconda W** e si porta a casa anche **il corno di Balmytria**.
 > 
-> Proprio quando stanno per lootare, **una creatura alata arriva e dice solo "Oathbreaker" poi  sparisce nel nulla con il corpo di Xaricus. I nostri eroi, fingendo di non aver sentito, esplorano il tempio, raccolgono gli NPC superstiti e droppano un long rest** nella foresta sotterranea.
+> Proprio quando stanno per loottare, **una creatura alata arriva e dice solo "Oathbreaker" poi  sparisce nel nulla con il corpo di Xaricus. I nostri eroi, fingendo di non aver sentito, esplorano il tempio, raccolgono gli NPC superstiti e droppano un long rest** nella foresta sotterranea.
 > 
-> La mattina seguente, io guardai il gruppo e, con il massimo **rizz** chiesi:
+> La mattina seguente, mi svegliai, guardai il gruppo e, con il massimo **rizz** chiesi:
 > 
 > **"Ehm, broschis… avete intenzione di spawnkillare quell’idra o dobbiamo skibidi-sgattaiolare via?"**
 
@@ -46,6 +46,32 @@ E con questo...
 - Nessuno del party ha mai affrontato un Hydra, ma tutti sanno che sono mostri quasi leggendari, lo scontro potrebbe rivelarsi più duro del previsto e sicuramente tasserà le loro risorse.
 
 L'idra potrebbe essere legato ad Akònus l'idra primordiale che è il famiglio di Prosimena, la driade madre dell'intero vecchiobosco, mentre magari l'idra presente qui al tempio è il famiglio di [[Demetria]] la driade corrotta e quest'idra vede Akonus come un rivale o qualcos'altro... 
+
+> _"Io, Notos, musa delle vostre imprese, ho ricevuto un dono inestimabile!"_
+> 
+> _"I giovani superstiti… mi hanno iniziata al **lingo delle persone cool**!"_
+> 
+> Un silenzio gelido cadde sul campo. Kyrgios sbatté le palpebre, Lucius deglutì, Phiore si sedette più dritto e Bayle cominciò a guardarsi attorno come se volesse scappare.
+> 
+> Notos alzò una mano in segno di supremazia e **partì il delirio.**
+> 
+> **"Omg, broschis, sto per droppare un annuncio leggendario, quindi tipo sedetevi e ascoltate con attenzione no cap."**
+> 
+> Lucius quasi si soffocò con l’acqua.
+> 
+> **"La vostra missione è tipo un giga W, ma c’è ancora del grinding da fare prima del final boss. Il corno? Easy loot. Ma quella idra là fuori? Quella è un'unità tank full meta, e se non siamo built different potremmo prendere una L grossa quanto il Patto di Pace."**
+> 
+> Phiore si prese la testa tra le mani. Kyrgios iniziò a controllare se aveva delle erbe per il mal di testa. Bayle stava _visibilmente_ considerando il giuramento di non violenza pur di **evitare di dover assistere a quella scena ancora a lungo.**
+> 
+> Notos si avvicinò a Bayle e gli diede una pacca sulla spalla.
+> 
+> **"Bro, sei giga tiltato? Tranquillo, non sto cap-pando. Le informazioni sono legit.**
+> 
+> Silenzio.
+> 
+> Lucius si mise una mano sul petto. **"Notos, ti prego. Smettila."**
+> 
+> Lei sbuffò e mise le mani sui fianchi. **"Cringe detected? Skill issue."**
 
 ### Eventi di viaggio
 qualche idea:
