@@ -18,22 +18,22 @@ Riduciamo al minimo i discorsi meta.
 E con questo...
 > Ogni nuova era è definita da quella precedente.
 > 
-> Quest'epoca di tenue pace è definita dalla fine della Guerra dei Titani, dall'arrivo dei Cinque Dei e dalla profezia che deciderà il futuro di [[Thylea]].
+> Quest'epoca di pace è stata definita dalla profezia che decise il futuro di [[Thylea]].
 > 
 > Era il **7 Ag...** hah? Cosa?....
 > Mi stai dicendo che eri lì quel giorno? Ah! perfetto!
 > Certo certo, per questa volta puoi fare tu da Cantastorie, qual'è il tuo nome?
 > Ok, perfetto, Chad, il palco è tuo.
 > 
-> Mancavano **146 giorni dal drop finale del Patto di Pace**, quando i nostri quattro eroi, con più drip che saggezza, si presero una **W** alla cascata sotterranea, Aura Farmando su goatling, fauni e NPC di basso livello che si mettevano in mezzo. Con i PNG al sicuro, il party si **infiltrò come degli stealth gamer** nel covo nemico.
+> Allora, mancavano **146 giorni dal drop finale del Patto di Pace** quando i nostri quattro bro, con più **drip** che buon senso, si presero una **W** alla cascata sotterranea, Aura farmando su goatling, fauni e NPC come se fossero in un tutorial. Le quattro absolute unit mettono al sicuro gli NPC e poi, come veri **stealth gamers**, entrano nel covo nemico.
 > 
-> In poco tempo arrivarono alla **sala del gran ciccio-satiro Xaricus**, il quale stava per lanciare il più nefando dei party: un **banchetto antropofagico** con tanto di brindisi malvagio. Gli eroi, da veri social engineer, usarono la **carta del patto di ospitalità** per infilarsi in casa sua senza far partire l’aggro.
+> Arrivati alla **sala del gran ciccio-satiro Xaricus**, scoprono che quel tizio stava per lanciare un banchetto **antropofagico** tipo endgame, ma i nostri eroi sfruttano il loro social engeneering e si infilano nella scena grazie al **pact di ospitalità** senza far partire l'aggro.
 > 
-> Tutto filò liscio fino a quando qualcuno **droppò un insulto critico** sul povero Xaricus. Il bestione, tiltato peggio di un silver in ranked, perse ogni briciolo di self-control e attaccò i suoi invitati, **rompendo il patto** e lanciandosi in un combattimento degno di una bossfight non patchata. Gli eroi **presero la seconda W** e si portarono a casa **il corno di Balmytria**.
+> Tutto liscio finché qualcuno non **droppò un insulto critico**. Xaricus, tiltato peggio di un silver in ranked, perde il controllo, rompe il patto e attacca. Parte la **bossfight**, e da li a poco il party **si prende la seconda W** e si porta a casa anche **il corno di Balmytria**.
 > 
-> Ma proprio mentre il corpaccione di Xaricus stava per essere lootato, il destino disse **"alt, non oggi"**. Una **creatura con le ali cineree** apparve dal nulla, disse: Oathbreaker e si portò via il corpo. Il party, fingendo di non aver sentito, decise di esplorare il resto del **tempio**, raccogliere gli NPC superstiti e poi **droppare un long rest** nella foresta sotterranea.
+> Proprio quando stanno per lootare, **una creatura alata arriva e dice solo "Oathbreaker" poi  sparisce nel nulla con il corpo di Xaricus. I nostri eroi, fingendo di non aver sentito, esplorano il tempio, raccolgono gli NPC superstiti e droppano un long rest** nella foresta sotterranea.
 > 
-> La mattina seguente, proprio io in persona, guardai il gruppo e chiesi con max rizz:
+> La mattina seguente, io guardai il gruppo e, con il massimo **rizz** chiesi:
 > 
 > **"Ehm, broschis… avete intenzione di spawnkillare quell’idra o dobbiamo skibidi-sgattaiolare via?"**
 
@@ -58,41 +58,38 @@ qualche idea:
 - Un incontro con Volkan che cerca di vendere uno dei suoi strani aggeggi ad un contadino di Estoria.
 	- “Senti, vecchio! Ti ho detto che non voglio ‘sta dannata cosa!”
 	- _“Ma certo che lo vuoi, contadino ingrato! Questa è un’invenzione rivoluzionaria!”_
-
-**Zappa a Fisarmonica**: 
-Una zappa che, quando usata, fa un suono di fisarmonica. Può sembrare divertente all'inizio, ma non serve assolutamente a zappare la terra. Volkan dice che è per "alleggerire l'umore durante il lavoro nei campi."
-
-**Staff of Dreams**:
-A very large two handed stick, more of a branch really. It acts like a club, and on a successful strenght check, the target _magically_ becomes unconscious. The DC for the strength check is the target's Constitution Score.
-This can’t be done if the target has more than 20 hit points remaining, if the target does not have a head, or if the target cannot fall unconscious.
-
-**Ball of Bear rings:**
-a metal ball made out of interconnecting rings in the shape of tiny bears. When activated the bears become detached and animated. The bears act like a swarm and can't form complex shapes, but they can retrieve objects and will growl in the direction of danger when activated.
-
-**Boots of Teleportation**:
-1/short rest: As a bonus actionthey teleport up to 60ft to a place you can see.
-
-**Earmuffs of silence**: 
-Wearing these enchanted earmuffs makes the user completely unable to hear anything.
-
-**Gem of Blinding**: 
-This gem emits a 120', 5" radius line of bright light directly at the user's eyes.
-
-**Hat of Truth Detection**: 
-Has the appearance of a stylish hat with a gem stone adornment, which lights up when the wearer is being deceitful. Attuned, cannot be removed until the curse is broken.
-
-**Occasional Folding Table**: 
-Sometimes it's a table, sometimes it's not. It tends to choose not to be a table just as you're about to place something fragile on it.
-
-**Teapot of Tea Time**: 
-A teapot that will, every day at 4 o'clock, whistle loudly and make piping hot tea… There is no way to prevent this. 
+	
+	**Zappa a Fisarmonica**: 
+	Una zappa che, quando usata, fa un suono di fisarmonica. Può sembrare divertente all'inizio, ma non serve assolutamente a zappare la terra. Volkan dice che è per "alleggerire l'umore durante il lavoro nei campi."
+	
+	**Staff of Dreams**:
+	A very large two handed stick, more of a branch really. It acts like a club, and on a successful strenght check, the target _magically_ becomes unconscious. The DC for the strength check is the target's Constitution **Score**.
+	This can’t be done if the target has more than 20 hit points remaining, if the target does not have a head, or if the target cannot fall unconscious.
+	
+	**Ball of Bear rings:**
+	a metal ball made out of interconnecting rings in the shape of tiny bears. When activated the bears become detached and animated. The bears act like a swarm and can't form complex shapes, but they can retrieve objects and will growl in the direction of danger when activated.
+	
+	**Boots of Teleportation**:
+	1/short rest: As a bonus action they can teleport up to 60ft to a place you can see.
+	
+	**Gem of Blinding**: 
+	This gem emits a 120', 5" radius line of bright light directly at the user's eyes.
+	
+	**Hat of Truth Detection**: 
+	Has the appearance of a stylish hat with a gem stone adornment, which lights up when the wearer is being deceitful. Attuned, cannot be removed until the curse is broken.
+	
+	**Occasional Folding Table**: 
+	Sometimes it's a table, sometimes it's not. It tends to choose not to be a table just as you're about to place something fragile on it.
+	
+	**Teapot of Tea Time**: 
+	A teapot that will, every day at 4 o'clock, whistle loudly and make piping hot tea… There is no way to prevent this. 
 
 ### Consegnare il Corno
-Il tempio del drago è stato restaurato.
-Chondrus li accoglie e li accompagna nel reliquario, facendo vedere i nuovi sistemi di sicurezza.
-Chondrus rivela che le investigazioni hanno rivelato i colpevoli, dei capridi guidati da un vecchio stregone, chiede al party se l'hanno incontrato e nel caso di riscattare la taglia.
-Viene offerto ai personaggi di bere dal corno di Balmytria, si dice che porti buon auspicio e che si possano ottenenre "Le informazioni di cui si avrà bisogno in futuro."
-- Se bevono dal corno ottengono la visione dell'ULTROS.
+- Il tempio del drago è stato restaurato.
+- Chondrus li accoglie e li accompagna nel reliquario, facendo vedere i nuovi sistemi di sicurezza.
+- Chondrus rivela che le investigazioni hanno rivelato i colpevoli, dei capridi guidati da un vecchio stregone, chiede al party se l'hanno incontrato e nel caso di riscattare la taglia.
+- Viene offerto ai personaggi di bere dal corno di Balmytria, si dice che porti buon auspicio e che si possano ottenenre "Le informazioni di cui si avrà bisogno in futuro."
+	- Se bevono dal corno ottengono la visione dell'ULTROS.
 
 ### Sidequesting in Città
 - Girano voci dell'arrivo di una Quest alla gilda dei cacciatori di Estoria dal Re di Mytros in persona! La gilda sta prendendo piede, ci sono molte missioni disponibili per chiunque sia alla ricerca di fama e denaro.
