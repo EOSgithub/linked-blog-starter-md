@@ -2,11 +2,11 @@
 - Bayle, Sangue di Drago, Blood Hunter, Cacciatore di Mostri, Membro di alto rango della gilda, ***in fuga dall'ordine di Midas.***
 - Lucius, Tiefling, Sorcerer, Magnate del mercato nero di Estoria, socialita carismatico, ***discepolo di Kirah.***
 - Phiore, Goliath, Druid, Eremita dalle montagne, era fan di Aria, gigante buono.
-- Asterius, Minotauro, Monk, Atleta Olimpionico, fissazione sull'allenamento.
+- Asterius, Minotauro, Monk, Atleta Olimpionico, fissazione sull'allenamento, ***rivali per le olimpiadi***.*
 
 ## Overlook della Sessione
 - I personaggi decidono se affrontare l'Idra o meno.
-- Evento durante il viaggio di ritorno ad Estoria.
+- Evento durante il viaggio di ritorno ad Estoria legato alla backstory di uno dei personaggi.
 - Il Corno viene consegnato al tempio del drago e viene offerto agli avventurieri di berne per ricevere un buon auspicio e fortuna.
 - Sidequesting.
   
@@ -20,7 +20,7 @@ E con questo...
 > 
 > Quest'epoca di tenue pace è definita dalla fine della Guerra dei Titani, dall'arrivo dei Cinque Dei e dalla profezia che deciderà il futuro di [[Thylea]].
 > 
-> Era il **7 Ag...** hah? Cosa?....
+> Era il **7 Ag...** huh? Cosa?....
 > Mi stai dicendo che eri lì quel giorno? Ah! perfetto!
 > Certo certo, per questa volta puoi fare tu da Cantastorie, qual'è il tuo nome?
 > Ok, perfetto, Chad, il palco è tuo.
