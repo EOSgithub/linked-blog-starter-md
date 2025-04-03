@@ -34,7 +34,7 @@ _"We got a problem, and not the kind that goes away on its own. Boats go out, bu
 ---
 ## **"The Faceless Man"** 🎭 _(Rank B)_
 
-🔹 **Posted by**: Melina, a frantic noblewoman  
+🔹 **Posted by**: Rose, a frantic noblewoman  
 🔹 **Location**: The Noble District of Estoria
 
 _"I saw him again. At the feast, at the market, even outside my window last night. He looks like my father… but my father is gone. And it’s not just me. Others whisper of seeing loved ones long gone, standing on the street corner, watching. Not speaking. Just… watching. Someone must find out what is happening before none of us are who we were."_
@@ -49,7 +49,7 @@ _"I saw him again. At the feast, at the market, even outside my window last nigh
 
 _"There are things that should never be disturbed. And yet, someone has. I have studied the monastery’s records—centuries ago, they bound something within those walls, something that should never have seen the light of day again. But the seals are broken, and the mercenaries I hired never returned. The one survivor… well, he won’t stop screaming about chains. Stop this before it spreads."_
 
-🔹 **Reward**: 600 gp, a relic from the monastery vault, and access to Xanthos’ arcane library
+🔹 **Reward**: 600 gp, a relic from the monastery vault, and access to the monastery library
 
 ---
 ## **"The Lost Ship"** ⚓ _(Rank S)_
@@ -64,14 +64,14 @@ _"There are things that should never be disturbed. And yet, someone has. I have 
 🔹 **Reward**: 8,000 gp, a royal writ of favor, and the ownership of an A-class warship within Mytros' navy (should they forfeit the Ultros).
 
 ---
-## **"The Hunt"** 🦀 _(Rank EX)_
+## **"Titan Hunt"** 🦀 _(Rank EX)_
 
 🔹 **Posted by**: **Guildmaster Hammund 
 🔹 Location: The Hunter’s Guild, Estoria**
 
 *"By the gods, it’s real. After all these years, I knew it wasn’t just a drunken sailor’s tale! I have seen it with my own eyes, and I swear upon my knife—Charix, the Raging Isle, still roams the seas!"*
 
-*"This is not just any hunt. This is war. No single band of hunters will be enough—no, this beast requires an army. I will not see this chance slip through our fingers. If you are reading this, then know that I am calling for the greatest hunters, warriors, and fools with more courage than sense to join me in slaying the greatest quarry of our age.* 
+*"This is not just any hunt. This is war. No single band of hunters will be enough—no, this beast requires an **army**. I will not see this chance slip through our fingers. If you are reading this, then know that I am calling for the greatest hunters, warriors, and fools with more courage than sense to join me in slaying the greatest quarry of our age.* 
 
 *If you think yourself worthy of such a hunt, come to Estoria. We will plan, we will prepare, and by the time we set sail, we will make history."***
 

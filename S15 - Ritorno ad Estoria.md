@@ -47,6 +47,7 @@ E con questo...
 
 L'idra potrebbe essere legato ad Akònus l'idra primordiale che è il famiglio di Prosimena, la driade madre dell'intero vecchiobosco, mentre magari l'idra presente qui al tempio è il famiglio di [[Demetria]] la driade corrotta e quest'idra vede Akonus come un rivale o qualcos'altro... 
 
+Meme:
 > _"Io, Notos, musa delle vostre imprese, ho ricevuto un dono inestimabile!"_
 > 
 > _"I giovani superstiti… mi hanno iniziata al **lingo delle persone cool**!"_
@@ -74,6 +75,7 @@ L'idra potrebbe essere legato ad Akònus l'idra primordiale che è il famiglio d
 > Lei sbuffò e mise le mani sui fianchi. **"Cringe detected? Skill issue."**
 
 ### Eventi di viaggio
+Ricordati le razioni per i due giorni di viaggio.
 qualche idea:
 - Un promemoria di ciò che c'è di buono nel mondo di [[Thylea]], incontro con una tribù di elfi  la loro prole che vivono in pace nel vecchiobosco.
 	- Un cucciolo di elfo è in pericolo da un lupo! Se salvato porta gli eroi al suo villaggio.
@@ -96,7 +98,7 @@ qualche idea:
 	a metal ball made out of interconnecting rings in the shape of tiny bears. When activated the bears become detached and animated. The bears act like a swarm and can't form complex shapes, but they can retrieve objects and will growl in the direction of danger when activated.
 	
 	**Boots of Teleportation**:
-	1/short rest: As a bonus action they can teleport up to 60ft to a place you can see.
+	1/short rest: As a bonus action teleport up to 60ft to a place you can see.
 	
 	**Gem of Blinding**: 
 	This gem emits a 120', 5" radius line of bright light directly at the user's eyes.
@@ -113,13 +115,12 @@ qualche idea:
 ### Consegnare il Corno
 - Il tempio del drago è stato restaurato.
 - Chondrus li accoglie e li accompagna nel reliquario, facendo vedere i nuovi sistemi di sicurezza.
-- Chondrus rivela che le investigazioni hanno rivelato i colpevoli, dei capridi guidati da un vecchio stregone, chiede al party se l'hanno incontrato e nel caso di riscattare la taglia.
+- Chondrus rivela che le investigazioni hanno rivelato i colpevoli, dei capridi guidati da un anziano stregone, chiede al party se l'hanno incontrato e nel caso di riscattare la taglia.
 - Viene offerto ai personaggi di bere dal corno di Balmytria, si dice che porti buon auspicio e che si possano ottenenre "Le informazioni di cui si avrà bisogno in futuro."
 	- Se bevono dal corno ottengono la visione dell'ULTROS.
 
 ### Sidequesting in Città
 - Girano voci dell'arrivo di una Quest alla gilda dei cacciatori di Estoria dal Re di Mytros in persona! La gilda sta prendendo piede, ci sono molte missioni disponibili per chiunque sia alla ricerca di fama e denaro. [[Quest Board Estoria]].
-- è in corso un'asta pubblica per il vecchio bastione tra la nuova fucina e la gilda dei cacciatori, ma Hammund  [[Volkan]] continuano a rialzare il prezzo a cifre esorbitanti... qualcuni ci parli e li fermi...
 - Questa serà ci sarà la prima esibizione del nuovo spettacolo all'anfiteatro: Pyhtor e le cinque sorelle! [[Pythor]] ed Anora sono ospiti d'onore.
 - Il Graverobber Claus prova a vendere la collana di palle di fuoco al party ma UGO il magnifico mercante spiega la situazione.
 - Le miniere di rame della città siano state per chiuse per via di un infestazione di mostri, sembra che i nani abbiano scavato troppo a fondo... di nuovo. Qualcuno può risolvere la situazione?
