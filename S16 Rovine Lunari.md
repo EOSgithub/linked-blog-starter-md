@@ -1,7 +1,9 @@
 ## Overlook della Sessione
 - I personaggi descrivono cosa hanno fatto durante il giorno di riposo.
 - Il gruppo si ritrova e decide di tornare alle rovine lunari.
-- Eventi di viaggio (8h tot, 1 check/h, 18+).
+- Eventi di viaggio (1 check/h, 18+ giorno / 15+ notte).
+- Evento: Rovine Lunari
+- Ritorno ad Estoria
   
 ### Monologo Iniziale
 Ricordatevi di dare spazio a ogni giocatore e di non interromperli.
