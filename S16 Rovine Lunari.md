@@ -1,8 +1,8 @@
 ## Overlook della Sessione
 - I personaggi descrivono cosa hanno fatto durante il giorno di riposo.
 - Il gruppo si ritrova e decide di tornare alle rovine lunari.
-- Eventi di viaggio (1 check/h, 18+ giorno / 15+ notte). Eventi - Vecchiobosco
-- Evento: Rovine Lunari
+- Eventi di viaggio (1 check/h, 18+ giorno / 15+ notte). [[Eventi - Vecchiobosco]]
+- Esplorazione delle Rovine Lunari
 - Ritorno ad Estoria
   
 ### Monologo Iniziale
