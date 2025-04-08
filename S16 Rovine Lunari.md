@@ -20,7 +20,7 @@ E con questo...
 > 
 > Che aspetto ha la vostra routine quando volete decomprimere dopo aver completato una missione pericolosa ed impegnativa? *(Descrivi la giornata dopo essere tornato ad Estoria in seguito alla missione del Corno di Balmytria)*
 
-Ogni personaggio descrive la sua giornata.
 
+Ogni personaggio descrive la sua giornata. Poi, quando hanno finito:
 > Un nuovo sole sorge sulla città di Estoria.
 > Ognuno di voi si alza sapendo che il tempo di riposare è finito... perchè Oggi è l'11 Agosto dell'anno 499 e mancano 142 giorni alla fine del patto di Pace.
