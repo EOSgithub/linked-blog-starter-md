@@ -1,13 +1,14 @@
+### **Sadkar Norbu**
+_Seme di Thylea – Luna_ _(richiede sintonizzazione da un druido)_
 
-Sadkar Norbu (titolo)
-Seme di Thylea - Luna (richiede sintonizzazione da un druido) (in piccolo e corsivo) 
+_Sadkar Norbu, o "Seme Lunare" se tradotto dal primordiale, è una gemma grande quanto il palmo di una mano, dalla forma irregolare ma armoniosa, simile a un nocciolo levigato dal tempo. La superficie riflette solo la luce lunare, rivelando al buio simboli naturali._
 
-breve desrizione dell'artefatto (corsivo)
+![[Sadkar Norbu.webp]]
 
-Descrizione semplice e concisa degli effetti meccanici:
-- ottieni una carica aggiuntiva per la tua forma selvaggia.
-- puoi utilizzare una carica della tua forma selvaggia come azione bonus per attunarti ad un aspetto della luna e guadagnare uno dei seguenti effetti:
-	- Crescente: Quando usi un incatesimo che recupera hp tu o un'altra creatura entro portata guadagna 1d8 + Wis hp.
-	- Piena: Come parte di questa abilità e nei turni successivi come azione bonus puoi fare un attacco magico a distanza lanciando una freccia lunare ad una creatura entro 60ft che infligge 1d8 + Wis danni radianti.
-	- Calante: Quando fai un check di intelligenza o saggezza o un tiro salvezza per mantenere la concentrazione tratti ogni tiro di 9 o meno come un 10.
+Fintanto che sei attunato a questo oggetto:
+- Ottieni una carica aggiuntiva per la tua **Forma Selvaggia**.
+- Puoi spendere 1 carica della tua **Forma Selvaggia** come **azione bonus** per sintonizzarti con uno dei seguenti **aspetti lunari**. L’effetto scelto dura 1 minuto o finché non usi di nuovo questa abilità:
+	- **Crescente**: Quando lanci un incantesimo che cura punti ferita, tu o una creatura entro 30ft **recuperate 1d8 + Wis hp aggiuntivi.
+	- **Piena**: Come parte dell’attivazione e in ciascun turno successivo come **azione bonus**, puoi compiere un attacco magico a distanza contro una creatura entro 60ft che Infligge **1d8 + Wis danni radianti.
+	- **Calante**: Quando effettui una prova di Intelligenza o Saggezza, o un tiro salvezza per mantenere la concentrazione, **tratta qualsiasi tiro pari o inferiore a 9 come un 10**.
 
