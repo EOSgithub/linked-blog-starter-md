@@ -3,7 +3,7 @@ _Seme di Thylea – Luna_ _(richiede sintonizzazione da un druido)_
 
 _Sadkar Norbu, o "Seme Lunare" se tradotto dal primordiale, è una gemma grande quanto il palmo di una mano, dalla forma irregolare ma armoniosa, simile a un nocciolo levigato dal tempo. La superficie riflette solo la luce lunare, rivelando al buio simboli naturali._
 
-![[Sadkar Norbu.webp]]
+---
 
 Fintanto che sei attunato a questo oggetto:
 - Ottieni una carica aggiuntiva per la tua **Forma Selvaggia**.
