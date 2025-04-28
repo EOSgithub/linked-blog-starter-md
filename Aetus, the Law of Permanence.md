@@ -1,37 +1,55 @@
-
 # First Encounter — Entering the Mithral Forge
- 
-> The Forge's elevator creaks and shudders to a halt.
-> 
-> A rush of hot, metallic air greets you — thick with the biting tang of molten ore and old ash. Before you, the cavern stretches over rivers of molten stone.
-> 
-> The glow dances off ancient gantries, broken bridges, and towering statues of dwarven kings now cracked and melted into unrecognizable forms.
-> 
-> At the heart of it all, sprawling across a blackened isle in the lava, you see... a **mountain**.
 
+>  The elevator creaks and shudders to a halt.
+> 
+> A rush of hot, metallic air hits you — thick with the acrid tang of molten ore and long-forgotten ash. Before you, the cavern sprawls, its vastness dominated by rivers of molten stone.
+> 
+> The glow from the lava dances off ancient gantries, broken bridges, and towering statues of dwarven kings, now cracked and melted into unrecognizable husks of their former selves.
+> 
+> At the heart of it all, sprawling across a blackened isle in the lava, you see… a **mountain**.
 
-> No — not a mountain.
+---
+
+> No.
 > 
-> **A pile of polished mithrill ore**. Its surface gleams like a thousand hammered shields fused into a sculpture. 
+> **A heap of polished mithril ore**. Its surface gleams, like a thousand hammered shields fused into a single, monolithic form.
 > 
-> Thick ropy chains swirling with dark runes pin the colossal columns of the structure to the stone under it. 
+> Thick ropy chains, swirling with dark runes, bind the massive columns of this unearthly structure to the stone beneath.
+
+---
+
+> For a moment, you mistake it for an ancient relic.
 > 
-> For a moment, you dare to believe it is simply an ancient relic.
+> Then, **an eye opens**.
 > 
-> Until **an eye opens**.
+> A single vast, slitted iris stares at you with **timeless patience**.
 > 
-> A single vast iris — deep and shining like the molten core of the earth — stares at you with **alien, timeless patience**.
-> 
-> The "mountain" shifts slightly, and the entire cavern groans under the weight of its awareness.
+> The “mountain” shifts, ever so slightly, and the cavern groans under the weight of its awareness.
 > 
 > You feel it:  
-> **The certainty that you are prey, standing at the edge of a slumbering god.**
+> **The certainty that you are standing before a true dragon.**
 
-## **Awakening Aria** 🎶
-> _"Tremble, fleeting ones. 
-> I am the Breath of Endings, the Silence after Becoming, the Stone that dreams.
-> All that moves shall still. All that lives shall kneel. 
+
+## **Awakening Scene** 🎶
+A deep, resonant hum grows from the dragon’s chest, a vibration felt more in your bones than in your ears.
+
+The sound swells and the metal in the cavern begins to **vibrate**.
+
+Then, **the bindings shatter**.
+
+Lava freezes mid-flow. The chains hanging from the forge ceiling twist and calcify into crystalline strands. Your weapons grow heavier in your hands.
+
+**Reality ossifies.**
+
+The dragon rises. It has no wings — only jagged, silvered plates of armor grown from its flesh. Its limbs are **pillars**; its tail, a **sculpture of inevitability**.
+
+> _"Tremble, fleeting ones.  
+> I am the Breath of Endings, the Silence after Becoming, the Stone that dreams.  
+> All that moves shall still. All that lives shall kneel.  
 > I AM THE EARTH UNENDING!"_
+
+What stands before you is not merely a beast — it is **a Law**, written before mortal time.
+
 
 ## **Awakening Ability – "The World Becomes Still"**
 **(Environmental Effect - Battlefield Scale)**
