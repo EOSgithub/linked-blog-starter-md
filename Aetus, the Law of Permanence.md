@@ -2,7 +2,7 @@
 
 >  The elevator creaks and shudders to a halt.
 > 
-> A rush of hot, metallic air hits you — thick with the acrid tang of molten ore and long-forgotten ash. Before you, the cavern sprawls, its vastness dominated by rivers of molten stone.
+> A rush of hot, metallic air hits you — thick with the acrid tang of ores and ash. Before you, the cavern sprawls, its vastness dominated by rivers of molten stone.
 > 
 > The glow from the lava dances off ancient gantries, broken bridges, and towering statues of dwarven kings, now cracked and melted into unrecognizable husks of their former selves.
 > 
