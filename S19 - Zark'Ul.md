@@ -10,8 +10,6 @@ E con questo...
 > L'ultima volta siete tornati ad estoria dopo aver sconfitto Artemisia. Una volta riposati siete ripartiti seguendo delle voci su un nuovo insediamento che vorrebbe aprire rapporti commerciali con la vostra città. Dopo qualche giorno avete raggiunto ed esplorato il villaggio sotterraneo di Zark'Ul presso le minieri di Mythrall, dove il Re Troglodita vi ha accolto e chiesto di liberare il suo regno da una presenza indesiderata: l'ordine di Midas.
 > Lasciato il palazzo reale avete trovato un luogo appartato dove poter discudere del vostro prossimo passo senza perdere troppo tempo.
 
-
-Ogni personaggio descrive la sua giornata. Poi, quando hanno finito:
 >...in quanto oggi è l'16 Agosto dell'anno 499 e mancano 137 giorni alla fine del patto di Pace.
 
 ### Confronto con l'ordine di Midas
@@ -59,7 +57,20 @@ Ogni personaggio descrive la sua giornata. Poi, quando hanno finito:
     
     > _“Ho trovato una vena artificiale. Strumenti non duergar. Seguo la traccia. Se non torno, cerca...”_ (il resto è carbonizzato).  
     > 🔗 _Chiaro che ha scoperto qualcosa, probabilmente un accesso artificiale vicino._
-    
+
+*“Odore di ferro nuovo,  
+ma sotto l'odore di zolfo… la puzza del silenzio comprato.  
+Picconi puliti, troppi sorrisi finti.
+
+Dal pavimento, una corrente di spore.  
+Non dovrebbe esserci nulla…  
+
+Il giorno dopo ho trovato un condotto nascosto tra le caverne reali.  
+Passaggi scavati a mano, di recente.
+
+Voci. Umani. Troppo tardi.  
+Dolore… Una parola. 
+Oro.
 
 ### 2. **Impronte Umane 
 📍 _Intorno al luogo dell’esplosione_
