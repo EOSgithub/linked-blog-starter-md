@@ -149,28 +149,11 @@ I PG possono effettuare un **riposo breve**. Lasciali **roleplayare** e **prepar
 ### Il Viaggio Finale
 > “Il Kirin vi guida nel bosco. Ogni suo passo scaccia le ombre. Dopo ore di cammino, raggiungete un’antica radura dove rovine dimenticate sorgono tra l’erba alta. Al centro, una pozza immobile riflette il cielo notturno. Il Kirin la attraversa, lasciando scie luminose sull’acqua. Ma quando raggiunge il centro…”
 
----
-
-> _“No... No, non così...”_
-> Mentre il Kirin tenta di dissolversi nella pozza di luna, **ombre** iniziano a gocciolare dal cielo come pioggia nera. L’acqua si increspa, il cielo notturno si distorce. Una figura emerge dal piano etereo...
-
-> “Non potete... non potete toccarlo... Questo rituale è mio!”
-
-> _"Mi hanno mandato avanti... dicevano che avrei trovato una risposta... ma era una menzogna. Tutto era una menzogna."_
-
-> _"Li ho visti bruciare, spezzarsi, cadere... per colpa mia. Perché lei mi ha fatto credere che fosse l’unico modo."_
-
-> _"Io... volevo solo salvarli..."_
-
-> _"Lutheria è con me. Dentro di me. Ogni notte sogna attraverso i miei occhi. E adesso... sognerà anche attraverso questa terra."_
-
-> _"Se il rituale si completa... il vecchiobosco cambierà. Tutto cambierà. Sarà... _mio_."_
 
 
-## Artemisia Lucida (post-rituale riuscito)
-> _"...che cosa ho fatto..."_
+| DC  | Item                | Description                                                                                                                                                                                                                                                                                 | Crafting                    |
+| --- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| 20  | Alien Consciousness | The Alien consciousness that comes from a Star Spawn is so strange and foreign to us that even to behold is to go mad. The most we can do is trap a whisper of it inside of an appropriate vessel and hand it to a crafter that has the mental fortitude to handle such a volatile essence. | Amulet of the Expanded Mind |
 
-Le ombre si staccano dal suo corpo come cenere al vento. I suoi occhi tornano a essere limpidi per un istante. Si inginocchia, devastata.
 
-> _"Kirah... i miei amici... non li sento più. Li ho... uccisi io."_
-> _"Non posso rimanere. Non ora. Non così. Ma... vi ringrazio. Usate questo momento._
+
