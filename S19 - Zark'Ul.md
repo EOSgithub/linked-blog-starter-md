@@ -122,7 +122,3 @@ _"Scendendo la scaletta ripida e umida, il suono delle forge sparisce, sostituit
 
 - Kaedros offre a Baytle la “reintegrazione” se si schiera con loro: _“Questa città non merita il mithral. Ma noi sì. Tu sì. Unisciti a noi e pieghiamola insieme.”- _
 
----
-
-### Competizione qualificatoria della gara dei carri greci
-
