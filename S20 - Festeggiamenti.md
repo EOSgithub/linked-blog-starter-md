@@ -2,7 +2,7 @@
 > Quest'epoca sarà definita dalle azioni e inazioni di voi quattro.
 > 
 > Su indicazione del Re Troglodita, avete deciso di trovare il nascondiglio dell’Ordine di Midas.  
-> Gli indizi vi hanno condotto alla bottega _"Bottega del Bronzo Celeste"_, sotto la quale, superate trappole e nemici, avete incontrato Kaedros: un membro di spicco dell’Ordine ed ex-collega di Bayle. Grazie a un discorso ben costruito, Bayle è riuscito a fargli mettere in dubbio le intenzioni dell’Ordine, evitando lo scontro e guadagnandovi un potenziale alleato.
+> Gli indizi vi hanno condotto alla bottega _"Bottega del Bronzo Celeste"_ o BBC per gli amici, sotto la quale, superate trappole e nemici, avete incontrato Kaedros: un membro di spicco dell’Ordine ed ex-collega di Bayle. Grazie a un discorso ben costruito, Bayle è riuscito a fargli mettere in dubbio le intenzioni dell’Ordine, evitando lo scontro e guadagnandovi un potenziale alleato.
 > 
 > Kaedros vi ha rivelato che il re Zark’Ul nasconde un qualche tipo di arma antica, risalente alla guerra tra i Titani, nelle caverne reali sotto il palazzo. Sta cercando alleanze e sacrificando profitti solo perché sa che, una volta attivata l’arma, potrà dominare incontrastato.
 > 
