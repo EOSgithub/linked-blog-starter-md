@@ -131,9 +131,32 @@ I personaggi devono attraversare Zark’Ul dalle stanze di Glub fino all’acces
 
 ---
 ### <span style="color:rgb(255, 0, 0)">Il Palazzo di Zark'Ul</span>
-- Architettura megalitica con decorazioni trogloditiche.
-- Presenza di sigilli antichi nei corridoi reali.
-- Una sezione segreta custodita da due elite guardie mutate da rituali.
+Obiettivo: trovare l’**accesso alle Caverne Reali**, dove il Re tiene nascosta la sua _Arma Segreta_.
+##### Atrio Cerimoniale
+> Un grande salone colonnato, con stendardi di Zark’Ul che pendono tra torce vive. Artigiani sistemano gli ultimi dettagli di un carro per il Festival dell’Unità. Due squadre di musici trogloditi provano rumorosamente melodie discordanti.
+
+- **Opportunità**: infiltrarsi fingendosi operai, musicisti o decoratori (CD 13 Furtività o Inganno).
+- **Complicazione**: uno steward severo richiede ordini firmati per accedere ai piani inferiori.
+- **Indizio**: una lista logistica (Insight o Investigare CD 12) include “compito di recuperare le pozioni autorizzato solo dal Re o da Hasken” (il maggiordomo reale).
+
+##### Le Cucine Reali
+> Brulicanti e afose, le cucine pullulano di pentole bollenti, carni esotiche e ordini. I cuochi si lamentano della quantità “infinita” di cibo da preparare per i sotterranei.
+
+- **Indizio**: un cuoco frustrato può rivelare che da settimane caricano casse piene per “il fondo”, senza mai ricevere contenitori vuoti indietro.
+- **Complicazione**: un servitore impiccione potrebbe insospettirsi se i PG fanno troppe domande.
+
+##### Archivio del Palazzo
+> Una biblioteca buia piena di rotoli di pergamena, sembrano pressochè nuovi. Una lanterna cigola appesa al soffitto illuminando leggermente la sala.
+
+- **Indizio**: piani segreti (Investigare CD 15) rivelano un **ascensore nascosto** sigillato da rune regali, che scende fino alle **Caverne Reali**.
+- **Complicazione**: un vecchio scriba dormiente si sveglia e chiede chi sono. Se mentono male, potrebbe dare l’allarme.
+
+##### Sala delle Maschere
+> Una galleria con busti e statue in pietra che raffigurano i degni avversari sconfitti dal re troglodita. 
+
+- **Curiosità**: Alcuni dei busti raffigurano i precedenti personaggi dei giocatori.    
+- **Trappola magica**: Le statue portano gli oggetti magici che avevano i loro personaggi, ma ognuna di esse ha un incantesimo _Allarme_ può attivarsi se la si tocca.
+- **Complicazione**: una guardia in ronda passa ogni 3 minuti.
 
 ---
 ### <span style="color:rgb(255, 0, 0)">Le Caverne Reali</span>
