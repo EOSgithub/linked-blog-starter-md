@@ -132,37 +132,60 @@ I personaggi devono attraversare Zark’Ul dalle stanze di Glub fino all’acces
 ---
 ### <span style="color:rgb(255, 0, 0)">Il Palazzo di Zark'Ul</span>
 Obiettivo: trovare l’**accesso alle Caverne Reali**, dove il Re tiene nascosta la sua _Arma Segreta_.
-##### Atrio Cerimoniale
+##### <span style="color:rgb(255, 192, 0)">Atrio Cerimoniale</span>
 > Un grande salone colonnato, con stendardi di Zark’Ul che pendono tra torce vive. Artigiani sistemano gli ultimi dettagli di un carro per il Festival dell’Unità. Due squadre di musici trogloditi provano rumorosamente melodie discordanti.
 
 - **Opportunità**: infiltrarsi fingendosi operai, musicisti o decoratori (CD 13 Furtività o Inganno).
 - **Complicazione**: uno steward severo richiede ordini firmati per accedere ai piani inferiori.
-- **Indizio**: una lista logistica (Insight o Investigare CD 12) include “compito di recuperare le pozioni autorizzato solo dal Re o da Hasken” (il maggiordomo reale).
 
-##### Le Cucine Reali
+##### <span style="color:rgb(255, 192, 0)">Le Cucine Reali</span>
 > Brulicanti e afose, le cucine pullulano di pentole bollenti, carni esotiche e ordini. I cuochi si lamentano della quantità “infinita” di cibo da preparare per i sotterranei.
 
 - **Indizio**: un cuoco frustrato può rivelare che da settimane caricano casse piene per “il fondo”, senza mai ricevere contenitori vuoti indietro.
 - **Complicazione**: un servitore impiccione potrebbe insospettirsi se i PG fanno troppe domande.
 
-##### Archivio del Palazzo
+##### <span style="color:rgb(255, 192, 0)">Archivio del Palazzo</span>
 > Una biblioteca buia piena di rotoli di pergamena, sembrano pressochè nuovi. Una lanterna cigola appesa al soffitto illuminando leggermente la sala.
 
 - **Indizio**: piani segreti (Investigare CD 15) rivelano un **ascensore nascosto** sigillato da rune regali, che scende fino alle **Caverne Reali**.
 - **Complicazione**: un vecchio scriba dormiente si sveglia e chiede chi sono. Se mentono male, potrebbe dare l’allarme.
 
-##### Sala delle Maschere
+##### <span style="color:rgb(255, 192, 0)">Tesoreria</span>
 > Una galleria con busti e statue in pietra che raffigurano i degni avversari sconfitti dal re troglodita. 
 
 - **Curiosità**: Alcuni dei busti raffigurano i precedenti personaggi dei giocatori.    
 - **Trappola magica**: Le statue portano gli oggetti magici che avevano i loro personaggi, ma ognuna di esse ha un incantesimo _Allarme_ può attivarsi se la si tocca.
-- **Complicazione**: una guardia in ronda passa ogni 3 minuti.
+- **Complicazione**: L'allarme viene attivato, Zombie Orione fa visita al party.
+
+##### <span style="color:rgb(255, 192, 0)">Laboratorio Alchemico</span>
+> Pozioni, ingredienti e rune titaniche su ogni banco. Un fumo giallastro riempie la stanza. Un alchimista in maschera lavora su liquidi densi in ampolle.
+
+- **Indizio**: pozioni etichettate “pozione della vecchiaia” e “stabilizzante mutageno (non testato)” (Arcana o Natura CD 14).
+- **Complicazione**: se disturbato, l’alchimista può rovesciare le sostanze, causando fumi tossici (TS Cos CD 13 o Disvantaggio su prove fisiche per 1 ora).
+- **Altro**: una lettera menziona il “progresso dell’Arma” e “le forniture stanno arrivando con regolarità, grazie all’intervento della Nostra Oscura Benefattrice”.
+
+##### <span style="color:rgb(255, 192, 0)">Ascensore Nanico</span>
+> Un cerchio di rune attive sul pavimento. Quando la chiave runica viene inserita, l’intero cerchio si illumina e l’ascensore comincia a scendere tra fumi e fiamme magmatiche.
+
+- **Complicazione**: servono **3 turni di concentrazione** sul meccanismo magico per completare l’attivazione (Arcana o Intelligenza CD 13 ogni turno).
+- **Interruzioni**: serve la chiave del maggiordomo Hasken.
+- **Successo**: si scende lentamente, tra luci soffuse, verso le **Caverne Reali**, dove si nasconde l’Arma del Re.
 
 ---
 ### <span style="color:rgb(255, 0, 0)">Le Caverne Reali</span>
-- Vecchie miniere riconvertite in santuario.
-- Simboli titanici scolpiti nella roccia.
-- Creatura ancestrale legata alla custodia dell’Arma.
+**Dominanti:** trogloditi (popolazione stabile, organizzata in caste: minatori, guardie, sciamani).  
+**Fattori ambientali chiave:** caldo vulcanico, umidità costante, presenza di funghi, gas tossici, acqua stagnante e vene di myhrall.  
+**Popolazione secondaria:** creature adattate a spazi angusti, rumorosi, e alla presenza dell’Arma.
+
+|Ruolo|Specie|Comportamento|
+|---|---|---|
+|**Predatori dominanti**|**Roper**|Vive vicino ai pozzi di myhrall, cattura trogloditi e animali. Tollerato perché elimina gli "inutili".|
+|**Scavenger**|**Otyugh**|Vive nei rifiuti dei trogloditi. Pulisce le tane, ma può aggredire se affamato.|
+|**Simbioti tossici**|**Violet Fungus + Shrieker**|Crescono in zone umide, alcuni usati come allarme naturale. I trogloditi li coltivano ma li temono.|
+|**Predatori ciechi**|**Hook Horrors (2-4)**|Evitano i tunnel abitati, ma colpiscono le pattuglie isolate. Alcuni trogloditi li venerano come “custodi delle profondità”.|
+|**Ambusher notturni**|**Darkmantle (1d4)**|Si nutrono di pipistrelli e piccoli animali. Aggrediscono solo in assenza di fonti luminose.|
+|**Insetti parassiti**|**Stirge (4d4)**|Vivono in un nido sopra le pozze calde. Spesso entrano nei dormitori trogloditi.|
+|**Predatore unico**|**Gibbering Mouther**|Incastrato in una fessura, si nutre di scarti e feriti. Produce suoni che disturbano il sonno. Teme il drago.|
 
 ---
 ### <span style="color:rgb(255, 0, 0)">L'Arma Segreta</span>
