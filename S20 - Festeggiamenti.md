@@ -2,7 +2,7 @@
 > Quest'epoca sarà definita dalle azioni e inazioni di voi quattro.
 > 
 > Su indicazione del Re Troglodita, avete deciso di trovare il nascondiglio dell’Ordine di Midas.  
-> Gli indizi vi hanno condotto alla bottega _"Ferro a Buon Prezzo"_, sotto la quale, superate trappole e nemici, avete incontrato Kaedros: un membro di spicco dell’Ordine ed ex-collega di Bayle. Grazie a un discorso ben costruito, Bayle è riuscito a fargli mettere in dubbio le intenzioni dell’Ordine, evitando lo scontro e guadagnandovi un potenziale alleato.
+> Gli indizi vi hanno condotto alla bottega _"Bottega del Bronzo Celeste"_, sotto la quale, superate trappole e nemici, avete incontrato Kaedros: un membro di spicco dell’Ordine ed ex-collega di Bayle. Grazie a un discorso ben costruito, Bayle è riuscito a fargli mettere in dubbio le intenzioni dell’Ordine, evitando lo scontro e guadagnandovi un potenziale alleato.
 > 
 > Kaedros vi ha rivelato che il re Zark’Ul nasconde un qualche tipo di arma antica, risalente alla guerra tra i Titani, nelle caverne reali sotto il palazzo. Sta cercando alleanze e sacrificando profitti solo perché sa che, una volta attivata l’arma, potrà dominare incontrastato.
 > 
@@ -14,19 +14,16 @@
 
 ---
 ### <span style="color:rgb(255, 0, 0)">Festival dell'Unità: Programmi</span>
-- Glub (e quindi tutti gli altri Myconidi presenti a Zark'Ul) hanno accettato di distrarre il Re troglodita per il party creando un festival a cui dovreà sicuramente partecipare di persona.
-- Problema in sottofondo del fatto che non ci sia abbastanza cibo per questa festa (strano, Zark'ul dovrebbe averne abbastanza, dove è finito?)
-- Descrizione di scene (un po come se fosse una skill challange) per il party che parte dalla taverna di Glub e si fa strada attraverso il festival verso il palazzo Reale.
 
-| Orario | Evento                    | Descrizione                                                                                                                   |
-| ------ | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| 08:00  | Apertura del Festival     | I Myconidi decorano la piazza con muschi e funghi luminosi. Inizia una parata con canzoni tribali.                            |
-| 10:00  | Discorso del Re Zark’Ul   | Il Re viene scortato sulla terrazza reale e parla dell’unità tra le razze.                                                    |
-| 11:00  | Duelli Cerimoniali        | Piccoli scontri non letali tra campioni delle razze alleate. Pubblico e Re assistono.                                         |
-| 13:00  | Grande Banchetto          | Tavoli imbanditi di prelibatezze del mondo empio. Preghiera e libagone a Lutheria.                                            |
-| 15:00  | Danze delle Spore         | I Myconidi eseguono danze per le strade accompagnate da esplosioni di spore colorate.                                         |
-| 17:00  | Il Dono delle Razze       | Ogni razza presenta un dono simbolico al Re.                                                                                  |
-| 18:00  | Crepuscolo delle Lanterne | I bambini delle varie razze accendono funghi-lanterna e li lasciano fluttuare nel lago. Commozione generale. Il Re si ritira. |
+| Orario | Evento                    | Descrizione                                                                                                                                     |
+| ------ | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 08:00  | Apertura del Festival     | I Myconidi decorano la piazza con muschi e funghi luminosi. Inizia una parata con canzoni tribali.                                              |
+| 10:00  | Discorso del Re Zark’Ul   | Il Re viene scortato sulla terrazza reale e parla dell’unità tra le razze.                                                                      |
+| 11:00  | Duelli Cerimoniali        | Piccoli scontri non letali tra campioni delle razze alleate. Pubblico e Re assistono.                                                           |
+| 13:00  | Grande Banchetto          | Tavoli imbanditi di prelibatezze del mondo empio. Preghiera e libagone a Lutheria.                                                              |
+| 15:00  | Danze delle Spore         | I Myconidi eseguono danze per le strade accompagnate da esplosioni di spore colorate.                                                           |
+| 17:00  | Il Dono delle Razze       | Ogni razza presenta un dono simbolico al Re.                                                                                                    |
+| 18:00  | Crepuscolo delle Lanterne | I cuccioli delle varie razze accendono funghi-lanterna e li lasciano fluttuare nel lago. Discorso di chiusura. Il Re si ritira nel suo palazzo. |
 ### <span style="color:rgb(255, 0, 0)">Skill Challange: Arriavare al Palazzo</span>
 I personaggi devono attraversare Zark’Ul dalle stanze di Glub fino all’accesso nascosto alle **caverne reali**, sfruttando il caos dei preparativi per muoversi inosservati. Il Festival non è ancora cominciato, ma l’intera città è in fermento.
 
@@ -173,25 +170,45 @@ Obiettivo: trovare l’**accesso alle Caverne Reali**, dove il Re tiene nascosta
 
 ---
 ### <span style="color:rgb(255, 0, 0)">Le Caverne Reali</span>
-**Dominanti:** trogloditi (popolazione stabile, organizzata in caste: minatori, guardie, sciamani).  
+**Razza Dominante:** trogloditi (popolazione stabile, organizzata in caste: minatori, guardie, sciamani).  
 **Fattori ambientali chiave:** caldo vulcanico, umidità costante, presenza di funghi, gas tossici, acqua stagnante e vene di myhrall.  
 **Popolazione secondaria:** creature adattate a spazi angusti, rumorosi, e alla presenza dell’Arma.
 
-|Ruolo|Specie|Comportamento|
-|---|---|---|
-|**Predatori dominanti**|**Roper**|Vive vicino ai pozzi di myhrall, cattura trogloditi e animali. Tollerato perché elimina gli "inutili".|
-|**Scavenger**|**Otyugh**|Vive nei rifiuti dei trogloditi. Pulisce le tane, ma può aggredire se affamato.|
-|**Simbioti tossici**|**Violet Fungus + Shrieker**|Crescono in zone umide, alcuni usati come allarme naturale. I trogloditi li coltivano ma li temono.|
-|**Predatori ciechi**|**Hook Horrors (2-4)**|Evitano i tunnel abitati, ma colpiscono le pattuglie isolate. Alcuni trogloditi li venerano come “custodi delle profondità”.|
-|**Ambusher notturni**|**Darkmantle (1d4)**|Si nutrono di pipistrelli e piccoli animali. Aggrediscono solo in assenza di fonti luminose.|
-|**Insetti parassiti**|**Stirge (4d4)**|Vivono in un nido sopra le pozze calde. Spesso entrano nei dormitori trogloditi.|
-|**Predatore unico**|**Gibbering Mouther**|Incastrato in una fessura, si nutre di scarti e feriti. Produce suoni che disturbano il sonno. Teme il drago.|
+| Ruolo                   | Specie                       | Comportamento                                                                                                                |
+| ----------------------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Predatori dominanti** | **Roper**                    | Vive vicino ai pozzi di myhrall, cattura trogloditi e animali. Tollerato perché elimina gli "inutili".                       |
+| **Scavenger**           | **Otyugh**                   | Vive nei rifiuti dei trogloditi. Pulisce le tane, ma può aggredire se affamato.                                              |
+| **Simbioti tossici**    | **Violet Fungus + Shrieker** | Crescono in zone umide, alcuni usati come allarme naturale. I trogloditi li coltivano ma li temono.                          |
+| **Predatori ciechi**    | **Hook Horrors (2-4)**       | Evitano i tunnel abitati, ma colpiscono le pattuglie isolate. Alcuni trogloditi li venerano come “custodi delle profondità”. |
+| **Ambusher notturni**   | **Darkmantle (1d4)**         | Si nutrono di pipistrelli e piccoli animali. Aggrediscono solo in assenza di fonti luminose.                                 |
+| **Insetti parassiti**   | **Stirge (4d4)**             | Vivono in un nido sopra le pozze calde. Spesso entrano nei dormitori trogloditi.                                             |
+| **Predatore unico**     | **Gibbering Mouther**        | Incastrato in una fessura, si nutre di scarti e feriti. Produce suoni che disturbano il sonno.                               |
+###### <span style="color:rgb(255, 192, 0)">Zone dell'Ecosistema</span>
+- **Livelli superiori – Zona Mineraria**
+    - Trogloditi in massa.
+    - Otyugh in un tunnel secondario (midden).
+    - Shrieker e Violet Fungus coltivati vicino a pozze stagnanti (luogo utile ai PG: “passare in silenzio o svegliare gli allarmi?”).
+    - Hook Horrors rintanati nei tunnel collassati: _occasione per trappole ambientali o agguati_.
+
+- **Livelli inferiori – Cunicoli Caotici**
+    - Darkmantle appesi tra le stalattiti.
+    - Gibbering Mouther al centro di un corridoio che porta a una scorciatoia.
+    - Roper in caverna laterale, vicino a un cristallo pulsante di myhrall corrotto.
+    - Alcuni Stirge ronzano vicino alla camera dell'arma.
+
+##### <span style="color:rgb(255, 192, 0)">Eventi nelle Caverne Reali</span>
+1. I trogloditi stanno combattendo i Hook Horrors → i PG possono ignorarli, approfittare del caos o essere notati.
+2. In una zona infetta da funghi, **un Darkmantle e uno Shrieker competono per lo stesso spazio**: chi vince potrebbe determinare che tipo di minaccia trovano i PG.
+3. I cadaveri lasciati da un combattimento PG vs trogloditi **attirano il Gibbering Mouther** più tardi.
+4. Un vecchio troglodita sciamano crede che il Roper sia “la reincarnazione di un dio mangiatore” e lo nutre in segreto → potrebbe offrire aiuto se rispettato.
+5. Mentre i PG esplorano un tunnel stretto, sentono un sibilo acuto: uno **sciame di Stirge** vola all’impazzata verso di loro, in fuga da qualcosa.
+6. I PG sentono urla e versi: **due gruppi di trogloditi si stanno scontrando**, forse per la manutenzione dell'arma.
+7. I PG trovano una **camera circolare** che funge da mensa. Su un tavolo, è appena stata lasciata una pentola di stufato per i “minatori Reali”.
+8. In una sezione umida e pulsante, **le pareti sembrano parlare**. Un Gibbering Mouther è nascosto tra le crepe, assorbendo ciò che passa.
 
 ---
 ### <span style="color:rgb(255, 0, 0)">L'Arma Segreta</span>
-- Tecnologia arcana/titanica fusa con biologia.
-- Alimentata da un cuore primordiale.
-- Potenzialmente una reliquia vivente o senziente.
+lorem ipsum.
 
 ---
 ### Placeholder 5
