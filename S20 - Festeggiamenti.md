@@ -211,11 +211,11 @@ Obiettivo: trovare l’**accesso alle Caverne Reali**, dove il Re tiene nascosta
 lorem ipsum.
 
 ---
-### Placeholder 5
+### <span style="color:rgb(255, 0, 0)">Placeholder 5</span>
 lorem ipsum.
 
 ---
-### Placeholder 6
+### <span style="color:rgb(255, 0, 0)">Placeholder 6</span>
 lorem ipsum.
 
 ---
