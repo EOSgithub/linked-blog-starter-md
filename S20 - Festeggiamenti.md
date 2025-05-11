@@ -26,7 +26,7 @@
 | 18:00  | Crepuscolo delle Lanterne | I cuccioli delle varie razze accendono funghi-lanterna e li lasciano fluttuare nel lago. Discorso di chiusura. Il Re si ritira nel suo palazzo. |
 ### <span style="color:rgb(255, 0, 0)">Skill Challange: Arriavare al Palazzo</span>
 I personaggi devono attraversare Zark’Ul dalle stanze di Glub fino all’accesso nascosto alle **caverne reali**, sfruttando il caos dei preparativi per muoversi inosservati. Il Festival non è ancora cominciato, ma l’intera città è in fermento.
-
+	
 ##### <span style="color:rgb(255, 192, 0)">1 - Il Carico Bloccato</span>
 📍 _Via delle Merci Fungine_
 
@@ -208,7 +208,130 @@ Obiettivo: trovare l’**accesso alle Caverne Reali**, dove il Re tiene nascosta
 
 ---
 ### <span style="color:rgb(255, 0, 0)">L'Arma Segreta</span>
-lorem ipsum.
+> L'ascensore trema e si ferma.
+> 
+> Un'ondata di aria calda vi investe, densa di un ordore metallico e cenere. Davanti a voi, una caverna dominata da pietra vulcanica si apre.
+> 
+> Il bagliore della lava si riflette su antichi piloni, ponti spezzati e imponenti statue  incrinate.
+> Al centro di tutto questo, su un'isola annerita, si vedete... una collina.
+> 
+> No, non una collina.
+> Un grosso cumulo di mithril lucidato. La sua superficie brilla, come mille scudi martellati in un'unica forma monolitica.
+> Catene spesse e rocciose legano le massicce colonne di questa struttura alla pietra sottostante.
+> 
+> Per un attimo la si scambia per un'antica reliquia.
+> Poi... una palpebra si solleva.
+> E un immensa iride incontra il vostro sguardo.
+> 
+> La “montagna” si alza, e la caverna geme sotto il peso della sua coscienza.
+> 
+> Nei vostri cuori avete la certezza di trovarvi di fronte ad un vero drago.
+
+## 🜇 Mithrall Dragon, Awakened Wyrmling
+_Large Dragon, Lawful Neutral_  
+**CR:** 10 • **Proficiency Bonus:** +4
+### **AC** 19 (natural armor)
+
+### **HP** 195 (26d10 + 52)
+
+### **Speed** 40 ft., burrow 30 ft., fly 80 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|21 (+5)|14 (+2)|20 (+5)|16 (+3)|18 (+4)|20 (+5)|
+### Saving Throws
+Dex +6, Con +9, Wis +8, Cha +9
+### Damage Resistances
+Bludgeoning, Piercing, and Slashing from Nonmagical Weapons
+### Damage Immunities
+Force, Fire, Necrotic
+### Condition Immunities
+Charmed, Frightened, Petrified
+### Senses
+Tremorsense 60 ft., Darkvision 120 ft., Passive Perception 20
+
+---
+## 🧊 **Innate Traits**
+
+### **Aura of Stillness**
+At the start of each of the dragon’s turns, creatures within 30 ft. must make a DC 17 Constitution saving throw or have **disadvantage on opportunity attacks** and **their movement halved** until the start of their next turn.
+
+### **Unyielding Form**
+The dragon cannot be knocked prone, pushed, or teleported unwillingly and it's form cannot be changed.
+
+### **Alchemic Instability** _(Weakness)_
+The dragon was unnaturally aged through arcane alchemy. Whenever it takes **35 or more damage** in a turn it suffers an **arcane backlash**, taking 7 (2d6) psychic damage and **loses one Legendary Action** on its next round.
+
+---
+## 🛡️ Actions
+
+### **Multiattack**
+The dragon makes two **Rend** attacks.
+
+### **Rend** (x2)
+_Melee Weapon Attack: +9 to hit, reach 10 ft., one target._  
+**Hit:** 16 (2d10 + 5) slashing and bludgeoning damage + 5 (1d10) force damage and the target is pushed 10ft away.  
+If both Rend attacks hit the same target in one turn, The target’s **AC is reduced by 2** until the end of the dragon's next turn, as cracks and dents form across their gear and defenses.
+
+### Mythrall Breath _(Recharge 5)_
+The dragon unleashes a storm of jagged mithral-edged shards (60 ft. line, 5 ft. wide).  
+Creatures in the line must make a **DC 17 Dexterity saving throw** or take **26 (6d10)** slashing damage and begin **bleeding** — taking **4 (1d8)** damage at the start of their turns for 1 minute or until healed.
+
+### Stasis Breath (Recharge 6)
+The dragon exhales a glittering cloud of **silver stasis** (30 ft. cone).  
+Creatures in the area must succeed on a **DC 17 Constitution saving throw** or become **Slowed** (as per the _slow_ spell, no concentration required) for 1 minute. Affected creatures can repeat the save at the end of each of their turns.
+
+### **Crushing Pillar**
+The dragon causes a spire of silver-veined stone to erupt under a point it can see within 60 ft.  
+One creature in that space must make a DC 17 Dexterity saving throw or take **18 (4d8)** bludgeoning damage and be **knocked 10 ft. into the air and fall prone**. On a success, the target moves 5 ft. away and takes half damage.  
+The pillar remains as **half cover** (AC +2) until destroyed (AC 12, HP 20).
+
+---
+## 🔥 Legendary Actions (3 per round)
+
+The dragon can take 3 legendary actions, one at a time, only at the end of another creature’s turn.
+- **Mithral Slide.** The dragon burrows or slithers up to 20 ft. without provoking opportunity attacks.
+- **Tail Slam.** _Melee Weapon Attack: +9 to hit, 15 ft. reach. Hit: 12 (2d6 + 5) bludgeoning damage._
+- **Crushing Pulse (Costs 2).** Each creature within 10 ft. must succeed on a DC 17 Strength saving throw or be **pushed 15 ft.** and take **10 (3d6)** force damage.
+
+---
+## 🔥 Lair Actions
+### **Seismic Rumble**
+> The floor of the chamber ripples like the surface of a disturbed lake of stone.
+- All non-flying creatures within 30 feet of the dragon must make a **DC 15 Dexterity saving throw** or fall **prone**.
+
+### **Shards of the First Age**
+> The dragon draws power from its birthplace, calling forth fragments of primordial earth.
+- Two **floating crystal shards** (AC 15, HP 10 each) rise from the ground. At the start of each of the dragon’s turns, they fire a **beam of radiant-geo energy** at a random creature within 30 feet of them:
+    - +6 to hit, **7 (2d6) force damage**, and the target must make a **DC 13 Constitution save** or be **blinded** until the end of their next turn.
+
+## Pillarfall
+> The dragon roars, and its towering crystal pillars shudder—then collapse with cataclysmic force.
+
+The dragon chooses two Crushing Pillars it created. It falls in a straight line 20 feet long and 5 feet wide. Creatures in the path must make a DC 15 Dexterity saving throw or Take 10 (3d6) bludgeoning damage and fall prone.
+
+---
+
+**Risveglio** 
+> Un ronzio risonante si leva dal petto del drago, una vibrazione percepita più dalle ossa che dalle orecchie.
+> 
+> Il suono cresce e il metallo della caverna inizia a vibrare.
+> 
+> Poi, le catene si frantumano.
+> 
+> La lava si congela. Le catene appese al soffitto si attorcigliano e si calcificano in fili cristallini. Le vostre armi diventano più pesanti nelle vostre mani, il respiro vi si blocca nel petto.
+> 
+> La realtà si ossifica.
+> 
+> Il drago si alza. Non ha ali, ma solo frastagliate placche argentate di armatura ricavate dalla sua carne.
+> 
+> “Tremate, fugaci.
+> Io sono il Silenzio dopo il Divenire, la Pietra che sogna.
+> Tutto ciò che si muove si fermerà. Tutto ciò che vive si inginocchierà.
+> IO SONO LA TERRA IMPERITURA!”.
+> 
+> Ciò che vi sta davanti non è solo una bestia: è una Legge della natura.
+
 
 ---
 ### <span style="color:rgb(255, 0, 0)">Placeholder 5</span>
