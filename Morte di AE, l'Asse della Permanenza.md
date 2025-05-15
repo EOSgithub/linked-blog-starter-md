@@ -2,11 +2,10 @@
 
 La battaglia si ferma.
 
-> _«Ero l'Asse dell’Immobilità, in un mondo che ha ricominciato a girare.»_  
-> _«Il guardiano delle porte di una nuova epoca—di cambiamento, di caos… di possibilità.»_  
+> _«Ero il guardiano delle porte di una nuova epoca— di cambiamento, di caos… di possibilità.»_  
 > _«Un’era dove non c’è posto per un entità come me.»_
 
-Le rune intorno a lui svaniscono, come antichi giuramenti che si dissolvono nell’aria.  
+Le rune intorno ad Ae svaniscono, antichi giuramenti che si dissolvono nell’aria.  
 Il suo corpo inizia a fratturarsi—non si spezza, non sanguina—ma si divide lungo linee nette, geometrichamente perfette, come  una statua che torna torna al progetto da cui è nata.
 
 > _«Ora che la mia fine e certa… presto cadrà anche lui.»_  
@@ -25,15 +24,13 @@ I suoi occhi incontrano i vostri—non più d’argento brillante, ma di un grig
 
 La sua testa si appoggia a terra.
 
-> _«Ogni nuova era è definita da quella precedente»_
-> _«E se io ero l’Asse della Permanenza… allora voi, inevitabilmente, siete l’Asse del Cambiamento»_  
-> _«Il fulcro su cui la prossima epoca sarà definita.»_  
-> _«E adesso, dèi e titani lo sapranno.»_
+> _«Ogni nuova era è definita da quella precedente._  
+> _E se io ero l’Asse della Permanenza… allora voi, inevitabilmente, siete l’Asse del Cambiamento.»_
+> _«Il nuovo fulcro sul quale sarà deciso il destino di Thylea.»_  
+> _«E ora, dèi e titani lo sapranno.»_
 
 Le forze lasciano il corpo del drago.
 
-> _«Andate.»_  
-> _«Plasmate ciò che verrà.»_  
 > _«Nella mia fine… inizia il vostro cammino.»_
 
 E così, AE, l’Asse della Permanenza, trae il suo ultimo respiro.
