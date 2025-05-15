@@ -25,9 +25,10 @@ I suoi occhi incontrano i vostri—non più d’argento brillante, ma di un grig
 
 La sua testa si appoggia a terra.
 
-> _«Voi quattro siete ora l’Asse del Cambiamento.»_  
-> _«Il fulcro su cui la prossima era sarà definita.»_  
-> _«E ora, dèi e titani lo sapranno.»_
+> _«Ogni nuova era è definita da quella precedente»_
+> _«E se io ero l’Asse della Permanenza… allora voi, inevitabilmente, siete l’Asse del Cambiamento»_  
+> _«Il fulcro su cui la prossima epoca sarà definita.»_  
+> _«E adesso, dèi e titani lo sapranno.»_
 
 Le forze lasciano il corpo del drago.
 
