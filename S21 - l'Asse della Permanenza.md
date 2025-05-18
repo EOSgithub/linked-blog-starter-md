@@ -1,3 +1,43 @@
+
+# Risveglio dell'asse della permanenza
+> _il drago emette un lungo respiro. La brace sotto le sue zampe pulsa a ritmo col suo cuore, e ogni volta che espira, nuvole di vapore ferroso si sollevano._
+
+> **"Vi ho sottovalutati."**  
+
+> _(La sua voce vibra di qualcosa che non è più solo orgoglio, ma consapevolezza. Come se l’incontro con voi gli avesse rivelato qualcosa che nemmeno lui ricordava.)_
+
+> **"Capisco, ora. Perché siete qui."**  
+> **"Non siete solo guerrieri. Siete... le schegge del domani."**
+
+> _(Le rune incise nel pavimento, finora immobili, iniziano a ruotare in direzioni opposte. Alcune si staccano dal suolo e fluttuano verso il drago.)_
+
+> **"Ogni nuova era è definita da quella precedente."**  
+> **" E se la mia esistenza ha dato forma alla stasi…"**  
+> **"…è giusto che la vostra provi ad infrangerla."**
+
+
+Le rune inizianoconvergono sulla sua schiena nuda. Si sovrappongono per creare **due ali d’ideogrammi incandescenti**.
+Il suo corpo diventa geometria. Ogni scaglia una regola, ogni artiglio una costante.
+
+
+> **"Io sono AE... l’Asse della Permanenza"**
+
+> _(Le sue nuove ali si aprono del tutto, e la luce delle rune si rifrange sulle pareti annerite.)_
+
+> **"Mostratemi che il cambiamento può meritare la sua esistenza."**
+
+> _(Attorno a lui, ogni cosa pare bloccarsi: il magma rallenta, le braci smettono di crepitare.)_
+
+> **"E se riuscirete a spezzarmi…"**  
+> **"...allora, e solo allora, il mondo sarà vostro da piegare."**
+
+> (AE incrocia il vostro sguardo. L’iniziativa sta per essere lanciata.)
+
+> **"Ora alzate le armi."**  
+> **"Che l’eternità giudichi ciò che viene dopo."**
+
+---
+# Fine di AE
 > _«Dunque… è così che finisce.»_
 
 La battaglia si ferma.
@@ -33,7 +73,7 @@ Le forze lasciano il corpo del drago.
 
 E così, AE, l’Asse della Permanenza, trae il suo ultimo respiro.
 
-
+---
 # Morte di Zark'Ul
 
 > La sala del trono è immersa nella penombra. Le fiamme delle torce si piegano come se temessero di spegnersi.  
