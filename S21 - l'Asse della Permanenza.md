@@ -31,10 +31,10 @@ Il suo corpo diventa geometria. Ogni scaglia una regola, ogni artiglio una costa
 > **"E se riuscirete a spezzarmi…"**  
 > **"...allora, e solo allora, il mondo sarà vostro da piegare."**
 
-> (AE incrocia il vostro sguardo. L’iniziativa sta per essere lanciata.)
+> *(AE incrocia il vostro sguardo. L’iniziativa sta per essere lanciata.)*
 
 > **"Ora alzate le armi."**  
-> **"Che l’eternità giudichi ciò che viene dopo."**
+> **"Lasciate l’eternità giudichi ciò che viene dopo."**
 
 ---
 # Fine di AE
@@ -76,7 +76,7 @@ E così, AE, l’Asse della Permanenza, trae il suo ultimo respiro.
 ---
 # Morte di Zark'Ul
 
-> La sala del trono è immersa nella penombra. Le fiamme delle torce si piegano come se temessero di spegnersi.  
+> La sala del trono è immersa nella penombra.
 > Il Re dei Trogloditi giace sul suo trono, reclinato come un vecchio idolo fratturato.  
 > Il suo respiro è irregolare, il corpo tremante, la pelle squamosa chiazzata di grigio.  
 > Eppure… quando vi sente entrare, solleva lo sguardo. I suoi occhi — vitrei, infossati — si accendono di una luce familiare.  
@@ -95,21 +95,24 @@ Si protende in avanti, il corpo scosso da un brivido. L'odore acre della malatti
 
 > Volevo brandire la sua potenza. Un drago… è legge bruta. Violenza primordiale. Potere assoluto.
 
-> Ma poi… _(Una smorfia di fastidio gli deforma il volto)_ …accadde qualcosa di… insopportabilmente umano.
+> Ma poi… _(Una smorfia di fastidio gli deforma il volto)_ …accadde qualcosa di… insopportabilmente irrtante.
 
 > Quella creatura… cominciò a parlarmi. Non di battaglie, non di terre da conquistare… ma di un’eco lontana chiamata **dignità**. Di un peso sulle spalle chiamato **responsabilità**. Di sentieri biforcuti chiamati **scelte**.
 
 > E mentre parlava… _(I suoi occhi si velano di un’emozione inaspettata)_ …mi guardava. Non come si osserva un insetto strisciare, ma… come un pari scruta un altro. E maledizione alla mia debolezza… io… gli credetti.
 
-> _(Inspira con un sibilo rauco, il petto che si alza a fatica. Una lacrima solitaria riga la sua squama grigia.)_
+> _(Inspira con un sibilo rauco, il petto che si alza a fatica.)_
 
-> Non so in quale notte oscura il seme fu piantato… ma un giorno, mi ritrovai a non sentire più il peso del **giuramento fatto ad AE**. Era… diventato una bussola. Un fragile scopo. Una minuscola ragione di esistere. Piccola. Inadeguata. Ma mia come nient'altro.”
+> Non so in quale notte oscura il seme fu piantato… ma un giorno, mi ritrovai a non sentire più il peso del **giuramento fatto ad AE**. Era… diventato una bussola. Un fragile scopo. Una minuscola ragione di esistere. 
+> 
+> Piccola. Inadeguata. Ma mia come nient'altro.”
 
 Abbassa lo sguardo sulle sue mani tremanti.
 
-> “E poi… siete arrivati voi. Avete profanato le mie caverne, calpestato i miei accordi, vi siete nutriti dei miei peccati… e li avete reclamati come vostri. AE era migliore di me… quella scintilla che legava le nostre anime… sta **morendo**, la sua luce si affievolisce come sangue che cola da una ferita incurabile.”
+> “E poi… siete arrivati voi. Avete profanato le mie caverne, calpestato i miei accordi, vi siete nutriti dei miei peccati… e li avete reclamati come vostri. AE era migliore di me… quella scintilla che ci legava…è stata strappata via. E ora la mia anima si dissolve—come sangue che sgorga da una feritaincurabile.
 
 Una delle sue mani si serra attorno allo scettro, le nocche sbiancate.
+
 Etere denso e spire di maledizione iniziano a serpeggiare nell'aria della sala del trono, crescendo di intensità a ogni battito del vostro cuore. Una presenza opprimente si fa sentire, come un gelido vento che vi penetra nelle ossa. Nei suoi occhi vitrei, vedete una luce sinistra accendersi, la sagoma spettrale di Lutheria farsi sempre più nitida.
 
 > Ma prima che l'ombra mi inghiotta del tutto… giuro… giuro che vi farò pagare questo sacrilegio.
