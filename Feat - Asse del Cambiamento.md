@@ -1,7 +1,7 @@
 > “Siete diventati una forza che agisce al di fuori delle trame tessute dalle Moire. Dove altri seguono il sentiero assegnato, voi lo riscrivete.”
 
 Le Cariche del Cambiamento rappresentano la tua capacità di **deviare dagli eventi predestinati** e incidere sul mondo con pura volontà.
-- Puoi guadagnare cariche accumulando momenti in cui interpreti il tuo personaggio in momenti inportanti, superi sfide difficili o vinci combattimenti impegnativi, soprattutto se riesci a cambiare il corso degli eventi rompendo le aspettative o il destino previsto.
+- Puoi guadagnare cariche accumulando momenti in cui interpreti il tuo personaggio in momenti importanti, superi sfide difficili o vinci combattimenti impegnativi, soprattutto se riesci a cambiare il corso degli eventi rompendo le aspettative o il destino previsto.
 - Puoi accumulare cariche fino ad un massimo pari al tuo proficency bonus.
 - Alla fine di un riposo lungo, le tue carcihe vengono dimezzate, arrotondando per difetto.
 
