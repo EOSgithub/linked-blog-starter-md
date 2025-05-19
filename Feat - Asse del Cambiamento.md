@@ -18,7 +18,7 @@ Lancia un incantesimo noto o preparato senza consumare slot (livello pari alle c
 Rendi riuscito un tiro salvezza fallito.
 
 **• Rifiuto della fine**  
-Quando scendi a 0 HP, puoi invece restare a 1 HP. Hai svantaggio a tutto fino alla fine del tuo prossimo turno.
+Quando scendi a 0 HP, puoi invece restare a 1 HP. Hai svantaggio alle prove di abilità fino alla fine del tuo prossimo turno.
 
 ### 🜂 3 Cariche
 **• Azione Leggendara**
