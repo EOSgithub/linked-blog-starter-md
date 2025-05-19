@@ -1,16 +1,17 @@
 > “Siete diventati una forza che agisce al di fuori delle trame tessute dalle Moire. Dove altri seguono il sentiero assegnato, voi lo riscrivete.”
 
 Le Cariche del Cambiamento rappresentano la tua capacità di **deviare dagli eventi predestinati** e incidere sul mondo con pura volontà.
+- Puoi guadagnare cariche accumulando momenti in cui interpreti il tuo personaggio in momenti inportanti, superi sfide difficili o vinci combattimenti impegnativi, soprattutto se riesci a cambiare il corso degli eventi rompendo le aspettative o il destino previsto.
 - Puoi accumulare cariche fino ad un massimo pari al tuo proficency bonus.
 - Alla fine di un riposo lungo, le tue carcihe vengono dimezzate, arrotondando per difetto.
 
 ---
 ### 🜂 **Costo: 1 Carica**
 
-**• Risolutezza Infrangibile
+**• Risolutezza Infrangibile**
 Ritira un tiro fallito di attacco, abilità o salvezza. Puoi scegliere il nuovo risultato o tenere il precedente.
 
-**• Cast Without Spell Slot**
+**• Incantesimo Puro**
 Lancia un incantesimo che conosci/prepari senza consumare slot, con livello pari al numero di cariche spese.
 
 ---
@@ -19,7 +20,7 @@ Lancia un incantesimo che conosci/prepari senza consumare slot, con livello pari
 **• Resistenza Leggendaria**  
 Quando fallisci un tiro salvezza, puoi invece decidere di riuscirlo.
 
-**• Sfidare la Morte**  
+**• Rifiuto della fine**  
 Quando scendi a 0 HP, puoi invece restare a 1 HP. Ottieni svantaggio a tutte le prove fino alla fine del tuo prossimo turno.
 
 ---
@@ -28,7 +29,7 @@ Quando scendi a 0 HP, puoi invece restare a 1 HP. Ottieni svantaggio a tutte le 
 **• Azione Leggendara**
 Compi un'azione aggiuntiva **in un qualsiasi momento**, anche durante il turno di un altro. Dopo l’uso, ottieni 1 livello di Esaurimento.
 
-**• Destino Invertito**  
+**• Scambio di Sorte**
 Scegli una creatura entro 60 piedi: **il prossimo attacco o incantesimo che colpirebbe te colpisce lei al suo posto** (reazione, richiede linea di vista).
 
 ---
@@ -38,8 +39,8 @@ Scegli una creatura entro 60 piedi: **il prossimo attacco o incantesimo che colp
 Per 1 minuto, puoi **ritirare un dado ogni turno**, tuo o di un alleato entro 60 piedi.  
 Puoi farlo **una volta per round**, **dopo aver visto il risultato**, e scegliere il nuovo o il vecchio.
 
-**• _Occhio del Vortice_**  
-Per 1 minuto, tutti i **tiri con vantaggio o svantaggio** effettuati da creature entro **60 piedi da te** vengono **invertiti**: se una creatura avrebbe vantaggio, tira invece con svantaggio, e viceversa.
+**• Occhio del Vortice**  
+Per 1 minuto, tutti i **tiri con vantaggio o svantaggio** effettuati da creature entro **60 piedi da te**  possono essere **invertiti**: se una creatura avrebbe vantaggio, puoi invece farla tirare con svantaggio, e viceversa.
 
 
 ---
