@@ -52,8 +52,8 @@ _**Shell Defense.**_ When hit by a weapon attack, the Flailer can withdraw into 
 
 ---
 ### Legendary Actions
-- **Slither**. The snail moves up to its speed without provoking opportunity attacks.
-- **Harmonic Shift**. The snail uses his Harmonic Shell Shift trait.
-- **Iridescent Ray**. The snail uses one of its Eye Ray options at random.
+**Slither**. The snail moves up to its speed without provoking opportunity attacks.
+**Harmonic Shift**. The snail uses his Harmonic Shell Shift trait.
+**Iridescent Ray**. The snail uses one of its Eye Ray options at random.
 
 
