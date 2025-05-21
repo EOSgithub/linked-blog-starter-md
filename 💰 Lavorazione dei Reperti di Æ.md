@@ -1,0 +1,7 @@
+
+| Oggetto                       | Prezzo (gp) | Frase di Hammund                                                                                                                                                                                    |
+| ----------------------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **🦷 Denti di Æ**             | **500**     | “Ah, dentini perfetti per tagliare l’impossibile! Solo... non dormire con loro vicino. Ogni tanto sussurrano formule dimenticate.”                                                                  |
+| **🦴 Artigli di Æ**           | **600**     | “Fossili, sì. Ma mordono ancora. Una volta li ho graffiati su un golem, e il golem ha chiesto scusa.”                                                                                               |
+| **🪶 Scaglia di Æ**           | **750**     | “Sai, ho provato a lucidarla e mi sono trasformato in un piccione per un’ora. Poi ho capito che era un buon segno.”                                                                                 |
+| **🫀 Cuore di Æ** (artefatto) | **2000**    | “Un cuore che batte con geometria? Ho sognato una cosa simile dopo aver sniffato la polvere che mi ha dato Lucius. Aspetta, prima di procedere, la mia segretaria deve farti firmare un documento.” |

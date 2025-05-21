@@ -52,15 +52,42 @@ _**Shell Defense.**_ When hit by a weapon attack, the Flailer can withdraw into 
 **Harmonic Shift**. The snail uses his Harmonic Shell Shift trait.
 **Iridescent Ray**. The snail uses one of its Eye Rays at random.
 
-
+---
+---
+---
 ## 🐚 Harvestable Parts from _Beauty, the Flail Snail_
 
-| Item                    | Harvest DC | Uses                                   |
-| ----------------------- | ---------- | -------------------------------------- |
-| **Mucosal Trail Slime** | DC 12      | Grease, Glasswork                      |
-| **Flail Tentacle**      | DC 14      | Whip                                   |
-| **Optic Nodule**        | DC 18      | _eye ray_ like wand                    |
-| **Harmonic Shell Core** | DC 20      | Crafting reactive magic items or wands |
+| Item                    | Harvest DC | Uses                             |
+| ----------------------- | ---------- | -------------------------------- |
+| **Mucosal Trail Slime** | DC 12      | Grease Bottle, Various glasswork |
+| **Flail Tentacle**      | DC 14      | Fleshy Whip                      |
+| **Harmonic Shell Core** | DC 16      | Shell Core Brooch                |
+
+### 🪝 **Fleshy Whip**
+Weapon (whip), uncommon
+> _"It smells like calamari and hits like a tentpole."_
+
+- Deals 2d4 bludgeoning damage instead of a normal whip.
+- When you roll a natural 20 on an attack, a Large or smaller target is **knocked prone**.
+
+### 🎼 **Shell Core Brooch**
+_Wondrous item, uncommon (attunement)_
+> _“It sings. Or maybe it screams, very politely.”_
+
+- **Once per long rest**, you can activate the brooch as a **reaction** when targeted by a spell. Roll a d4, until the start of your next turn:    
+	1. **Absorption.** The brooch absorbs the triggering spell and blinds all creatures (including yourself) within 15ft.
+	2. **Disruption.** Spell attacks have disadvantage against you.
+	3. **Refraction.** If you succeeds on a saving throw against a spell, each other creature within 15ft. must make a DC 14 Con save or take 1d6 force damage per spell level.
+	4. **Reflection.** If a spell attack misses you, you reflects the spell back to the caster.
+
+---
+---
+---
+
+
+
+
+
 
 
 
