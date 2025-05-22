@@ -89,31 +89,30 @@ _Wondrous item, uncommon_
 The players are looking to harvest Beauty, a Flail Snail wandering too close to Telamok. Glibnack wants the **Shell Core**, but some _less savory characters_ want it too.
 
 ### **Phase 1: The Trail of Beauty**
-**Skill Challenge (Optional):** DC 15 Group Check (3 successes before 2 failures).  
+**Skill Challenge (Optional):** DC 15 Group Check.  
 Skills: Survival (tracking mucus), Arcana (analyzing harmonic residue), Nature (identifying its slime), Stealth (approach silently).
 - **Success**: Ambush Beauty while it's resting on a ledge, gain Surprise Round.
-- **Failure**: Walk into an ambush — Beauty isn’t alone.
 
 ### **Phase 2: The Battle Begins**
 Beauty is engaged mid-feeding on mineral-rich ruins, its shell glowing faintly.
 
 🌀 **Layer Actions** _(1/round, on initiative count 20)_
-- **Echoes of the Dead**: 2d4 hostile **Wraith Wisps** (CR 1/4 undead, low HP, deal necrotic) swirl through, attacking the closest living thing.
+- **Echoes of the Dead**: 2d4 hostile **Wraith Wisps** (CR 1/4 undead, 1 HP, deal necrotic) swirl through, attacking the closest living thing.
 - **Gravitic Distortion**: A mineral node pulses. Each creature in a 30-ft radius must succeed a DC 14 Strength saving throw or be pulled 10 feet toward it.
 
 📦 Environmental Objects
 - **Rubble Clusters**: May be pushed down for 2d6 bludgeoning damage, Dex save DC 14 for half.
 - **Memento Pillars**: 3 standing stones, can be activated with an Arcana check (DC 15) to emit necrotic bursts (one per stone, 4d6 necrotic, 15-ft cone).
 
-### Phase 3: The Poacher Party Arrives
+### Phase 3: The Poacher Party
 The poachers **wait in hiding**, perched on cliffs, behind boulders, or obscured by underbrush. They're experienced enough to let the adventurers and Beauty **weaken each other**, then swoop in to take what they want.
 - A **DC 16 Wisdom (Perception)** or **DC 14 Intelligence (Investigation)** check reveals **movement, hushed whispers**, or a **glint of crossbow steel** in the ridgeline.
-- If not spotted, the poachers attack **at the end of Round 3** (or after Beauty loses 4 tentacles), catching the party off-guard.
+- If not spotted, the poachers attack **at the end of Round 3** (or after Beauty loses 4 tentacles).
 
 🏴‍☠️ _The Drakestone Poachers_
-- **2 Veterans** (MM) - *hardened thugs with beast-bone gear.*
-- **1 Mage** (uses Lightning Bolt and Counterspell) - *wears stitched hide from a blink dog.*
-- 1 **Net Poacher Leader** - 
+- **2 Bandit Instigator** - *hardened thugs with beast-bone gear.*
+- **1 Priest** - *hooded robe adorned with symbols of Lutheria.*
+- 1 **Net Poacher Leader** - *cruel grin and a bandolier of nets coiled across his chest.*
 
 They might say:
 > "Lay down your arms, that shell is ours! Anyone else can leave. In pieces, if preferred."
@@ -163,6 +162,12 @@ _Hit:_ The target is **grappled** (DC 15 Strength or Acrobatics) by the net (AC 
 
 ### ⚔️ Reactions
 **Smoke Bomb:** Trigger: The poacher is reduced below 30hp. Effect: The poacher drops a smoke bomb (Fog Cloud).
+
+---
+---
+---
+
+### Interesting Battlemap
 
 
 
