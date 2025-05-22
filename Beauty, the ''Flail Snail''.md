@@ -64,14 +64,14 @@ _**Shell Defense.**_ When hit by a weapon attack, the Flailer can withdraw into 
 | **Harmonic Shell Core** | DC 16      | Shell Core Brooch                |
 
 ### 🪝 **Fleshy Whip**
-Weapon (whip), uncommon
+Weapon (whip)
 > _"It smells like calamari and hits like a tentpole."_
 
-- Deals 2d4 bludgeoning damage instead of a normal whip.
+- Deals 2d4 bludgeoning damage instead of the normal damage for a whip.
 - When you roll a natural 20 on an attack, a Large or smaller target is **knocked prone**.
 
 ### 🎼 **Shell Core Brooch**
-_Wondrous item, uncommon (attunement)_
+_Wondrous item, uncommon_
 > _“It sings. Or maybe it screams, very politely.”_
 
 - **Once per long rest**, you can activate the brooch as a **reaction** when targeted by a spell. Roll a d4, until the start of your next turn:    
@@ -80,11 +80,13 @@ _Wondrous item, uncommon (attunement)_
 	3. **Refraction.** If you succeeds on a saving throw against a spell, each other creature within 15ft. must make a DC 14 Con save or take 1d6 force damage per spell level.
 	4. **Reflection.** If a spell attack misses you, you reflects the spell back to the caster.
 
+
 ---
 ---
 ---
 
-
+## 🐌 The Hunt for Beauty the Flail Snail
+The players are looking to harvest Beauty, a Flail Snail wandering too close to Telamok. Glibwants the **Shell Core**, but some _less savory characters_ want it too.
 
 
 
