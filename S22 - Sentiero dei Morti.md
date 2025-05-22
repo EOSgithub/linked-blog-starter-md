@@ -49,10 +49,10 @@ Incise sulla terracotta di alcune mani si trovano parole di chi ha lasciato tutt
 Le leggende sulle Mani di Kentimane sono molteplici. Nessuno sa con certezza da dove provengano:
 1. **Teoria Accademica**  
     Gli studiosi sostengono che siano **opere d’arte colossali** risalenti all’Impero Gygan. Un tempo, questi giganti dominavano Thylea, e le Mani erano templi a cielo aperto dedicati ai Titani, in particolare a **Kentimane e Sydon**. Di quell’impero rimane poco… tranne queste reliquie.
-    
+
 2. **Mito Ancestrale Thyleano**  
     Le genti native di Thylea credono invece che **queste siano davvero le mani di Kentimane**, il Millemani in persona. Secondo il mito, all’alba dei tempi, Thylea e Kentimane si abbracciarono e non si lasciarono mai più. Anche se ora il Titano pattuglia il mare, alcune parti del suo corpo giacciono ancora sulla terra… come queste Mani.
-    
+
 3. **Teoria Creaturale**  
     Secondo altri, le Mani **non sono statue**, ma creature dormienti. Nessuno sa se siano emanazioni di Kentimane, creazioni dei Titani Gemelli, o qualcos’altro ancora.  
     Alcuni avventurieri giurano di aver combattuto **mani di pietra animate**, forti e violente. Ma pochi danno loro credito: sembrano ubriaconi in cerca di gloria, o visionari folli.
