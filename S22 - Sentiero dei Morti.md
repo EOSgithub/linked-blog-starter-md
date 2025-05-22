@@ -81,6 +81,9 @@ Perirono a causa delle ferite e del freddo estremo poco prima degli ultimi passi
 Non permetterà agli eroi di passare. Nella mente di questo spirito, stanno ancora percorrendo il Sentiero dei Morti, così vicini alla grandezza, ora affrontati da ladri di tombe in avvicinamento. L'eredità della Necropoli di Telamok è loro, e solo loro. Combattono fino alla distruzione.
 
 ---
+### Eventi Casuali
+Possono essere trovati qui: [[Eventi Casuali - Sentiero dei Morti]]
 
+---
 
 
