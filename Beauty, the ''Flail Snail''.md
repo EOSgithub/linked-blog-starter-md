@@ -107,12 +107,12 @@ Beauty is engaged mid-feeding on mineral-rich ruins, its shell glowing faintly.
 ### Phase 3: The Poacher Party
 The poachers **wait in hiding**, perched on cliffs, behind boulders, or obscured by underbrush. They're experienced enough to let the adventurers and Beauty **weaken each other**, then swoop in to take what they want.
 - A **DC 16 Wisdom (Perception)** or **DC 14 Intelligence (Investigation)** check reveals **movement, hushed whispers**, or a **glint of crossbow steel** in the ridgeline.
-- If not spotted, the poachers attack **at the end of Round 3** (or after Beauty loses 4 tentacles).
+- If not spotted, the poachers attack **at the end of Round 3** (or after Beauty loses 4 or more flails).
 
 🏴‍☠️ _The Drakestone Poachers_
-- **2 Bandit Instigator** - *hardened thugs with beast-bone gear.*
-- **1 Priest** - *hooded robe adorned with symbols of Lutheria.*
-- 1 **Net Poacher Leader** - *cruel grin and a bandolier of nets coiled across his chest.*
+- **2 Bandit Instigator** - *hardened thugs with beast-bone gear.* *- In the underbush near the party*
+- **1 Priest** - *hooded robe adorned with symbols of Lutheria.* *- On a cliff 20ft above behind 3/4 cover*
+- 1 **Net Poacher Leader** - *cruel grin and a bandolier of nets coiled across his chest.* *- Over a small chasm in front of the cliff*
 
 They might say:
 > "Lay down your arms, that shell is ours! Anyone else can leave. In pieces, if preferred."
@@ -148,7 +148,7 @@ _Medium humanoid, Chaotic Evil_
 ### ⚔️ Actions
 **Multiattack.** The Net Poacher makes **two attacks**, one with his net launcher and one with his whip-dagger (or two melee attacks).
 
-**Whip-Dagger.** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target.  
+**Whip-Dagger.** _Melee Weapon Attack:_ +7 to hit, reach 15 ft., one target.  
 _Hit:_ 9 (1d10 + 4) slashing damage. This attack always crits against creatures grappled by one of the poacher's nets.
 
 **Net Launcher (Recharge 4–6).** _Ranged Weapon Attack:_ +7 to hit, range 30/60 ft., one Large or smaller creature.  
