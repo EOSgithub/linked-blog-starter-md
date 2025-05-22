@@ -146,19 +146,20 @@ _Medium humanoid, Chaotic Evil_
 **Proficiency Bonus** +3
 
 ### ⚔️ Actions
-**Multiattack.** The Net Poacher makes **two attacks**, one with his net launcher and one with his whip-dagger (or two melee attacks).
+**Multiattack.** The Net Poacher makes **two attacks**, one of which can be with his net launcher.
 
 **Whip-Dagger.** _Melee Weapon Attack:_ +7 to hit, reach 15 ft., one target.  
 _Hit:_ 9 (1d10 + 4) slashing damage. This attack always crits against creatures grappled by one of the poacher's nets.
 
-**Net Launcher (Recharge 4–6).** _Ranged Weapon Attack:_ +7 to hit, range 30/60 ft., one Large or smaller creature.  
+**Net Launcher (1/battle).** _Ranged Weapon Attack:_ +7 to hit, range 30/60 ft., one Large or smaller creature.  
 _Hit:_ The target is **grappled** (DC 15 Strength or Acrobatics) by the net (AC 10, 5 HP) and suffers one of the following effects:
 - **Weighted Net**: The target is restrained.
-- **Barbed Net (2/battle)**: the target has its speed halved and takes 2d4 piercing damage whenever it moves 5ft.
-- **Incendiary Net (1/battle):** The target begins burning(1d10), Each creature in a 10 ft. radius must succeed a **DC 15 Dex save** or also begin burning(1d10).
+- **Barbed Net**: the target has its speed halved and takes 2d4 piercing damage whenever it moves 5ft.
+- **Incendiary Net:** The target begins burning(1d10), Each creature in a 10 ft. radius must succeed a **DC 15 Dex save** or also begin burning(1d10).
 
 ### ⚔️ Bonus Actions
 **Slippery Bastard.** The Poacher takes the Disengage or Dodge action.
+**Reload.** The Poacher regains a use of his Net Launcher.
 
 ### ⚔️ Reactions
 **Smoke Bomb:** Trigger: The poacher is reduced below 30hp. Effect: The poacher drops a smoke bomb (Fog Cloud).
