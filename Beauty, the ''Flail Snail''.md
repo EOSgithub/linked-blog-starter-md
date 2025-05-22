@@ -86,9 +86,100 @@ _Wondrous item, uncommon_
 ---
 
 ## 🐌 The Hunt for Beauty the Flail Snail
-The players are looking to harvest Beauty, a Flail Snail wandering too close to Telamok. Glibwants the **Shell Core**, but some _less savory characters_ want it too.
+The players are looking to harvest Beauty, a Flail Snail wandering too close to Telamok. Glibnack wants the **Shell Core**, but some _less savory characters_ want it too.
+
+### **Phase 1: The Trail of Beauty**
+**Skill Challenge (Optional):** DC 15 Group Check (3 successes before 2 failures).  
+Skills: Survival (tracking mucus), Arcana (analyzing harmonic residue), Nature (identifying its slime), Stealth (approach silently).
+- **Success**: Ambush Beauty while it's resting on a ledge, gain Surprise Round.
+- **Failure**: Walk into an ambush — Beauty isn’t alone.
+
+### **Phase 2: The Battle Begins**
+Beauty is engaged mid-feeding on mineral-rich ruins, its shell glowing faintly.
+
+🌀 **Layer Actions** _(1/round, on initiative count 20)_
+- **Echoes of the Dead**: 2d4 hostile **Wraith Wisps** (CR 1/4 undead, low HP, deal necrotic) swirl through, attacking the closest living thing.
+- **Gravitic Distortion**: A mineral node pulses. Each creature in a 30-ft radius must succeed a DC 14 Strength saving throw or be pulled 10 feet toward it.
+
+📦 Environmental Objects
+- **Rubble Clusters**: May be pushed down for 2d6 bludgeoning damage, Dex save DC 14 for half.
+- **Memento Pillars**: 3 standing stones, can be activated with an Arcana check (DC 15) to emit necrotic bursts (one per stone, 4d6 necrotic, 15-ft cone).
+
+### Phase 3: The Poacher Party Arrives
+The poachers **wait in hiding**, perched on cliffs, behind boulders, or obscured by underbrush. They're experienced enough to let the adventurers and Beauty **weaken each other**, then swoop in to take what they want.
+- A **DC 16 Wisdom (Perception)** or **DC 14 Intelligence (Investigation)** check reveals **movement, hushed whispers**, or a **glint of crossbow steel** in the ridgeline.
+- If not spotted, the poachers attack **at the end of Round 3** (or after Beauty loses 4 tentacles), catching the party off-guard.
+
+🏴‍☠️ _The Drakestone Poachers_
+- **2 Veterans** (MM)
+- **1 Mage** (uses Lightning Bolt and Counterspell)
+- 1 **Net Poacher Leader** 
+
+They might say:
+> "Lay down your arms, that shell is ours! Anyone else can leave. In pieces, if preferred."
+> “Step away from the corpse, or you’ll join it.”
+> “Now! Drop the mage first!”
+> “Take the big one alive. Could fetch a price as a slave too.”
+> “That’s a fine spell. Mind casting it again after I break your fingers?”
+> “Nice armor. Would look better on someone who deserves it.”
+> “Fall back! Fall back! Shell ain’t worth dying over!”
+
+On Beauty's death, they try to **steal the corpse or flee with parts**.
+
+___
+___
+___
 
 
+## 🪢 Net Poacher
+_Medium humanoid, Chaotic Evil_  
+**Armor Class** 16 (studded leather)  
+**Hit Points** 102 (12d8 + 48)  
+**Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|14 (+2)|18 (+4)|18 (+4)|12 (+1)|11 (+0)|14 (+2)|
+
+**Saving Throws** Dex +7, Int +4  
+**Skills** Stealth +7, Survival +4, Deception +5, Perception +3  
+**Senses** passive Perception 13  
+**Languages** Common, Thieves' Cant  
+**Challenge** 5 (1,800 XP)  
+**Proficiency Bonus** +3
+
+### 🧠 Traits
+**Cunning Controller.** On hit, the Net Poacher Leader automatically crits on creatures restrained by one of his nets. When he uses a net, it ignores disadvantage for being in melee.
+
+**Slippery Bastard.** As a bonus action, he can take the Disengage or Dodge action.
+
+### ⚔️ Actions
+**Multiattack.** The Net Poacher makes **two attacks**, one with his net launcher and one with his whip-dagger (or two melee attacks).
+
+**Whip-Dagger.** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target.  
+_Hit:_ 9 (1d10 + 4) slashing damage, and the target must succeed on a DC 14 Strength saving throw or be **pulled 5 feet** toward the Poacher.
+
+**Net Launcher (Recharge 5–6).** _Ranged Weapon Attack:_ +7 to hit, range 30/60 ft., one Large or smaller creature.  
+_Hit:_ The target is **restrained** (DC 15 Strength or Acrobatics check to escape). A creature can use its action to free another, or destroy the net (AC 10, 5 HP, immune to psychic/radiant).
+- **Barbed Nets** that deal 2d4 piercing damage at the start of each turn until freed.
+
+**Poacher’s Shot (1/day).** The Net Poacher fires a net with an alchemical flare. Each creature in a 10 ft. radius must succeed a **DC 15 Dex save** or be **blinded until the end of its next turn**. The main target is netted as normal.
+
+---
+
+### 💢 Reactions
+
+**Tactical Retreat.** When an ally within 10 ft. is hit, the Net Poacher can use his reaction to switch places with them and take the hit instead.
+
+---
+
+### 🎯 Tactics
+
+- **Round 1:** Begins hidden, uses Poacher’s Shot or Barbed Net on the squishiest enemy.
+    
+- **Mid-Fight:** Exploits restrained targets with whip-dagger or commands Veterans to dogpile one target.
+    
+- **Escape Plan:** If reduced below 30 HP, drops smoke bomb (Fog Cloud spell) and flees unless cornered.
 
 
 
