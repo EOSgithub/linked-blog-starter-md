@@ -20,7 +20,7 @@ Qualsiasi altro mortale il gruppo incontrerà sarà un pazzo, un auto-esiliato o
 - Non ci sono incontri nell'ultimo giorno di viaggio oltre a quello obbligatorio, i Camminatori della Luce Fredda, poiché non esistono creature così vicine alla destinazione degli eroi.
 
 ---
-### Evento Fisso: Mani del Kentimane (Day 1)
+### Evento Fisso: Mani del Kentimane (Giorno 1)
 Se il gruppo percorre il Sentiero dei Morti, incontrerà inevitabilmente queste Mani di Kentimane, poiché sono punti di riferimento visibili lungo la strada. Dopo alcune ore di viaggio:
 
 > Il vostro viaggio attraverso le montagne inizia nel silenzio.  
@@ -58,23 +58,29 @@ Le leggende sulle Mani di Kentimane sono molteplici. Nessuno sa con certezza da 
     Alcuni avventurieri giurano di aver combattuto **mani di pietra animate**, forti e violente. Ma pochi danno loro credito: sembrano ubriaconi in cerca di gloria, o visionari folli.
 
 ---
-
-## Eventi Casual
+## Evento Fisso: Shiny Hunting (Giorno 2)
+I personaggi hanno ottenuto la missione da Glibnack e possono quindi trovare e seguire le tracce del mostro di cui parlava durante il loro secondo giorno di viaggio. 
+I dettagli dell'evento posso essere trovati qui: [[Beauty, the ''Flail Snail'']]
 
 ---
-### Evento Fisso: Coldlight Walker (Day 3)
-The closer one gets to the Necropolis itself, the more the cold strikes. Snow begins to fall, plants vanish or are found frozen, beasts are no longer seen. Living beings avoid the frostbite, and even roaming undead can’t be around for too long without being found and destroyed by Damon, the gatekeeper. At some point, the heroes will find nothing but rocks on their way.
+### Evento Fisso: Coldlight Walker (Giorno 3)
+Più ci si avvicina alla Necropoli, più il freddo si fa sentire. La neve inizia a cadere, le piante svaniscono o vengono trovate congelate, non si vedono più animali. Gli esseri viventi evitano il congelamento e persino i non morti vaganti non possono resistere a lungo senza essere trovati e distrutti da Damon, il guardiano del cancello. A un certo punto, gli eroi non troveranno altro che rocce lungo il cammino.
 
-        This encounter triggers only in the final stretch of the Path of the Dead, at dusk of the third day of travel[[m]](https://docs.google.com/document/d/1a9OCcaVyZp4PfPzxXPJTBNAtFzQLgg41lg2dbwBO8Cw/mobilebasic#cmnt13), right around the last mountainous corner before the Necropolis is seen. Once the heroes arrive at this point, the DM may read this description:
+Questo incontro si innesca solo nell'ultimo tratto del Sentiero dei Morti, al crepuscolo del terzo giorno di viaggio, proprio dietro l'ultimo angolo montuoso prima di scorgere la Necropoli. Una volta che gli eroi arrivano a questo punto, il DM può leggere questa descrizione:
 
-For days you have trod the Path of the Dead, and yet, you live. The Necropolis at Telamok isn’t far now: according to Kyrah, the Path should end right around the corner. Night is about to fall, however, and something catches your eye.
+> Per giorni avete percorso il Sentiero dei Morti, eppure siete vivi. La Necropoli di Telamok non è lontana ormai: secondo la vostra mappa, il Sentiero dovrebbe terminare proprio dietro l'angolo. Sta per calare la notte, tuttavia, qualcosa cattura la vostra attenzione.
+> 
+> Mentre camminate, i vostri piedi affondano nella neve, facendovi risalire un brivido di freddo lungo tutto il corpo. Più avanti, giacciono sparse qua e là diverse pietre grandi come un pugno. È facile individuarne l'origine: i resti di una tomba di pietra improvvisata, chiaramente profanata. Le pietre che un tempo erano ammucchiate sopra un corpo ora sono sparse qua e là, e una mano scheletrica spunta da terra.
+> 
+> Sentite una voce debole: "l'Eredità... è mia!", mentre una fredda luce bianca si riversa dalla tomba.
 
-  
+Dalla fossa funeraria emerge 1 [Coldlight Walker](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://homebrewery.naturalcrit.com/share/1jxMZ8qIU72t2NHLeQUWp85cbs8uknG84SpObrEdAtHqC%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1747928348764334%26amp;usg%3DAOvVaw3sV3EMSYq95dcCe0ud9qMP&sa=D&source=docs&ust=1747928348952869&usg=AOvVaw0T9U_OXPL1tLoyr9FyIQyZ), un fantasma Figura umanoide di luce bianco-bluastra che indossa spessi himation fatti per il freddo, proprio come dovrebbero essere gli eroi stessi.
+Questo è lo spirito di un mortale discendente dei Signori dei Draghi che tentò di raggiungere la Necropoli di Telamok, oltre 100 anni fa, ma non riuscì a completare il viaggio.
+Perirono a causa delle ferite e del freddo estremo poco prima degli ultimi passi, sepolti in una tomba improvvisata da chiunque viaggiasse con loro, che fu poi distrutta da Graxis, il Macellaio. Non furono sepolti con il dovuto pagamento, e quindi non furono accettati sulla chiatta di Lutheria.
 
-As you walk, your feet sink in the thick snow, driving the cold up across your body. Further ahead there lies a number of fist-sized rocks spread around. It’s easy to find their source: you can see the remains of an improvised stone tomb that has clearly been desecrated. The stones that were once piled on top of a body are now thrown about, and a single skeletal hand pops out from the ground.
+Non permetterà agli eroi di passare. Nella mente di questo spirito, stanno ancora percorrendo il Sentiero dei Morti, così vicini alla grandezza, ora affrontati da ladri di tombe in avvicinamento. L'eredità della Necropoli di Telamok è loro, e solo loro. Combattono fino alla distruzione.
 
-You hear a faint voice: “legacy… mine!”, as white light pours from the grave.
+---
 
-        From the burial pit, 1 [Coldlight Walker](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://homebrewery.naturalcrit.com/share/1jxMZ8qIU72t2NHLeQUWp85cbs8uknG84SpObrEdAtHqC%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1747928348764334%26amp;usg%3DAOvVaw3sV3EMSYq95dcCe0ud9qMP&sa=D&source=docs&ust=1747928348952869&usg=AOvVaw0T9U_OXPL1tLoyr9FyIQyZ) emerges, a ghostly humanoid figure of white-blueish light wearing thick himations meant for the cold, much like the heroes themselves should be. This is the spirit of a mortal of Dragonlord descent who attempted to reach the Necropolis at Telamok, over 100 years ago, but couldn’t complete their journey. They perished from their wounds and the extreme cold right before the final steps, laid to rest in an improvised grave by whoever traveled with them, which was eventually  destroyed by Graxis, the Butcher. They were not buried with proper payment[[n]](https://docs.google.com/document/d/1a9OCcaVyZp4PfPzxXPJTBNAtFzQLgg41lg2dbwBO8Cw/mobilebasic#cmnt14), and so were not accepted in Lutheria’s barge.
 
-        It will not allow the heroes to pass. In the mind of this spirit, they are still treading the Path of the Dead, so close to greatness, now being confronted by approaching graverobbers. The legacy of the Necropolis at Telamok is theirs, and theirs alone. They fight until destroyed.
+
