@@ -111,9 +111,9 @@ The poachers **wait in hiding**, perched on cliffs, behind boulders, or obscured
 - If not spotted, the poachers attack **at the end of Round 3** (or after Beauty loses 4 tentacles), catching the party off-guard.
 
 🏴‍☠️ _The Drakestone Poachers_
-- **2 Veterans** (MM)
-- **1 Mage** (uses Lightning Bolt and Counterspell)
-- 1 **Net Poacher Leader** 
+- **2 Veterans** (MM) - *hardened thugs with beast-bone gear.*
+- **1 Mage** (uses Lightning Bolt and Counterspell) - *wears stitched hide from a blink dog.*
+- 1 **Net Poacher Leader** - 
 
 They might say:
 > "Lay down your arms, that shell is ours! Anyone else can leave. In pieces, if preferred."
@@ -129,9 +129,7 @@ On Beauty's death, they try to **steal the corpse or flee with parts**.
 ___
 ___
 ___
-
-
-## 🪢 Net Poacher
+## 🪢 Net Poacher Leader
 _Medium humanoid, Chaotic Evil_  
 **Armor Class** 16 (studded leather)  
 **Hit Points** 102 (12d8 + 48)  
@@ -145,41 +143,27 @@ _Medium humanoid, Chaotic Evil_
 **Skills** Stealth +7, Survival +4, Deception +5, Perception +3  
 **Senses** passive Perception 13  
 **Languages** Common, Thieves' Cant  
-**Challenge** 5 (1,800 XP)  
+**Challenge** 5 
 **Proficiency Bonus** +3
-
-### 🧠 Traits
-**Cunning Controller.** On hit, the Net Poacher Leader automatically crits on creatures restrained by one of his nets. When he uses a net, it ignores disadvantage for being in melee.
-
-**Slippery Bastard.** As a bonus action, he can take the Disengage or Dodge action.
 
 ### ⚔️ Actions
 **Multiattack.** The Net Poacher makes **two attacks**, one with his net launcher and one with his whip-dagger (or two melee attacks).
 
 **Whip-Dagger.** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target.  
-_Hit:_ 9 (1d10 + 4) slashing damage, and the target must succeed on a DC 14 Strength saving throw or be **pulled 5 feet** toward the Poacher.
+_Hit:_ 9 (1d10 + 4) slashing damage. This attack always crits against creatures grappled by one of the poacher's nets.
 
-**Net Launcher (Recharge 5–6).** _Ranged Weapon Attack:_ +7 to hit, range 30/60 ft., one Large or smaller creature.  
-_Hit:_ The target is **restrained** (DC 15 Strength or Acrobatics check to escape). A creature can use its action to free another, or destroy the net (AC 10, 5 HP, immune to psychic/radiant).
-- **Barbed Nets** that deal 2d4 piercing damage at the start of each turn until freed.
+**Net Launcher (Recharge 4–6).** _Ranged Weapon Attack:_ +7 to hit, range 30/60 ft., one Large or smaller creature.  
+_Hit:_ The target is **grappled** (DC 15 Strength or Acrobatics) by the net (AC 10, 5 HP) and suffers one of the following effects:
+- **Weighted Net**: The target is restrained.
+- **Barbed Net (2/battle)**: the target has its speed halved and takes 2d4 piercing damage whenever it moves 5ft.
+- **Incendiary Net (1/battle):** The target begins burning(1d10), Each creature in a 10 ft. radius must succeed a **DC 15 Dex save** or also begin burning(1d10).
 
-**Poacher’s Shot (1/day).** The Net Poacher fires a net with an alchemical flare. Each creature in a 10 ft. radius must succeed a **DC 15 Dex save** or be **blinded until the end of its next turn**. The main target is netted as normal.
+### ⚔️ Bonus Actions
+**Slippery Bastard.** The Poacher takes the Disengage or Dodge action.
 
----
+### ⚔️ Reactions
+**Smoke Bomb:** Trigger: The poacher is reduced below 30hp. Effect: The poacher drops a smoke bomb (Fog Cloud).
 
-### 💢 Reactions
-
-**Tactical Retreat.** When an ally within 10 ft. is hit, the Net Poacher can use his reaction to switch places with them and take the hit instead.
-
----
-
-### 🎯 Tactics
-
-- **Round 1:** Begins hidden, uses Poacher’s Shot or Barbed Net on the squishiest enemy.
-    
-- **Mid-Fight:** Exploits restrained targets with whip-dagger or commands Veterans to dogpile one target.
-    
-- **Escape Plan:** If reduced below 30 HP, drops smoke bomb (Fog Cloud spell) and flees unless cornered.
 
 
 
