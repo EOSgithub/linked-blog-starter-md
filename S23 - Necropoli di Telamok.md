@@ -33,3 +33,34 @@ Un tempo protettore e guida, la mente di Damon si è ora erosa, consumata dal su
 Quando qualcuno si avvicina, Damon tende semplicemente la mano, chiedendo chiaramente qualcosa: una Moneta Brunita del Signore dei Draghi. Gli eroi dovrebbero averne almeno 1, un dono di Proteo nel Capitolo 1: Eroi della Profezia. Se il gruppo non paga il pedaggio e tenta di passare, inizierà fermandoli tramite incantesimi di controllo come Blocca Persona o Muro di Forza. Chiunque provi a superarlo con la forza viene preso di mira con maggiore violenza, dando inizio a un combattimento vero e proprio.
 
 ---
+### La Necropoli di Telamok
+> I vostri piedi toccano la Necropoli.  
+> La neve si sgretola ancora sotto i vostri passi. Ma ora, un nuovo elemento si mescola al paesaggio: una polvere nera rigurgitata dalla terra stessa. Spinta dal vento gelido, scorre violenta lungo il suolo, per poi svanire nell’abisso sottostante.
+> 
+> Quando provate a toccarla, si sbriciola tra le dita, priva di peso o consistenza. Non è sabbia. Non è cenere.  
+> 
+> Da questa posizione, riuscite finalmente a distinguere gli ingressi che avevate intravisto prima: non grotte, ma tombe.  
+> Dodici in tutto, scavate direttamente nella roccia della montagna, ognuna chiusa da una pesante lastra di marmo. Quattro colonne di pietra le contrassegnano, come a sorvegliarle.
+> 
+> In lontananza si staglia un grande mausoleo bianco avorio, imponente quanto il palazzo reale di estoria. Accanto a esso, c’è un tredicesimo ingresso, più largo degli altri, segnato da sei colonne: molto più antico, o forse semplicemente… più importante.
+> 
+> E infine, lungo i sentieri nevosi che si snodano tra le rovine, vedeti innumerevoli cadaveri.  
+> Alcuni sono semicongelati: tombaroli, forse, puniti per la loro audacia. Le loro ferite sono ancora visibili, crude, impietose.  
+> Altri… non sono nemmeno umani. Statue ghiacciate, di varie forme e dimensioni, pietrificate in pose statiche.
+
+La Necropoli è un luogo pericoloso. Innanzitutto, la maggior parte delle aree di interesse qui sono tombe consacrate, il che significa che rubare da esse affliggerebbe un personaggio con la Maledizione del Ladro di Tombe. 
+
+In secondo luogo, la maggior parte di esse è anche preparata con trappole minacciose che, anche se non sufficienti a uccidere direttamente gli eroi, bruceranno inutilmente risorse che sarebbero necessarie all'interno della Tomba di Xander (aree dalla 16 alla 24), l'ostacolo obbligatorio presente qui. 
+
+Inoltre, mentre la consacrazione può essere percepita attraverso caratteristiche come il Senso Divino o incantesimi come Rileva il Male e il Bene, la maggior parte delle trappole non può essere scoperta tramite controlli di abilità, essendo completamente nascoste dietro i muri o dalla potente magia di Damon.
+
+NIENTE RIPOSI LUNGHI A TELAMOK!
+
+**Tomb Exteriors**
+The tombs are built into 15 ft. high cliffs and usually have 4 dirty marble pillars set into the cliff face, all carved with entwined dragons. Each tomb is sealed with a 5 ft. wide, 5 ft. tall, 5 ft. thick chiseled marble slab. Moving these chunks of stone requires an action, but there is no need for a skill check unless specifically noted in the tomb description, or if demanded by a trap.
+
+Additionally, every single marble slab bears a warning inscription. It names the Dragonlord interred inside, their former bonded dragon’s name, offers both an epitaph and an ever present warning: “death awaits any who would desecrate the great warrior within”.
+
+---
+
+Le varie tombe possono essere trvate qui: 
