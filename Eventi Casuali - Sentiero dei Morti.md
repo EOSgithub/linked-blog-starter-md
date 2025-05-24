@@ -22,7 +22,6 @@ If the first d100 roll is between 26 and 65, the party will encounter a combat s
     - **Tactics:** They will fight to the death to protect their home if it contains eggs or young. If not, they will flee when bloodied (50% HP or less).
 
 - **16-25: Blood Toll Harpies** The party is attacked by 2d6 Blood Toll Harpies. These creatures are victims of the Curse of the Harpy who couldn't withstand the transformation, their minds regressed by shame, pain, and guilt, turning them into violent, butchering monsters.
-
     - **Tactics:** They are more bestial than their singing counterparts and will focus on any wounded hero, retreating when bloodied (50% HP or less).
 
 - **26-35: Flitterstep Eidolon** The party finds a group of 2d4 Flitterstep Eidolons along their path. These are runaway spirits from the Underworld, escaped through the broken gateway connected to Telamok. When an entity escapes that plane, it often comes out in pieces: a Returned (a body empty of its soul, recognizable by a plain golden mask it can never remove) and an Eidolon (the remaining amnesiac spirit). They will never find each other again and are usually unaware of each other's existence. These are the simplest Eidolons, stuck in a permanent state of fight or flight, speaking and screaming frequently in fear, claiming to be escaping something or someone (Lutheria’s minions).
