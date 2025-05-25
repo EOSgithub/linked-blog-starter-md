@@ -86,4 +86,5 @@ Possono essere trovati qui: [[Eventi Casuali - Sentiero dei Morti]]
 
 ---
 
-
+### Arrivo
+Una volta raggiunta la necropoli: [[S23 - Necropoli di Telamok]]
