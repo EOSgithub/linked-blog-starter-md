@@ -63,4 +63,4 @@ Additionally, every single marble slab bears a warning inscription. It names th
 
 ---
 
-Le varie tombe possono essere trvate qui: 
+Le varie tombe possono essere trvate qui: [[Tombe di Telamok]]
