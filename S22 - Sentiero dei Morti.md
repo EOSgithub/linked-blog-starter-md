@@ -59,6 +59,8 @@ Le leggende sulle Mani di Kentimane sono molteplici. Nessuno sa con certezza da 
     Secondo altri, le Mani **non sono statue**, ma creature dormienti. Nessuno sa se siano emanazioni di Kentimane, creazioni dei Titani Gemelli, o qualcos’altro ancora.  
     Alcuni avventurieri giurano di aver combattuto **mani di pietra animate**, forti e violente. Ma pochi danno loro credito: sembrano ubriaconi in cerca di gloria, o visionari folli.
 
+5 Autoesiliati da Estoria tornano in città dopo aver visto l'entità.
+
 ---
 ## Evento Fisso: Shiny Hunting (Giorno 2)
 I personaggi hanno ottenuto la missione da Glibnack e possono quindi trovare e seguire le tracce del mostro di cui parlava durante il loro secondo giorno di viaggio. 

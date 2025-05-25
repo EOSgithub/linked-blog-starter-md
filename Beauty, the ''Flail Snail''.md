@@ -1,4 +1,4 @@
-- **Armor Class** 16
+<- **Armor Class** 16
 - **Hit Points** 120
 - **Speed** 15 ft., Climb 15 ft.
 - **Size** Medium
