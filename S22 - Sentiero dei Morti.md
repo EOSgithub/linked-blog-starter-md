@@ -46,6 +46,8 @@ Incise sulla terracotta di alcune mani si trovano parole di chi ha lasciato tutt
 - Poesie d’amore e rimpianto;
 - **Accuse furiose contro gli dei**, con incise vere e proprie sfide rivolte al titano Kentimane stesso: _“Colpiscimi, se hai il coraggio, Mostro del Mare”_.
 
+Blessing del Kentimane(Phiore)!!!
+
 Le leggende sulle Mani di Kentimane sono molteplici. Nessuno sa con certezza da dove provengano:
 1. **Teoria Accademica**  
     Gli studiosi sostengono che siano **opere d’arte colossali** risalenti all’Impero Gygan. Un tempo, questi giganti dominavano Thylea, e le Mani erano templi a cielo aperto dedicati ai Titani, in particolare a **Kentimane e Sydon**. Di quell’impero rimane poco… tranne queste reliquie.
