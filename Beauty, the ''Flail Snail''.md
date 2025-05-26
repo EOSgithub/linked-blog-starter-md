@@ -71,7 +71,7 @@ Weapon (whip)
 - When you roll a natural 20 on an attack, a Large or smaller target is **knocked prone**.
 
 ### 🎼 **Shell Core Brooch**
-_Wondrous item, uncommon_
+_Wondrous item, uncommon_ (500GP)
 > _“It sings. Or maybe it screams, very politely.”_
 
 - **Once per long rest**, you can activate the brooch as a **reaction** when targeted by a spell. Roll a d4, until the start of your next turn:    
