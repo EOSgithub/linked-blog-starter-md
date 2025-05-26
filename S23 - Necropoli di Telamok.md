@@ -6,23 +6,44 @@
 > Avete incontrato le mani del Kentimane, combattuto la fauna del luogo e salvato un gruppo di auto-esiliati da un nido di Arpie.
 > Dopo aver fatto campo per la notte siete ripartiti e, una volta seguite le tracce di Beauty, avete ucciso la creatura e un gruppo di cacciatori lì per il vostro stesso premio.
 > La vostra prossima tappa è la Necropoli di Telamok, dove le armi necessarie per la sopravvivenza della nuova era sono sepolte.
-
-La Necropoli di Telamok è un sito sacro costruito lungo un canyon nei Monti Mithral, ​​a nord di Mytros. Antichi ponti consumati dal tempo attraversano un vasto abisso avvolto dalla nebbia fino a raggiungere scogliere dove si trovano gli ingressi di tombe e cripte. Questo è un luogo di morte dove nessun essere vivente si muove. Le rovine sono ricoperte da un sottile strato di sabbia nera e neve grigia, che assorbe i suoni e avvolge l'area in un silenzio inquietante.
-
 ---
 
-Blessing del Kentimane(Phiore)!!!
+Ricordati il Blessing del Kentimane(Phiore)!!!
+### Intro
+> La neve cade fitta sulle montagne, ovattando ogni suono. È quasi mezzogiorno, ma il sole è solo un disco bianco tra le nubi d'acciaio.
+> 
+> Siete ancora sul **Sentiero dei Morti**, il passo montano che porta alla **Necropoli di Telamok**. Attorno a voi, i segni della battaglia sono chiari: I corpi dei cacciatori sono sparsi qua e là, coperti dalla neve che già tenta di cancellare ogni traccia della loro fine. Dove giaceva Beauty, ora restano solo **brandelli del suo guscio** e qualche organo mancante, custodito con cura nello zaino di uno di voi.
+> 
+> Poco distante, **l’unico sopravvissuto** del gruppo giace **privo di sensi nella neve**, con indosso simboli che riconoscete — segni del culto di **Lutheria**.
+> 
+> Notos: "Mmmh... non lo so, secondo voi ha la faccia da ‘potrei redimermi’ o da ‘fuggirò alla prima occasione’?"
 
-La neve cade fitta sulle montagne, ovattando ogni suono. È quasi mezzogiorno, ma il sole è solo un disco bianco tra le nubi d'acciaio.
+---
+### Eventi Casuali
+Possono essere trovati qui: [[Eventi Casuali - Sentiero dei Morti]]
 
-Siete ancora sul **Sentiero dei Morti**, il passo montano che porta alla **Necropoli di Telamok**. Attorno a voi, i segni della battaglia sono chiari: I corpi dei cacciatori sono sparsi qua e là, coperti dalla neve che già tenta di cancellare ogni traccia della loro fine. Dove giaceva Beauty, ora restano solo **brandelli del suo guscio** e qualche organo mancante, custodito con cura nello zaino di uno di voi.
+---
+### Evento Fisso: Coldlight Walker (Giorno 3)
+Più ci si avvicina alla Necropoli, più il freddo si fa sentire. La neve inizia a cadere, le piante svaniscono o vengono trovate congelate, non si vedono più animali. Gli esseri viventi evitano il congelamento e persino i non morti vaganti non possono resistere a lungo senza essere trovati e distrutti da Damon, il guardiano del cancello. A un certo punto, gli eroi non troveranno altro che rocce lungo il cammino.
 
-Poco distante, **l’unico sopravvissuto** del gruppo giace **privo di sensi nella neve**, con indosso simboli oscuri — segni evidenti del culto di **Lutheria**.
+Questo incontro si innesca solo nell'ultimo tratto del Sentiero dei Morti, al crepuscolo del terzo giorno di viaggio, proprio dietro l'ultimo angolo montuoso prima di scorgere la Necropoli. Una volta che gli eroi arrivano a questo punto, il DM può leggere questa descrizione:
 
-Notos:
+> Per giorni avete percorso il Sentiero dei Morti, eppure siete vivi. La Necropoli di Telamok non è lontana ormai: secondo la vostra mappa, il Sentiero dovrebbe terminare proprio dietro l'angolo. Sta per calare la notte, tuttavia, qualcosa cattura la vostra attenzione.
+> 
+> Mentre camminate, i vostri piedi affondano nella neve, facendovi risalire un brivido di freddo lungo tutto il corpo. Più avanti, giacciono sparse qua e là diverse pietre grandi come un pugno. È facile individuarne l'origine: i resti di una tomba di pietra improvvisata, chiaramente profanata. Le pietre che un tempo erano ammucchiate sopra un corpo ora sono sparse qua e là, e una mano scheletrica spunta da terra.
+> 
+> Sentite una voce debole: "l'Eredità... è mia!", mentre una fredda luce bianca si riversa dalla tomba.
+
+Dalla fossa funeraria emerge 1 [Coldlight Walker](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://homebrewery.naturalcrit.com/share/1jxMZ8qIU72t2NHLeQUWp85cbs8uknG84SpObrEdAtHqC%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1747928348764334%26amp;usg%3DAOvVaw3sV3EMSYq95dcCe0ud9qMP&sa=D&source=docs&ust=1747928348952869&usg=AOvVaw0T9U_OXPL1tLoyr9FyIQyZ), un fantasma Figura umanoide di luce bianco-bluastra che indossa spessi himation fatti per il freddo, proprio come dovrebbero essere gli eroi stessi.
+Questo è lo spirito di un mortale discendente dei Signori dei Draghi che tentò di raggiungere la Necropoli di Telamok, oltre 100 anni fa, ma non riuscì a completare il viaggio.
+Perirono a causa delle ferite e del freddo estremo poco prima degli ultimi passi, sepolti in una tomba improvvisata da chiunque viaggiasse con loro, che fu poi distrutta da Graxis, il Macellaio. Non furono sepolti con il dovuto pagamento, e quindi non furono accettati sulla chiatta di Lutheria.
+
+Non permetterà agli eroi di passare. Nella mente di questo spirito, stanno ancora percorrendo il Sentiero dei Morti, così vicini alla grandezza, ora affrontati da ladri di tombe in avvicinamento. L'eredità della Necropoli di Telamok è loro, e solo loro. Combattono fino alla distruzione.
 
 ---
 ### L'Approccio
+La Necropoli di Telamok è un sito sacro costruito lungo un canyon nei Monti Mithral, ​​a nord di Mytros. Antichi ponti consumati dal tempo attraversano un vasto abisso avvolto dalla nebbia fino a raggiungere scogliere dove si trovano gli ingressi di tombe e cripte. Questo è un luogo di morte dove nessun essere vivente si muove. Le rovine sono ricoperte da un sottile strato di sabbia nera e neve grigia, che assorbe i suoni e avvolge l'area in un silenzio inquietante.
+
 > Tre lunghi ponti di pietra si protendono sull’abisso; due sono crollati da tempo, ridotti a rovine inagibili. Solo uno rimane intatto, sospeso sopra un canyon senza fondo, nero come la pece.  
 > Dall’altro lato, su un altopiano spazzato dal vento, si ergono colonne e statue solitarie.
 > 
