@@ -18,6 +18,15 @@ Ricordati il Blessing del Kentimane(Phiore)!!!
 > 
 > Notos: "Mmmh... non lo so, secondo voi ha la faccia da ‘potrei redimermi’ o da ‘fuggirò alla prima occasione’?"
 
+**Melek**
+- "La Signora della Morte non mi ha ancora reclamato... e sembra che non lo abbia fatto neanche voi."
+- "Conosco i vostri nomi. Ma cio che vi chiedo è se siete venuti a profanare ciò che resta, o a servire la vera giustizia?"
+- "Sono un sacerdote di Lutheria. Sono venuto a purificare questa terra maledetta."
+- "La Necropoli di Telamok... non è un mausoleo. È una prigione per le anime. Una creazione blasfema di Damon, il mago folle che ha osato sfidare la Morte stessa. Ha trovato un modo per rubare le anime dei defunti, alimentando la sua mostruosa esistenza e trasformando questo luogo in un abisso di non-morte."
+- "È il più grande peccato di superbia mortale nella storia di Thylea. Queste montagne... sono morte. Ascoltate. C'è silenzio. Non la pace. Ma il vuoto."
+- "Lutheria non lascerà che questo orrore persista. Lei brucerà querra corrotta città fino alle fondamenta, quando il Giuramento di Pace sarà rotto. Ma la sua mano può anche agire attraverso i suoi fedeli... o attraverso coloro che, pur non essendo tali, possono essere guidati verso la giusta causa."
+- "Se siete qui... se mi avete risparmiato... c'è un motivo. Forse la vostra presenza è la risposta di Lutheria alle mie preghiere. Una nuova possibilità. Per purificare la Necropoli."
+
 ---
 ### Eventi Casuali
 Possono essere trovati qui: [[Eventi Casuali - Sentiero dei Morti]]
@@ -64,7 +73,8 @@ Una prova riuscita di Saggezza (Sopravvivenza) con CD 15 rivela delle impronte s
 > 
 > Tutto intorno a lui, in silenzio, volano numerose farfalle violacee, apparentemente indifferenti al gelo che vi circonda.
 > 
-> Alla fine del ponte, infissa verticalmente nel suolo, si erge una lastra di pietra. Incise sulla sua superficie, potete leggere le seguenti parole:> 
+> Alla fine del ponte, infissa verticalmente nel suolo, si erge una lastra di pietra. Incise sulla sua superficie, potete leggere le seguenti parole:
+>  
 > _Va' a dire al cielo e all'abisso, tu che passi di qua,_  
 > _che qui, contro le loro leggi, noi giacciamo._
 
