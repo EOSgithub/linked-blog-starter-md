@@ -168,8 +168,6 @@ _Hit:_ The target is **grappled** (DC 15 Strength or Acrobatics) by the net (AC 
 ---
 ---
 
-### Interesting Battlemap
-
 
 
 

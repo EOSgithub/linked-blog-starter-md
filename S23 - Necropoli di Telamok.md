@@ -1,4 +1,25 @@
-> La Necropoli di Telamok è un sito sacro costruito lungo un canyon nei Monti Mithral, ​​a nord di Mytros. Antichi ponti consumati dal tempo attraversano un vasto abisso avvolto dalla nebbia fino a raggiungere scogliere dove si trovano gli ingressi di tombe e cripte. Questo è un luogo di morte dove nessun essere vivente si muove. Le rovine sono ricoperte da un sottile strato di sabbia nera e neve grigia, che assorbe i suoni e avvolge l'area in un silenzio inquietante.
+> Per ere, la storia ha seguito un sentiero segnato. 
+> Ma voi non l'avete camminato; l'avete **frantumato**. 
+> E ora il destino di Thylea è nelle vostre mani.
+> 
+> Ieri vi siete incamminati in compagnia di Notos e Kaedros per il Percorso dei morti.
+> Avete incontrato le mani del Kentimane, combattuto la fauna del luogo e salvato un gruppo di auto-esiliati da un nido di Arpie.
+> Dopo aver fatto campo per la notte siete ripartiti e, una volta seguite le tracce di Beauty, avete ucciso la creatura e un gruppo di cacciatori lì per il vostro stesso premio.
+> La vostra prossima tappa è la Necropoli di Telamok, dove le armi necessarie per la sopravvivenza della nuova era sono sepolte.
+
+La Necropoli di Telamok è un sito sacro costruito lungo un canyon nei Monti Mithral, ​​a nord di Mytros. Antichi ponti consumati dal tempo attraversano un vasto abisso avvolto dalla nebbia fino a raggiungere scogliere dove si trovano gli ingressi di tombe e cripte. Questo è un luogo di morte dove nessun essere vivente si muove. Le rovine sono ricoperte da un sottile strato di sabbia nera e neve grigia, che assorbe i suoni e avvolge l'area in un silenzio inquietante.
+
+---
+
+Blessing del Kentimane(Phiore)!!!
+
+La neve cade fitta sulle montagne, ovattando ogni suono. È quasi mezzogiorno, ma il sole è solo un disco bianco tra le nubi d'acciaio.
+
+Siete ancora sul **Sentiero dei Morti**, il passo montano che porta alla **Necropoli di Telamok**. Attorno a voi, i segni della battaglia sono chiari: I corpi dei cacciatori sono sparsi qua e là, coperti dalla neve che già tenta di cancellare ogni traccia della loro fine. Dove giaceva Beauty, ora restano solo **brandelli del suo guscio** e qualche organo mancante, custodito con cura nello zaino di uno di voi.
+
+Poco distante, **l’unico sopravvissuto** del gruppo giace **privo di sensi nella neve**, con indosso simboli oscuri — segni evidenti del culto di **Lutheria**.
+
+Notos:
 
 ---
 ### L'Approccio
