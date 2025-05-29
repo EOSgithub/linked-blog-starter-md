@@ -19,7 +19,7 @@ As a **bonus action**, you can make two **Vital Sacrifice**s to create a melee w
 - **It lasts until you dismiss it** as a bonus action or until you finish a **short or long rest**.
 - You can decide what form it takes, granting it:
 	- Proficency bonus weapon properties. 
-		- *Finesse, Light, Heavy, Two Handed, Reach, Thrown(20/60), Versatile, Magical(+1/+2/+3)*
+		- *Finesse, Light, Heavy, Two Handed, Reach, Thrown(20/60), Versatile, Magical(+1)*
 	- One weapon mastery.
 		- *Cleave, Graze, Nick, Push, Sap, Slow, Topple, Vex*
 	- One Exotic property 
