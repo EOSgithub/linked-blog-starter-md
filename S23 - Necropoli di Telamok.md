@@ -1,6 +1,5 @@
-> Per ere, la storia ha seguito un sentiero segnato. 
-> Ma voi non l'avete camminato; l'avete **frantumato**. 
-> E ora il destino di Thylea è nelle vostre mani.
+> Per ere, Thylea ha sempre sognato lo stesso domani,
+> …e ora si sveglia in un futuro dettato dai vostri passi.
 > 
 > Ieri vi siete incamminati in compagnia di Notos e Kaedros per il Percorso dei morti.
 > Avete incontrato le mani del Kentimane, combattuto la fauna del luogo e salvato un gruppo di auto-esiliati da un nido di Arpie.
@@ -10,9 +9,9 @@
 
 Ricordati il Blessing del Kentimane(Phiore)!!!
 ### Intro
-> La neve cade fitta sulle montagne, ovattando ogni suono. È quasi mezzogiorno, ma il sole è solo un disco bianco tra le nubi d'acciaio.
+> La neve cade fitta sulle montagne, ovattando ogni suono. È quasi mezzogiorno, ma il sole è solo un disco bianco tra nubi d'acciaio.
 > 
-> Siete ancora sul **Sentiero dei Morti**, il passo montano che porta alla **Necropoli di Telamok**. Attorno a voi, i segni della battaglia sono chiari: I corpi dei cacciatori sono sparsi qua e là, coperti dalla neve che già tenta di cancellare ogni traccia della loro fine. Dove giaceva Beauty, ora restano solo **brandelli del suo guscio** e qualche organo mancante, custodito con cura nello zaino di uno di voi.
+> State percorrendo sul **Sentiero dei Morti**, il passo montano che porta alla **Necropoli di Telamok**. Attorno a voi giacciono i corpi dei cacciatori che avete combattuto qualche minuto fà, coperti dalla neve che già tenta di cancellare ogni traccia. Della lumaca mostruosa, ora restano solo **schegge del suo guscio** e qualche organo mancante, custodito con cura nello zaino di uno di voi.
 > 
 > Poco distante, **l’unico sopravvissuto** del gruppo giace **privo di sensi nella neve**, con indosso simboli che riconoscete — segni del culto di **Lutheria**.
 > 
