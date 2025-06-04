@@ -31,6 +31,25 @@ Ricordati il Blessing del Kentimane(Phiore)!!!
 Possono essere trovati qui: [[Eventi Casuali - Sentiero dei Morti]]
 
 ---
+
+### Terzo Giorno
+> I primi due giorni sul Sentiero dei Morti vi avevano abituati a un mondo macabro ma ancora vivo. Avete affrontato arpie e strane creature, attraversato boschi morti, e scambiato sguardi con presenze che sembravano osservarvi da lontano. C’era terrore, sì — ma anche movimento, rumori, vento, vita.
+> 
+> Il terzo giorno inizia in silenzio.
+
+All’alba, qualcosa manca. Gli alberi sono più radi. Il vento, che prima ululava tra le gole, ora tace. Le vostre parole, pronunciate quasi per rompere la tensione, non ricevono risposta dal mondo. Nessun eco. Nessun fruscio.
+
+I suoni iniziano a svanire. Il tintinnio delle armi, il crepitio della neve sotto gli stivali, persino il vostro respiro.
+
+***Passano 4 ore in questo modo...***
+
+> A metà giornata, la vegetazione scompare del tutto. Gli alberi lasciano spazio a colonne di pietra spezzate, come denti estratti da una bocca morta. Gli animali sono spariti. Nessuna traccia. Nessun movimento. Nessuna colore.
+
+***Passano 3 ore in questo modo...***
+
+Il bianco della neve, il grigio del cielo.
+Il silenzio si fa insopportabile, da quanto state camminando? è difficile distinguere il passare del tempo in questo posto così... vuoto.
+
 ### Evento Fisso: Coldlight Walker (Giorno 3)
 Più ci si avvicina alla Necropoli, più il freddo si fa sentire. La neve inizia a cadere, le piante svaniscono o vengono trovate congelate, non si vedono più animali. Gli esseri viventi evitano il congelamento e persino i non morti vaganti non possono resistere a lungo senza essere trovati e distrutti da Damon, il guardiano del cancello. A un certo punto, gli eroi non troveranno altro che rocce lungo il cammino.
 
