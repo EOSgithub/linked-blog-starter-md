@@ -52,7 +52,7 @@ L'unico ponte rimasto è lastricato di pietra ricoperto di neve e dell'innatural
 Una prova riuscita di Saggezza (Sopravvivenza) con CD 15 rivela delle impronte sotto il ghiaccio, che sembrano zoccoli di toro, che corrono da e verso la Necropoli. Se la prova viene effettuata con CD 20 o superiore, chi ha tracciato le impronte si rende conto che sono troppo vicine, più simili a 2 zampe che a 4: qui è passato un minotauro.
 
 ---
-### Damon, the Lich
+### Il Guardiano della Necropoli
 > C'è una figura solitaria al centro del ponte.  
 > 
 > **Un uomo.**  
@@ -62,10 +62,12 @@ Una prova riuscita di Saggezza (Sopravvivenza) con CD 15 rivela delle impronte s
 > Un'armatura di mithral rovinata. 
 > Un mantello lacerato. 
 > Una spada foderata.
- 
-> Intorno alla figura, volano numerose farfalle viola e nere, apparentemente indifferenti al gelo che vi circonda.
 > 
-> Alla fine del ponte, infissa verticalmente nel suolo, si erge una lastra di marmo. Incise sulla sua superficie, potete leggere le seguenti parole:
+> Intorno a lui volano farfalle nere e viola.  
+> Creature impossibili, in questo gelo.
+
+> Alla fine del ponte si erge una lastra di marmo. 
+> Incise sulla sua superficie, potete leggere le seguenti parole:
 >  
 > _Va' a dire al mare e all'abisso, tu che passi di qua,_  
 > _che qui, contro le loro leggi, noi giacciamo._
@@ -74,7 +76,33 @@ Questo è Damon, un ex compagno degli originali Signori dei Draghi che giunse a 
 
 Un tempo protettore e guida, la mente di Damon si è ora erosa, consumata dal suo attuale stato d'essere: rifiutandosi di consumare le anime dei morti, la sua viene lentamente consumata, bruciando come una candela per mantenere attivi il suo corpo e la sua magia. Ora può fare ben poco se non esigere un pagamento e distruggere chiunque si avvicini alla sua Necropoli.
 
-Quando qualcuno si avvicina, Damon tende semplicemente la mano, chiedendo chiaramente qualcosa: una Moneta Brunita del Signore dei Draghi. Gli eroi dovrebbero averne almeno 1, un dono di Proteo nel Capitolo 1: Eroi della Profezia. Se il gruppo non paga il pedaggio e tenta di passare, inizierà fermandoli tramite incantesimi di controllo come Blocca Persona o Muro di Forza. Chiunque provi a superarlo con la forza viene preso di mira con maggiore violenza, dando inizio a un combattimento vero e proprio.
+### Damon
+> Quando ti avvicini, la scena si dissolve e la tua percezione precipita.
+> 
+> Sei nel vuoto. Davanti a te, la mano tesa di **Lutheria**, la Morte, sta per chiudersi su un'anima. È un gesto antico, sacro, inevitabile.
+> 
+> Ma dal punto in cui si trova l'anima, un **singolo, complesso cerchio arcano** prende vita, inciso nella trama dell'abisso.
+> 
+> Immediatamente, da esso ne nascono altri due. Poi quattro. Otto. Sedici. In un battito di ciglia, l'oscurità è trafitta da una **ragnatela di geometria impossibile**, un rituale di una complessità tale da soffocare ogni altra cosa.
+> 
+> La mano della Morte si arresta. La sua bocca si apre, e un **urlo di puro odio e frustrazione**, un nome, lacera il silenzio—
+> 
+> **DAMON!**
+> 
+> È il grido di una dea che vede la sua legge fondamentale infranta. 
+> La sua mano si ritira, sconfitta e **vuota**.
+> 
+> L'istante finisce di scatto. Sei di nuovo sul ponte. 
+> L'uomo che hai di fronte è **fuori posto**, **fuori tempo**, **fuori legge**. 
+> Una bestemmia scolpita nel silenzio. 
+> Una crepa nel ciclo. 
+> Una fiamma che si è rifiutata di spegnersi.
+> 
+> Davanti a te c'è...
+> 
+> **Un uomo.** **Un elmo.** **E una torcia d'argento.**
+
+Damon tende semplicemente la mano, chiedendo chiaramente qualcosa: una Moneta Brunita del Signore dei Draghi. Gli eroi dovrebbero averne almeno 1, un dono di Proteo nel Capitolo 1: Eroi della Profezia. Se il gruppo non paga il pedaggio e tenta di passare, inizierà fermandoli tramite incantesimi di controllo come Blocca Persona o Muro di Forza. Chiunque provi a superarlo con la forza viene preso di mira con maggiore violenza, dando inizio a un combattimento vero e proprio.
 
 ---
 ### La Necropoli di Telamok
