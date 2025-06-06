@@ -55,7 +55,7 @@ I suoni iniziano a svanire. Il tintinnio delle armi, il crepitio della neve sott
 
 ***Passano altre ore...***
 
-> Dicevano che il Sentiero dei Morti fosse un luogo infestato.
+> Dicevano che il Sentiero dei Morti fosse un luogo pericoloso.
 > Che spiriti tormentati avrebbero bisbigliato nei boschi, che mani d’ossa avrebbero cercato le vostre caviglie nella notte.
 > Ma quelle erano storie dei vivi.
 > 
@@ -74,9 +74,9 @@ Il freddo non punge più.
 I muscoli non bruciano.  
 
 > Forse è questo il destino di chi prende il Sentiero dei Morti:  
-> non morire., ma perdere, un passo alla volta, quello che ci rende vivi.
+> non morire, ma perdere, un passo alla volta, quello che ci rende vivi.
 
-Forse ci sono altri qui, già persi.
+Forse ci sono altri qui, che si sono già arresi.
 
 > E se fosse più facile lasciarsi andare?  
 > Dimenticare i nomi. Le missioni. Le profezie.  
@@ -98,14 +98,14 @@ Neve che si lacera.
 > Una mano emerge dalla tomba sconsacrata, rigida e affilata.
 > Una luce pallida si espande dal terreno.
 
-Un battito reale nel vostro petto.  
+Una sensazione — il battito nel vostro petto.  
 Un suono — il vostro fiato, spezzato dall’adrenalina.  
 Un colore — il blu accecante degli occhi del non morto.
 
 > “**L’eredità... è mia.**”
 
 Dentro di voi — qualcuno ride.  
-Perché è finita. Non l’attesa, ma l’assenza.
+Perché l’assenza è finita. 
 
 > Il pericolo è tornato.  
 > La stanchezza è tornata.  
