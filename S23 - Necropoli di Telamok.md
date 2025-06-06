@@ -39,35 +39,84 @@ Possono essere trovati qui: [[Eventi Casuali - Sentiero dei Morti]]
 > 
 > Il terzo giorno inizia in silenzio.
 
-All’alba, qualcosa manca. Gli alberi sono più radi. Il vento, che prima ululava tra le gole, ora tace. Le vostre parole, pronunciate quasi per rompere la tensione, non ricevono risposta. Nessun eco. Nessun fruscio.
+***Il viaggio inizia...***
 
+All’alba, qualcosa manca. Gli alberi sono più radi. Il vento, che prima ululava tra le gole, ora tace. Le vostre parole. Nessun eco. Nessun fruscio.
 I suoni iniziano a svanire. Il tintinnio delle armi, il crepitio della neve sotto gli stivali, persino il vostro respiro.
-
-***Passano 4 ore in questo modo...***
-
-> A metà giornata, la vegetazione scompare del tutto. Gli alberi lasciano spazio a colonne di pietra spezzate, come denti estratti da una bocca morta. Gli animali sono spariti. Nessuna traccia. Nessun movimento. Nessuna colore.
 
 ***Passano 3 ore in questo modo...***
 
-Il bianco della neve, il grigio del cielo.
-Il silenzio si fa insopportabile, da quanto state camminando? è difficile distinguere il passare del tempo in questo posto così... vuoto.
+> A metà giornata, la vegetazione scompare del tutto. Gli alberi lasciano spazio a colonne di pietra spezzate, come denti estratti da una bocca morta. Gli animali sono spariti. Nessuna traccia. Nessun movimento. Nessuna colore.
 
-***Passano altre 3 ore...***
+***Passano 2 ore in questo modo...***
 
+> Il bianco della neve, il grigio del cielo.
+> Il silenzio si fa insopportabile, da quanto state camminando? è difficile distinguere il passare del tempo in questo posto così... vuoto.
+
+***Passano altre ore...***
+
+> Dicevano che il Sentiero dei Morti fosse un luogo infestato.
+> Che spiriti tormentati avrebbero bisbigliato nei boschi, che mani d’ossa avrebbero cercato le vostre caviglie nella notte.
+> Ma quelle erano storie dei vivi.
+> 
+> Questa assenza… nessuno l’aveva raccontata. Nessuno aveva detto che il vero orrore sarebbe stato il vuoto. Nessun sussurro. Nessuna presenza. Nessuna anima.
+> Come se persino la morte avesse smesso di abitare questo luogo.
+> 
+> Camminate ancora, e qualcosa in voi cede.
+> Non fa rumore, quando viene scartata.
+
+***Passa del tempo...***
+
+> Lo scopo per cui siete venuti qui ha smesso tempo fà di essere importante.
+> Continuate a camminare solo per inerzia.
+
+Il freddo non punge più.  
+I muscoli non bruciano.  
+
+> Forse è questo il destino di chi prende il Sentiero dei Morti:  
+> non morire., ma perdere, un passo alla volta, quello che ci rende vivi.
+
+Forse ci sono altri qui, già persi.
+
+> E se fosse più facile lasciarsi andare?  
+> Dimenticare i nomi. Le missioni. Le profezie.  
+> Farsi neve. Pietra. Silenzio.
+
+Un passo si fa più lento.  
+Una mano si stacca dall’elsa.  
+Una mente smette di cercare senso.
+
+Poi — rumore.
+
+---
 ### Evento Fisso: Coldlight Walker (Giorno 3)
-Questo incontro si innesca solo nell'ultimo tratto del Sentiero dei Morti, al crepuscolo del terzo giorno di viaggio, proprio dietro l'ultimo angolo montuoso prima di scorgere la Necropoli. 
+Un fruscio. Lieve. Anomalo.  
+Il primo vero suono in... ore? giorni?.
 
-> Per giorni avete percorso il Sentiero dei Morti, eppure siete ancora vivi. La Necropoli di Telamok non è lontana ormai: secondo la vostra mappa, il Sentiero dovrebbe terminare proprio dietro l'angolo. Sta per calare la notte quando, tuttavia, qualcosa cattura la vostra attenzione.
-> 
-> Più avanti, giacciono sparse diverse pietre grandi come un pugno. È facile individuarne l'origine: i resti di una tomba di pietra improvvisata, chiaramente profanata. Le pietre che un tempo erano ammucchiate sopra un cadavere in questa tomba di fortuna ora sono sparse qua e là...
-> 
-> Quando vi avvicinate una mano scheletrica penetra la terra.> 
-> "l'Eredità... è mia!"
-> Una fredda luce bianca si riversa dalla tomba.
+Neve che si lacera.  
 
-Lanciate Iniziativa.
+> Una mano emerge dalla tomba sconsacrata, rigida e affilata.
+> Una luce pallida si espande dal terreno.
+
+Un battito reale nel vostro petto.  
+Un suono — il vostro fiato, spezzato dall’adrenalina.  
+Un colore — il blu accecante degli occhi del non morto.
+
+> “**L’eredità... è mia.**”
+
+Dentro di voi — qualcuno ride.  
+Perché è finita. Non l’attesa, ma l’assenza.
+
+> Il pericolo è tornato.  
+> La stanchezza è tornata.  
+> La creatura che vi sbarra il passaggio è terrificante.
+
+> **Ma non vi siete mai sentiti così vivi.**
+
+**Lanciate Iniziativa.**
 
 Dalla fossa funeraria emerge 1 [Coldlight Walker](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://homebrewery.naturalcrit.com/share/1jxMZ8qIU72t2NHLeQUWp85cbs8uknG84SpObrEdAtHqC%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1747928348764334%26amp;usg%3DAOvVaw3sV3EMSYq95dcCe0ud9qMP&sa=D&source=docs&ust=1747928348952869&usg=AOvVaw0T9U_OXPL1tLoyr9FyIQyZ), un fantasma Figura umanoide di luce bianco-bluastra che indossa spessi himation fatti per il freddo, proprio come dovrebbero essere gli eroi stessi.
+
 Questo è lo spirito di un mortale discendente dei Signori dei Draghi che tentò di raggiungere la Necropoli di Telamok, oltre 100 anni fa, ma non riuscì a completare il viaggio.
 Perirono a causa delle ferite e del freddo estremo poco prima degli ultimi passi, sepolti in una tomba improvvisata da chiunque viaggiasse con loro, che fu poi distrutta da Graxis, il Macellaio. Non furono sepolti con il dovuto pagamento, e quindi non furono accettati sulla chiatta di Lutheria.
 
