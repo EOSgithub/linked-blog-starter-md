@@ -8,14 +8,16 @@
 ---
 
 Ricordati il Blessing del Kentimane(Phiore)!!!
+Ricordati delle persona salvate da Phiore (In forma di drago divino)!!!
 ### Intro
-> La neve cade fitta sulle montagne, ovattando ogni suono. È quasi mezzogiorno, ma il sole è solo un disco bianco tra nubi d'acciaio.
+> La neve cade fitta, ovattando ogni suono. 
+> È quasi mezzogiorno, ma il sole è solo un disco bianco tra nubi d'acciaio.
 > 
-> State percorrendo sul **Sentiero dei Morti**, il passo montano che porta alla **Necropoli di Telamok**. Attorno a voi giacciono i corpi dei cacciatori che avete combattuto qualche minuto fà, coperti dalla neve che già tenta di cancellare ogni traccia. Della lumaca mostruosa, ora restano solo **schegge del suo guscio** e qualche organo mancante, custodito con cura nello zaino di uno di voi.
-> 
-> Poco distante, **l’unico sopravvissuto** del gruppo giace **privo di sensi nella neve**, con indosso simboli che riconoscete — segni del culto di **Lutheria**.
-> 
-> Notos: "Mmmh... non lo so, secondo voi ha la faccia da ‘potrei redimermi’ o da ‘fuggirò alla prima occasione’?"
+> State percorrendo il **Sentiero dei Morti**, il passo montano che porta alla **Necropoli di Telamok**. Attorno a voi giacciono i corpi dei cacciatori che avete combattuto qualche minuto fà, coperti dal freddo bianco che già tenta di cancellare ogni traccia. Della strana lumaca, ora restano solo **schegge del suo guscio** con qualche organo mancante, custodito con cura nello zaino di uno di voi.
+
+Poco distante, **l’unico sopravvissuto** del gruppo giace **privo di sensi nella neve**, con indosso simboli che riconoscete — segni del culto di **Lutheria**.
+
+Notos: "Mmmh... non lo so, secondo voi ha la faccia da ‘potrei redimermi’ o da ‘fuggirò alla prima occasione’?"
 
 **Melek**
 - "La Signora della Morte non mi ha ancora reclamato... e sembra che non lo abbia fatto neanche voi."
@@ -33,11 +35,11 @@ Possono essere trovati qui: [[Eventi Casuali - Sentiero dei Morti]]
 ---
 
 ### Terzo Giorno
-> I primi due giorni sul Sentiero dei Morti vi avevano abituati a un mondo macabro ma ancora vivo. Avete affrontato arpie e strane creature, attraversato boschi morti, e scambiato sguardi con presenze che sembravano osservarvi da lontano. C’era terrore, sì — ma anche movimento, rumori, vento, vita.
+> I primi due giorni sul Sentiero dei Morti vi avevano abituati a un mondo macabro ma ancora vivo. Avete affrontato mostri emancipati, attraversato boschi montani e scambiato sguardi con presenze lontane. C’era pericolo, sì — ma anche movimento, rumori, vento, vita.
 > 
 > Il terzo giorno inizia in silenzio.
 
-All’alba, qualcosa manca. Gli alberi sono più radi. Il vento, che prima ululava tra le gole, ora tace. Le vostre parole, pronunciate quasi per rompere la tensione, non ricevono risposta dal mondo. Nessun eco. Nessun fruscio.
+All’alba, qualcosa manca. Gli alberi sono più radi. Il vento, che prima ululava tra le gole, ora tace. Le vostre parole, pronunciate quasi per rompere la tensione, non ricevono risposta. Nessun eco. Nessun fruscio.
 
 I suoni iniziano a svanire. Il tintinnio delle armi, il crepitio della neve sotto gli stivali, persino il vostro respiro.
 
@@ -50,16 +52,20 @@ I suoni iniziano a svanire. Il tintinnio delle armi, il crepitio della neve sott
 Il bianco della neve, il grigio del cielo.
 Il silenzio si fa insopportabile, da quanto state camminando? è difficile distinguere il passare del tempo in questo posto così... vuoto.
 
+***Passano altre 3 ore...***
+
 ### Evento Fisso: Coldlight Walker (Giorno 3)
-Più ci si avvicina alla Necropoli, più il freddo si fa sentire. La neve inizia a cadere, le piante svaniscono o vengono trovate congelate, non si vedono più animali. Gli esseri viventi evitano il congelamento e persino i non morti vaganti non possono resistere a lungo senza essere trovati e distrutti da Damon, il guardiano del cancello. A un certo punto, gli eroi non troveranno altro che rocce lungo il cammino.
+Questo incontro si innesca solo nell'ultimo tratto del Sentiero dei Morti, al crepuscolo del terzo giorno di viaggio, proprio dietro l'ultimo angolo montuoso prima di scorgere la Necropoli. 
 
-Questo incontro si innesca solo nell'ultimo tratto del Sentiero dei Morti, al crepuscolo del terzo giorno di viaggio, proprio dietro l'ultimo angolo montuoso prima di scorgere la Necropoli. Una volta che gli eroi arrivano a questo punto, il DM può leggere questa descrizione:
+> Per giorni avete percorso il Sentiero dei Morti, eppure siete ancora vivi. La Necropoli di Telamok non è lontana ormai: secondo la vostra mappa, il Sentiero dovrebbe terminare proprio dietro l'angolo. Sta per calare la notte quando, tuttavia, qualcosa cattura la vostra attenzione.
+> 
+> Più avanti, giacciono sparse diverse pietre grandi come un pugno. È facile individuarne l'origine: i resti di una tomba di pietra improvvisata, chiaramente profanata. Le pietre che un tempo erano ammucchiate sopra un cadavere in questa tomba di fortuna ora sono sparse qua e là...
+> 
+> Quando vi avvicinate una mano scheletrica penetra la terra.> 
+> "l'Eredità... è mia!"
+> Una fredda luce bianca si riversa dalla tomba.
 
-> Per giorni avete percorso il Sentiero dei Morti, eppure siete vivi. La Necropoli di Telamok non è lontana ormai: secondo la vostra mappa, il Sentiero dovrebbe terminare proprio dietro l'angolo. Sta per calare la notte, tuttavia, qualcosa cattura la vostra attenzione.
-> 
-> Mentre camminate, i vostri piedi affondano nella neve, facendovi risalire un brivido di freddo lungo tutto il corpo. Più avanti, giacciono sparse qua e là diverse pietre grandi come un pugno. È facile individuarne l'origine: i resti di una tomba di pietra improvvisata, chiaramente profanata. Le pietre che un tempo erano ammucchiate sopra un corpo ora sono sparse qua e là, e una mano scheletrica spunta da terra.
-> 
-> Sentite una voce debole: "l'Eredità... è mia!", mentre una fredda luce bianca si riversa dalla tomba.
+Lanciate Iniziativa.
 
 Dalla fossa funeraria emerge 1 [Coldlight Walker](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://homebrewery.naturalcrit.com/share/1jxMZ8qIU72t2NHLeQUWp85cbs8uknG84SpObrEdAtHqC%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1747928348764334%26amp;usg%3DAOvVaw3sV3EMSYq95dcCe0ud9qMP&sa=D&source=docs&ust=1747928348952869&usg=AOvVaw0T9U_OXPL1tLoyr9FyIQyZ), un fantasma Figura umanoide di luce bianco-bluastra che indossa spessi himation fatti per il freddo, proprio come dovrebbero essere gli eroi stessi.
 Questo è lo spirito di un mortale discendente dei Signori dei Draghi che tentò di raggiungere la Necropoli di Telamok, oltre 100 anni fa, ma non riuscì a completare il viaggio.
