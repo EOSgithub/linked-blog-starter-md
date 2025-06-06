@@ -47,30 +47,17 @@
 > 
 > _È un costrutto d'oro delle dimensioni di un cuore mostruoso. Ogni dettaglio anatomico è perfetto, ogni vena dorata tracciata con precisione impossibile. E batte. Lentamente, ritmicamente, come se fosse ancora vivo. Il calore che emana è dolce, stranamente familiare."_
 
-## Scena 8: La Voce del Cuore e la Scelta Terribile
-> _"[Quando un Dragonblood tocca il Cuore] Il battito si intensifica sotto le tue dita:_
-> 
-> _'Discendente del mio giurato perduto... Finalmente qualcuno della sua stirpe trova quello che ho nascosto qui. Questo cuore che tenete è il mio legame alla vita stessa - la mia essenza, la mia esistenza. L'ho lasciato qui perché solo voi potevate trovarlo, solo voi potevate decidere._
-> 
-> _Ho condannato Midas a un'eternità di tormento per il suo tradimento, ma nel farlo ho condannato anche voi, suoi discendenti innocenti. La mia giustizia si è trasformata in crudeltà cieca. Esisto ancora, ma senza questo cuore sono incompleto, incapace di provare vera compassione._
-> 
-> _Il mio corpo riposa nell'Isola delle Lacrime Dorate, nel Mare Dimenticato, dove il mio dolore creò una terra dalle mie stesse lacrime. Ma prima di cercarmi... dovete decidere. Se giudicate che la mia punizione è troppo crudele, che ho creato troppa sofferenza, schiacciate questo cuore. La mia morte libererà sia Midas che tutti voi dalla maledizione._
-> 
-> _Io... io accetterei questa fine. Forse è quello che merito per aver lasciato che la mia giustizia diventasse vendetta. La scelta è vostra, figli dell'oro maledetto.'"_
+## Scena 8: La Voce del Cuore Spezzato
+> *"[Quando un Dragonblood tocca il Cuore] Il battito si intensifica sotto le tue dita:*
 
-**Il Cuore come Bussola Stellare:**
+> _Ho lasciato qui il mio cuore perché solo voi potevate trovarlo, solo voi potevate decidere._
+> _Ho condannato Midas a un'eternità di tormento per il suo tradimento, ma nel farlo ho condannato anche voi, suoi discendenti innocenti. Mi accorgo solo ora che la mia giustizia si è trasformata in crudeltà cieca._
 
-> _"Se scegliete di non distruggere il cuore, quella notte, quando lo alzate verso le stelle, accade qualcosa di magico. Il costrutto inizia a brillare, e la sua luce dorata si riflette nel cielo notturno. Lentamente, come se rispondessero al richiamo del cuore perduto, alcune stelle iniziano a pulsare con la stessa luce dorada. Si forma una costellazione che prima non c'era: sette stelle disposte a forma di drago con le ali spiegate, e una stella più brillante nel punto dove dovrebbe essere il cuore - che punta direttamente verso sud-est, oltre l'orizzonte marino."_
+> *Se giudicherai che la mia punizione è stata troppo crudele, che ho creato troppa sofferenza... distruggi questo cuore. Non ti libererà dalla maledizione, ma almeno... almeno potrai vendicarti di me. Io... io accetterei questa fine. Forse è quello che merito per aver tradito il mio giurato...'"*
+
+> *Ma se un giorno riuscirai a perdonarmi per quello che ho fatto... trovarmi. 
+> Cercami nell'isola nata dalle lacrime di Thylea. Il cuore ti condurrà da me.*
+
+> *Non so se riuscirò mai a trovare un modo per spezzare quello che ho forgiato nella mia ira. Ma spero... spero che il tempo mi renderà più saggio, che troverò la strada per sciogliere questa maledizione.*
 
 ---
-
-## Note per il Master
-
-- **La Rivelazione:** Midas appare come statua normale fino al tocco di Bayle - solo allora si anima e rivela il suo tormento
-- **Tono:** Tragico ed epico, enfatizza il peso della scelta morale
-- **Il Cuore:** È il legame vitale di Helios - distruggerlo lo ucciderebbe e libererebbe tutti dalla maledizione
-- **La Scelta Terribile:** I giocatori devono decidere se Helios merita perdono o punizione
-- **Helios è vivo:** Esiste ancora, incompleto senza il suo cuore, nell'Isola delle Lacrime Dorate
-- **Meccanica della Scelta:** Se distruggono il cuore = fine immediata della maledizione ma morte di Helios. Se lo conservano = possibilità di redenzione per tutti
-- **La Costellazione:** Appare solo se scelgono di risparmiare Helios
-- **Tema centrale:** Giustizia vs Misericordia, il peso delle conseguenze delle proprie azioni
