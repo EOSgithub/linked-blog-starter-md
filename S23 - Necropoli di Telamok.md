@@ -35,18 +35,22 @@ Possono essere trovati qui: [[Eventi Casuali - Sentiero dei Morti]]
 ---
 
 ### Terzo Giorno
-> I primi due giorni sul Sentiero dei Morti vi avevano abituati a un mondo macabro ma ancora vivo. Avete affrontato mostri emancipati, attraversato boschi montani e scambiato sguardi con presenze lontane. C’era pericolo, sì — ma anche movimento, rumori, vento, vita.
+> I primi due giorni sul Sentiero dei Morti vi avevano abituati a un paesaggio macabro. Avete affrontato mostri emancipati, attraversato boschi montani e scambiato sguardi con presenze lontane. C’era pericolo, sì — ma anche movimento, rumori, vento, vita.
 > 
 > Il terzo giorno inizia in silenzio.
 
 ***Il viaggio inizia...***
 
-All’alba, qualcosa manca. Gli alberi sono più radi. Il vento, che prima ululava tra le gole, ora tace. Le vostre parole. Nessun eco. Nessun fruscio.
-I suoni iniziano a svanire. Il tintinnio delle armi, il crepitio della neve sotto gli stivali, persino il vostro respiro.
+All’alba, qualcosa manca. 
+Gli alberi sono più radi. Il vento, che prima ululava tra le gole, ora tace. 
+Nessun eco. Nessun fruscio.
+Più andate avanti più i suoni iniziano a svanire. 
+Il tintinnio delle armi, il rumore della neve sotto gli stivali, persino il vostro respiro.
 
 ***Passano 3 ore in questo modo...***
 
-> A metà giornata, la vegetazione scompare del tutto. Gli alberi lasciano spazio a colonne di pietra spezzate, come denti estratti da una bocca morta. Gli animali sono spariti. Nessuna traccia. Nessun movimento. Nessuna colore.
+> A metà giornata, la vegetazione scompare del tutto. 
+> Gli alberi lasciano spazio a colonne di pietra spezzate, come denti estratti da una bocca morta. Gli animali sono spariti. Nessuna traccia. Nessun movimento. Nessuna colore.
 
 ***Passano 2 ore in questo modo...***
 
@@ -71,14 +75,13 @@ I suoni iniziano a svanire. Il tintinnio delle armi, il crepitio della neve sott
 > Continuate a camminare solo per inerzia.
 
 Il freddo non punge più.  
-I muscoli non bruciano.  
 
 > Forse è questo il destino di chi prende il Sentiero dei Morti:  
 > non morire, ma perdere, un passo alla volta, quello che ci rende vivi.
 
 Forse ci sono altri qui, che si sono già arresi.
 
-> E se fosse più facile lasciarsi andare?  
+> Non sarebbe più facile lasciarsi andare?  
 > Dimenticare i nomi. Le missioni. Le profezie.  
 > Farsi neve. Pietra. Silenzio.
 
