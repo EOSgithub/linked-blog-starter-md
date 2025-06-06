@@ -53,16 +53,21 @@ Una prova riuscita di Saggezza (Sopravvivenza) con CD 15 rivela delle impronte s
 
 ---
 ### Damon, the Lich
-> Una figura solitaria vi sbarra il cammino, ferma al centro del ponte.  
-> Indossa un’antica armatura di mithral, sottile ma segnata dal tempo: il metallo è ora opaco, coperto di polvere. Un elmo dello stesso materiale ne cela completamente il volto, e un mantello logoro gli ricade sulle spalle, strappato dal vento e dagli anni. Una singola lama riposa alla sua cintura.
+> C'è una figura solitaria al centro del ponte.  
 > 
-> Le uniche parti visibili del corpo sono le braccia, grigie e irrigidite, che reggono una torcia ancora accesa.
+> **Un uomo.**  
+> **Un elmo.**  
+> **Una torcia d’argento.**
 > 
-> Tutto intorno a lui, in silenzio, volano numerose farfalle violacee, apparentemente indifferenti al gelo che vi circonda.
+> Un'armatura di mithral rovinata. 
+> Un mantello lacerato. 
+> Una spada foderata.
+ 
+> Intorno alla figura, volano numerose farfalle viola e nere, apparentemente indifferenti al gelo che vi circonda.
 > 
-> Alla fine del ponte, infissa verticalmente nel suolo, si erge una lastra di pietra. Incise sulla sua superficie, potete leggere le seguenti parole:
+> Alla fine del ponte, infissa verticalmente nel suolo, si erge una lastra di marmo. Incise sulla sua superficie, potete leggere le seguenti parole:
 >  
-> _Va' a dire al cielo e all'abisso, tu che passi di qua,_  
+> _Va' a dire al mare e all'abisso, tu che passi di qua,_  
 > _che qui, contro le loro leggi, noi giacciamo._
 
 Questo è Damon, un ex compagno degli originali Signori dei Draghi che giunse a Thylea secoli fa. Dedicò la sua vita alla difesa dei coloni e alla ricerca della conoscenza, ma perse tutto nella Prima Guerra, inclusi moglie e figli. La Necropoli fu la sua ultima impresa, un luogo di riposo e una fortezza per i più grandi membri dell'Ordine: scoprì i segreti della non-morte e si trasformò in un lich, resuscitando in seguito i cadaveri dei suoi alleati caduti che non avrebbero mai raggiunto un aldilà pacifico per mano della Signora dei Sogni.
