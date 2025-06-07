@@ -5,6 +5,7 @@
 > Avete incontrato le mani del Kentimane, combattuto la fauna del luogo e salvato un gruppo di auto-esiliati da un nido di Arpie.
 > Dopo aver fatto campo per la notte siete ripartiti e, una volta seguite le tracce di Beauty, avete ucciso la creatura e un gruppo di cacciatori lì per il vostro stesso premio.
 > La vostra prossima tappa è la Necropoli di Telamok, dove le armi necessarie per la sopravvivenza della nuova era sono sepolte.
+
 ---
 
 Ricordati il Blessing del Kentimane(Phiore)!!!
