@@ -14,7 +14,7 @@
 > _'Tu...' 
 > 'Tu porti il mio... fardello...' 
 > 'Secoli... secoli di tormento...'
-> 'Ti prego...'_
+> 'Ti preg...'_
 > 
 > Con queste ultime parole ricade nell'immobilità, ma ora sapete la verità: di fronte a voi non c'è una statua ma una prigione."
 
