@@ -129,10 +129,14 @@ Inoltre, mentre la consacrazione può essere percepita attraverso caratteristich
 NIENTE RIPOSI LUNGHI A TELAMOK!
 
 **Tomb Exteriors**
-The tombs are built into 15 ft. high cliffs and usually have 4 dirty marble pillars set into the cliff face, all carved with entwined dragons. Each tomb is sealed with a 5 ft. wide, 5 ft. tall, 5 ft. thick chiseled marble slab. Moving these chunks of stone requires an action, but there is no need for a skill check unless specifically noted in the tomb description, or if demanded by a trap.
+Le tombe sono costruite in scogliere alte 3 metri e di solito hanno 4 pilastri di marmo incastonati nella parete rocciosa, tutti scolpiti con draghi intrecciati. 
 
-Additionally, every single marble slab bears a warning inscription. It names the Dragonlord interred inside, their former bonded dragon’s name, offers both an epitaph and an ever present warning: “death awaits any who would desecrate the great warrior within”.
+Ogni tomba è sigillata con una lastra di marmo cesellato larga, alta e spessa 1,5 metri. Spostare questi pezzi di pietra richiede un'azione, ma non è necessaria una prova di abilità a meno che non sia specificatamente indicato nella descrizione della tomba o se richiesto da una trappola.  
+
+Inoltre, ogni singola lastra di marmo reca un'iscrizione di avvertimento. Essa indica il nome del Signore dei Draghi sepolto all'interno, il nome del suo ex drago legato, e offre sia un epitaffio che un avvertimento sempre presente: 
+
+“La morte attende chiunque voglia profanare il grande guerriero al suo interno”.
 
 ---
 
-Le varie tombe possono essere trvate qui: [[Tombe di Telamok]]
+Le varie tombe possono essere trovate qui: [[Tombe di Telamok]]
