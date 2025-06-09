@@ -109,4 +109,17 @@ If anyone opens it, two dragon statues above the tomb will yell “thieves!” a
 
 This is not a straightforward combat encounter: the monsters have too many statues at their disposal, and so the heroes should either stop them from possessing the next object in line or focus on destroying the statues themselves. The Eidolons fight until destroyed, but if they have no receptacles left, there is little they can do but curse at the heroes.
 
-        Lastly, with a successful DC 15 Wisdom (Perception) check (or by destroying the statues), a hero may realize one statue has a comparatively odd shape: its back is completely stuck to the wall, and it bears an elongated mouth. This is a lever, the switch of a mechanism that interacts with the trap (area 22). Whenever it’s pulled, there is a screeching sound of metal against metal: unbeknownst to the heroes (at least initially), pulling it stops the trap once it's activated, making it so the portcullis and the spikes return to their original positions and stopping it from functioning for 1 hour.
+Lastly, with a successful DC 15 Wisdom (Perception) check (or by destroying the statues), a hero may realize one statue has a comparatively odd shape: its back is completely stuck to the wall, and it bears an elongated mouth. This is a lever, the switch of a mechanism that interacts with the trap (area 22). Whenever it’s pulled, there is a screeching sound of metal against metal: unbeknownst to the heroes (at least initially), pulling it stops the trap once it's activated, making it so the portcullis and the spikes return to their original positions and stopping it from functioning for 1 hour.
+
+---
+## 21 - Graxis' Lair
+> Questa stanza puzza di sangue e frattaglie. Carcasse di animali e pezzi di carne pendono dal soffitto da pesanti catene... due dei corpi sembrano essere di mortali di qualche tipo. 
+> 
+> Il pavimento è di un nero solido, un colore strano in contrasto con il grigio spento del resto del labirinto, ma un po' più di osservazione rivela la verità: non si tratta di pietra né di una sorta di inchiostro, ma di uno strato di sangue secco pieno di sporcizia. Questa è una tana, appartenente a qualche terribile bestia immonda.
+
+This is Graxis’ lair, where he always eventually returns to store his food and feast, but there’s no place for him to rest, as his curse doesn’t allow him to sleep. There is one large bag thrown on the corner of the room, filled with stolen treasure.
+
+<span style="color:rgb(255, 192, 0)">Treasure</span>
+Graxis keeps the baubles and coins he takes from his victims. In a bag, he has 600 CP, 254 SP, 115 GP, and 6 pieces of jewelry (25 GP each).
+
+---
