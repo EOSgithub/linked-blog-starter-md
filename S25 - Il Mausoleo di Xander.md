@@ -195,20 +195,50 @@ The entirety of these images should be mesmerizing, almost overbearing. It’s n
 
 This chamber is lit by a single Everburning Torch, and the pedestals once held Xander’s great treasures, now taken: his great ax and shield were taken by [Graxis, the Butcher](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://drive.google.com/file/d/1XhbxTzLbXj4T1S2JSnohHdndTjJgSJkR/view?usp%253Dsharing%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1749456558996131%26amp;usg%3DAOvVaw0THnVqUtC2AFt7gpYzj-oh&sa=D&source=docs&ust=1749456559102813&usg=AOvVaw1WFIFD53k_EB_lQFYqw-iI), and his armor was taken by Commander Gaius. The lid of the sarcophagus weighs nearly a ton, demanding a combined Strength score of 73 to be opened, possibly unfeasible for the heroes. As they try, however, they will be interrupted by [Graxis, the Butcher](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://drive.google.com/file/d/1XhbxTzLbXj4T1S2JSnohHdndTjJgSJkR/view?usp%253Dsharing%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1749456558997131%26amp;usg%3DAOvVaw1tR3QTKnp5ny0PrSNkvmaj&sa=D&source=docs&ust=1749456559102880&usg=AOvVaw2cY-9TZ7OHYk9dHh4lKmrZ):
 
-The hulking form of Graxis suddenly looms in the tomb entryway, his bones snapping into place as he leaves the tight hallways for the larger tomb. He snorts derisively: “come to pay your respects, have you? Well, go on, tell me! What do you think of your great hero? Xander, the conqueror. Xander, the murderer. I am the last of my tribe. I cannot rest, cannot sleep. Xander and the rest of them slaughtered my people. He enslaved my family and bound us to this cursed place. Among your kind, he is revered for this, but I spit on his bones.”
+> La forma imponente di Graxis si staglia all'improvviso all'ingresso della tomba, con le ossa che tornano al loro posto mentre lascia gli stretti corridoi per raggiungere la tomba più grande.
+> 
+> Sbuffa beffardo: " Siete venuti a porgere i vostri omaggi, vero? Beh, avanti, ditemi! Cosa ne pensate del vostro grande eroe?
+> 
+> Xander, il conquistatore.
+> Xander, l'assassino.
+> 
+> Sono l'ultimo della mia tribù. Non posso riposare, non posso dormire. Xander e gli altri hanno massacrato la mia gente. Ha reso schiava la mia famiglia e ci ha legati a questo luogo maledetto. Tra i vostri simili è venerato per questo, ma io sputo sulle sue ossa".
+> 
+> Non attende risposta. Graxis batte i pugni a terra e soffia così forte che le pareti della tomba sembrano tremare. Ogni muscolo del vostro corpo si tende mentre la morte si avvicina sotto forma di minotauro incazzato.
 
-He waits for no answer. Graxis punches the ground and bellows so loudly that the walls of the tomb seem to quake, dust falling on your backs. Every muscle on your body tightens as death approaches in the form of the raging minotaur.
+<span style="color:rgb(192, 0, 0)">Round 2, Initiative 0</span>
+> Improvvisamente, il coperchio del sarcofago viene scagliato di lato, cadendo pesantemente contro la parete. Senza alcun rumore, un cadavere essiccato emerge dalla tomba, alzando una mano aperta verso il mostro davanti a sé. La grande ascia impugnata con violenza da Graxis sembra improvvisamente saltare e muoversi di propria volontà, sfuggendo dalla sua mano e volando nella presa del re dei non morti.
+> 
+> Egli si volta, rivolto verso tutti voi. Poi, curiosamente, cambia la sua presa avvizzita sull'arma e ve ne presenta l'impugnatura.
 
-        After 2 rounds of combat, however, Xander will awaken:
+(If the heroes have humiliated themselves before his visage in the Chamber of Supplicants (area 23), he will instead throw it at their feet. Either way, the weapon will change forms depending on the hero that picks it up in order to be better suited to them.)
 
-Suddenly, the lid of the sarcophagus is thrown aside, falling heavily against the wall. Without a sound, a desiccated corpse rises from the tomb, raising an open hand towards the monster ahead. The greataxe held violently by Graxis suddenly appears to jump and move of its own volition, escaping his hand and flying into the grasp of the undead king.
+Without his weapon, Graxis loses his Greataxe attack. Beyond this aid, Xander will not move or fight, but observe the conflict before him.
 
-He turns, facing all of you. Then, curiously, he changes his withered grip on the weapon,  and presents its handle to you.[[ai]](https://docs.google.com/document/d/1a9OCcaVyZp4PfPzxXPJTBNAtFzQLgg41lg2dbwBO8Cw/mobilebasic#cmnt35)
+When Graxis is dead, Xander will speak to the party, but only for a very short while: while he is still sane in this undead form, he is no less tired and tormented than any of his former companions taking refuge in this existence. He will talk in a very low volume, often coughing dust and speaking in as few words as possible, to the detriment of clear understanding. 
 
-        Without his weapon, Graxis loses his Greataxe attack. Beyond this aid, Xander will not move or fight, but observe the conflict before him. You can find more about the Dragonlord in his own piece of the Dramatis Persona section, in [[Part Y]] of this Divine Guide.
+Lastly, his general behavior is still dictated by how the heroes approached the test in the Chamber of Supplicants (area 23). If they have degraded themselves and begged for their right to enter his tomb, he will treat them as lesser: he will not truly believe in their resolve or capabilities, especially compared to Commander Gaius, and will have less patience for conversation (though he is never rude to them), more quickly stepping back into his sarcophagus in silence. If they have looked his depiction in the eye and entered with firmness of purpose, it will be the opposite: he will see them as potential equals, in resolve if not in might - yet, and will be more willing to offer some conversion (though, even willingly, he cannot speak for long).
 
-        When Graxis is dead, Xander will speak to the party, but only for a very short while: while he is still sane in this undead form, he is no less tired and tormented than any of his former companions taking refuge in this existence. He will talk in a very low volume, often coughing dust and speaking in as few words as possible, to the detriment of clear understanding. The only exceptions, where he will speak directly and clearly, are if there is a Vanished One and/or a Gifted One in the party, as noted below.
+> Qualche tempo fa, un altro uomo ha raggiunto questa tomba, abbastanza potente da sopraffare, da solo, la bestia che avete ucciso. Portava con sé cimeli presi dalle tombe esterne, sostenendo che fosse la sua eredità... Ora ha anche la mia armatura, l'ultimo dei miei tesori.
+> 
+> Era alto e robusto, con corti capelli neri... il suo mantello portava l'occhio di Sydon.
 
-        Lastly, his general behavior is still dictated by how the heroes approached the test in the Chamber of Supplicants (area 23). If they have degraded themselves and begged for their right to enter his tomb, he will treat them as lesser: he will not truly believe in their resolve or capabilities, especially compared to Commander Gaius, and will have less patience for conversation (though he is never rude to them), more quickly stepping back into his sarcophagus in silence. If they have looked his depiction in the eye and entered with firmness of purpose, it will be the opposite: he will see them as potential equals, in resolve if not in might - yet, and will be more willing to offer some conversion (though, even willingly, he cannot speak for long).
+Eventually, Xander will grow silent, unable to speak further. He will silently grab the lid of his sarcophagus, step inside and drag it back into place.
 
-        Eventually, Xander will grow silent, unable to speak further. He will silently grab the lid of his sarcophagus, step inside and drag it back into place.
+<span style="color:rgb(255, 192, 0)">Treasure</span>
+This tomb is consecrated, though Xander’s treasures can be taken with his permission. His weapon, the Axe of Xander, might change forms when a hero touches it (if there is a weapon better suited for the one who picks it up, so it could become a xiphos, for example), but only once. 
+
+It will always, however, be a slightly reworked [Dragon’s Wrath Weapon](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://dnd5e.wikidot.com/wondrous-items:dragons-wrath-weapon%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1749456559015421%26amp;usg%3DAOvVaw3SWbb4tNsKBZypWBDp1JLw&sa=D&source=docs&ust=1749456559103934&usg=AOvVaw0m2TYEVN8LCX-JPSn1iJDG). Xander’s former armor, the Breastplate of Mytros, has been taken by Commander Gaius - who stoically withstood the effects of the curse, taking the item as part of his legacy - and cannot be found here. There are large amounts of gold and silver inside Xander’s sarcophagus, but these cannot be taken; if the heroes ask, however, he will give them a single large diamond worth 300 GP.
+
+Lastly, Graxis’ corpse still holds on to the last of Xander’s treasures, the Shield of Volkan. As the party attempts to take it from the dead body, however, something happens:
+
+> Quando toccate il grande scudo e cercate di estrarlo dal braccio del minotauro sconfitto, il suo corpo si scuote violentemente e vi spinge via e a terra, gettando via lo scudo da sé.
+> 
+> Non c'è espressione sul volto di Graxis e nessun suono esce dalla sua bocca, ma il suo corpo si contorce e si muove come in una convulsione infernale. Alla fine i tremori si calmano e il minotauro si alza: a mani nude si toglie ampie porzioni di pelle ferita, compresa una parte del viso, mostrando grandi ossa gialle sotto i muscoli e sangue.
+> 
+> E... vi volta le spalle. Lentamente si allontana, tornando nel labirinto. Torna al suo dovere permanente, maledetto qual è. La morte non è libertà, né riposo.
+
+Both of these items are unfortunately damaged, and lack any of their magical properties at the moment. They must be taken to the Mithral Forge, another area accessed by following the heroes’ Great Labors in this Chapter, and fixed by Volkan, God of the Forge. He will not ask for any resources (materials nor currency) to do so, but must use Pythor’s Hammer for at least 1 week per item in order to restore them.
+
+---
+## Leaving the Necropolis
