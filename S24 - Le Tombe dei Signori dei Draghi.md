@@ -10,9 +10,11 @@
 > 
 > In questo momento siete appena sopravvissuti ad una trappola mortale che proteggerva la tomba di Adonis Neurdagon, con il mercurio liquido intrappolato dalle vostre vesti che brucia ancora contro le vostre pelli.
 
-!!! Ricordati il Blessing del Kentimane
-!!! Ricordati gli autoesiliati salvati da Phior
-!!! Ricordati del mercurio e poison 24h /1d6 danni
+*!!! Ricordati il Blessing del Kentimane*
+*!!! Ricordati gli autoesiliati salvati da Phior*
+*!!! Ricordati del mercurio e poison 24h /1d6 dann*i
+
+---
 ## 3 - TELAMOK ARKELANDER
 OATHSWORN OF Tysophale
 
@@ -276,7 +278,7 @@ Sydon knows whoever appears then was desecrating the tomb of Nicholas Phobas, an
 This tomb is consecrated, and any who steals from it suffers the Curse of the Graverobber. The sarcophagus contains the perfectly preserved body of Nicholas Phobas, as if the man died yesterday. This cadaver is covered by an unimaginably thin sheet of mithral, almost silk-like to the touch, equivalent in value and use to a single Mithral Ingot. Surprisingly, the man bears no armor (as it was previously taken by Commander Gaius), but an ornamental shield made of pure platinum remains, worth 1500 GP.
 
 ---
-## 15 – Tomb of Balmytria
+## 15 – TOMB OF BALMYTRIA
 
 > Questa tomba imponente supera tutte le altre della Necropoli. È fatta di marmo bianco che ha mantenuto il suo colore nel corso degli anni, sostenuto da immensi pilastri serpentini. Avvicinandosi, ci si rende conto che non si tratta di colonne comuni, ma di statue scolpite a forma di drago in varie posizioni, che sorreggono la struttura. L'ingresso è costituito da una grande porta a due battenti in bronzo, sulla quale si legge, a caratteri cubitali:
 
