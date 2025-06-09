@@ -83,4 +83,30 @@ These murals illustrate the well-known side of Dragonlord history: unbelievable 
 
 Xander’s tomb is the deepest, most complex and unavoidable trap of the Necropolis at Telamok. Being the most famous of all the Dragonlords, his body and legacy was defended like no other, meant to be a horrific obstacle even if Damon was destroyed. The maze is patrolled by a few different groups of creatures which are always moving, and has a number of rooms besides the true tomb where Xander rests, including Graxis’ haven.
 
-The party might encounter these patrolling enemies a number of times, or not at all if they are lucky enough. Every time the party reaches a new numbered area of the map (starting from this one), roll a d100: on a result of 45 or higher, the heroes encounter a patrol soon before or soon after the new area. The exact nature of their enemies will also be slightly up to chance, and you can find them [here](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/document/d/15q5eo6p5QeAHOnhvz2EO5THyN-n352tA87HpxWyKIvc/edit?usp%253Dsharing%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1749456558958017%26amp;usg%3DAOvVaw1p3nUAfMUO1uGIbRe7aqrg&sa=D&source=docs&ust=1749456559100250&usg=AOvVaw0wWRNCSJkna2DS0wyDDFV1). You may also roll if the party spends too long in any other place (e.g., if they stop to discuss something for more than 5 minutes).
+The party might encounter these patrolling enemies a number of times, or not at all if they are lucky enough. Every time the party reaches a new numbered area of the map (starting from this one), roll a d100: on a result of 45 or higher, the heroes encounter a patrol soon before or soon after the new area. The exact nature of their enemies will also be slightly up to chance, and you can find them [here](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/document/d/15q5eo6p5QeAHOnhvz2EO5THyN-n352tA87HpxWyKIvc/edit?usp%253Dsharing%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1749456558958017%26amp;usg%3DAOvVaw1p3nUAfMUO1uGIbRe7aqrg&sa=D&source=docs&ust=1749456559100250&usg=AOvVaw0wWRNCSJkna2DS0wyDDFV1). You may also roll if the party spends too long in any other place.
+
+---
+## 19 - Skeletal Minotaurs
+> Questa stanza presenta un'unica nicchia di marmo con una torcia esausta. Alle pareti sono allineati scaffali di pietra, pieni di ragnatele e teschi umanoidi, mentre il pavimento è coperto da una spessa coltre di polvere. Grandi ossa ingiallite sono sparse intorno a quattro pesanti asce di bronzo sul pavimento.
+
+The heroes will only have a short time to move around: 10 seconds after they walk into the room, the bones suddenly begin to twitch and move, forming 4 Minotaur Skeletons, each with one of the bronze axes. They attack immediately and chase through the maze. Soon after this room, as the heroes march on, the party should have one guaranteed quick encounter with Graxis, the Butcher, as detailed in the Tomb of Xander Random Encounters table above.
+
+---
+## 20 - False Tomb
+> Questa camera circolare ha un soffitto a cupola con un oculo che lascia entrare un po' di luce proveniente da fuori. 
+> 
+> La stanza è dominata da un grande sarcofago di pietra su cui sono incise strane lettere dorate. Il pavimento ai suoi piedi è ricoperto da un tappeto antico ma ben tessuto, che raffigura Xander alla conquista di una varietà di varie comunità autoctone. Ognuno di essi ha un rappresentante inginocchiato ai piedi del guerriero, con un'offerta di pace sopra la testa: vino, frutta, carne, oro.
+> 
+> Sparse per la stanza, ci sono una dozzina di piccole statue di draghi di diverse forme e dimensioni. Alcune sono legate al soffitto, come gargoyle sopra il sarcofago; altre sono in giro per il pavimento, in pose diverse, inchinate verso di esso o ruggenti in direzione della porta.
+
+<span style="color:rgb(228, 114, 7)">Sarcophagus</span>
+This room is a trap, a fabricated empty tomb in the far end of the labyrinth to attract thieves and destroy them. The wording on the sarcophagus is in Draconic, and it reads:
+
+XANDER HUORATH
+FIRST OF HIS ORDER
+
+If anyone opens it, two dragon statues above the tomb will yell “thieves!” and initiate combat: these are 2 Eidolons, already in the form of a Reduced Threat Sacred Statue (These statues have 30 HP, deal 2d12 with their Slam attack and 2d10 with their Rock attack.), created by Damon with the help of the Five Gods. They are meant to destroy whoever breaches this sarcophagus. 
+
+This is not a straightforward combat encounter: the monsters have too many statues at their disposal, and so the heroes should either stop them from possessing the next object in line or focus on destroying the statues themselves. The Eidolons fight until destroyed, but if they have no receptacles left, there is little they can do but curse at the heroes.
+
+        Lastly, with a successful DC 15 Wisdom (Perception) check (or by destroying the statues), a hero may realize one statue has a comparatively odd shape: its back is completely stuck to the wall, and it bears an elongated mouth. This is a lever, the switch of a mechanism that interacts with the trap (area 22). Whenever it’s pulled, there is a screeching sound of metal against metal: unbeknownst to the heroes (at least initially), pulling it stops the trap once it's activated, making it so the portcullis and the spikes return to their original positions and stopping it from functioning for 1 hour.
