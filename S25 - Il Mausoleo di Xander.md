@@ -123,3 +123,92 @@ This is Graxis’ lair, where he always eventually returns to store his food and
 Graxis keeps the baubles and coins he takes from his victims. In a bag, he has 600 CP, 254 SP, 115 GP, and 6 pieces of jewelry (25 GP each).
 
 ---
+## 22 - Trap Room
+> Questa stanza rettangolare ha un soffitto alto, pareti scolpite con linee verticali e decine di facce urlanti, e un pavimento in pietra. Uno scheletro maciullato giace vicino all'ingresso. Dall'altra parte, c'è una doppia porta di bronzo pesante, con due scheletri accasciati davanti ad essa. Le loro ossa sono parzialmente frantumate, mancano le gambe e la loro vecchia armatura è smembrata.
+
+This whole area is a trap, activated when more than or 135kg (or half the party) have gathered in the room. Throughout 4 rounds of initiative, the entrances will be sealed, and the walls will crush any heroes inside.
+
+<span style="color:rgb(192, 0, 0)">Round 1</span>
+At initiative 20 a portcullis descends in the entrance, cutting off retreats, and can only be raised by a successful DC 30 Strength (Athletics) check; the south wall begins to push forward with a screech of metal against metal. 
+
+> Con un fragore assordante, una grata d’acciaio cala dall’ingresso, sbarrando ogni via di fuga! Subito dopo, un lamento metallico echeggia mentre il muro comincia lentamente ad avanzare, schiacciando tutto ciò che trova! Siete in trappola!
+
+This sound can be recognized if any heroes have previously pulled the lever in the False Tomb (area 20), assuming there has been enough time for the trap to be re-activated, as it should be inactive for 1 hour after pulling the lever once.
+
+> Quel suono… lo avete già sentito. Qualche stanza fà, nella Tomba Falsa.
+
+<span style="color:rgb(192, 0, 0)">Round 2</span>
+At initiative count 10, spikes protrude from the mouths of the wall carvings, dealing 14 (4d6) piercing damage to everyone in the room. The spikes are slowly pushed back inside the walls, and deal no damage on further rounds.
+
+> Dalle bocche delle facce scolpite nelle pareti esplodono aculei d’acciaio! Come zanne affamate, vi trafiggono mentre il muro continua la sua lenta, inesorabile marcia!
+
+<span style="color:rgb(192, 0, 0)">Round 3</span>
+> Le pareti non si fermano. Il tempo stringe!
+
+<span style="color:rgb(192, 0, 0)">Round 4</span>
+At initiative count 1, anyone still inside the room takes 32 (10d6) bludgeoning damage as the wall smashes inward. This damage is persistent, and will happen again at the same point on further rounds. Anyone reduced to 0 hit points is crushed into a paste.
+
+> Con un rumore terrificante, il muro si abbatte su di voi! La pietra frantuma ossa, schiaccia carne, riduce ogni cosa in poltiglia!
+
+**Disarming the Trap**
+As previously stated, the portcullis can be raised and allow the heroes to escape. The bronze door, which is barred, can be forced open with a Strength check: success against a DC of 15 requires 3 checks; successes against a DC of 20 requires 2 checks; and success against a DC of 25 requires 1 success, opening it immediately. The trap is also halted if someone pulls the lever in the False Tomb (area 20), as previously explained in that section.
+
+---
+## 23 - Chamber of Supplicants
+> Questa camera con volta è disseminata di ossa, armi abbandonate e scudi arrugginiti. Pilastri e nicchie lungo le pareti ospitano statue di marmo: raffigurano sacerdoti di una divinità non ben definita e supplicanti: uomini e donne con abiti regolari che si inchinano in segno di profonda riverenza, baciano la terra e uniscono le mani in segno di disperata implorazione. Tutti guardano verso una grande lastra di bronzo, quasi una porta, sul lato opposto della stanza.
+> 
+> Questa lastra di bronzo non ha una maniglia e si incastra con troppa precisione nella parete per essere tirata o spinta. 
+> 
+> Porta l'immagine completa di un uomo: indossa una corazza contrassegnata dall'emblema di Mytros, porta in una mano un'ascia con una lama modellata come la bocca di un drago e uno scudo modellato con il volto di un leone. Il suo elmo corinzio, invece di un pennacchio, mostra un piccolo drago orgoglioso. Ha un aspetto sicuro, determinato e coraggioso. Il suo portamento è impeccabile e nei suoi occhi vedete una determinazione incrollabile.
+> 
+> Sopra di lui è incisa un frase:
+> 
+> RICONOSCI TE STESSO, E PARLA.
+
+This is the only room any party will necessarily encounter before the true sarcophagus of Xander, and it is a simple test of character rather than skill. No enemy should interrupt the heroes once they find their way inside, but there is no way to progress further without properly dealing with the bronze plate that stands before them, depicting Xander himself.
+
+Initially, there are two ways to pass: to show deep, self-deprecating deference and supplicate, or to show might and determination and respectfully demand passage. Both are roleplaying scenarios to be evaluated by the Dungeon Master, who should be ready to discern if any similar or equivalent actions from the player characters should also warrant the right to pass.
+
+The first one is more thoroughly hinted by the room itself, as per the statues of men and women pleading and begging. If a player wants to attempt this, they should prostrate themselves at the feet of Xander’s sculpture, kiss his hands and/or feet, and speak, sharing their tale and begging to be allowed inside. This is purposely degrading.
+
+The second scenario is only hinted at by one figure in the room: the depiction of Xander himself. While not aggressive, the figure never moves, never lowers their gaze, never bows, never yields. One who respectfully matched this prowess would be allowed entrance. In order to do so, a hero must approach the figure, unbowed and determined, look them in the eyes and clearly state their story and intent: they have come this far and overcome every obstacle. The Oracle has prophesied their arrival and victory, and they will not relent. The Twins will give way to peace once more, or fall forever, and even the first among Dragonlords would not stop them. Xander would understand that.
+
+And so he would. If these or any similar/equivalent scenarios are played out, the bronze plate moves up into the ceiling, and their path is opened. Xander’s exact interaction with the party will change depending on their choices here. The doorway does not close again until the heroes leave, but it is worth remembering that Graxis, the Butcher has complete access to every room in the Necropolis, and will meet them in the True Tomb of Xander (area 24).
+
+---
+## 24 - True Tomb of Xander
+> Le pareti di questa grande camera presentano un numero sorprendente di immagini di ogni tipo: pietra liscia, murales colorati, mosaici di vetro, dipinti! Le scene sono ancora più varie: battaglie; sequenze ordinarie in cui i Signori dei Draghi si accampano, con uomini e draghi che cacciano, bevono e raccontano storie; l'esplorazione di un nuovo mondo, sfidando la terra stessa. In tutte, c'è un guerriero umano specifico e un drago d'argento. In un pannello, i due si librano semplicemente, da soli, in un cielo blu scuro pieno di stelle splendenti.
+> 
+> Il soffitto a volta mostra probabilmente le immagini più interessanti, che sembrano raccontare una storia. I primi pannelli mostrano lo stesso uomo, Xander Huorath, vestito con quelli che sembrano essere abiti da cerimonia: al posto dell'armatura, ci sono stoffe colorate ed eleganti gioielli. Sopra di lui, grandi re e regine offrono una serie di regali: oro e gemme, armi e armature, soldati e navi.
+> 
+> Poi, lo stesso uomo, sempre in abiti regali, si inginocchia davanti a due grandi draghi, uno di bronzo e uno d'argento. Nonostante la loro imponenza, che supera quella dell'uomo stesso, lo guardano con rispetto e curiosità, al punto che, un pannello dopo, l'enorme entità d'argento offre i suoi pericolosi artigli non come minaccia, ma per essere scossa in segno di rispetto tra pari.
+> 
+> Infine, un grande viaggio. Un mare nero apparentemente infinito viene inghiottito da un'onda di colori ancora più infinita: dozzine di draghi che volano verso il sole nascente, con le loro scaglie che brillano alla luce, e qualche altra dozzina di navi dietro di loro. A capo di tutto, un cavaliere umano con una possente ascia e un drago d'argento che ruggisce verso il nuovo mondo.
+
+The entirety of these images should be mesmerizing, almost overbearing. It’s not until the heroes walk a bit into the room, maybe almost bumping against the sarcophagus at its center, that everything else comes into focus:
+
+> Quando il vostro sguardo si abbassa di nuovo, vi rendete conto che il centro della stanza è dominato da un grande sarcofago di marmo nero, con incise le sembianze dell'uomo che avete visto scolpito sulla porta... tuttavia, egli è tutt'altro.
+> 
+> Mantiene l'armatura, l'elmo e le armi, ma non è più fiero: le spalle sono smunte, la presa sull'ascia non è più così salda. Il suo volto presenta rughe visibili, troppo visibili per un uomo così giovane, e il viso, anche se in gran parte coperto, sembra ancora visibilmente triste, con occhi spenti e solitari. Intorno a lui si ergono tre eleganti piedistalli, vuoti.
+> 
+> Eppure, la stanza sembra quasi parlare, come se persino le pareti non riuscissero a dimenticare chi è sepolto in questo sarcofago: “acclamate Xander, Primo tra i Signori dei Draghi”; “distogliete lo sguardo, o la sua grandezza vi accecherà”; “alzate le mani, e lui taglierà le vostre catene”; "dicevano che era solo un uomo, carne e ossa come tutti gli altri. Si sbagliavano. Si sbagliavano".
+
+This chamber is lit by a single Everburning Torch, and the pedestals once held Xander’s great treasures, now taken: his great ax and shield were taken by [Graxis, the Butcher](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://drive.google.com/file/d/1XhbxTzLbXj4T1S2JSnohHdndTjJgSJkR/view?usp%253Dsharing%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1749456558996131%26amp;usg%3DAOvVaw0THnVqUtC2AFt7gpYzj-oh&sa=D&source=docs&ust=1749456559102813&usg=AOvVaw1WFIFD53k_EB_lQFYqw-iI), and his armor was taken by Commander Gaius. The lid of the sarcophagus weighs nearly a ton, demanding a combined Strength score of 73 to be opened, possibly unfeasible for the heroes. As they try, however, they will be interrupted by [Graxis, the Butcher](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://drive.google.com/file/d/1XhbxTzLbXj4T1S2JSnohHdndTjJgSJkR/view?usp%253Dsharing%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1749456558997131%26amp;usg%3DAOvVaw1tR3QTKnp5ny0PrSNkvmaj&sa=D&source=docs&ust=1749456559102880&usg=AOvVaw2cY-9TZ7OHYk9dHh4lKmrZ):
+
+The hulking form of Graxis suddenly looms in the tomb entryway, his bones snapping into place as he leaves the tight hallways for the larger tomb. He snorts derisively: “come to pay your respects, have you? Well, go on, tell me! What do you think of your great hero? Xander, the conqueror. Xander, the murderer. I am the last of my tribe. I cannot rest, cannot sleep. Xander and the rest of them slaughtered my people. He enslaved my family and bound us to this cursed place. Among your kind, he is revered for this, but I spit on his bones.”
+
+He waits for no answer. Graxis punches the ground and bellows so loudly that the walls of the tomb seem to quake, dust falling on your backs. Every muscle on your body tightens as death approaches in the form of the raging minotaur.
+
+        After 2 rounds of combat, however, Xander will awaken:
+
+Suddenly, the lid of the sarcophagus is thrown aside, falling heavily against the wall. Without a sound, a desiccated corpse rises from the tomb, raising an open hand towards the monster ahead. The greataxe held violently by Graxis suddenly appears to jump and move of its own volition, escaping his hand and flying into the grasp of the undead king.
+
+He turns, facing all of you. Then, curiously, he changes his withered grip on the weapon,  and presents its handle to you.[[ai]](https://docs.google.com/document/d/1a9OCcaVyZp4PfPzxXPJTBNAtFzQLgg41lg2dbwBO8Cw/mobilebasic#cmnt35)
+
+        Without his weapon, Graxis loses his Greataxe attack. Beyond this aid, Xander will not move or fight, but observe the conflict before him. You can find more about the Dragonlord in his own piece of the Dramatis Persona section, in [[Part Y]] of this Divine Guide.
+
+        When Graxis is dead, Xander will speak to the party, but only for a very short while: while he is still sane in this undead form, he is no less tired and tormented than any of his former companions taking refuge in this existence. He will talk in a very low volume, often coughing dust and speaking in as few words as possible, to the detriment of clear understanding. The only exceptions, where he will speak directly and clearly, are if there is a Vanished One and/or a Gifted One in the party, as noted below.
+
+        Lastly, his general behavior is still dictated by how the heroes approached the test in the Chamber of Supplicants (area 23). If they have degraded themselves and begged for their right to enter his tomb, he will treat them as lesser: he will not truly believe in their resolve or capabilities, especially compared to Commander Gaius, and will have less patience for conversation (though he is never rude to them), more quickly stepping back into his sarcophagus in silence. If they have looked his depiction in the eye and entered with firmness of purpose, it will be the opposite: he will see them as potential equals, in resolve if not in might - yet, and will be more willing to offer some conversion (though, even willingly, he cannot speak for long).
+
+        Eventually, Xander will grow silent, unable to speak further. He will silently grab the lid of his sarcophagus, step inside and drag it back into place.
