@@ -80,7 +80,8 @@ Un tempo protettore e guida, la mente di Damon si è ora erosa, consumata dal su
 ### Damon
 > Quando ti avvicini, la scena si dissolve e la tua percezione precipita.
 > 
-> Sei nel vuoto. Davanti a te, la mano tesa di **Lutheria**, la Morte, sta per chiudersi su un'anima. È un gesto antico, sacro, inevitabile.
+> Sei nel vuoto. Davanti a te, la mano tesa della Morte, di **Lutheria**, sta per chiudersi su un'anima. 
+> È un gesto antico, sacro, inevitabile.
 > 
 > Ma dal punto in cui si trova l'anima, un **singolo, complesso cerchio arcano** prende vita, inciso nella trama dell'abisso.
 > 
@@ -101,7 +102,7 @@ Un tempo protettore e guida, la mente di Damon si è ora erosa, consumata dal su
 > 
 > Davanti a te c'è...
 > 
-> **Un uomo.** **Un elmo.** **E una torcia d'argento.**
+> **Un uomo.** **Un elmo.** **Una torcia d'argento.**
 
 Damon tende semplicemente la mano, chiedendo chiaramente qualcosa: una Moneta Brunita del Signore dei Draghi. Gli eroi dovrebbero averne almeno 1, un dono di Proteo nel Capitolo 1: Eroi della Profezia. Se il gruppo non paga il pedaggio e tenta di passare, inizierà fermandoli tramite incantesimi di controllo come Blocca Persona o Muro di Forza. Chiunque provi a superarlo con la forza viene preso di mira con maggiore violenza, dando inizio a un combattimento vero e proprio.
 
