@@ -85,6 +85,8 @@ Xander’s tomb is the deepest, most complex and unavoidable trap of the Necropo
 
 The party might encounter these patrolling enemies a number of times, or not at all if they are lucky enough. Every time the party reaches a new numbered area of the map (starting from this one), roll a d100: on a result of 45 or higher, the heroes encounter a patrol soon before or soon after the new area. The exact nature of their enemies will also be slightly up to chance, and you can find them [here](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/document/d/15q5eo6p5QeAHOnhvz2EO5THyN-n352tA87HpxWyKIvc/edit?usp%253Dsharing%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1749456558958017%26amp;usg%3DAOvVaw1p3nUAfMUO1uGIbRe7aqrg&sa=D&source=docs&ust=1749456559100250&usg=AOvVaw0wWRNCSJkna2DS0wyDDFV1). You may also roll if the party spends too long in any other place.
 
+**Alternative Labyrinth Game with Cards Here:** [[Card Labyrinth]]
+
 ---
 ## 19 - Skeletal Minotaurs
 > Questa stanza presenta un'unica nicchia di marmo con una torcia esausta. Alle pareti sono allineati scaffali di pietra, pieni di ragnatele e teschi umanoidi, mentre il pavimento è coperto da una spessa coltre di polvere. Grandi ossa ingiallite sono sparse intorno a quattro pesanti asce di bronzo sul pavimento.
