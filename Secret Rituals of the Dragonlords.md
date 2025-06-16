@@ -1,7 +1,7 @@
 
 ---
 # Bond of the Dragonlord
-*Level 3 Enchantment*
+*Level 3 Enchantment Ritual*
 
 **Casting Time:** 1 minute
 **Range:** Touch
@@ -17,11 +17,20 @@ If the bonded dragon dies, the Dragonlord will also die within 24 hours unless t
 
 ---
 # Dirge of the Dragonlord
+*Level 3 Necromancy Ritual*
 
+**Casting Time:** 1 hour
+**Range:** Touch
+**Components:** V, M (an offering of gems and coins worth at least 1,000 gp, which the spell consumes.)
+**Duration:** Instantaneous.
+
+You return a dead Dragon that has been bonded to a Dragonlord back to life. The dragon returns to life with 1 hit point. All of the dragon's mortal wounds are closed, and any missing body parts are restored. 
+
+This spell also neutralizes any poisons and cures nonmagical diseases that affected the dragon at the time it died. This spell doesn’t, however, remove magical diseases, curses, or similar effects; if these aren’t first removed prior to casting the spell, they take effect when the dragon returns to life.
 
 ---
-
-The easiest way to bond to a dragon is to locate an unhatched dragon egg and spend 3d6 days nurturing it in ideal conditions so that it hatches, for example:
+## Extra Info
+The easiest way to bond to a dragon is to somehow locate an unhatched dragon egg and spend 3d6 days nurturing it in ideal conditions so that it hatches, for example:
 - Copper. The egg must be coated in acid. This can be done with non-magical acid once a day, or by using spells such as [acid splash](http://localhost:5000/spells.html#acid%20splash_phb) once a day.
 - Brass. The egg must be kept hot. Hot coals work, or keeping it in a smithy's furnace, as does using spells such as [fire bolt](http://localhost:5000/spells.html#fire%20bolt_phb).
 - Bronze. The egg must be exposed to the sky for 12 hours a day or suffused with electricity once a day. The [shocking grasp](http://localhost:5000/spells.html#shocking%20grasp_phb) spell could be used.
@@ -30,6 +39,9 @@ The easiest way to bond to a dragon is to locate an unhatched dragon egg and spe
 The dragon will start as a Wyrmling and will use companion rules.
 Wyrmlings cannot be used as mounts until they grow into young dragons. 
 A Young dragon has a further 5 stages in which its stats grow and will use custom rules.
+
+---
+
 
 
 
