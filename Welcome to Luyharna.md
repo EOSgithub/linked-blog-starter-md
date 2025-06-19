@@ -1,4 +1,4 @@
-> *Vi risvegliate tra il sudicio dei vicoli di una città sconosciuta. L’aria sa di nebbia, muffa e qualcosa di più antico. Non ricordate come siete arrivati qui.*
+> *Vi risvegliate tra il sudicio dei vicoli di una città sconosciuta. L’aria sa di nebbia, polvere da sparo e qualcosa di più antico. Non ricordate come siete arrivati qui.*
 > 
 > *Poi alzate lo sguardo...* 
 > *E la luna esplode senza far rumore.* 
@@ -16,7 +16,9 @@
 **Secondari:** Mistero, follia, urbano
 
 **SOMMARIO DELLA MISSIONE**  
-*I personaggi si risvegliano senza memoria in un vicolo della città di Luyarnha, mentre nel cielo si staglia una luna frantumata. È la notte del Geistnacht: dove orde di spiriti parassitici provenienti dal corpo celeste scendono nel regno dei mortali. Riuscirete a sopravvivere la notte?*
+*I personaggi si risvegliano senza memoria in un vicolo della città di Luyarnha, mentre nel cielo si staglia una luna frantumata. È la notte del Geistnacht: dove orde di spiriti parassitici e... altro... provenienti dal corpo celeste scendono nel regno dei mortali. Riuscirete a sopravvivere la notte?*
+
+---
 
 **CREAZIONE DEI PERSONAGGI**  
 - Livello 3 (pregenerati disponibili o personaggi propri)
