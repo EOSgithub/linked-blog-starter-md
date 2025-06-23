@@ -4,11 +4,11 @@
 > Per ere, Thylea ha sempre sognato lo stesso domani,
 > …e ora si sveglia in un futuro dettato dai vostri passi.
 > 
-> Questa pomeriggio, dopo aver risparmiato un sacerdote di Lutheria di nome Melek, avete percorso il Sentiero dei Morti e provato sulla vostra pelle cosa lo renda così pericoloso.  
+> Questo pomeriggio, dopo aver risparmiato un sacerdote di Lutheria di nome Melek, avete percorso il Sentiero dei Morti e provato sulla vostra pelle cosa lo renda così pericoloso.  
 > Giunti dinanzi all'abisso che protegge la Necropoli, avete attraversato l'unico ponte rimasto, sorvegliato da Damon. Lì, avete avuto una visione di come egli abbia infranto la legge della mortalità, e dopo avergli pagato un pedaggio, siete finalmente entrati nella città dei morti.
 > Avete iniziato ad esplorare le tombe dei signori dei draghi, alla ricerca di risposte alle vostre domande e delle armi necessarie a slavaguardare la nuova era.
 > 
-> In questo momento siete appena sopravvissuti ad una trappola mortale che proteggerva la tomba di Adonis Neurdagon, con il mercurio liquido intrappolato dalle vostre vesti che brucia ancora contro le vostre pelli.
+> In questo momento siete appena sopravvissuti ad una trappola mortale che proteggerva la tomba di Adonis Neurdagon... Il mercurio intrappolato dalle vostre vesti brucia ancora contro le vostre pelli.
 
 *!!! Ricordati il Blessing del Kentimane*
 *!!! Ricordati gli autoesiliati salvati da Phior*
