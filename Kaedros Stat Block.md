@@ -35,31 +35,31 @@ Kaedros can push, shove, or grapple creatures two size categories larger than hi
 Kaedros makes two Golden Warhammer attacks.
 
 **Golden Warhammer:** Melee Weapon Attack:+8 to hit, reach 5 ft., one target.  
-**Hit:** 1d10+5 bludgeoning plus 1d8 radiant.  
+**Hit:** 2d6+5 bludgeoning plus 1d6 radiant.  
 **Special:** The target must succeed on DC 15 Constitution save or gain 1 stack of _Midas' Curse_.
 
-**Golden Warhammer (Heavy Weapon Master)**: Melee Weapon Attack: +3 to hit, reach 5 ft., one target.  
-**Hit:** 1d10+15 bludgeoning plus 1d8 radiant.  
+**Golden Warhammer (Great Weapon Master)**: Melee Weapon Attack: +3 to hit, reach 5 ft., one target.  
+**Hit:** 2d6+15 bludgeoning plus 1d6 radiant.  
 **Special:** The target must succeed on DC 15 Constitution save or gain 1 stack of _Midas' Curse_.
 
 **Golden Javelin:** Ranged Weapon Attack: +5 to hit, range 60/120 ft., one target.  
-**Hit:** 2d6+2 piercing plus 1d8 radiant.  
+**Hit:** 1d6+2 piercing plus 1d6 radiant.  
 **Special:** On hit, the javelin erupts in a brief golden flash. The target must succeed on DC 15 Constitution save or gain 1 stack of _Midas' Curse_.
 
-**Golden Shockwave (Recharge 5–6):**  
-Kaedros slams the ground. All creatures in a 30ft. cone must make a DC 15 Constitution saving throw. On a failed save, they take 4d8 radiant damage and gain 1 stack of **Midas’ Curse**. On a success, they take half damage and no stacks.
+**Golden Shockwave (Recharge 6):**  
+Kaedros slams the ground. All creatures in a 30ft. cone must make a DC 15 Constitution saving throw. On a failed save, they take 8d6 radiant damage and gain 1 stack of **Midas’ Curse**. On a success, they take half damage and no stacks.
 
 ---
 ### Bonus Actions
 **Goldbound Smite:**  
-Once per turn, Kaedros can deal an additional 2d8 radiant damage on a hit.
+Once per turn, Kaedros can deal an additional 2d6 radiant damage on a hit.
 
 **Follow-Through (Great Weapon Master):**  
 When Kaedros scores a critical hit or reduces a creature to 0 hit points, he may immediately make a bonus attack with Golden Warhammer.
 
 ---
 ### Reactions
-**Shield of Gold (1/day):**  
+**Shield of Gold (Recharge 6):**  
 When Kaedros is hit by an attack, he may reduce the damage by 20. Creatures within 5 ft. must succeed on a DC 15 Constitution saving throw or be blinded until the end of their next turn.
 
 ---
@@ -67,24 +67,22 @@ When Kaedros is hit by an attack, he may reduce the damage by 20. Creatures with
 ---
 
 ## Kaedros, the Gilded Juggernaut (Companion)
-**Role:** Ally (Paladin / Midas' Curse / Unstoppable Force)  
 
 ---
 ### Action 1 — Golden Strike
 When you make a melee weapon attack, Kaedros empowers it:
-- The attack deals an extra 1d8 radiant damage.
+- The attack deals an extra 1d6 radiant damage.
 - If it hits, the target must succeed on DC 15 Constitution save or gain 1 stack of _Midas' Curse_ (slows by 5 ft per stack).
 
 ---
 ### Action 2 — Herculean Shove
-Once per turn, when you make a Strength (Athletics) check to shove or break an object, Kaedros lends his might:
+Once per turn, when you make a Strength (Athletics) check to shove, Kaedros lends his might:
 - You add +5 to the roll.
-- On success, objects burst apart as if smashed by herculean strength.
-- If used against a creature, the target is also knocked prone if the shove succeeds.
+- On success, the target is also knocked prone.
 
 ---
 ### Action 3 — Gilded Protection
-As a reaction, Kaedros can intercept an attack within 10 feet:
+As a reaction, Kaedros can intercept an attack:
 - You gains +2 AC against that attack.
 - If the attack still hits, the attacker gains 1 stack of _Midas' Curse_ (slows by 5 ft per stack).
 
