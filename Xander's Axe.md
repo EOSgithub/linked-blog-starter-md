@@ -14,12 +14,9 @@ _Weapon (any), legendary (requires attunement)_
 *(Unlocked by being Oathsworn to a Dragon)*
 
 ---
-
-**Anathema** 
-“To the hand that dares, even Olympus opens its throat.”
-“Forged in defiance. Raised in wrath. Carried to unmake kings of heaven.”
-“Once, it carved a name into the bones of a god. The name was Xander.”
-“In the hands of the worthy, it brings death to Titans and gods alike.”
-“It was not forged to slay beasts—but to end the age of gods.”
-“The blade that taught the deathless how to fear.”
-“Born of starmetal, destined to end what should never die.”
+***Anathema***
+"*...to the hand that dares... even Olympus... bares its throat...*  
+*...raised by mortal will... to unmake... kings of heaven...*  
+*...not wrought for beasts... but for the end of ages...*  
+*...born of starmetal... fallen through fate... shaped to end what should never die...*  
+*...Anathema... Anathema... Anathema...*"
