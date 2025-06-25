@@ -69,28 +69,45 @@ At initiative count 1, anyone still inside the room takes 32 (10d6) bludgeonin
 As previously stated, the portcullis can be raised and allow the heroes to escape. The bronze door, which is barred, can be forced open with a Strength check: success against a DC of 15 requires 3 checks; successes against a DC of 20 requires 2 checks; and success against a DC of 25 requires 1 success, opening it immediately. The trap is also halted if someone pulls the lever in the False Tomb (area 20), as previously explained in that section.
 
 ---
-
-## 5 - The Sacred Fountain
+## 5 - The Sacred Spring
 > Una fresca sorgente gorgoglia dal centro della stanza, raccolta in una piccola vasca di marmo bianco screziato d’oro. Intorno, piante rampicanti crescono tra le crepe del pavimento, e delicati fiori blu spuntano dai bordi della pietra. L’aria è più leggera qui, come purificata dalla presenza di qualcosa di unico.
 
-This is a **blessed spring**—a minor miracle hidden deep within the tomb. _
-
-> Sopra la fonte, un **mosaico sbiadito** adorna la parete: raffigura un **drago piumato** che danza nella pioggia sotto cieli aperti, con ali tese come a proteggere il mondo.
-> Sotto la figura, in lettere antiche ormai consumate dal tempo, si legge:
+This is a **blessed spring**—a minor miracle hidden deep within the tomb.
+> Sopra la fonte, un **mosaico sbiadito** adorna la parete: raffigura un **drago** che danza nella pioggia sotto cieli tempestosi, con ali tese come a proteggere il mondo.
 > 
+> Sotto la figura, in lettere antiche ormai consumate dal tempo, si legge:
 > _Balmytria, l’Asse della Speranza._
 
-### 🧴 Reward:
-
-Drinking from the spring grants one of the following potions (DM’s choice or random):
-
-- **Potion of Heroic Vitality** – Heals the drinker for 3d8+3 HP and cures one disease, poison, or condition.
-    
-- **Potion of Clear Thought** – For the next hour, you gain advantage on Intelligence and Wisdom checks and saving throws.
-    
-- **Water of the Sacred Grove** – A single use of _Lesser Restoration_ (player’s choice when to activate it, as if holding it in their blood).
-    
-- **Kallias’ Blessing** – For the next 24 hours, your voice carries magic: you gain advantage on Performance and Persuasion checks.
-    
-
+Drinking from the spring heals the drinker for 20 HP, cures one disease or poison and reduces the exaustion level by one.
 Each character can drink once. The spring refills **once per dawn**, so it can’t be abused.
+
+---
+### 6 - The Armory
+> Questa stanza, seminascosta dietro una porta di pietra sfondata, è rivestita di pannelli di bronzo ossidato. Su supporti di metallo, restano alcune reliquie distrutte: vecchi scudi crepati, elmi spaccati, e — in una nicchia al centro — l'unico elemento ancora integro, un compartimento con un’etichetta in una strana lingua.
+> 
+> Τέτταρες ρίζαι κόσμου,  
+> Δράκων δὲ πνοὴν φλέγει,  
+> Πῦρ καὶ Ἀήρ ταύτῃ  
+> Ταυτοχρόνως πιέσον,  
+> Καὶ πύλην ἀνοίξει.
+
+Four bronze discs set into the wall, each engraved with one Greek word for the four classical elements:
+- Γῆ (Earth)
+- Ὕδωρ (Water)
+- Πῦρ (Fire)
+- Ἀήρ (Air)
+
+La scrittura sulla parete dice:
+> *Quattro radici del mondo,*
+> *Ma il respiro del drago brucia,*
+> *Fuoco e Aria insieme,*
+> *Premili insieme,*
+> *E la porta si aprirà.*
+
+Se il puzzle viene fallito:
+> L'aria si increspa di calore mentre il soffio di un drago invisibile brucia la camera, incenerendo i capelli e bruciando le armature.
+
+All creatures in the room must make a **DC 15 Dexterity saving throw**. On a failed save, a creature takes **4d6 fire damage**.
+
+
+
