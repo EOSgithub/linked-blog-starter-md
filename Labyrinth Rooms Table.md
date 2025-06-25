@@ -80,7 +80,7 @@ Each character can drink once. The spring refills **once per dawn**, so it can�
 
 ---
 ### 6 - The Armory
-> Questa stanza, seminascosta dietro una porta di pietra sfondata, è rivestita di pannelli di bronzo ossidato. Su supporti di metallo, restano alcune reliquie distrutte: vecchi scudi crepati, elmi spaccati, e — in una nicchia al centro — l'unico elemento ancora integro, un compartimento con un’etichetta in una strana lingua.
+> Questa stanza, seminascosta dietro una porta di pietra sfondata. Su supporti di metallo, restano alcune reliquie distrutte: vecchi scudi crepati, elmi spaccati, e — in una nicchia al centro — l'unico elemento ancora integro, un compartimento con un’etichetta in una strana lingua e quattro dischi di bronzo incastonati nel muro.
 > 
 > Τέτταρες ρίζαι κόσμου,  
 > Δράκων δὲ πνοὴν φλέγει,  
