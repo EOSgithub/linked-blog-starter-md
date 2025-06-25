@@ -15,8 +15,8 @@ _Weapon (any), legendary (requires attunement)_
 
 ---
 ***Anathema***
-"*...to the hand that dares... even Olympus... bares its throat...*  
-*...raised by mortal will... to unmake... kings of heaven...*  
-*...not wrought for beasts... but for the end of ages...*  
+*"...not wrought for beasts... but for the end of ages...*  
 *...born of starmetal... fallen through fate... shaped to end what should never die...*  
+*...to the hand that dares... even Olympus... bares its throat...*  
+*...raised by mortal will... to unmake... kings of heaven...*  
 *...Anathema... Anathema... Anathema...*"
