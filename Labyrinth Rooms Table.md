@@ -1,6 +1,3 @@
-# Labyrinth Rooms Table
-
----
 ### 1 - Skeletal Minotaurs
 > Questa stanza presenta un'unica nicchia di marmo con una torcia esausta. Alle pareti sono allineati scaffali di pietra, pieni di ragnatele e teschi umanoidi, mentre il pavimento è coperto da una spessa coltre di polvere. Grandi ossa ingiallite sono sparse intorno a quattro pesanti asce di bronzo sul pavimento.
 
@@ -108,6 +105,11 @@ Se il puzzle viene fallito:
 > L'aria si increspa di calore mentre il soffio di un drago invisibile brucia la camera, incenerendo i capelli e bruciando le armature.
 
 All creatures in the room must make a **DC 15 Dexterity saving throw**. On a failed save, a creature takes **4d6 fire damage**.
+
+Ricompensa:
+**Blood of the Hoplite** x3 – When you drop to 0 HP, you instead drop to 1 HP. (No concentration required. Works once.)
+
+---
 
 
 
