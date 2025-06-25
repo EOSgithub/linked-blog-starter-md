@@ -34,5 +34,5 @@ In order to escape the Labyrinth, the party must meet the victory condition. Typ
 
 If the party reveals a "Monster Card" they gain a point of "Monsters are approaching!" when they have 2 of those points, combat is initiated and the party faces whatever has been tracking them through the Labyrinth. Once they defeat that monster, you remove a monster card in the deck from the game.  
 
-If a Room card is revealed, roll on the Labyrinth Room Table to see which kind of room they find. 
+If a Room card is revealed, roll on the [[Labyrinth Rooms Table]] to see which kind of room they find. 
 

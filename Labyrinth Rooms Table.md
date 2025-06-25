@@ -1,7 +1,7 @@
 ### 1 - Skeletal Minotaurs
 > Questa stanza presenta un'unica nicchia di marmo con una torcia esausta. Alle pareti sono allineati scaffali di pietra, pieni di ragnatele e teschi umanoidi, mentre il pavimento è coperto da una spessa coltre di polvere. Grandi ossa ingiallite sono sparse intorno a quattro pesanti asce di bronzo sul pavimento.
 
-The heroes will only have a short time to move around: 10 seconds after they walk into the room, the bones suddenly begin to twitch and move, forming 4 Minotaur Skeletons, each with one of the bronze axes. They attack immediately and chase through the maze. Soon after this room, as the heroes march on, the party should have one guaranteed quick encounter with Graxis, the Butcher, as detailed in the Tomb of Xander Random Encounters table above.
+The heroes will only have a short time to move around: 10 seconds after they walk into the room, the bones suddenly begin to twitch and move, forming 4 Minotaur Skeletons, each with one of the bronze axes. They attack immediately and chase through the maze.
 
 ---
 ### 2 - False Tomb
@@ -43,7 +43,7 @@ This whole area is a trap, activated when more than or 135kg (or half the party
 <span style="color:rgb(192, 0, 0)">Round 1</span>
 At initiative 20 a portcullis descends in the entrance, cutting off retreats, and can only be raised by a successful DC 30 Strength (Athletics) check; the south wall begins to push forward with a screech of metal against metal. 
 
-> Con un fragore assordante, una grata d’acciaio cala dall’ingresso, sbarrando ogni via di fuga! Subito dopo, un lamento metallico echeggia mentre il muro comincia lentamente ad avanzare, schiacciando tutto ciò che trova! Siete in trappola!
+> Con un fragore assordante, una grata d’acciaio cala dall’ingresso, sbarrando la via di fuga! Subito dopo, un lamento metallico echeggia mentre il muro comincia lentamente ad avanzare, schiacciando tutto ciò che trova! Siete in trappola!
 
 This sound can be recognized if any heroes have previously pulled the lever in the False Tomb (area 20), assuming there has been enough time for the trap to be re-activated, as it should be inactive for 1 hour after pulling the lever once.
 
@@ -102,7 +102,7 @@ La scrittura sulla parete dice:
 > *E la porta si aprirà.*
 
 Se il puzzle viene fallito:
-> L'aria si increspa di calore mentre il soffio di un drago invisibile brucia la camera, incenerendo i capelli e bruciando le armature.
+> L'aria si increspa di calore mentre il soffio di un drago invisibile brucia la camera, incenerendo gli intrusi e bruciando le armature.
 
 All creatures in the room must make a **DC 15 Dexterity saving throw**. On a failed save, a creature takes **4d6 fire damage**.
 
