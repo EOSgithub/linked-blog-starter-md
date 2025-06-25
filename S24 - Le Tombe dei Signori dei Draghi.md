@@ -13,6 +13,7 @@
 *!!! Ricordati il Blessing del Kentimane*
 *!!! Ricordati gli autoesiliati salvati da Phior*
 *!!! Ricordati del mercurio e poison 24h /1d6 dann*i
+*!!! Melek Sopravvissuto*
 
 ---
 ## 3 - TELAMOK ARKELANDER
