@@ -1,15 +1,25 @@
-I precedenti eroi della profezia (i personaggi scorsi che hanno fatto tpk) hanno fallito la loro missione, mettendo a repentaglio il futuro di Thylea.
+### **Capitolo I – La Caduta dei Primi Eletti**
+Ci fu un tempo in cui quattro nomi brillavano nella Profezia.  
+Altri volti. Altri cuori.  
+Ma i loro canti si spensero prima che potessero raggiungereil loro destino.
+Qualcuno dice che fallirono per debolezza.  
+Altri sussurrano che furono **traditi da un gioco più grande di loro**.  
+Quel che è certo è che da quel giorno, il Destino di Thylea è rimasto incompleto.
 
-Uno dei "giocatori" del mondo (Kyrah(Notos) in questo caso) si è messo in moto per trovare un alternativa, questa alternativa sono Kirgios, Phior e Bayle.
+### **Capitolo II – I Prescelti da Nessuna Profezia**
+Kyrah, musa dei poeti, ha infranto le regole.  
+Invece di attendere una nuova Profezia, ha **cercato attivamente** dei campioni.
+In voi ha visto qualcosa di diverso: Volontà. Dubbi. Scelte.
 
-Il gruppo ha dimostrato di essere all'altezza del compito e di essere le persone che Kirah(Notos) stava cercando recuperando il corno sacro di balmytria da un tempio fey nel vecchiobosco.
+E così siete arrivati: **Kirgios, Phior, Bayle**.  
+Senza Destino. Senza Benedizioni. 
 
-Il gruppo ha superato ogni aspettativa ed ha scritto il loro nome nel tessuto del fato di Thylea quando, durante l'investigazione di una citta sotterranea mostruosa (Zark'Ul), hanno sconfitto AE, l'asse della permanenza, un drago che incarnava il periodo di stasi, di pace, in cui il mondo si trovava. 
+📌 Kirah: *"Siete stati scelti non perché perfetti, ma perché liberi. E la libertà è ciò che può cambiare il mondo."*
 
-In questo modo il gruppo è diventato "l'asse del cambiamento", ha spezzato le catene che tenevano Thylea in un destino predeterminato e ciclico e garantito l'arrivo di una nuova era dettata dai loro passi, diventando anche loro "giocatori" e sono ora conosciuti dagli altri "giocatori" (I 5 Dei, Lutheria, Sydon, Oriana, Versi, le Morie etch.)
+### **Capitolo III – Il Corno Perduto di Balmytria**
+Per dimostrare il vostro valore, siete stati mandati nel **Vecchiobosco**, dove antiche forze fey stavano complottando per il controllo del mondo naturale.  
+Lì avete recuperato il **Corno Sacro di Balmytria**, necessario per assistere ad un futuro che neanche l'Oracolo le razze civilizzate contro i Titani.
 
-L'oracolo Versi ha dato una nuova profezia, della quale il gruppo sa solo che, per garantire la sicurezza e la sopravvivenza delle razze civilizzate, il gruppo dovrà recuperare le armi possedute dai primi signori dei draghi, andando a reclamarle dalle loro tombe nella necropoli di Telamok.
-
- Dopo aver attraversato il Sentiero dei Morti e provato sulla loro pelle cosa lo renda così pericoloso sono giunti dinanzi all'abisso che protegge la Necropoli, avete attraversato l'unico ponte rimasto, sorvegliato dal leggendario Damon (lich, mago dei signori dei draghi). Lì, hanno avuto una visione di come egli abbia infranto la legge della mortalità, e dopo avergli pagato un pedaggio, sono finalmente entrati nella città dei morti.
+📌 _Perché importa:_ avete guadagnato la fiducia degli Dei. Avete compiuto ciò che i primi eroi non hanno nemmeno tentato.
 
 
