@@ -166,7 +166,7 @@ As previously stated, the portcullis can be raised and allow the heroes to escap
 > 
 > Sopra di lui è incisa un frase:
 > 
-> RICONOSCI TE STESSO, E PARLA.
+> DIMOSTRA TE STESSO, E PARLA.
 
 This is the only room any party will necessarily encounter before the true sarcophagus of Xander, and it is a simple test of character rather than skill. No enemy should interrupt the heroes once they find their way inside, but there is no way to progress further without properly dealing with the bronze plate that stands before them, depicting Xander himself.
 
