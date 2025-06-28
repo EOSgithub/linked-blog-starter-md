@@ -32,7 +32,7 @@ Every time a player successfully performs an action, mark off on the action tabl
 
 In order to escape the Labyrinth, the party must meet the victory condition. Typically this condition is to reveal 5 Right Path cards.   
 
-If the party reveals a "Monster Card" they gain a point of "Monsters are approaching!" when they have 2 of those points, combat is initiated and the party faces whatever has been tracking them through the Labyrinth. Once they defeat that monster, you remove a monster card in the deck from the game.  
+If the party reveals a "Monster Card" they gain a point of "Monsters are approaching!" when they have 2 of those points, combat is initiated and the party rolls on the [[Labyrinth Encounter Table]]. Once they defeat that encounter, you remove a monster card in the deck from the game.  
 
 If a Room card is revealed, roll on the [[Labyrinth Rooms Table]] to see which kind of room they find. 
 
