@@ -1,4 +1,4 @@
-### 1 - Skeletal Minotaurs
+2### 1 - Skeletal Minotaurs
 > Questa stanza presenta un'unica nicchia di marmo con una torcia esausta. Alle pareti sono allineati scaffali di pietra, pieni di ragnatele e teschi umanoidi, mentre il pavimento è coperto da una spessa coltre di polvere. Grandi ossa ingiallite sono sparse intorno a quattro pesanti asce di bronzo sul pavimento.
 
 The heroes will only have a short time to move around: 10 seconds after they walk into the room, the bones suddenly begin to twitch and move, forming 4 Minotaur Skeletons, each with one of the bronze axes. They attack immediately and chase through the maze.
