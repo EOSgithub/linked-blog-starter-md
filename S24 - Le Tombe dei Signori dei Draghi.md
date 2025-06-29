@@ -240,6 +240,8 @@ The man was the crystallization of the Oath of Peace itself. Phobas chose to car
 
 In the end, the most important consequence of Nicholas’ life came after his death.  Along with the lack of true leadership in the Order, the Dragonlord name faded into history, but this void eventually gave rise to a new organization: the Order of Sydon. Largely inspired by Nicholas’ example as a Dragonlord, they syncretically grew into representatives of Sydon’s will, guardians of the Forgotten Sea and ingrained themselves into Mytros’ politics, contributing to the city-state’s security, growth and military might.
 
+!!! Asterius sputa sulla tomba
+
 <span style="color:rgb(228, 114, 7)">Sarcophagus</span>
 If anyone attempts to open the sarcophagus, they must succeed on a DC 20 Charisma saving throw or trigger a trap:
 
