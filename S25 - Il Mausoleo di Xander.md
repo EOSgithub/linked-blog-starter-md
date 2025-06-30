@@ -73,6 +73,48 @@ Fa un passo avanti.
 
 ---
 
+> “Il mondo non onora i giusti.  
+> Onora i sopravvissuti.”
+
+---
+
+> “Il legame tra un drago e il suo Giurato…  
+> non è una catena.
+
+> È una promessa.”
+
+> “Non si può imporre.  
+> Si guadagna.  
+> Come il rispetto.”
+
+Indica con un cenno l’oscurità della cripta.
+
+> “Damon vi darà una pergamena.  
+> Dentro ci sono i passaggi.
+
+> Se mai…  
+> vorrete far risorgere l’Ordine…
+> quella sarà la chiave.”
+
+---
+
+> “Non ho più la forza di alzare la mia ascia.  
+> Ma vi ho conosciuti.  
+> Vi ho ascoltati.
+
+> E so una cosa…”
+
+Pausa.
+
+> “…non siete come me.
+> E forse, va bene così.”
+
+**Xander** (sussurra)
+
+> “Siate migliori.”
+
+---
+
 Lastly, his general behavior is still dictated by how the heroes approached the test in the Chamber of Supplicants (area 23). If they have degraded themselves and begged for their right to enter his tomb, he will treat them as lesser: he will not truly believe in their resolve or capabilities, especially compared to Commander Gaius, and will have less patience for conversation (though he is never rude to them), more quickly stepping back into his sarcophagus in silence. If they have looked his depiction in the eye and entered with firmness of purpose, it will be the opposite: he will see them as potential equals, in resolve if not in might - yet, and will be more willing to offer some conversion (though, even willingly, he cannot speak for long).
 
 > Qualche tempo fa, un altro uomo ha raggiunto questa tomba, abbastanza potente da sopraffare, da solo, la bestia che avete ucciso. Portava con sé cimeli presi dalle tombe esterne, sostenendo che fosse la sua eredità... Ora ha anche la mia armatura, l'ultimo dei miei tesori.
