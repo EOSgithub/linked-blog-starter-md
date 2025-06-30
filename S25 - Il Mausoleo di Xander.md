@@ -210,7 +210,7 @@ This chamber is lit by a single Everburning Torch, and the pedestals once held
 > Non attende risposta. Graxis batte i pugni a terra e soffia così forte che le pareti della tomba sembrano tremare. Ogni muscolo del vostro corpo si tende mentre la morte si avvicina sotto forma di minotauro incazzato.
 
 <span style="color:rgb(192, 0, 0)">Round 2, Initiative 0</span>
-> Improvvisamente, il coperchio del sarcofago viene scagliato di lato, cadendo pesantemente contro la parete. Senza alcun rumore, un cadavere essiccato emerge dalla tomba, alzando una mano aperta verso il mostro davanti a sé. La grande ascia impugnata con violenza da Graxis sembra improvvisamente saltare e muoversi di propria volontà, sfuggendo dalla sua mano e volando nella presa del primo signore.
+> Improvvisamente, il coperchio del sarcofago viene scagliato di lato, cadendo pesantemente contro la parete. Senza alcun rumore, un cadavere essiccato emerge dalla tomba, alzando una mano aperta verso il mostro davanti a sé. La grande ascia impugnata con violenza da Graxis sembra improvvisamente saltare e muoversi di propria volontà, sfuggendo dalla sua mano e volando nella presa del primo signore dei draghi.
 > 
 > Egli si volta, rivolto verso tutti voi. Poi, curiosamente, cambia la sua presa avvizzita sull'arma e ve ne presenta l'impugnatura.
 
