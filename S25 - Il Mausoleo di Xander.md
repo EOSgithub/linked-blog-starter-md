@@ -46,7 +46,13 @@ This chamber is lit by a single Everburning Torch, and the pedestals once held
 > 
 > Non attende risposta. Graxis batte i pugni a terra e soffia così forte che le pareti della tomba sembrano tremare. Ogni muscolo del vostro corpo si tende mentre la morte si avvicina sotto forma di minotauro incazzato.
 
-<span style="color:rgb(192, 0, 0)">Round 2, Initiative 0</span>
+---
+
+### Envoirmental Effects
+
+
+---
+### <span style="color:rgb(192, 0, 0)">Round 2, Initiative 0</span>
 > Improvvisamente, il coperchio del sarcofago viene scaraventato via, sbattendo pesantemente contro la parete. Senza alcun altro rumore, un cadavere essiccato emerge dalla tomba, alzando una mano aperta verso il minotauro. 
 > 
 > L'enorme ascia impugnata con violenza da Graxis si muove di propria volontà, sfuggendo dalla sua mano e volando nella presa del primo e più grande signore dei draghi.
@@ -78,12 +84,19 @@ Fa un passo avanti.
 
 ---
 
-> “Il legame tra un drago e il suo Giurato…  
-> non è una catena.
+> “Non cercate la gloria.  
+> È più brava a seppellire che a ricordare.”
 
+---
+
+> “Il mio nome appartiene alla cenere.  
+> Voi… potete ancora scegliere a chi appartiene il vostro.”
+
+---
+
+> “Il legame tra un drago e il suo Giurato…  
 > È una promessa.”
 
-> “Non si può imporre.  
 > Si guadagna.  
 > Come il rispetto.”
 
@@ -99,14 +112,12 @@ Indica con un cenno l’oscurità della cripta.
 ---
 
 > “Non ho più la forza di alzare la mia ascia.  
-> Ma vi ho conosciuti.  
-> Vi ho ascoltati.
-
-> E so una cosa…”
+> Ma vi ho conosciuti e vi ho ascoltati.
+> E sono arrivato ad una conclusione…”
 
 Pausa.
 
-> “…non siete come me.
+> “…non sarete mai come me.
 > E forse, va bene così.”
 
 **Xander** (sussurra)
