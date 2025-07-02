@@ -47,7 +47,6 @@ This chamber is lit by a single Everburning Torch, and the pedestals once held
 > Non attende risposta. Graxis batte i pugni a terra e soffia così forte che le pareti della tomba sembrano tremare. Ogni muscolo del vostro corpo si tende mentre la morte si avvicina sotto forma di minotauro incazzato.
 
 ---
-
 ### Envoirmental Effects
 
 
@@ -72,7 +71,7 @@ When Graxis is dead, Xander will speak to the party, but only for a very sho
 > Solo occhi pieni di violenza.  
 > …Mi piace.”
 
-Fa un passo avanti.  
+---
 
 > “Io sono Xander Hourath.  
 > Primo e Ultimo Signore dei Draghi.”
@@ -89,38 +88,19 @@ Fa un passo avanti.
 
 ---
 
-> “Il mio nome appartiene alla cenere.  
-> Voi… potete ancora scegliere a chi appartiene il vostro.”
+> “Il legame tra un drago e il suo Giurato è una promessa.
+> Così come il rispetto, deve essere guadagnata.  
+> Damon vi darà una pergamena.  
+> Se mai vorrete far risorgere l’Ordine… quella sarà la chiave.”
 
 ---
 
-> “Il legame tra un drago e il suo Giurato…  
-> È una promessa.”
-
-> Si guadagna.  
-> Come il rispetto.”
-
-Indica con un cenno l’oscurità della cripta.
-
-> “Damon vi darà una pergamena.  
-> Dentro ci sono i passaggi.
-
-> Se mai…  
-> vorrete far risorgere l’Ordine…
-> quella sarà la chiave.”
-
----
-
-> “Non ho più la forza di alzare la mia ascia.  
+> “Non ho più la forza per brandire la mia ascia e testarvi.  
 > Ma vi ho conosciuti e vi ho ascoltati.
 > E sono arrivato ad una conclusione…”
 
-Pausa.
-
-> “…non sarete mai come me.
+> “…non sarete mai come noi.
 > E forse, va bene così.”
-
-**Xander** (sussurra)
 
 > “Siate migliori.”
 
@@ -128,16 +108,16 @@ Pausa.
 
 Lastly, his general behavior is still dictated by how the heroes approached the test in the Chamber of Supplicants (area 23). If they have degraded themselves and begged for their right to enter his tomb, he will treat them as lesser: he will not truly believe in their resolve or capabilities, especially compared to Commander Gaius, and will have less patience for conversation (though he is never rude to them), more quickly stepping back into his sarcophagus in silence. If they have looked his depiction in the eye and entered with firmness of purpose, it will be the opposite: he will see them as potential equals, in resolve if not in might - yet, and will be more willing to offer some conversion (though, even willingly, he cannot speak for long).
 
-> Qualche tempo fa, un altro uomo ha raggiunto questa tomba, abbastanza potente da sopraffare, da solo, la bestia che avete ucciso. Portava con sé cimeli presi dalle tombe esterne, sostenendo che fosse la sua eredità... Ora ha anche la mia armatura, l'ultimo dei miei tesori.
+> Qualche tempo fa, un altro uomo ha raggiunto questa tomba, abbastanza potente da sopraffare, da solo, la bestia che avete ucciso. Portava con sé cimeli presi dalle tombe esterne, sostenendo che fosse la sua eredità... Ora ha anche la mia armatura, l'ultimo dei miei tre tesori.
 > 
 > Era alto e robusto, con corti capelli neri... il suo mantello portava l'occhio di Sydon.
 
 Eventually, Xander will grow silent, unable to speak further. He will silently grab the lid of his sarcophagus, step inside and drag it back into place.
 
 <span style="color:rgb(255, 192, 0)">Treasure</span>
-This tomb is consecrated, though Xander’s treasures can be taken with his permission. His weapon, the Axe of Xander, might change forms when a hero touches it (if there is a weapon better suited for the one who picks it up, so it could become a xiphos, for example), but only once. 
+This tomb is consecrated, though Xander’s treasures can be taken with his permission. His weapon, the Axe of Xander, might change forms when a hero touches it, but only once. 
 
-It will always, however, be a slightly reworked [Dragon’s Wrath Weapon](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://dnd5e.wikidot.com/wondrous-items:dragons-wrath-weapon%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1749456559015421%26amp;usg%3DAOvVaw3SWbb4tNsKBZypWBDp1JLw&sa=D&source=docs&ust=1749456559103934&usg=AOvVaw0m2TYEVN8LCX-JPSn1iJDG). Xander’s former armor, the Breastplate of Mytros, has been taken by Commander Gaius - who stoically withstood the effects of the curse, taking the item as part of his legacy - and cannot be found here. There are large amounts of gold and silver inside Xander’s sarcophagus, but these cannot be taken; if the heroes ask, however, he will give them a single large diamond worth 300 GP.
+ Xander’s former armor, the Breastplate of Mytros, has been taken by Commander Gaius - who stoically withstood the effects of the curse, taking the item as part of his legacy - and cannot be found here. There are large amounts of gold and silver inside Xander’s sarcophagus, but these cannot be taken; if the heroes ask, however, he will give them a single large diamond worth 300 GP.
 
 Lastly, Graxis’ corpse still holds on to the last of Xander’s treasures, the Shield of Volkan. As the party attempts to take it from the dead body, however, something happens:
 
