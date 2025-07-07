@@ -1,7 +1,5 @@
-**Nome:** Codex Exlex
 **Tipo:** Unico
-**Allineamento:** Neutrale-anomalo
-**Attunement:** Impossibile
+**Attunement:** n/a
 
 *Il Codex Exlex non ha copertina. Non ha inizio, né fine. Si manifesta come una convergenza di concetti. I più lo vedono come un libro.*
 
@@ -22,21 +20,6 @@
 
 ---
 ## ✦ Note trascritti a margine
-
-### Sul Fato e le Moire
-*"Ci osservano come bambini che giocano con formiche sotto vetro.
-Una volta, Lachesi ha sorriso mentre distruggevo un'intera timeline.
-Non perché l'ho fatto, ma perché l'ho fatto 'fuori turno'.
-Se il Fato è un gioco, allora rifiuto le sue regole.
-E se perderò... che almeno sia per colpa mia."*
-
-### Sui Titani, gli Dèi e i Draghi
-*"I Titani sono emozione senza filtro: ambizione, amore, rabbia.
-Gli Dèi sono ordine e compromesso: patti, dogmi, teatro.
-I Draghi…
-Ricordano la libertà prima che qualcuno iniziasse a decidere cos'è giusto.
-Ma nessuno, nemmeno loro, ha mai posto la vera domanda."*
-
 ### Sui Piani e le Dimensioni
 *"Ogni piano è una bugia che ha imparato a credere in se stessa.
 Il Piano Materiale pensa di essere 'reale'.
@@ -46,11 +29,24 @@ Ma io ho camminato tra di loro.
 Ho visto dove finiscono e dove iniziano.
 Non ci sono confini. Solo abitudini."*
 
+### Sul Fato e le Moire
+*"Ci osservano come bambini che giocano con formiche sotto vetro.
+Una volta, Lachesi ha sorriso mentre distruggevo un'intera timeline.
+Se il Fato è un gioco, allora rifiuto le sue regole.
+E se perderò... che almeno sia per colpa mia."*
+
+### Sui Titani, gli Dèi e i Draghi
+*"I Titani sono istinto senza filtro: ambizione, amore, rabbia.
+Gli Dèi sono ordine e compromesso: patti, dogmi, teatro.
+I Draghi…
+Ricordano la libertà prima che qualcuno iniziasse a decidere cos'è giusto.
+Ma nessuno, nemmeno loro, ha mai posto la vera domanda."*
+
 ### Su Voi Tre
 *"Non siete i primi, ma siete i primi che considero.
 Non siete pronti, ma è già troppo tardi.
 Vi guardo e mi chiedo:
-Se vi dessi tutto, vi distruggerebbe… o vi salverebbe?"*
+Se vi dessi tutto, vi distruggerebbe o vi salverebbe?"*
 
 ## Extra
 *"Ho visto Kosmo in innumerevoli versioni diverse.
