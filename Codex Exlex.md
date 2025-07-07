@@ -31,7 +31,7 @@ Non ci sono confini. Solo abitudini."*
 
 ### Sul Fato e le Moire
 *"Ci osservano come bambini che giocano con formiche sotto vetro.
-Una volta, Lachesi ha sorriso mentre distruggevo un'intera timeline.
+Una volta, Lachesi ha sorriso mentre distruggevo un'intera nazione.
 Se il Fato è un gioco, allora rifiuto le sue regole.
 E se perderò... che almeno sia per colpa mia."*
 
@@ -49,12 +49,13 @@ Vi guardo e mi chiedo:
 Se vi dessi tutto, vi distruggerebbe o vi salverebbe?"*
 
 ## Extra
-*"Ho visto Kosmo in innumerevoli versioni diverse.
+*"L'ho visto in innumerevoli versioni diverse.
 In una, ha fermato la guerra prima che iniziasse.
 In un'altra, ha stretto la mano a Lutheria e l'ha amata sinceramente.
 In un'altra ancora... mi ha guardata negli occhi e mi ha detto che ero una codarda.
 E aveva ragione.
-È il più vicino che abbia mai visto al mio stesso cammino.
-Per questo Lutheria l'ha voluto.
-Per questo temo che, in un'altra linea temporale...
-mi abbia già uccisa."*  
+
+*È il più vicino che abbia mai visto al mio stesso cammino.*
+*Per questo Lutheria l'ha voluto.*
+*Per questo temo che, in questa linea temporale...*
+*mi abbia già uccisa."**  

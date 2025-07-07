@@ -16,7 +16,7 @@ His name was... I know he told us his name. I was preparing to write it down. Bu
 
 King Acastus didn't even look up from the ledger he was contemplating. "Another teacher come to instruct us in wisdom? How tedious. Vallus, my dear, perhaps you'd like to debate whatever tired paradox—"
 
-"You're late."
+"You're... late?"
 
 Queen Vallus spoke for the first time in months. Her voice was rust on silver, unused, uncertain. But her grey eyes—those dead things Acastus had made of them—locked onto the young philosopher.
 
