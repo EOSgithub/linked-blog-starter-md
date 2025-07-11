@@ -33,6 +33,8 @@ Time to be practical. Phior was strong, experienced, clearly knew his way around
 
 Look at me, being a hero through creative problem delegation. I was practically a saint.
 
+---
+
 I guided them toward the hilltop overlooking the impact site.
 When the green light blazed overhead like the world's most ominous firework, their conversation died.
 
@@ -50,7 +52,7 @@ But these four? Absolutely magnificent. The dragonborn carved through tentacles 
 
 The battle ended surprisingly quickly. When the creature collapsed, I found myself genuinely impressed.
 
-They'd made cosmic horror look like a Tuesday afternoon inconvenience. Definitely the sort of competent professionals Lutheria would want to know about.
+They'd made the fight look like a Tuesday afternoon inconvenience. Definitely the sort of competent professionals Lutheria would want to know about.
 
 Good thing I wasn't planning to tell her.
 
@@ -78,7 +80,7 @@ Behind me, I heard him call something to his companions—probably the goliath e
 
 Oh good. We were doing names now. That made everything so much easier to ignore.
 
-I put on more speed, using every trick Lutheria had taught me about moving through difficult terrain. Bend branches out of the way, command roots to smooth the path, make the very trees lean aside. 
+I put on more speed, using every trick i knew. Bend branches out of the way, command roots to smooth the path, make the very trees lean aside. 
 
 "Wait!" he called, gaining ground despite my magical assistance. 
 
@@ -92,7 +94,7 @@ Right. Time for a dramatic exit.
 
 I pulled out Lutheria's emergency crystal, grateful for once that my mistress believed in expensive contingencies.
 
-The rift opened silently behind a thick cluster of trees, just out of his line of sight. Perfect.
+The rift opened silently behind a thick cluster of trees, just out of his line of sight.
 
 "Aria?" His voice was farther away now, confused. "Where..."
 
@@ -106,7 +108,5 @@ It deposited me on Lutheria's floating garden with its usual lack of ceremony. I
 When I finally pulled myself together, I finally walked to Lutheria's audience chamber. 
 
 _Mission accomplished. Told Lutheria the threat was eliminated by "aggressive local fauna." She seemed satisfied with this explanation, stupid bitch._
-
-_Phior looked well, clearly thriving in the wider world. I'm genuinely happy for him. He deserves adventures that don't involve manipulative ex-friends using him for their evil master's schemes._
 
 _Note to self: next time fate decides to test my emotional stability, charge extra._
