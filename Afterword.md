@@ -4,11 +4,11 @@ The Deliverer never made noise when he entered—part of his careful, calculated
 
 I set aside the book I'd been reading and rose from my chair by the window. "How did it go?"
 
-He didn't answer immediately. Instead, he closed the door behind him and simply stood there, staring at nothing. His hair was disheveled, his robes wrinkled, and there was something in his eyes I'd never seen before—a hollow, distant look.
+He didn't answer immediately. Instead, he closed the door behind him and simply stood there, staring at nothing. His hair was disheveled, his robes wrinkled.
 
 "It worked," he said finally, his voice barely above a whisper.
 
-But there was no triumph in his tone. No satisfaction. Just bone-deep weariness and something that sounded almost like grief.
+But there was no triumph in his tone. Just bone-deep weariness and something that sounded almost like grief.
 
 "You succeded?"
 
@@ -18,13 +18,13 @@ The way he said it told me everything. This hadn't gone as he'd hoped.
 
 I moved toward him carefully, the way one approaches a wounded animal. Up close, I could see the toll the night had taken. His usually perfect composure had cracked completely, and his eyes held a depth of sorrow that made my chest ache.
 
-"Sit," I said gently, guiding him to the worn armchair by our small fireplace. "Tell me what happened."
+"Sit," I said gently, guiding him to the worn armchair by the small fireplace. "Tell me what happened."
 
 He sank into the chair like a man twice his age. For a moment, he just stared into the dying embers, and I thought he might not answer. Then, quietly, he began to speak.
 
 "She was terrified. At the end, she was so afraid." His voice cracked. "She begged me to stop. Called me a liar. Said I'd promised her freedom, but all I'd given her was death."
 
-I'd never seen him like this. In the months since we'd both found ourselves in Lutheria's service, Cosmo had always been composed, brilliant, absolutely certain in his purpose. Even when discussing the most difficult tasks our mistress set for us, he maintained that calm scholarly demeanor. But now...
+I'd never seen him like this. In the months since we'd both found ourselves in Lutheria's service, he had always been composed, brilliant, absolutely certain in his purpose. Even when discussing the most difficult tasks our mistress set for us, he maintained that calm scholarly demeanor. But now...
 
 "You saved lives," I reminded him, settling onto the small stool beside his chair. "You said yourself—what you prevented would have been catastrophic."
 
@@ -54,7 +54,7 @@ I stood up abruptly, my chair scraping against the floor. The sound made him loo
 
 I could hear him shifting in his chair behind me, but he didn't respond.
 
-"Lutheria sent you when she could have sent Chondrus to do what you did tonight," I continued, measuring out the dried herbs. "Someone who wouldn't have cared about the cost. Someone who wouldn't have hesitated, or shown mercy, or come home looking like their heart had been torn out."
+"Lutheria sent you when she could have sent Chondrus to do what you did tonight," I continued, measuring out the dried herbs. "Someone who wouldn't have cared about the cost. Someone who wouldn't have hesitated, or shown mercy."
 
 "Maybe that would have been better—"
 
@@ -86,11 +86,13 @@ He frowned, clearly struggling to focus through his exhaustion. "You said... you
 
 "I still think it might have been both."
 
-"Maybe. But do you remember what else you said? You said that if we were going to survive this, we'd need to find something worth preserving in ourselves. Something she couldn't take away." I reached out and squeezed his hand. "I found mine. Did you think I was going to abandon it now just because things got difficult?"
+"Maybe. But do you remember what else you said? You said that if we were going to survive this, we'd need to find something worth preserving in ourselves. Something she couldn't take away." 
+
+"I found mine. Did you think I was going to abandon it now just because things got difficult?"
 
 Understanding dawned in his tired eyes.
 
-"Besides," I added with a small smile, "someone needs to make sure you still remember how to be human. And someone needs to make sure you eat properly and sleep occasionally instead of staying up all night planning impossible theorems."
+"Besides," I added with a small smile, "someone needs to make sure you still remember how to be human. And someone needs to make sure you eat properly and sleep occasionally instead of staying up all night planning theorems."
 
 For the first time since he'd walked through the door, he smiled. It was small, tired, but genuine.
 
@@ -100,11 +102,11 @@ For the first time since he'd walked through the door, he smiled. It was small, 
 
 He finished his tea and set the cup aside, then pushed himself up from the chair with obvious effort. At the doorway to his small bedroom, he paused.
 
-"Thank you," he said simply. "For this. For staying."
+"Thank you," he said simply."
 
-"Thank you for coming home," I replied. "Every time."
+"Thank you for coming back," I replied. "Every time."
 
-After he disappeared into his room, I remained by the dying fire for a while longer, thinking about the choices that had brought us here.
+After he disappeared into his room, I remained by the dying fire for a while longer.
 
 In the morning, Cosmo would put his mask back on. He would be brilliant and focused and terrifyingly capable again. But tonight, for just a few hours, he had been allowed to be human.
 
