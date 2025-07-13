@@ -109,7 +109,7 @@ These fissures pulse with malevolent necromantic energy.
 1. **Mechanic: Corrupting Veins:** There are visible glowing green cracks across the floor. Any creature (except Graxis) that starts its turn on a crack takes **2d6 necrotic damage**. If Graxis starts his turn on a crack, he regains **1d8 hit points** due to his cursed connection to the tomb's necromantic energies.
 
 ---
-### <span style="color:rgb(192, 0, 0)">Round 2, Initiative 0</span>
+### <span style="color:rgb(192, 0, 0)">Round 3, Initiative 0</span>
 > Improvvisamente, il coperchio del sarcofago viene scaraventato via, sbattendo pesantemente contro la parete. Senza alcun altro rumore, un cadavere essiccato emerge dalla tomba, alzando una mano aperta verso il minotauro. 
 > 
 > L'enorme ascia impugnata con violenza da Graxis si muove di propria volontà, sfuggendo dalla sua mano e volando nella presa del primo e più grande signore dei draghi.
