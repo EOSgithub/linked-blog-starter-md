@@ -1,51 +1,49 @@
 _From the observations of Damon, Guardian of Telamok_
 
-The young man had waited three hours at the bridge's edge. When I materialized beside him, his smile held no surprise, only friendly satisfaction.
+The young man had been waiting patiently for hours, reading a book on the bridge. When I materialized beside him, he turned with a smile that seemed genuinely pleased rather than surprised.
 
-"Guardian." He bowed. "Thank you for hearing me."
+"Guardian," he said with careful respect. "Thank you for hearing me out."
 
-I gestured: _Speak._
+I gestured inquiringly. He could speak freely—the dead were excellent listeners after all.
 
-"The Eighth Configuration nears completion. But I need expertise in... transitions. Between life and what lies beyond."
+"I've come about my work: the Eighth Configuration, it's nearly complete, but requires... expertise in transitions. Between life and what lies beyond. And who better to ask than you?"
 
-Geometric burn scars webbed his skin like calculated wounds. I glanced down—no shadow followed him. Interesting.
+I tilted my head, studying him more closely. There was something unusual about this one— scar patterns burned into his skin in precise lines. And his shadow... I looked down, then around him. No shadow at all. Curious.
 
-"Its purpose is freedom," he continued. "From predetermined fate. From divine whim."
+"The theory is sound," he continued. "Freedom from predetermined fate, from divine whim."
 
-I crossed my arms, shook my head. Those days were behind me.
+I crossed my arms and shook my head slowly. My days of glory were decidedly concluded.
 
-"I understand." His voice softened. "You've seen what happens when mortals reshape the order of things. But what if this time the price isn't war? What if freedom came through understanding, not conquest?"
+"I understand your reluctance," he said quietly. "You've seen what happens when mortals try to reshape the order of things. But what if the price this time isn't war? What if freedom could be achieved through understanding rather than conquest?"
 
-I drew a finger across my throat. _No more interventions._ My oath was to the dead alone.
+I pointed to myself, then made a cutting gesture across my throat. No more adjustments. My oath was to guard the dead, nothing more.
 
-"The dead you guard died for a temporary peace," he countered. "This could bring lasting freedom. For every mortal who never chose the gods and titans that rule them."
+"The dead you guard died for an oath that brought a temporary peace," he replied. "This could bring everlasting freedom. To every mortal who's ever wondered why their fate was decided by beings they never chose to serve."
 
-Movement caught our attention—a mythrall dragon, silver-blue scales glinting, creeping along the bridge's shadow.
+"Excuse me," came a voice from behind us, slightly breathless from their recent trials. "Sorry to interrupt."
 
-"Your friend seems curious," the Deliverer noted, amused. "No need to hide."
+---
 
-The dragon froze, caught too far away to have heard anything useful.
+The young man turned toward the approaching party with genuine courtesy. "Not an interruption at all. Well met."
 
-"And here come the others."
+"And you are?" Bayle asked, his professional wariness evident but polite.
 
-The chaotic group of adveturers approached, battered but triumphant from the trial of the tombs.
+"I go by the Deliverer these days," the young man replied with a self-deprecating smile. "I realize how that sounds—quite ominous, really. I don't fault you for any suspicion. I'm here researching some rather obscure knowledge, hoping to convince our friend Damon to assist with a project."
 
-"Good afternoon." The Deliverer bowed deeply. "Forgive any alarm. I was merely seeking your guardian's wisdom."
+"What kind of project?" Asterius asked with his usual cheerful curiosity.
 
-"And you are?" Bayle's professional wariness sharpened his tone.
+The Deliverer started to respond, then stopped mid-sentence, his attention suddenly fixed on Asterius. I watched as something flickered across his face—recognition.
 
-"The Deliverer, these days." Self-deprecation touched his smile. "Ominous title, I know. Can't fault the suspicion."
+"I... forgive me," he said, visibly collecting himself with scholarly embarrassment. "You reminded me of something quite unexpected. Where are my manners?"
 
-"What were you discussing?" Asterius asked.
+I realized what he was seeing. 
+Interesting that this "Deliverer" could perceive it.
 
-The Deliverer began to answer, then stopped cold. His gaze fixed on Asterius with sudden, unmistakable recognition. His scarred hands trembled.
+"No offense taken." Asterius replied with his usual good humor.
 
-"I... forgive me." He recovered poorly. "You reminded me of something... unexpected."
+The Deliverer turned back to me. "Well, Guardian, I've presented my case as best I can. The offer remains open, naturally."
 
-Whatever he'd seen, he buried it quickly.
+He addressed the party with genuine warmth. "It's been delightful meeting you all. Please, take care of each other—and of our guardian here."
 
-Turning back to me: "Well, Guardian, my offer stands."
-
-To the party, with genuine warmth: "Delightful meeting you all. Take care of each other—and of him."
-
-He crossed the bridge with measured calm, leaving questions in his wake.
+With that, he unhurriedly walked away.
+What a strange man.
