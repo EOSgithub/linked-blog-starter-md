@@ -46,4 +46,5 @@ The Deliverer turned back to me. "Well, Guardian, I've presented my case as best
 He addressed the party with genuine warmth. "It's been delightful meeting you all. Please, take care of each other—and of our guardian here."
 
 With that, he unhurriedly walked away.
+
 What a strange man.
