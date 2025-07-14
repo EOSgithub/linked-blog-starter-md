@@ -217,4 +217,4 @@ N stiiji xqtbqd. "Djx, Dtzw Rfojxyd. N zsijwxyfsi htruqjyjqd."
 Gzy fx rd xydqzx rtaji fhwtxx ymj ufwhmrjsy bwnynsl ymj xfsnyneji tkknhnfq ajwxnts, N ktzsi rdxjqk htrujqqji yt fii ymnx ywzym ns rd tbs infwd, ns ymj tqi hnumjw rd rfxyjw mfi yfzlmy rj.
 
 _—Aenor, Royal Scribe of Mytros  
-Written in Caesar5 cipher, by candlelight_
+Written in Caesar10 cipher_
