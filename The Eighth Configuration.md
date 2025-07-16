@@ -24,7 +24,7 @@ Another one. Another sage come to lecture King Acastus on virtue, on restraint, 
 
 This one seemed barely out of the Academy. Mid-twenties at most, with the gentle bearing of someone who'd spent more time with books than blades.
 
-I prepared my stylus to record another brief audience, another dismissal, another philosopher sent away with royal mockery ringing in his ears. 
+I prepared my stylus to record another brief audience, another dismissal, another philosopher sent away with royal mockery ringing in his ears.
 
 My eyes drifted, as they often did, to Queen Vallus on her throne—once the Goddess of Wisdom, now little more than a beautiful ornament. These past months she'd become silent, dressed in sunset silks that Acastus chose for her. The court whispered that she hadn't spoken at council in half a year.
 
@@ -32,15 +32,17 @@ A goddess reduced to decoration. It should have been tragic, but it had become s
 
 "Your Majesty," the young philosopher said, bowing with perfect courtesy. "Your Radiance." He straightened. "I bring a plan to save Thylea."
 
-His name was... I know he told us his name. I was preparing to write it down. But now, trying to recall, I find only a gap where memory should be.
+King Acastus barely glanced up from a tax ledger. "Another teacher come to save us all? How tedious. What is it this time—virtue? Justice? The proper—"
 
-King Acastus barely glanced up from his wine. "Another teacher come to save us all? How tedious. What is it this time—virtue? Justice? The proper—"
+"You..."
 
-"You..." {{This scene should be monumental for the scribe, he tought that vallus couldnt speak anymore and was nothing more then a broken toy, when vallus speaks the rust on her soul receding changes tha atmosphere in the room, even the king acastus is surprised}}
+The single word struck the throne room like a thunderclap.
 
-Queen Vallus spoke for the first time in months. Her voice was rusty, uncertain. But her grey eyes—those deliberately dimmed lights—locked onto the young philosopher with sudden recognition.
+Queen Vallus had spoken for the first time in months. I dropped my stylus—the sound echoing in the sudden, profound silence.
 
-"I've been dreaming of you," she whispered, her hands trembled. 
+Even King Acastus froze, a goblet halfway to his lips, staring at his wife with something between hope and disbelief.
+
+"I've been dreaming of you," she whispered.
 
 The philosopher's expression softened with genuine sorrow. "I pray not, Radiance. But yes—I am the one who will ask terrible things of you."
 
@@ -48,7 +50,9 @@ Acastus set down his cup with deliberate force. "And who exactly do you think yo
 
 The philosopher's voice remained respectful. "I mean no disrespect. But time grows short, and pleasant courtesies won't save Mytros from what's coming."
 
-"What's coming?" Vallus leaned forward. {{Second time vallus speaks, something is wrong}}
+"What's coming?"
+
+Vallus leaned forward as she spoke again, and suddenly I couldn't remember why I'd been so certain about... what had I been certain about? The date? The king's wine preference? My own name? Simple facts that had been solid moments before now felt slippery, unreliable.
 
 That's when I noticed his shadow was wrong. It moved independently, sketching shapes in the air that hurt to look at directly.
 
@@ -56,11 +60,11 @@ That's when I noticed his shadow was wrong. It moved independently, sketching sh
 
 "Enough riddles," Acastus snapped, rising from his throne. "Guards—"
 
-The guards took one step forward, then froze. 
+The guards took one step forward, then froze. Acastus himself stopped mid-stride.
 
-"A simple binding," the philosopher said calmly. "They'll recover once we've finished our business."
+"A simple binding," the philosopher said calmly. "You'll all recover once we've finished our business."
 
-Vallus studied him with growing intensity. "You're not from the Academy. Where did you learn to... "weave" spells like this?"
+Vallus studied him with growing intensity. "You're not from the Academy. Where did you learn to... weave spells like this?"
 
 "I learned by seeking answers no man should."
 
@@ -74,7 +78,7 @@ Vallus went pale. "That's... that's what the pressure is. What I've been feeling
 
 "Every day. Growing stronger. I thought it was guilt, but..." She looked at the pattern spreading across the floor. "Show me. Show me what I've done."
 
-"Vallus—" Acastus stepped toward her, but found himself stopped.
+"Vallus—" Acastus tried to step toward her, but found himself stopped.
 
 "I need to see this. I need to understand what my selfishness has wrought."
 
@@ -90,7 +94,7 @@ The philosopher nodded and continued his work. The symbols began to glow faintly
 
 A pause. "Then you'll be free."
 
-Acastus hammered against his invisible prison. "What does that mean?"
+Acastus struggled against the binding that held him in place. "What does that mean?"
 
 "It means she'll transcend the artificial limits she's imposed on herself. Return to what she should be."
 
@@ -98,23 +102,27 @@ Acastus hammered against his invisible prison. "What does that mean?"
 
 The philosopher met his eyes sadly. "Or she'll be reduced to pure concept. Perfectly understood, and therefore... no longer needing to exist."
 
-"Release me!" Acastus roared. "You won't touch her!"
+"Release me!" Acastus demanded, his voice tight with the strain of fighting against the binding. "You won't touch her!"
 
 "There has to be another way..." Vallus said.
 
-"There isn't." The philosopher's composure cracked slightly. "Do you think I wanted this? To force feed a goddes her discarded divinity? I tried finding another solution this is what works."
+"There isn't." The philosopher's composure cracked slightly. "Do you think I wanted this? To force-feed a goddess her discarded divinity? I tried finding another solution—this is what works."
 
 "Why?" Vallus knelt beside the nearly complete pattern. "Why are you proposing this?"
 
-The philosopher looked at her with infinite sadness. "Because i don't want to see mortal life extinguished by divine hubris you represent."
+The philosopher looked at her with infinite sadness. "Because I don't want to see mortal life extinguished by the divine hubris you represent."
 
-Vallus placed her hand over the central symbol. The marble beneath her palm began to glow like captured starlight. "Then let's begin."
+For a long moment, no one moved. The Configuration lay between them, half-complete and pulsing with potential. Acastus stood frozen like a statue, his eyes the only part of him that could express his horror. The guards remained locked in their interrupted step forward. Even the air seemed to hold its breath.
 
-The moment her skin touched the Configuration, warmth flooded through her. For the first time in thirteen years, she looked... complete. 
+Vallus stared down at the intricate pattern, her fingers hovering just above the central symbol. I could see the war playing out across her features—duty against love, wisdom against desire, goddess against woman.
+
+Finally, she placed her hand over the central symbol. The marble beneath her palm began to glow like captured starlight. "Then let's begin."
+
+The moment her skin touched the Configuration, warmth flooded through her. For the first time in thirteen years, she looked... complete.
 
 "Oh, this is... I can feel it all coming back. My wisdom, my sight, my connection to—"
 
-The Philosopher watched with genuine hope in his expression. "The pressure is equalizing. The suppressed divinity is finding proper outlet. If this works—"
+The philosopher watched with genuine hope in his expression. "The pressure is equalizing. The suppressed divinity is finding proper outlet. If this works—"
 
 "Wait," she said. "Something's wrong. It's—"
 
@@ -126,15 +134,16 @@ Her left hand began to dissolve, the flesh becoming translucent and insubstantia
 
 Vallus was half-gone now, her torso dissolving into wisps of fading light. She fought against it, trying to hold herself together through sheer will.
 
-"Stop this!" she pleaded, her voice growing weaker. 
+"Stop this!" she pleaded, her voice growing weaker.
 
-Only her face remained now. Her eyes found the young man, wide with terror and betrayal. "You lied to me," she whispered. "You said I'd be free. This isn't freedom. This isn't Death. This is Oblivion."
+Only her face remained now. Her eyes found the young man, wide with terror and betrayal. "You lied to me," she whispered. "You said I'd be free. This isn't freedom. This isn't death. This is oblivion."
 
 For just a moment, the young man's careful composure cracked. I saw something flicker across his face—regret, perhaps even horror at what he was witnessing. His hands trembled almost imperceptibly.
 
-Then his gaze shifted to Acastus, still trapped behind the force barrier. The youn Philosopher's fingers moved slightly, tracing what looked like nervous gestures in the air. But I caught the subtle pattern—arcane symbols, barely visible, sketched with the tiniest movements.
+Then his gaze shifted to Acastus, still frozen in place like the guards. The young philosopher's fingers moved slightly, tracing what looked like nervous gestures in the air. But I caught the subtle pattern—arcane symbols, barely visible, sketched with the tiniest movements.
 
-The barrier around Acastus flickered, just for an instant.
+The binding around Acastus flickered, just for an instant.
+
 That's when Acastus broke free.
 
 The King drove his armored fist directly into the heart of the Configuration with all the fury of a man who had nearly lost everything. The pattern convulsed, its perfect balance shattered by the introduction of a new variable.
@@ -155,7 +164,7 @@ The Configuration seized upon whatever he had given it and more. As the light di
 
 He straightened, and when he flexed his fingers, no shadow fell behind them. Where his name had been, only a title remained: the Deliverer.
 
-"It's done," he said, "The pressure is released. Mytros is safe."
+"It's done," he said. "The pressure is released. Mytros is safe."
 
 Vallus struggled to sit up in Acastus's arms, and when she looked at the man, her expression was pure fury.
 
@@ -193,8 +202,9 @@ The Deliverer didn't dodge. He caught the blade barehanded. But he made no move 
 
 "He used you! He nearly killed you!"
 
-"Yes, he did." She looked at the Deliverer with eyes that held terrible understanding. 
-{{The scribe wanders what has the godly eyes of Vallus of Wisdom have seen and understood? what truth could make her change tune so fast? Mortal minds like his does not comprehend.}}
+"Yes, he did." She looked at the Deliverer with eyes that held terrible understanding.
+
+I watched in confusion as her anger transformed into something else—not forgiveness, but a recognition that chilled me to the bone. What had those godly eyes seen? What truth could make the Goddess of Wisdom change her tune so completely? My mortal mind could not comprehend the vast calculations taking place behind her grey stare, the patterns and possibilities that divine wisdom could perceive in an instant.
 
 The Deliverer released Acastus's blade and stepped back, his bloodied hand hanging at his side. "I'm sorry, Radiance. Truly. You deserved a kinder fate."
 
@@ -212,7 +222,7 @@ And then he was gone, walking into the corridor beyond with measured steps, cast
 
 The throne room fell silent save for Vallus's labored breathing.
 
-Acastus knelt beside his wife, studying the pale scars that now decorated her skin. 
+Acastus knelt beside his wife, studying the pale scars that now decorated her skin.
 
 _—Aenor, Royal Scribe of Mytros  
 Written in cipher, by candlelight_
