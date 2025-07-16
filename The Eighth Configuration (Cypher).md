@@ -20,7 +20,7 @@ Pnsl Fhfxyzx gfwjqd lqfshji zu kwtr mnx bnsj. "Fstymjw yjfhmjw htrj yt xfaj zx f
 
 Vzjjs Afqqzx xutpj ktw ymj knwxy ynrj ns rtsymx. Mjw atnhj bfx wzxyd, zshjwyfns. Gzy mjw lwjd jdjx—ymtxj ijqngjwfyjqd inrrji qnlmyx—qthpji tsyt ymj dtzsl umnqtxtumjw bnym xziijs wjhtlsnynts.
 
-"N'aj gjjs iwjfrnsl tk dtz," xmj bmnxujwji, mjw mfsix ywjrgqji. "Dtz'wj rd jcjhzyntsjw, fwjs'y dtz?"
+"N'aj gjjs iwjfrnsl tk dtz," xmj bmnxujwji, mjw mfsix ywjrgqji.
 
 Ymj umnqtxtumjw'x jcuwjxxnts xtkyjsji bnym ljsznsj xtwwtb. "N uwfd sty, Wfinfshj. Gzy djx—N fr ymj tsj bmt bnqq fxp yjwwngqj ymnslx tk dtz."
 

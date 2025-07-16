@@ -1,5 +1,23 @@
 _As witnessed by Aenor, Royal Scribe of Mytros_
 
+I found my voice for the first time since... this... begun. "Your Majesties... what should I record?"
+
+Acastus looked at me with eyes that told me he forgot about my presence util now. "You'll write that a philosopher came seeking audience. That he made wild claims. That his theories were rejected and he was dismissed." His voice hardened. "Nothing more."
+
+"But Your Majesty, what actually—"
+
+"Nothing more, Aenor." The command was absolute. "Vallus was never in danger. A madman came with ravings, and we sent him away. That is what happened. That is what you will record."
+
+The official record would be a lie.
+
+"Do you understand me, scribe?"
+
+I nodded slowly. "Yes, Your Majesty. I understand completely."
+
+But as my stylus moved across the parchment writing the sanitized official version, I found myself compelled to add this truth in my own diary, in the old cipher my master had taught me.
+
+---
+
 When the philosopher entered the throne hall, I nearly laughed.
 
 Another one. Another sage come to lecture King Acastus on virtue, on restraint, on the proper ordering of the polis.
@@ -20,7 +38,7 @@ King Acastus barely glanced up from his wine. "Another teacher come to save us a
 
 Queen Vallus spoke for the first time in months. Her voice was rusty, uncertain. But her grey eyes—those deliberately dimmed lights—locked onto the young philosopher with sudden recognition.
 
-"I've been dreaming of you," she whispered, her hands trembled. "You're my executioner, aren't you?"
+"I've been dreaming of you," she whispered, her hands trembled. 
 
 The philosopher's expression softened with genuine sorrow. "I pray not, Radiance. But yes—I am the one who will ask terrible things of you."
 
@@ -62,7 +80,7 @@ The philosopher nodded and continued his work. The symbols began to glow faintly
 
 "The Eighth Configuration," he said as he drew. "A proof that divinity itself follows rules. And once you understand the rules..."
 
-"You can control them," Vallus breathed. "Or redirect them. What do you need from me?"
+"You can control them," Vallus breathed. "Or play around them. What do you need from me?"
 
 "I need you to be the catalyst. To willingly engage with your suppressed nature and channel it through the Configuration."
 
@@ -192,29 +210,7 @@ At the threshold, the Deliverer paused.
 And then he was gone, walking into the corridor beyond with measured steps, casting no shadow.
 
 The throne room fell silent save for Vallus's labored breathing.
-Acastus knelt beside his wife, studying the pale scars that now decorated her skin. "How do you feel?"
-
-"Like I've been hollowed out," she whispered. 
-
-"We'll find a way—"
-
-"No." Her voice was firm despite its weakness. "This is what I chose. Not the method, but the outcome. I wanted to be free of the burden. I just... didn't expect it to feel like losing pieces of my soul."
-
-I found my voice for the first time since... this... begun. "Your Majesties... what should I record?"
-
-Acastus looked at me with eyes that told me he forgot about my presence util now. "You'll write that a philosopher came seeking audience. That he made wild claims. That his theories were rejected and he was dismissed." His voice hardened. "Nothing more."
-
-"But Your Majesty, what actually—"
-
-"Nothing more, Aenor." The command was absolute. "Vallus was never in danger. No sorcery was performed. A madman came with ravings about the end of the world, and we sent him away. That is what happened. That is what you will record."
-
-The official record would be a lie.
-
-"Do you understand me, scribe?"
-
-I nodded slowly. "Yes, Your Majesty. I understand completely."
-
-But as my stylus moved across the parchment writing the sanitized official version, I found myself compelled to add this truth in my own diary, in the old cipher my master had taught me.
+Acastus knelt beside his wife, studying the pale scars that now decorated her skin. 
 
 _—Aenor, Royal Scribe of Mytros  
 Written in cipher, by candlelight_
