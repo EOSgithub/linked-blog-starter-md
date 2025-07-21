@@ -3,11 +3,12 @@ Lutheria's instructions were typically unhelpful:
 
 _"Go to the Old Woods. There, the star-born wretch shall announce itself. Let that utterance be the tolling of its doom. Cleanse it. Thylea shall suffer no trespass."_
 
-Right. And then she'd added, almost as an afterthought, something about ensuring "the egg" didn't fall into mortal hands. Because apparently cleanup was part of my job description now.
+Right. And then she'd added, almost as an afterthought, something about ensuring the spooky metal didn't fall into mortal hands. Because apparently cleanup was part of my job description now.
 
-Thankfully the green light glinting across the night sky was certainly easy to spot. Points for style, mysterious space horror.
+Thankfully the green light glinting across the night sky was certainly easy to spot. 
+Points for style, mysterious space horror-san.
 
-I had hours before impact and absolutely no idea how one ex-bard with abandonment issues was supposed to eliminate whatever was about to crater the Old Woods. My skill set included witty commentary, emotional damage, and making trees do things. Not exactly "alien extermination" material.
+I had hours before impact and absolutely no idea how one ex-bard with abandonment issues was supposed to eliminate whatever was about to crater the Old Woods. My skill set included witty commentary, emotional damage, and making trees do things. Not exactly "extermination" material.
 
 Then I heard voices through the trees. Four travelers, chatting like they owned the place.
 
@@ -19,9 +20,9 @@ I began weaving subtle magic—fallen logs developing sudden opinions about opti
 ### Through Different Eyes (2/5)
 Getting close enough to assess my future problem-solvers took an hour of professional lurking.
 
-Seasoned fighters with expensive gear—exactly the sort who could handle whatever was about to crawl out of space and ruin everyone's evening.
+Seasoned fighters with expensive gear—exactly the sort who could handle whatever was about to ruin everyone's evening.
 
-Then the massive one turned, and the universe decided to play its favorite game: "Let's Make My Life Complicated."
+Then the big one turned, and the universe decided to play its favorite game: "Let's Make My Life Complicated."
 
 Oh, you have _got_ to be kidding me.
 
@@ -29,22 +30,22 @@ Phior. The giant from that mountain village I used to escape to when Academy lif
 
 "There you go, little one," he murmured to a rabbit.
 
-Of course he was still doing that. Of course he was still the kindest person in all of Thylea. And of course fate had decided that of all the competent fighters wandering around tonight, I'd stumble across the one person who'd actually cared about me.
+Of course he was still doing that. Of course he was still the kind. And of course fate had decided that of all the competent fighters wandering around tonight, I'd stumble across the one person who'd actually cared about me.
 
-But that green light was getting brighter, which meant I couldn't indulge in a proper spiral of self-pity right now. Priorities, .
+But that green light was getting brighter, which meant I couldn't indulge in a proper spiral of self-pity right now. Priorities, priorities.
 
-Fine. Phior was strong, experienced, clearly knew his way around trouble. He could handle whatever was coming. Really, manipulating him into saving the forest was probably the most altruistic thing I'd done since joining Team Titaness.
+Fine. They seemed strong, experienced, clearly knew his way around trouble. They could handle whatever was coming. Really, manipulating them into saving the forest was probably the most altruistic thing I'd done since joining Team Titaness.
 
-Look at me, being a hero through creative delegation. Lutheria would be so proud. (She wouldn't.)
+Look at me, being a hero through creative delegation.
 
----
-### Through Different Eyes (3/5)
 I guided them toward the hilltop overlooking the impact site. When the green light blazed overhead like the world's pretties jewel, their conversation died.
 
 "Could be valuable," suggested the minotaur cheerfully. "A real gem of an opportunity!"
 
 I had to respect anyone who committed to terrible puns in the face of probable death. That took dedication.
 
+---
+### Through Different Eyes (3/5)
 The soothsayer that unfolded from the wreckage looked exactly as advertised—tentacles writhing with disturbing enthusiasm while its flame head tried to make everyone question their life choices. Definitely not something you'd want to face alone armed with cantrips and crippling student debt.
 
 But these four? They made it look like a choreographed dance recital. The dragonblood carved through the creature with professional efficiency—
@@ -53,7 +54,7 @@ Wait. _Wait._
 
 When he scored a hit, I caught it—the telltale glint of gold spreading across the skin where his blood splattered. Just for a moment before it receded, but unmistakable if you knew what to look for.
 
-So the cursed one still lived. Huh. Helios had some explaining to do. Last I'd heard, the Sun Dragon's little "gift" to the Midas bloodline was supposed to have died out generations ago. Apparently someone missed a branch on that family tree.
+So the Cursed One still lived. Huh. Helios had some explaining to do. Last I'd heard, the Sun Dragon's little "gift" to the Midas bloodline was supposed to have died out generations ago. Apparently someone missed a branch on that family tree.
 
 The minotaur's strikes stunned, the tiefling wove fire magic that carried traces of something familiar (and wasn't _that_ interesting), and Phior transformed into the world's most determined bear. Because of course he did.
 
@@ -76,7 +77,7 @@ Only Phior turned toward the sound. Because of course his hearing was still anno
 
 Recognition hit his face like sunrise breaking through storm clouds, followed immediately by something that looked suspiciously like joy. He took a step forward, one hand extended in that universal gesture of "please don't run away, I just want to help."
 
-Yeah, no. That was my cue to leave.
+Yeah, nope. That was my cue to leave.
 
 I turned and bolted like my shoes were on fire and my past was chasing me. Which, technically, it was.
 
@@ -102,10 +103,9 @@ I pulled out Lutheria's emergency crystal, grateful for once that my mistress be
 
 I caught a glimpse of his massive silhouette moving carefully through the undergrowth. Still looking. Still being the good person I'd never deserved to know.
 
-"Sorry," I whispered to the empty air, then stepped through the rift before I could do something truly stupid like stay.
+"Sorry," I whispered to the empty air, then stepped through the rift before I could do something truly stupid, like staying.
 
 ---
-
 ### Through Different Eyes (5/5)
 The floating garden received me with its usual lack of ceremony or sympathy. After a proper breakdown in private (because even titaness minions needed their cry time), I walked to Lutheria's audience chamber and gave my report:
 
@@ -113,10 +113,9 @@ _"Mission accomplished. The threat was eliminated by aggressive local fauna. The
 
 All technically true. I'd made sure it was removed from the site, hadn't I? Just... not by me. And not to where Lutheria probably assumed it would go. But she hadn't asked about specifics, and I couldn't lie even if I wanted to.
 
-She seemed satisfied with this explanation, though her smile suggested she found something amusing. Probably thought I was being thorough.
+She seemed satisfied with this explanation, though her smile suggested she found something amusing. Probably thought I was being thorough. Stupid narcisistic bitch.
 
 Well, let her think that. Those four heroes now carried weapons that could actually hurt a titaness, and they didn't even know it yet. My little gift to Phior and his friends—the only help I could give without breaking my pact.
 
-Maybe by the time Mytros burned, they'd have figured out what they were carrying. Maybe they'd even get a chance to use it.
-
-(Look at me, playing the long game. Lutheria taught me well. Perhaps too well.)
+Maybe by the time Mytros burned, they'd have figured out what they were carrying. 
+Maybe they'd even get a chance to use it.
