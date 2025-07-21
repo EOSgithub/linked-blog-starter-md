@@ -11,6 +11,8 @@ Perfect. Sometimes the best solutions involved other people doing your job for y
 I began weaving subtle magic—fallen logs developing sudden opinions about optimal placement, roots deciding certain paths were more fashionable. The kind of manipulation that felt like happy little coincidences. 
 
 ---
+---
+---
 
 Getting close enough to assess my future problem-solvers took an hour of professional lurking. When I finally got a good look, I nodded approvingly. Seasoned fighters with expensive gear—exactly the sort who could handle whatever was about to crawl out of space and ruin everyone's evening.
 
@@ -33,6 +35,8 @@ Time to be practical. Phior was strong, experienced, clearly knew his way around
 Look at me, being a hero through creative problem delegation. I was practically a saint.
 
 ---
+---
+---
 
 I guided them toward the hilltop overlooking the impact site.
 When the green light blazed overhead like the world's most ominous firework, their conversation died.
@@ -47,7 +51,7 @@ The soothsayer of Caiphon that unfolded from the wreckage looked just like i ima
 
 Definitely not something you'd want to face alone armed with cantrips and crippling student debt.
 
-But these four? Absolutely magnificent. The dragonborn carved through tentacles with professional efficiency, the minotaur struck with stunning blows precision, the tiefling wove fire spells that actually hurt, and Phior transformed into the world's largest, most determined bear. 
+But these four? Absolutely magnificent. The dragonblood carved through the creature with professional efficiency, the minotaur struck with stunning blows, the tiefling wove fire spells that actually hurt, and Phior transformed into the world's largest, most determined bear. 
 
 The battle ended surprisingly quickly. When the creature collapsed, I found myself genuinely impressed.
 
@@ -56,8 +60,10 @@ They'd made the fight look like a Tuesday afternoon inconvenience. Definitely th
 Good thing I wasn't planning to tell her.
 
 ---
+---
+---
 
-"Everyone breathing?" Phior asked simply, shifting back to his normal massive self.
+"Everyone ok?" Phior asked simply.
 
 Mission accomplished with style. I was clearly a strategic mastermind.
 Which naturally meant I immediately did something stupid.
@@ -102,10 +108,13 @@ I took one last look through the trees toward where I could hear him searching, 
 "Sorry," I whispered to the empty air, then stepped through the rift.
 
 ---
+---
+---
 
 It deposited me on Lutheria's floating garden with its usual lack of ceremony. I sat there for a while, letting myself have a proper breakdown in private. 
-When I finally pulled myself together, I finally walked to Lutheria's audience chamber. 
 
-_Mission accomplished. Told Lutheria the threat was eliminated by "aggressive local fauna." She seemed satisfied with this explanation, stupid bitch._
+When I finally pulled myself together, I finally walked to Lutheria's audience chamber and gave my report. 
 
-_Note to self: next time fate decides to test my emotional stability, charge extra._
+_"Mission accomplished: The threat was eliminated by aggressive local fauna."_
+
+She seemed satisfied with this explanation, stupid bitch.
