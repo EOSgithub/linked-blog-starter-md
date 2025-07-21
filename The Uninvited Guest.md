@@ -1,11 +1,10 @@
-The obsidian mirror showed me my objective.
 Lutheria's instructions were typically helpful: "Wait for the uninvited pest to announce itself."
 
-The green light streaking across the night sky was definitely making an entrance. And judging by how it made my teeth itch just looking at it, probably not here to sell encyclopedias.
+The green light streaking across the night sky was definitely making an entrance. 
 
 I had a couple hours before impact and absolutely no idea how one ex-bard with abandonment issues was supposed to eliminate whatever was about to crater the Old woods. 
 
-Then I heard voices through the trees and grinned. Four travelers, chatting like they owned the place. Blissfully unaware they were about to become my unwitting cleanup crew.
+Then I heard voices through the trees and grinned. Four travelers, chatting like they owned the place.
 
 Perfect. Sometimes the best solutions involved other people doing your job for you. Working for a titaness really broadened your perspective on delegation.
 
