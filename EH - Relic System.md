@@ -1,4 +1,4 @@
-> _"Listen up, rookie. When I started this whole 'hunter' business, I thought a sharp blade and sharper wit would see me through. Turns out, when you're facing down what we do, you need a bit more oomph. So we learned to take their power—rip it right out of their still-twitching corpses and bind it to steel and bone._
+> _"Listen up, rookie. When I started this whole 'hunter' business, I thought a sharp blade and sharper wit would see me through. Turns out, when you're facing down what we do, you need a bit more oomph. So we learned to take their power—rip it right out of their still-twitching corpses and bind it to steel and bone... It ain’t pretty, but it works. And out here, that's all that matters._
 > 
 > _Welcome to the Hunt, kid."_
 > 
@@ -53,7 +53,7 @@ _Note: Common and Uncommon magic items no longer require attunement. Only Rare+ 
 
 **5 Pieces:** You gain the ability to cast _cone of cold_ once per long rest without expending a spell slot. Additionally, creatures frozen solid by your magic (reduced to 0 hp by cold damage) can be shattered to prevent any form of resurrection.
 
-> _"Ha! Kid, let me tell you about the time I found a relic that taught my friend some tricks. Sure, it was made from the crystallized last breath of a dying star-thing, and yes, we had to kill something that made a lich look like my racist gandpa, but the look on that Cultist's face when the 'dumb orc warrior' counterspelled his Misty Step? 
+> _"Ha! Kid, let me tell you about the time I found a relic that taught my barbarian friend some tricks. Sure, it was made from the crystallized last breath of a dying star-thing, and yes, we had to kill something that made a lich look like my racist gandpa, but the look on that Cultist's face when the 'dumb orc warrior' counterspelled his Misty Step? 
 > Unforgettable."_
 > 
 > —**Steinhardt, the First Hunter**
