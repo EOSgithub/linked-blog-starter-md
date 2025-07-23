@@ -42,7 +42,8 @@ _Note: Common and Uncommon magic items no longer require attunement. Only Rare+ 
 - **Feature - Seeds of Betrayal:** Creatures that have not yet taken a turn in combat have disadvantage on saving throws against your spells that deal cold damage or impose the charmed or frightened condition. Creatures charmed or frightened by you treat their allies as hostile.
 - **Price:** Your breath forms soft mist, and food tastes bland. You no longer need to eat or drink — instead, you are sustained by moments of warmth: the laughter of friends around a fire, the radiant light of hope in another's eyes, the glow of kindness offered when none was owed. These moments keep the cold at bay… for now.
 
-> _"Ha! Kid, let me tell you about the time I found a relic that taught my Fighter friend some tricks. Sure, it was made from the crystallized last breath of a dying star-thing, and yes, we had to kill something that made a lich look like my racist gandpa, but the look on that Cultist's face when the 'dumb orc warrior' counterspelled his Misty Step? Unforgettable."_
+> _"Ha! Kid, let me tell you about the time I found a relic that taught my Fighter friend some tricks. Sure, it was made from the crystallized last breath of a dying star-thing, and yes, we had to kill something that made a lich look like my racist gandpa, but the look on that Cultist's face when the 'dumb orc warrior' counterspelled his Misty Step? 
+> Unforgettable."_
 > 
 > —**Steinhardt, the First Hunter**
 
