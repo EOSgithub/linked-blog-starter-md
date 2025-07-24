@@ -109,7 +109,7 @@ These fissures pulse with malevolent necromantic energy.
 1. **Mechanic: Corrupting Veins:** There are visible glowing green cracks across the floor. Any creature (except Graxis) that starts its turn on a crack takes **2d6 necrotic damage**. If Graxis starts his turn on a crack, he regains **1d8 hit points** due to his cursed connection to the tomb's necromantic energies.
 
 ---
-### <span style="color:rgb(192, 0, 0)">Round 2, Initiative 0</span>
+### <span style="color:rgb(192, 0, 0)">Round 3, Initiative 0</span>
 > Improvvisamente, il coperchio del sarcofago viene scaraventato via, sbattendo pesantemente contro la parete. Senza alcun altro rumore, un cadavere essiccato emerge dalla tomba, alzando una mano aperta verso il minotauro. 
 > 
 > L'enorme ascia impugnata con violenza da Graxis si muove di propria volontà, sfuggendo dalla sua mano e volando nella presa del primo e più grande signore dei draghi.
@@ -186,3 +186,5 @@ Lastly, Graxis’ corpse still holds on to the last of Xander’s treasures, th
 > E... vi volta le spalle. Lentamente si allontana, tornando nel labirinto. Torna al suo dovere permanente, maledetto qual è. La morte non è libertà, né riposo.
 
 Both of these items are unfortunately damaged, and lack any of their magical properties at the moment. They must be taken to the Mithral Forge, another area accessed by following the heroes’ Great Labors in this Chapter, and fixed by Volkan, God of the Forge. He will not ask for any resources (materials nor currency) to do so, but must use Pythor’s Hammer for at least 1 week per item in order to restore them.
+
+THe deliverer know that asterius has the axis of permanence.
