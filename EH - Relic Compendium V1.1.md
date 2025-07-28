@@ -24,10 +24,11 @@
 **Galvanic Core (T1)**
 Once per turn you can use your bonus action to cause one of the following effects:
 - **Electrified Chains**: Your next melee attack deals 2x Con additional lightning damage and anchors the target to the ground. An anchored creature that tries to move more then 10ft have to succeed a contested atlethic check or take Con lightning damage and end its movement.
-- **Fulgurant Strike**: Your next melee attack calls
+- **Fulgurant Strike**: Your next melee attack calls down a lightning bolt causing each creature adiacent to the target take 2x Con lightning damage (Dex save halves).
 
-**Voltaic Storm-Resistant Conduits (T1)**
-You gain resistance to lightning damage. If you already have this resistance, instead, if you take lightning damage, you can reduce that damage by 1d6. Proficiency bonus times per short rest you can use your bonus action to **Lightning Step**: teleport up to 30 feet to an unoccupied space you can see, leaving a trail of lightning that deals 1d4 damage to one creature adjacent to your path.
+**Voltaic Conduits (T1)**
+You gain resistance to lightning damage. If you already have this resistance, instead, if you take lightning damage, you can reduce that damage by 1d6. 
+P.b. times per short rest you can use your bonus action to **Lightning Step**: move up to your speed and then deal 2x Con lightning damage to an adiacent creature.
 
 **Thunder God's Roaring Crash (T2)**
 Proficiency bonus times per short rest as a bonus action you can leap into the air, before crashing down on a point on the ground that you can see within 30 feet. All creatures in a 10-foot radius centered on that point must succeed on a Dexterity saving throw or take a number of d8s of lightning damage equal to your Constitution modifier (minimum 2d8), or half as much damage on a success. A creature in the same space you are landing has disadvantage on this save.
