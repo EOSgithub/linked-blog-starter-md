@@ -38,7 +38,7 @@ Guardian Angel T1: Once per long rest or by expending a channel divinitiy you ca
 
 Angelic Protection T2: You can cast warding bond once per long rest as a ritual without expending a spell slot. When summoning a guardian angel it automatically casts warding bond on a friendly creature.
 
-? T2: You learn and can cast once each without expending a spell slot the spells: Aid, Protection from Energy and Slow.
+? T2: You learn and can cast once per long rest each without expending a spell slot the spells: Aid, Protection from Energy and Slow.
 
 ---
 
@@ -49,7 +49,7 @@ Grafted Powers T1: You learn the shillelagh cantrip and choose one of the follow
 
 Vicious Attack T2: you can attack twice, instead of once, whenever you take the Attack action on your turn. Moreover, you can cast one of your primal cantrips in place of one of those attacks.
 
-? T2: You learn and can cast once each without expending a spell slot the spells: Skeletal Tail, Osseus Cage and Plant Growth.
+? T2: You learn and can cast once per long rest each without expending a spell slot the spells: Skeletal Tail, Osseus Cage and Plant Growth.
 
 ---
 
@@ -76,6 +76,32 @@ Ascended Being T2: As a bonus action, you can grow a pair of eldritch wings, giv
 ---
 
 Fire Dancer Set (Usable by: Monk or speed 40+)
-Blazing Performer T1: You gain expertise in acrobatics, performance and resistance to fire damage. If you already have this resistance, instead, if you take fire damage, you can reduce that damage by 1d6.
+Blazing Performer T1: You gain expertise in acrobatics, performance and resistance to fire damage. If you already have this resistance, instead, if you take fire damage, you can reduce that damage by 1d6. You gain one additional Ki. If a creature misses you with a melee attack, you can use your reaction to make an unarmed strike or spend a ki point to make two.
 
-Dance of Fire T1: Once per battle or whenever you expend KI your weapons and unarmed strikes catch fire until the start of your next turn. While on fire, they deal extra fire damage equal to your Wisdom modifier, and you gain a bonus to your AC equal to half your Wisdom modifier.
+Dance of Fire T1: Once per battle or whenever you expend Ki, your weapons and unarmed strikes catch fire until the start of your next turn. While on fire, they deal extra fire damage equal to your Wisdom modifier, and you gain a bonus to your AC equal to half your Wisdom modifier.
+
+Scorching Vortex T2: Dexterity times per long rest, when you dash, if you move through each space adjacent to a creature on your turn, you create a vortex of fire around them. The target must make a Dexterity saving throw, taking 2d6 fire damage and becoming trapped in a vortex of flames until the end of its next turn on a failed save. On a successful save, the target takes half as much damage and the vortex fails to appear. The vortex is opaque and obstructs line of sight. If the target attempts to move out of the flames, it must first succeed on a Wisdom saving throw. On a failure, it takes 1d6 fire damage and is charmed by the flames, reducing its speed to 0 until the start of its next turn. 
+
+Flames of Redemption T2: Any fire damage that you deal ignores fire resistance. In addition, the clarity of your mind allows you to generate flames that many would call divine; you can replace any fire damage that you deal with radiant damage. You gain one additional Ki.
+
+---
+
+Eldritch Hunter Set (Usable by: Paladin or official hunter)
+Hunt the Prey T1: Once per long rest, as a bonus action, you designate a creature within 60 feet of you as your prey for 1 minute. As part of this ability, and as a bonus action on subsequent turns, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the marked target.
+
+Stolen Eldritch Gift T1: Once per short rest, for the next 10 minutes, you add your charisma modifier to any check you make.
+
+Sharpened Senses T2: You have blindsight with a range of 10 feet. Once per long rest you can cast Spectral Fury without expending a spell slot.
+
+? T2: You learn and can cast once per long rest each without expending a spell slot the spells: Spectral Slash, Moon Beam and Hold Peson.
+
+---
+
+Lunar Warden Set (Usable by: Ranger or Insight 7+)
+Astral Affinity T1: You learn the (moon)light cantrip and have advantage on saving throws against all effects caused by Eldritch Moons. Additionally, you gain darkvision out to a range of 60 feet. If you already have darkvision, its range increases by 30 feet.
+
+Moon Conduit T1: Wisdom or half Insight times per long rest, you can channel a Moon Conduit from one of the Eldritch Moons.
+
+Lunar Alignement T2: If you use a Moon Conduit that belongs to the moon currently looming over the world, your abilities become more powerful.
+
+Lunar Guidance T2: You gain resistance to radiant damage. If you already have resistance to that damage type, you gain resistance to your choice of cold or necrotic damage instead. Each time you use a Moon Conduit you can chose to gain 1 hope and 1 fear.
