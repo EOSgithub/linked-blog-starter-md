@@ -2,11 +2,11 @@
 >  
 > —**Steinhardt, the First Hunter**
 
-In The Eldritch Hunt, the traditional "Inspiration" and "Legendary Actions" mechanics are replaced by the **Hope & Fear System**—a dual currency representing humanity's flickering light against encroaching darkness.
+In this campaign, the traditional "Inspiration" and "Legendary Action" mechanics are replaced by the **Hope & Fear System**—a dual currency representing humanity's flickering light against encroaching darkness.
 
 ---
 ## Gaining Hope & Fear
-Hope & Fear tokens are gained in three ways:
+Hope & Fear are gained in three ways:
 
 ### 1. Through Roleplay
 - **Hope**: Acting as beacons of hope, showing compassion and empathy, protecting innocents, maintaining humanity
@@ -21,7 +21,9 @@ For death saves and when the DM calls for it during crucial scenes, make a **Dua
 
 ### 3. Eldritch Presence
 Resting outside of a "Safe Zone" generates Fear.
-Some creatures (Such as Legendary ones) generate Fear automatically at the start of their turn for as long as they are alive.
+Some creatures (Such as Legendary ones) generate Fear automatically at the start of their turn for as long as they are alive
+
+.
 
 ---
 ## Using Hope
@@ -48,6 +50,4 @@ Fear tokens belong to the **GM** and represent the growing horror of Luyahrna. T
 | ------ | --------------------------------------------------------------------------------------------------------------------- |
 | **1**  | **Minor Action**: A creature can interact with environment, reroll a save, regain its reaction, or move up to 30 feet |
 | **2**  | **Legendary Action**: Grant any creature a full Legendary Action at any point during the initiative order             |
-| **3+** | **Special Ability**: The creature reveals its true horror (unique to each creature)                                   |
-
----
+| **3+** | **Special Ability**: The creature or location reveals its true horror (unique to each one)                            |
