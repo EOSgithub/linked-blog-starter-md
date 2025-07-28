@@ -21,7 +21,7 @@ Roaring Crash T2: P.b. times per short rest as a bonus action you can leap into 
 ---
 
 Apocalypse Set (Usable by: Bard or Performance 7+)
-Endless Symphony T1: Your pool of bardic inspiration dies (d6) is set to Charisma modifier + 1. If you didn't have one, you gain one and you duality die of fear becomes a d12.
+Endless Symphony T1: Your pool of bardic inspiration dies (d6) is set to Charisma modifier + 1. If you didn't have one, you gain one and you duality dies become d8 & d12.
 
 Edritch Choir T1: You learn 2 eldritch melodies. You gain one additional bardic inspiration die (d6). You can replace an eldritch melody you know by succeding on a Charisma saving throw, suffering a short term madness on a failure.
 
@@ -100,7 +100,7 @@ Sharpened Senses T2: You have blindsight with a range of 10 feet. Once per long 
 Lunar Warden Set (Usable by: Ranger or Insight 7+)
 Astral Affinity T1: You learn the (moon)light cantrip and have advantage on saving throws against all effects caused by Eldritch Moons. Additionally, you gain magical darkvision out to a range of 60 feet. 
 
-Moon Conduit T1: Wisdom or half Insight times per long rest, you can channel a Moon Conduit from one of the Eldritch Moons. Your duality die of hope becomes a d12.
+Moon Conduit T1: Wisdom or half Insight times per long rest, you can channel a Moon Conduit from one of the Eldritch Moons. Your duality dies becomes d12 & d8.
 
 Lunar Alignement T2: If you use a Moon Conduit that belongs to the moon currently looming over the world, your abilities become more powerful. Your Moon Conduits recharche on a short rest.
 
@@ -109,3 +109,32 @@ Lunar Guidance T2: You gain resistance to radiant damage. If you already have re
 ---
 
 Blade of Radiance Set (Usable by: Rogue or Cha 15+)
+Divine Blessings T1: You have a pool of 1 + your Wisdom modifier Divine points that recharge on a short rest. Each time you expend a Divine point you gain temporary hit points equal to your Wisdom modifier. You can spend a Divine point to use the following abilities: Armor of the Faithful, Divine Inspiration and Rend the Blasphemous.
+
+Sanctified Champion T1: You gain proficency with martial weapons and medium armor. At the end of a long rest, you can perform a ritual on a melee weapon that deals piercing or slashing damage, sanctifying it. When in your hands, your sanctified blade has the finesse property and is considered silvered. In addition, each time you kill an aberration, beast, fiend, or undead with it you regain one Divine point. 
+
+Righteous Armament T2: You gain and additional Divine point and the abilities Chains of Judgement and Erupting Blades.
+
+Sanctified Retaliation T2: When a creature damages you with an attack, you can use your reaction and expend one Divine point to make a melee weapon attack with your sanctified blade against the creature. If you hit, you gain a bonus to the attack's damage roll equal to your Wisdom modifier.
+
+---
+
+Shadow Set (Usable by: Rogue or Stealth 5+)
+Umbral Weapon T1: You gain proficiency with firearms, and you learn to make an umbral weapon by wreathing a rifle in shadows with a grim ritual. Once you have bonded a rifle to yourself, you can't be disarmed of it unless you are incapacitated. If it is on the same plane of existence, you can summon the rifle (no action required) on your turn, causing it to teleport instantly to your hand. Your umbral weapon keeps its original properties with the following alterations when you use it: it doesn't have the Barrel property, it doesn’t require ammunition, and it doesn’t make sound when fired.
+
+Shadow Movement T1: When you are in darkness, you can use your bonus action to take the Hide action with advantage on the Stealth check and turn into a shadowy version of yourself for 1 minute or untile you enter dim light. While in this form, you have advantage on Stealth checks, can move through a space as narrow as 1 inch wide, have a climbing speed equal to your walking speed, and are incapacitated. You can choose to end the transformation early (no action required) on your turn. If you do so and are in darkness, you can make one weapon attack with your umbral weapon (1d4 damage); if you miss, your location isn’t revealed.
+
+Tenebrous Body T2: You can see normally in darkness and dim light, both magical and nonmagical, to a distance of 120 feet. In addition, you can maintain the transformation of your Shadow Movement for up to 1 hour.
+
+? T2: ?
+
+---
+
+Scion of Madness Set
+Mind of Madness T1: Whenever you gain a madness, you can choose to reroll on the appropriate table, gaining the new effect instead. When a creature attempts to read your thoughts or scry on you they take psychic damage equal to your level, their magic or ability fails, and they must succeed on a Wisdom saving throw or gain a short-term madness.
+
+Spread of Chaos T1: Once per long rest, when you cast a spell of 1st level or higher that doesn’t have a range of self, you can cause each creature affected by the spell to make a Wisdom saving throw or gain a short term madness.  Any time before you regain the use of this feature, you can choose to roll on the Short-Term Madness table immediately after you cast a sorcerer spell of 1st level or higher to regain the use of this feature.
+
+? T2: You can use Spread of Chaos on multiple targets by succeeding a Charisma saving throw against a DC equal to 10 + the spell level + the number of creatures targeted by the spell. On a failure, the spell fails and you gain one short term madness, but you do not expend the spell slot. On a success, each creature is affected as normal. Once you use this feature, you must finish a long rest before you can use it again. Any time before you regain the use of this feature, the GM can have you roll on the Short-Term Madness table (see page 271) immediately after you cast a sorcerer spell of 1st level or higher. You then regain the use of this feature.
+
+Depths of Depravity T2: When a creature that you can see within 120 feet of you makes a saving throw, if you are affected by at least one madness, you can use your reaction to add insanity to the roll, giving the creature disadvantage on the saving throw. If the creature fails the saving throw, you feed on the ensuing chaos; you regain one sorcery point for each madness affecting you. Once you use this feature to regain sorcery points, you can't use it again until you finish a short rest.
