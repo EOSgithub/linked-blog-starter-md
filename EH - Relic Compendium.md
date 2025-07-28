@@ -20,7 +20,7 @@ Roaring Crash T2: P.b. times per short rest as a bonus action you can leap into 
 
 ---
 
-Apocalypse Set (Bard or Performance 7+)
+Apocalypse Set (Usable by: Bard or Performance 7+)
 Endless Symphony T1: Your pool of bardic inspiration dies (d6) is set to Charisma modifier + 1. If you didn't have one, you gain one.
 
 Edritch Choir T1: You learn 2 eldritch melodies. You gain one additional bardic inspiration die (d6).
@@ -31,7 +31,7 @@ Devouring Maw T2: As a reaction when a creature you can see is targeted by an at
 
 ---
 
-Guardian Angel Set (Cleric or in Religion 5+)
+Guardian Angel Set (Usable by: Cleric or in Religion 5+)
 Protective Healing T1: When you restore hitpoints to another creature it also gains half as many temporary hit points (rounded down). If a spell targets multiple creatures, choose one creature that benefits from this effect.
 
 Guardian Angel T1: Once per long rest or by expending a channel divinitiy you can summon a radiant or necrotic Guardian Angel for 1 hour. You determine the angel's appearance. In combat, the angel shares your initiative count and dodges unless you use a bonus action to command it.
@@ -42,7 +42,40 @@ Angelic Protection T2: You can cast warding bond once per long rest as a ritual 
 
 ---
 
-Symbiosis Set (Druid or Nature 7+)
-Wickerbone Behemoth T1: Once per long rest or by expending a wild shape you can turn into a behemoth for 10 minutes, while in this form: Your arms count as clubs, each under the effect of the shillelagh spell. You are under the effect of the barkskin spell. Whenever a creature damages you with an attack, all creatures within 5 feet take 1d4 magical piercing damage. At the start of your turn  regain hit points equal to half the damage taken since the previous turn, up to a maximum of two times your Nature modifier.
+Symbiosis Set (Usable by: Druid or Nature 7+)
+Wickerbone Behemoth T1: Once per long rest or by expending a wild shape you can turn into a behemoth for 10 minutes, while in this form: Your arms count as clubs, each under the effect of the shillelagh spell. Whenever a creature damages you with an attack, all creatures within 5 feet take 1d4 magical piercing damage. At the start of your turn  regain hit points equal to half the damage taken since the previous turn, up to a maximum of two times your Nature modifier.
 
-Grafted Powers T1: You learn the shillelagh cantrip and choose one of the following grafts: Bear Back (Size+, Wisdom added to Strength checks), Deer head (Adv. on Perception and Survival), 
+Grafted Powers T1: You learn the shillelagh cantrip and choose one of the following grafts: Bear Back (Size+, Wisdom added to Strength checks), Deer head (Adv. on Perception and Survival), Goat Hooves (Adv against prone, Climbing Speed). While transformed you are considered under the effect of the barkskin spell. 
+
+Vicious Attack T2: you can attack twice, instead of once, whenever you take the Attack action on your turn. Moreover, you can cast one of your primal cantrips in place of one of those attacks.
+
+? T2: You learn and can cast once each without expending a spell slot the spells: Skeletal Tail, Osseus Cage and Plant Growth.
+
+---
+
+Blood Archer Set (Usable by: Proficency with bows)
+Blood Shot T1: you learn three blood shot options. Constitution Modifier times per short rest, once per turn while using a bow, you can apply one as part of the attack on hit.
+
+Altered Anatomy T1: You are immune to disease, have resistance to poison damage, and have immunity against the poisoned condition. Once you've fought a creature, you can relentlessly track it, sensing the blood of your prey. You have a +10 on any Perception or Survival check you make to find a creature you've dealt damage in the last day.
+
+Blood Arrows T2: You learn the Shape Water(Blood) cantrip. When you make a ranged attack using a bow, you can create a blood arrow in place of standard ammunition. Blood arrows are considered magical. When you use a blood shot you add also your constitution modifier to the damage.
+
+Blood Recall T2: When you make an attack roll with a blood arrow and miss, you can use a bonus action to reroll the attack roll against the original target. You learn an additional blood shot option.
+
+---
+
+Living Nightmare Set (Usable by: Martial)
+Awakened Mutation T1: You lose proficency with heavy armor and shields. While not wearing armor you AC is s 11 + Dex + Con. Your eldritch flesh is capable of devouring specific magical items, possibly adding their properties to your body.
+
+Biological Weapon T1:  You lose proficency with heavy armor and shields. As a bonus action you can mutate your body, transforming it into four different biological weapons: Stinger, Hammer Arm, Tendinuos Lash and Sinister Aegis
+
+Macabre Appetite T2: You can let your eldritch appendages devour a corpse that has died less then 1 week ago. You regain a number of hit points equal to the creature’s CR and for the next 24 hours, you can use an action to assume the creature’s appearance, voice and inherit all their memories from the last day before their death, though none of your game statistics change.
+
+Ascended Being T2: As a bonus action, you can grow a pair of eldritch wings, giving yourself a flying speed of 30 feet for 10 minutes. You can use this bonus action a number of times equal to your Constitution modifier, recharging on a long rest.
+
+---
+
+Fire Dancer Set (Usable by: Monk or speed 40+)
+Blazing Performer T1: You gain expertise in acrobatics, performance and resistance to fire damage. If you already have this resistance, instead, if you take fire damage, you can reduce that damage by 1d6.
+
+Dance of Fire T1: Once per battle or whenever you expend KI your weapons and unarmed strikes catch fire until the start of your next turn. While on fire, they deal extra fire damage equal to your Wisdom modifier, and you gain a bonus to your AC equal to half your Wisdom modifier.
