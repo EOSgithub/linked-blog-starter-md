@@ -9,7 +9,7 @@
 > - **Bulldozing Punch**: Push the target 10 feet away or upward. If pushed into an obstacle or another creature, the target takes bludgeoning damage equal to your Strength modifier. Creatures with a Strength score greater than yours can make a Strength saving throw to resist this effect.
 
 > **Weapons of Ruination (T2)**
-> The strength you wield is capable of toppling the arcane rules of the world. Your unarmed strikes and heavy weapon attacks count as magical for the purpose of overcoming resistance and immunity. When you hit a physical barrier created by a spell with an unarmed strike you can make a Strength check and dispel the spell on a success (as per dispel magic).
+> The strength you wield is capable of toppling the arcane rules of the world. Your unarmed strikes and heavy weapon attacks count as magical for the purpose of overcoming resistance and immunity. Once per short rest, when you hit a physical barrier or magical phenomenon created by a spell with an unarmed strike you can make a Strength check and dispel the spell on a success (as per dispel magic).
 
 > **Imperious Gravity (T2)**
 > On each of your turns, you can use a bonus action to create one of the following effects:
@@ -21,21 +21,75 @@
 ---
 ## Lightning Vessel Set (Usable by: Martial or Con 15+)
 
-**Galvanic Core (T1)**
-Once per turn you can use your bonus action to cause one of the following effects:
-- **Electrified Chains**: Your next melee attack deals 2x Con additional lightning damage and anchors the target to the ground. An anchored creature that tries to move more then 10ft have to succeed a contested atlethic check or take Con lightning damage and end its movement.
-- **Fulgurant Strike**: Your next melee attack calls down a lightning bolt causing each creature adiacent to the target take 2x Con lightning damage (Dex save halves).
+> **Galvanic Core (T1)**
+> Once per turn you can use your bonus action to cause one of the following effects:
+> - **Electrified Chains**: Your next melee attack this turn deals 2x Con additional lightning damage and anchors the target to the ground. An anchored creature that tries to move more then 10ft have to succeed a contested atlethic check or take Con lightning damage and end its movement.
+> - **Fulgurant Strike**: Your next melee attack this turn calls down a lightning bolt causing each creature adiacent to the target take 2x Con lightning damage (Dex save halves).
 
-**Voltaic Conduits (T1)**
-You gain resistance to lightning damage. If you already have this resistance, instead, if you take lightning damage, you can reduce that damage by 1d6. 
-P.b. times per short rest you can use your bonus action to **Lightning Step**: move up to your speed and then deal 2x Con lightning damage to an adiacent creature.
+> **Voltaic Conduit (T1)**
+> You gain resistance to lightning damage. If you already have this resistance, instead, if you take lightning damage, you can reduce that damage by 1d6. 
+> P.b. times per short rest you can use your bonus action to **Lightning Step**: move up to your speed and then deal 2x Con lightning damage to an adiacent creature.
 
-**Thunder God's Roaring Crash (T2)**
-Proficiency bonus times per short rest as a bonus action you can leap into the air, before crashing down on a point on the ground that you can see within 30 feet. All creatures in a 10-foot radius centered on that point must succeed on a Dexterity saving throw or take a number of d8s of lightning damage equal to your Constitution modifier (minimum 2d8), or half as much damage on a success. A creature in the same space you are landing has disadvantage on this save.
+> **Thunder Crash (T2)**
+> Proficiency bonus times per short rest as a bonus action you can leap into the air, before crashing down on a point on the ground that you can see within 30 feet. All creatures in a 10-foot radius centered on that point take a number of d8s of lightning damage equal to your Constitution modifier (Dex save halves). A creature in the same space you are landing has disadvantage on this save.
 
-**Crown of the Eternal Tempest (T2)**
-You become immune to lightning damage and can't be paralyzed. When you take the Dash action, you transform into living lightning until the end of your turn, gaining the following benefits:
+> **Crown of the Tempest (T2)**
+> You become immune to the paralyzed condition. When you take the Dash action, you transform into living lightning until the end of your turn, gaining the following benefits:
+> - You can move through other creatures' spaces dealing 2xCon lightning damage to them
+> - Opportunity attacks against you have disadvantage
+> - You gain a climbing speed equal to your walking speed
 
-- You can move through other creatures' spaces (they take 1d6 lightning damage when you do)
-- Opportunity attacks against you have disadvantage
-- Your next attack deals +2d6 lightning damage
+---
+---
+## Apocalypse Set (Usable by: Bard or Performance 7+)
+
+> **Harbinger's Lyre (T1)**
+> Your pool of bardic inspiration dies increases by 1 and all your bardic inspiration dice become d6s. If you didn't have bardic inspiration, you gain a pool equal to your Charisma or half performance modifier of d6 that recharge on a long rest.
+
+> **Choir's Madrigal (T1)**
+> You learn 2 eldritch melodies. You gain one additional bardic inspiration die. You can replace an eldritch melody you know by succeeding on a Charisma saving throw, suffering a short term madness on a failure.
+
+> **Star-Scribe's Testament (T2)**
+> You learn to speak, read, and write Deep Speech. You gain advantage on checks that relate to the cosmos or the eldritch. You learn an additional Eldritch melody. Your eldritch melodies can't be counterspelled.
+
+> **Void-Devouring Maw (T2)**
+> As a reaction when a creature you can see is targeted by an attack, you can expend a bardic inspiration, summoning an eldritch maw that engulfs and protects it. Until the start of its next turn, it gains a bonus to its AC equal to the number rolled. If this causes the triggering attack to miss, the targeted creature can choose to be ripped through space by the maw, teleporting it to a point within 30 feet of it that it can see; if it does so, it loses the bonus to its AC.
+
+---
+---
+## Guardian Angel Set (Usable by: Cleric or Religion 5+)
+
+> **Touch of Mercy (T1)**
+> When you restore hit points to another creature it also gains half as many temporary hit points (rounded down, minimum 1). If a spell targets multiple creatures, choose one creature that benefits from this effect.
+
+> **Celestial Beacon (T1)**
+> Once per long rest or by expending a Channel Divinity you can summon a radiant or necrotic Guardian Angel for 1 hour. You determine the angel's appearance. In combat, the angel shares your initiative count and takes only the Dodge action unless you use a bonus action to command it.
+
+> **Seraph's Embrace (T2)**
+> You can cast _warding bond_ once per long rest as a ritual without expending a spell slot. When summoning a guardian angel it automatically casts _warding bond_ on a friendly creature of your choice within 30 feet.
+
+> **Hallowed Aegis (T2)**
+> You learn and can cast once per long rest each without expending a spell slot the spells: _aid_, _protection from energy_ and _slow_. Additionally, your Guardian Angel's gains a 30ft flying speed.
+
+---
+---
+## Symbiosis Set (Usable by: Druid or Nature 7+)
+
+**Wickerbone Heart (T1)**
+Once per long rest or by expending a wild shape you can turn into a behemoth for 10 minutes, while in this form: Your arms count as clubs, each under the effect of the _shillelagh_ spell. Whenever a creature damages you with an attack, all other creatures within 5 feet take 1d4 magical piercing damage. At the start of your turn regain hit points equal to half the damage taken since the previous turn, up to a maximum of 3x Wisdom modifier or 2x Nature modifier.
+
+### Beast-Grafter's Tools (T1)
+
+You learn the _shillelagh_ cantrip and choose one of the following grafts:
+
+- **Bear Back**: Size becomes Medium if smaller, Wisdom added to Strength checks
+- **Deer Head**: Advantage on Perception and Survival checks
+- **Goat Hooves**: Advantage against being knocked prone, gain climbing speed equal to walking speed While transformed (via wild shape or Wickerbone Behemoth), you are considered under the effect of the _barkskin_ spell.
+
+### Predator's Vicious Spine (T2)
+
+You can attack twice, instead of once, whenever you take the Attack action on your turn. Moreover, you can cast one of your primal cantrips in place of one of those attacks. This feature works in all forms.
+
+### Osseus Prison Cage Seed (T2)
+
+You learn and can cast once per long rest each without expending a spell slot the spells: _spike growth_ (as bones), _web_ (as bone cage) and _plant growth_ (as bone garden). When you cast these spells, they deal 1d6 piercing damage to creatures that start their turn in the area.
