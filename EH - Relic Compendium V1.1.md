@@ -199,15 +199,17 @@
 ---
 ## Shadow Set (Usable by: Rogue or Stealth 5+)
 
-**Shadowsmith's Tools (T1)**
-You gain proficiency with firearms, and you learn to make an umbral weapon by wreathing a rifle in shadows with a 1-hour ritual. Once bonded, you can't be disarmed of it unless incapacitated. If on the same plane, you can summon the rifle as a bonus action. Your umbral weapon doesn't require ammunition, doesn't make sound when fired, and does not have the barrel property
+> **Shadowsmith's Tools (T1)**
+> You gain proficiency with firearms, and you learn to make an umbral weapon by wreathing a rifle in shadows with a 1-hour ritual. Once bonded, you can't be disarmed of it unless incapacitated. If on the same plane, you can summon the rifle as a bonus action. Your umbral weapon doesn't require ammunition, doesn't make sound when fired, and does not have the barrel property
 
-**Nightwalker's Boots (T1)**
-When you are in darkness, you can use your bonus action to take the Hide action with advantage on the Stealth check and turn into a shadow for 1 minute or until you enter bright light. While in this form, you have advantage on Stealth checks, can move through spaces as narrow as 1 inch wide, have a climbing speed equal to your walking speed and are incapacitated. You can end the transformation early (no action required) on your turn. If you do so while in darkness, you can make am attack with your rifle (1d4 weapon die).
+> **Nightwalker's Boots (T1)**
+> When you are in darkness, you can use your bonus action to take the Hide action with advantage on the Stealth check and turn into a shadow for 1 minute or until you enter bright light. While in this form, you have advantage on Stealth checks, can move through spaces as narrow as 1 inch wide, have a climbing speed equal to your walking speed and are incapacitated. You can end the transformation early (no action required) on your turn. If you do so while in darkness, you can make am attack with your rifle (1d4 weapon die)
 
-Void-Touched Skin (T2)
-You can see normally in darkness and dim light, both magical and nonmagical, to a distance of 120 feet. You can maintain the transformation of your Shadow Movement for up to 1 hour. While in shadow form, you have resistance to all damage except radiant.
+> **Void-Touched Skin (T2)**
+> You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet. You can maintain the transformation of your Shadow Movement for up to 1 hour. While in shadow form, you have resistance to all damage except radiant, wich you are vulnerable to
 
-### Eclipsed Soul's Umbral Mastery (T2)
+> **Umbral Cloak (T2)**
+> You have advantage on the first ranged attack made from darkness each turn and on a hit you can teleport to an unoccupied space within 30 feet that is also in darkness
 
-You have advantage on attacks made from darkness. Once per turn when you hit with your umbral weapon, you can teleport to an unoccupied space within 30 feet that is in darkness. Your umbral weapon deals an extra 1d6 necrotic damage to creatures in bright light.
+---
+---
