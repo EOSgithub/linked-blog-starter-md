@@ -162,21 +162,52 @@
 ---
 ## Lunar Warden Set (Usable by: Ranger or Insight 7+)
 
-Moonstone Pendant (T1)
-You learn the _dancing lights_ cantrip (appears as moonlight) and have advantage on saving throws against all effects caused by Eldritch Moons. Additionally, you gain magical darkvision out to a range of 60 feet. You can see in magical darkness.
+> **Moonstone Pendant (T1)**
+> You learn the _dancing lights_ cantrip (appears as moonlight) and have advantage on saving throws against all effects caused by Eldritch Moons. Additionally, you gain magical darkvision out to a range of 60 feet. You can see in magical darkness.
 
-### Selenite Moon Conduit Focus (T1)
+> **Selenite Focus (T1)**
+> Wisdom modifier or half Insight modifier times per long rest, you can channel a Moon Conduit from one of the Eldritch Moons. Your duality dices become d12 & d8.
 
-Wisdom modifier or half Insight modifier times per long rest, you can channel a Moon Conduit from one of the Eldritch Moons:
+> **Crown of Lunar Alignment (T2)**
+> If you use a Moon Conduit that belongs to the moon currently looming over the world, your abilities become more powerful. Your Moon Conduits recharge on a short rest.
 
-- **Blood Moon**: Next attack deals +2d6 necrotic damage
-- **Frost Moon**: Create difficult terrain in 20-foot radius for 1 minute
-- **Hunter's Moon**: Gain advantage on all attacks for 1 minute
+> **Starlight Mantle (T2)**
+> You gain resistance to radiant damage. If you already have resistance to that damage type, you gain resistance to your choice of cold or necrotic damage instead. Each time you use a Moon Conduit you can chose to make a duality roll.
 
-### Crown of Lunar Alignment (T2)
+---
+---
+## Blade of Radiance Set (Usable by: Rogue or Cha 15+)
 
-If you use a Moon Conduit that belongs to the moon currently looming over the world, your abilities become more powerful (double numeric effects). Your Moon Conduits recharge on a short rest.
+> **Saint's Blessing (T1)**
+> You have a pool of Wisdom modifier Divine points that recharge on a short rest. You can spend a Divine point to use:
+> - **Armor of the Faithful**: reaction to deflect all attacks targeting you (Wis save negates)
+> - **Divine Inspiration**: Add 2x Wis mod. to a Religion, Insight or History check.
+> - **Rend the Blasphemous**: Bonus action melee attack with Wis mod. bonus to attack roll.
 
-### Starlight Guidance Mantle (T2)
+> **Sanctified Steel (T1)**
+> You gain proficiency with martial weapons and medium armor. At the end of a long rest, you can perform a ritual on a melee weapon that deals piercing or slashing damage, sanctifying it. When in your hands, your sanctified blade has the finesse property and is considered silvered. In addition, each time you kill an aberration, beast, fiend, or undead with it you regain one Divine point. Each time you expend a Divine point you gain Wis mod. temporary hit points. 
 
-You gain resistance to radiant damage. If you already have resistance to that damage type, you gain resistance to your choice of cold or necrotic damage instead. Each time you use a Moon Conduit, you can teleport up to 30 feet to an unoccupied space you can see.
+> **Judgment Chain (T2)**
+> You gain an additional Divine point and the abilities:
+> - **Chains of Judgment**: on a hit deal Wis mod. radiant damage and impose retrained condition (Str save negates)
+> - **Erupting Blades**: on hit forgo sneak attack and deal half of that damage + Wis mod. radiant damage in a 20ft cone. (Dex save halves)
+
+> **Martyr's Memento (T2)**
+> When a creature damages you with an attack, you can use your reaction and expend one Divine point to make a melee weapon attack with your sanctified blade against the creature. If you hit, you gain a bonus to the damage equal to 2x Wis mod.
+
+---
+---
+## Shadow Set (Usable by: Rogue or Stealth 5+)
+
+**Shadowsmith's Tools (T1)**
+You gain proficiency with firearms, and you learn to make an umbral weapon by wreathing a rifle in shadows with a 1-hour ritual. Once bonded, you can't be disarmed of it unless incapacitated. If on the same plane, you can summon the rifle as a bonus action. Your umbral weapon doesn't require ammunition, doesn't make sound when fired, and does not have the barrel property
+
+**Nightwalker's Boots (T1)**
+When you are in darkness, you can use your bonus action to take the Hide action with advantage on the Stealth check and turn into a shadow for 1 minute or until you enter bright light. While in this form, you have advantage on Stealth checks, can move through spaces as narrow as 1 inch wide, have a climbing speed equal to your walking speed and are incapacitated. You can end the transformation early (no action required) on your turn. If you do so while in darkness, you can make am attack with your rifle (1d4 weapon die).
+
+Void-Touched Skin (T2)
+You can see normally in darkness and dim light, both magical and nonmagical, to a distance of 120 feet. You can maintain the transformation of your Shadow Movement for up to 1 hour. While in shadow form, you have resistance to all damage except radiant.
+
+### Eclipsed Soul's Umbral Mastery (T2)
+
+You have advantage on attacks made from darkness. Once per turn when you hit with your umbral weapon, you can teleport to an unoccupied space within 30 feet that is in darkness. Your umbral weapon deals an extra 1d6 necrotic damage to creatures in bright light.
