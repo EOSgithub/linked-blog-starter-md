@@ -9,22 +9,19 @@ In The Eldritch Hunt, the traditional "Inspiration" and "Legendary Actions" mech
 Hope & Fear tokens are gained in three ways:
 
 ### 1. Through Roleplay
-- **Hope**: Acting as beacons of light, showing compassion and empathy, protecting innocents, maintaining humanity
+- **Hope**: Acting as beacons of hope, showing compassion and empathy, protecting innocents, maintaining humanity
 - **Fear**: Embracing the darkness, acting cruelly, abandoning moral principles, giving in to madness and corruption
 
 ### 2. Pivotal Moments
 For death saves and when the DM calls for it during crucial scenes, make a **Duality Roll**:
 - Roll 2d10 simultaneously (one white for Hope, one black for Fear) instead of the usual d20
-- The higher die determines the outcome:
-  - **Hope wins**: Party gains 1 Hope token
-  - **Fear wins**: GM gains 1 Fear token
+- The higher die determines the additional effect:
+  - **Hope wins**: Party gains 1 Hope
+  - **Fear wins**: GM gains 1 Fear
 
 ### 3. Eldritch Presence
-Short resting outside a "Safe Zone" generates 1 Fear.
-Long resting outside a "Safe Zone" generates 3 Fear.
-Some creatures generate Fear automatically, for example:
-- **Cultists-type Enemies**: Generate 1 Fear at the start of their turn.
-- **Legendary Monsters**: Generate multiple Fear scaling with their CR.
+Resting outside of a "Safe Zone" generates Fear.
+Some creatures (Such as Legendary ones) generate Fear automatically at the start of their turn for as long as they are alive.
 
 ---
 ## Using Hope
@@ -50,7 +47,7 @@ Fear tokens belong to the **GM** and represent the growing horror of Luyahrna. T
 | Cost   | Effect                                                                                                                |
 | ------ | --------------------------------------------------------------------------------------------------------------------- |
 | **1**  | **Minor Action**: A creature can interact with environment, reroll a save, regain its reaction, or move up to 30 feet |
-| **2**  | **Legendary Action**: Grant any creature a full Legendary Action at any point during the round                        |
+| **2**  | **Legendary Action**: Grant any creature a full Legendary Action at any point during the initiative order             |
 | **3+** | **Special Ability**: The creature reveals its true horror (unique to each creature)                                   |
 
 ---
