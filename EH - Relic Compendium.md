@@ -21,9 +21,9 @@ Roaring Crash T2: P.b. times per short rest as a bonus action you can leap into 
 ---
 
 Apocalypse Set (Usable by: Bard or Performance 7+)
-Endless Symphony T1: Your pool of bardic inspiration dies (d6) is set to Charisma modifier + 1. If you didn't have one, you gain one.
+Endless Symphony T1: Your pool of bardic inspiration dies (d6) is set to Charisma modifier + 1. If you didn't have one, you gain one and you duality die of fear becomes a d12.
 
-Edritch Choir T1: You learn 2 eldritch melodies. You gain one additional bardic inspiration die (d6).
+Edritch Choir T1: You learn 2 eldritch melodies. You gain one additional bardic inspiration die (d6). You can replace an eldritch melody you know by succeding on a Charisma saving throw, suffering a short term madness on a failure.
 
 Knowledge From Beyond the Stars T2: You learn to speak, read, and write Deep Speech. You gain advantage on checks that relates to the cosmos or the eldritch. You gain one more bardic inspiration die (d6) and learn an additional Eldritch melody.
 
@@ -43,7 +43,7 @@ Angelic Protection T2: You can cast warding bond once per long rest as a ritual 
 ---
 
 Symbiosis Set (Usable by: Druid or Nature 7+)
-Wickerbone Behemoth T1: Once per long rest or by expending a wild shape you can turn into a behemoth for 10 minutes, while in this form: Your arms count as clubs, each under the effect of the shillelagh spell. Whenever a creature damages you with an attack, all creatures within 5 feet take 1d4 magical piercing damage. At the start of your turn  regain hit points equal to half the damage taken since the previous turn, up to a maximum of two times your Nature modifier.
+Wickerbone Behemoth T1: Once per long rest or by expending a wild shape you can turn into a behemoth for 10 minutes, while in this form: Your arms count as clubs, each under the effect of the shillelagh spell. Whenever a creature damages you with an attack, all creatures within 5 feet take 1d4 magical piercing damage. At the start of your turn  regain hit points equal to half the damage taken since the previous turn, up to a maximum of 3x Wis or 2xNature modifier.
 
 Grafted Powers T1: You learn the shillelagh cantrip and choose one of the following grafts: Bear Back (Size+, Wisdom added to Strength checks), Deer head (Adv. on Perception and Survival), Goat Hooves (Adv against prone, Climbing Speed). While transformed you are considered under the effect of the barkskin spell. 
 
@@ -98,10 +98,14 @@ Sharpened Senses T2: You have blindsight with a range of 10 feet. Once per long 
 ---
 
 Lunar Warden Set (Usable by: Ranger or Insight 7+)
-Astral Affinity T1: You learn the (moon)light cantrip and have advantage on saving throws against all effects caused by Eldritch Moons. Additionally, you gain darkvision out to a range of 60 feet. If you already have darkvision, its range increases by 30 feet.
+Astral Affinity T1: You learn the (moon)light cantrip and have advantage on saving throws against all effects caused by Eldritch Moons. Additionally, you gain magical darkvision out to a range of 60 feet. 
 
-Moon Conduit T1: Wisdom or half Insight times per long rest, you can channel a Moon Conduit from one of the Eldritch Moons.
+Moon Conduit T1: Wisdom or half Insight times per long rest, you can channel a Moon Conduit from one of the Eldritch Moons. Your duality die of hope becomes a d12.
 
-Lunar Alignement T2: If you use a Moon Conduit that belongs to the moon currently looming over the world, your abilities become more powerful.
+Lunar Alignement T2: If you use a Moon Conduit that belongs to the moon currently looming over the world, your abilities become more powerful. Your Moon Conduits recharche on a short rest.
 
-Lunar Guidance T2: You gain resistance to radiant damage. If you already have resistance to that damage type, you gain resistance to your choice of cold or necrotic damage instead. Each time you use a Moon Conduit you can chose to gain 1 hope and 1 fear.
+Lunar Guidance T2: You gain resistance to radiant damage. If you already have resistance to that damage type, you gain resistance to your choice of cold or necrotic damage instead. Each time you use a Moon Conduit you can chose to make a duality roll.
+
+---
+
+Blade of Radiance Set (Usable by: Rogue or Cha 15+)
