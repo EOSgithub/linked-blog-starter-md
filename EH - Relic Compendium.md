@@ -156,4 +156,13 @@ Gravitational Pull T2: When a creature you can see within 120 feet of you is tar
 
 ---
 
-Osteomancer Set
+Osteomancer Set (Usable by: Wizard or Medicine 6+)
+Brittlebone Armor T1: Once per short rest, as a bonus action, if you're not wearing armor or wielding a shield, you can force a frame of bones out of your body to protect you for 1 minute. This grants you temporary hit points equal to 2 times your level. While you have these temporary hit points, you gain resistance to slashing and piercing damage, and you gain a bonus to AC equal to one-third your level. 
+
+Anatomical Adept T1: You gain expertise in Medicine checks, and when you make a Medicine check, you gain a bonus to the check equal to your Intelligence modifier. (? Add Something ?)
+
+Bone Puppetry T2: As an action, you focus your grim magic towards a creature with bones within 60 feet of you. It must make a Strength saving throw. On a failure, you take total and precise control of its skeleton. Until the end of the creature's next turn, it takes only the actions you choose and doesn't do anything that you don't allow it to do. In the creature’s efforts to resist your command, attack rolls it makes against its allies have disadvantage, and its allies have advantage on saving throws from effects caused by the creature. You can only have one such creature under your control at a time. You can use this feature a number of times equal to your Intelligence or half medicine modifier, and you regain all expended uses when you finish a long rest.
+
+? T2: ?
+
+---
