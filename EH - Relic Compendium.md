@@ -130,11 +130,30 @@ Tenebrous Body T2: You can see normally in darkness and dim light, both magical 
 
 ---
 
-Scion of Madness Set
-Mind of Madness T1: Whenever you gain a madness, you can choose to reroll on the appropriate table, gaining the new effect instead. When a creature attempts to read your thoughts or scry on you they take psychic damage equal to your level, their magic or ability fails, and they must succeed on a Wisdom saving throw or gain a short-term madness.
+Scion of Madness Set (Usable by: Sorcerer or Wis 10-)
+Mind of Madness T1: Whenever you gain a madness, you can choose to reroll on the appropriate table, gaining the new effect instead. When a creature attempts to read your thoughts or scry on you they take psychic damage equal to your level, their magic or ability fails, and they must succeed on a Wisdom saving throw or gain a short-term madness. You gain an additional sorcery point.
 
 Spread of Chaos T1: Once per long rest, when you cast a spell of 1st level or higher that doesn’t have a range of self, you can cause each creature affected by the spell to make a Wisdom saving throw or gain a short term madness.  Any time before you regain the use of this feature, you can choose to roll on the Short-Term Madness table immediately after you cast a sorcerer spell of 1st level or higher to regain the use of this feature.
 
-? T2: You can use Spread of Chaos on multiple targets by succeeding a Charisma saving throw against a DC equal to 10 + the spell level + the number of creatures targeted by the spell. On a failure, the spell fails and you gain one short term madness, but you do not expend the spell slot. On a success, each creature is affected as normal. Once you use this feature, you must finish a long rest before you can use it again. Any time before you regain the use of this feature, the GM can have you roll on the Short-Term Madness table (see page 271) immediately after you cast a sorcerer spell of 1st level or higher. You then regain the use of this feature.
+Proliferating Truth T2: You use Spread of Chaos or cast a spell on multiple targets to can choose to make a Charisma saving throw against a DC equal to 10 + the spell level + the number of creatures targeted by the spell. On a failure, the spell fails and you gain one short term madness, but you do not expend the spell slot. On a success, each creature gains a short term madness. 
 
 Depths of Depravity T2: When a creature that you can see within 120 feet of you makes a saving throw, if you are affected by at least one madness, you can use your reaction to add insanity to the roll, giving the creature disadvantage on the saving throw. If the creature fails the saving throw, you feed on the ensuing chaos; you regain one sorcery point for each madness affecting you. Once you use this feature to regain sorcery points, you can't use it again until you finish a short rest.
+
+---
+
+Void Set (Usable by: Warlock or Int 15+)
+Voracious Void T1: Once per long rest, as a bonus action using concentration, you can create a miniature black hole for 1 minute, in the form of a 5-foot-diamater sphere, centered on a point on the ground that you can see within 60 feet. This black hole has a domain of influence of 5 feet beyond its own radius and has the following effects: 
+- It is considered difficult terrain for all creatures except for you. 
+- When the sphere appears and at the start of each of your turns unsecured objects within the domain of influence are pulled toward the sphere's center. 
+- As part of creating the sphere, and on subsequent turns as a bonus action, you can choose a creature within the domain of influence of the black hole, increasing the pull of gravity around them. They must succeed on a Strength saving throw or be pulled straight toward the sphere's center. 
+- A creature that enters the black hole’s space for the first time on a turn or starts its turn there takes 1d6 magical bludgeoning damage and its speed is halved until the start of its next turn. 
+
+? T1: When a creature enters the black hole's space for the first time on a turn or starts its turn there, it is restrained for the duration. A restrained creature can attempt to free itself by using an action to make an Athletics check. On a success, the creature is no longer restrained by the black hole and is moved to the nearest unoccupied space outside the black hole. You can now also summon a new black hole by expending a Warlock spell slot.
+
+? T2: Both the diameter and domain of influence of the black hole increases to 10 feet. A creature reduced to 0 hit points while inside the black hole is annihilated, along with any nonmagical items it is wearing or carrying.
+
+Gravitational Pull T2: When a creature you can see within 120 feet of you is targeted by a ranged attack that passes trough the domain of influence of your black hole, you can use your reaction to influence it. Make a ranged spell attack. If you roll higher than their attack roll, you deflect the trajectory and the target takes no damage. If you roll lower, you reduce the damage by 1d6 + your Int modifier. If you roll a critical, the attack is deflected and streaks towards the center of the black hole, randomly hitting one of the creatures inside, if any are present.
+
+---
+
+Osteomancer Set
