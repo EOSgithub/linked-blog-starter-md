@@ -1,4 +1,4 @@
-## Earthbreaker Set (Usable by: Martial or Athletics 5+)
+## Earthbreaker Set (Usable by: Martial or Atlethics 5+)
 
 > **Overwhelming Fist (T1)**
 > When you hit with an unarmed strike, you can deal bludgeoning damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. When you make an unarmed strike against a creature on your turn, you can use a bonus action to make another unarmed strike against the same creature. The range of thrown weapons is doubled for you.
@@ -19,7 +19,7 @@
 
 ---
 ---
-## Lightning Vessel Set (Usable by: Martial or Con 15+)
+## Lightning Vessel Set (Usable by: Barbarian or Dex 15+)
 
 > **Galvanic Core (T1)**
 > Once per turn you can use your bonus action to cause one of the following effects:
@@ -75,21 +75,108 @@
 ---
 ## Symbiosis Set (Usable by: Druid or Nature 7+)
 
-**Wickerbone Heart (T1)**
-Once per long rest or by expending a wild shape you can turn into a behemoth for 10 minutes, while in this form: Your arms count as clubs, each under the effect of the _shillelagh_ spell. Whenever a creature damages you with an attack, all other creatures within 5 feet take 1d4 magical piercing damage. At the start of your turn regain hit points equal to half the damage taken since the previous turn, up to a maximum of 3x Wisdom modifier or 2x Nature modifier.
+> **Wickerbone Heart (T1)**
+> Once per long rest or by expending a wild shape you can turn into a behemoth for 10 minutes, while in this form: Your arms count as clubs, each under the effect of the _shillelagh_ spell. Whenever a creature damages you with an attack, all other creatures within 5 feet take 1d4 magical piercing damage. At the start of your turn regain hit points equal to half the damage taken since the previous turn, up to a maximum of 3x Wisdom modifier or 2x Nature modifier.
 
-### Beast-Grafter's Tools (T1)
+> **Beast-Grafter's Tools (T1)**
+> While transformed you are considered under the effect of the _barkskin_ spell. You learn the _shillelagh_ cantrip and choose one of the following grafts:
+> - **Bear Back**: your size grows by one level, Wisdom added to Strength checks
+> - **Deer Head**: Advantage on Perception and Survival checks
+> - **Goat Hooves**: Advantage against being knocked prone, gain climbing speed equal to walking speed 
 
-You learn the _shillelagh_ cantrip and choose one of the following grafts:
+> **Predator's Spine (T2)**
+> You can attack twice, instead of once, whenever you take the Attack action on your turn. Moreover, you can cast one of your primal cantrips in place of one of those attacks. 
 
-- **Bear Back**: Size becomes Medium if smaller, Wisdom added to Strength checks
-- **Deer Head**: Advantage on Perception and Survival checks
-- **Goat Hooves**: Advantage against being knocked prone, gain climbing speed equal to walking speed While transformed (via wild shape or Wickerbone Behemoth), you are considered under the effect of the _barkskin_ spell.
+> **Osseus Seed (T2)**
+> You learn and can cast once per long rest each without expending a spell slot the spells: _spike growth_, *skeletal tail*, *osseus cage* and _plant growth_. 
 
-### Predator's Vicious Spine (T2)
+---
+---
+## Blood Archer Set (Usable by: Fighter or Prof. with bows)
 
-You can attack twice, instead of once, whenever you take the Attack action on your turn. Moreover, you can cast one of your primal cantrips in place of one of those attacks. This feature works in all forms.
+> **Bloodstone Arrowtip (T1)**
+> You learn three blood shot options. Constitution modifier times per short rest, once per turn while using a bow, you can apply one as part of the attack on hit.
 
-### Osseus Prison Cage Seed (T2)
+> **Sanguine Codex (T1)**
+> You are immune to disease, have resistance to poison damage, and have immunity against the poisoned condition. Once you've fought a creature, you can relentlessly track it, sensing the blood of your prey. You have a +10 on any Perception or Survival check you make to find a creature you've dealt damage to in the last day.
 
-You learn and can cast once per long rest each without expending a spell slot the spells: _spike growth_ (as bones), _web_ (as bone cage) and _plant growth_ (as bone garden). When you cast these spells, they deal 1d6 piercing damage to creatures that start their turn in the area.
+> **Crimson Quiver (T2)**
+> You learn the _shape water_ cantrip (works only on blood). When you make a ranged attack using a bow, you can create a blood arrow in place of standard ammunition. Blood arrows are considered magical. When you use a blood shot you also add your Constitution modifier to the damage.
+
+> **Bloodseeker's Recalling Mark (T2)**
+> When you make an attack roll with a blood arrow and miss, you can use a bonus action to reroll the attack roll against the original target. You learn an additional blood shot option.
+
+---
+---
+## Living Nightmare Set (Usable by: Fighter or Con 15+)
+
+> **Flesh Sculptor's Gift (T1)**
+> You lose proficiency with heavy armor and shields. While not wearing armor your AC is 11 + Dex + Con. Your eldritch flesh is capable of devouring specific magical weapons, possibly adding their properties to your body (DM's discretion, requires 1 hour ritual).
+
+> **Morphic Sinew (T1)**
+> As a bonus action you can mutate your arms, transforming them into four different biological weapons:
+> - **Stinger**: 2d8 piercing
+> - **Hammer Arm**: 2d6 bludgeoning, push 15 feet on hit
+> - **Tendinous Lash**: 1d4 slashing, reach 15 ft, topple
+> - **Sinister Aegis**: Reaction +2 AC until the start of your next turn
+
+> **Macabre Gullet (T2)**
+> As an action you can let your eldritch appendages devour a corpse that has died less than 1 week ago. You regain hit points equal to 2x the creature's CR and for the next 24 hours, you can use an action to assume the creature's appearance, voice and hazily inherit their memories from the last day before their death, though none of your game statistics change.
+
+> **Aberrant Wings (T2)**
+> As a bonus action, you can grow a pair of eldritch wings, giving yourself a flying speed of 30 feet for 10 minutes. You can use this bonus action a number of times equal to your Constitution modifier, recharging on a long rest. While flying, you have advantage on Intimidation checks.
+
+---
+---
+## Fire Dancer Set (Usable by: Monk or speed 40+)
+
+> **Phoenix Anklets (T1)**
+> You gain expertise in Acrobatics and Performance, and resistance to fire damage. If you already have this resistance, instead, if you take fire damage, you can reduce that damage by 1d6. You gain one additional Ki point. If a creature misses you with a melee attack, you can use your reaction to make an unarmed strike or spend a ki point to flurry of blows.
+
+> **Emberdance Fire Sash (T1)**
+> Once per battle or whenever you expend Ki, your weapons and unarmed strikes catch fire until the start of your next turn. While on fire, they deal extra fire damage equal to your Wisdom modifier (minimum 1), and you gain a bonus to your AC equal to half your Wisdom modifier (minimum 1).
+
+> **Salamander's Tailwind (T2)**
+> Dexterity modifier times per long rest, when you Dash, if you move through each space adjacent to a creature on your turn, you create a vortex of fire around them. The target must make a Dexterity saving throw, taking 2d6 fire damage and becoming trapped in a vortex of flames until the end of its next turn on a failed save. On a successful save, the target takes half damage and no vortex appears. The vortex is opaque. If the target attempts to move out of the flames, it must first succeed on a Wisdom saving throw or take 1d6 fire damage and have its speed reduced to 0 until the start of its next turn.
+
+> **Redemptive Flame Circlet (T2)**
+> Any fire damage that you deal ignores fire resistance. In addition, the clarity of your mind allows you to generate flames that many would call divine; you can replace any fire damage that you deal with radiant damage. You gain one additional Ki point and your unarmed strikes deal an additional damage while on fire.
+
+---
+---
+## Eldritch Hunter Set (Usable by: Paladin or hunter)
+
+> **Hunting Mark (T1)**
+> Once per long rest, as a bonus action, you designate a creature within 60 feet of you as your prey for 10 minutes. As part of this ability, and as a bonus action on subsequent turns, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the marked target. 
+
+> **Eldritch Gift (T1)**
+> Once per short rest, for the next 10 minutes, you add your Charisma modifier to any ability check you make. Additionally, you can speak and understand any language your prey speaks.
+
+> **Third Eye (T2)**
+> You have blindsight with a range of 10 feet. Once per long rest you can cast _see invisibility_ without expending a spell slot. You can't be surprised and have advantage on initiative rolls.
+
+> **Slayer's Arsenal (T2)**
+> You learn and can cast once per long rest each without expending a spell slot the spells: _hunter's mark_, _moonbeam_ and _hold person_. Your attacks against aberrations, fiends, and undead deal an extra 1d6 damage.
+
+---
+---
+## Lunar Warden Set (Usable by: Ranger or Insight 7+)
+
+Moonstone Pendant (T1)
+You learn the _dancing lights_ cantrip (appears as moonlight) and have advantage on saving throws against all effects caused by Eldritch Moons. Additionally, you gain magical darkvision out to a range of 60 feet. You can see in magical darkness.
+
+### Selenite Moon Conduit Focus (T1)
+
+Wisdom modifier or half Insight modifier times per long rest, you can channel a Moon Conduit from one of the Eldritch Moons:
+
+- **Blood Moon**: Next attack deals +2d6 necrotic damage
+- **Frost Moon**: Create difficult terrain in 20-foot radius for 1 minute
+- **Hunter's Moon**: Gain advantage on all attacks for 1 minute
+
+### Crown of Lunar Alignment (T2)
+
+If you use a Moon Conduit that belongs to the moon currently looming over the world, your abilities become more powerful (double numeric effects). Your Moon Conduits recharge on a short rest.
+
+### Starlight Guidance Mantle (T2)
+
+You gain resistance to radiant damage. If you already have resistance to that damage type, you gain resistance to your choice of cold or necrotic damage instead. Each time you use a Moon Conduit, you can teleport up to 30 feet to an unoccupied space you can see.
