@@ -9,7 +9,7 @@ In The Eldritch Hunt, the traditional "Inspiration" and "Legendary Actions" mech
 Hope & Fear tokens are gained in three ways:
 
 ### 1. Through Roleplay
-- **Hope**: Acting as beacons of light, showing compassion, protecting innocents, maintaining humanity
+- **Hope**: Acting as beacons of light, showing compassion and empathy, protecting innocents, maintaining humanity
 - **Fear**: Embracing the darkness, acting cruelly, abandoning moral principles, giving in to madness and corruption
 
 ### 2. Pivotal Moments
