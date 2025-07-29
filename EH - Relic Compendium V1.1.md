@@ -1,4 +1,5 @@
-## Earthbreaker Set (Usable by: Martial or Atlethics 5+)
+## Earthbreaker Set 
+*(Usable by: Martial or Atlethics 5+)*
 
 > **Overwhelming Fist (T1)**
 > When you hit with an unarmed strike, you can deal bludgeoning damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. When you make an unarmed strike against a creature on your turn, you can use a bonus action to make another unarmed strike against the same creature. The range of thrown weapons is doubled for you.
@@ -19,7 +20,8 @@
 
 ---
 ---
-## Lightning Vessel Set (Usable by: Barbarian or Dex 15+)
+## Lightning Vessel Set 
+*(Usable by: Barbarian or Initiative 4+)*
 
 > **Galvanic Core (T1)**
 > Once per turn you can use your bonus action to cause one of the following effects:
@@ -31,7 +33,7 @@
 > P.b. times per short rest you can use your bonus action to **Lightning Step**: move up to your speed and then deal 2x Con lightning damage to an adiacent creature.
 
 > **Thunder Crash (T2)**
-> Proficiency bonus times per short rest as a bonus action you can leap into the air, before crashing down on a point on the ground that you can see within 30 feet. All creatures in a 10-foot radius centered on that point take a number of d8s of lightning damage equal to your Constitution modifier (Dex save halves). A creature in the same space you are landing has disadvantage on this save.
+> Proficiency bonus times per short rest, as a bonus action, you can leap into the air, before crashing down on a point on the ground that you can see within 30 feet. All creatures in a 10-foot radius centered on that point take a number of d8s of lightning damage equal to your Constitution modifier (Dex save halves). A creature in the same space you are landing has disadvantage on this save.
 
 > **Crown of the Tempest (T2)**
 > You become immune to the paralyzed condition. When you take the Dash action, you transform into living lightning until the end of your turn, gaining the following benefits:
@@ -41,7 +43,8 @@
 
 ---
 ---
-## Apocalypse Set (Usable by: Bard or Performance 7+)
+## Apocalypse Set 
+*(Usable by: Bard or Performance 7+)*
 
 > **Harbinger's Lyre (T1)**
 > Your pool of bardic inspiration dies increases by 1 and all your bardic inspiration dice become d6s. If you didn't have bardic inspiration, you gain a pool equal to your Charisma or half performance modifier of d6 that recharge on a long rest.
@@ -57,7 +60,8 @@
 
 ---
 ---
-## Guardian Angel Set (Usable by: Cleric or Religion 5+)
+## Guardian Angel Set 
+*(Usable by: Cleric or Religion 5+)*
 
 > **Touch of Mercy (T1)**
 > When you restore hit points to another creature it also gains half as many temporary hit points (rounded down, minimum 1). If a spell targets multiple creatures, choose one creature that benefits from this effect.
@@ -73,7 +77,8 @@
 
 ---
 ---
-## Symbiosis Set (Usable by: Druid or Nature 7+)
+## Symbiosis Set 
+*(Usable by: Druid or Nature 7+)*
 
 > **Wickerbone Heart (T1)**
 > Once per long rest or by expending a wild shape you can turn into a behemoth for 10 minutes, while in this form: Your arms count as clubs, each under the effect of the _shillelagh_ spell. Whenever a creature damages you with an attack, all other creatures within 5 feet take 1d4 magical piercing damage. At the start of your turn regain hit points equal to half the damage taken since the previous turn, up to a maximum of 3x Wisdom modifier or 2x Nature modifier.
@@ -92,7 +97,8 @@
 
 ---
 ---
-## Blood Archer Set (Usable by: Fighter or Prof. with bows)
+## Blood Archer Set 
+*(Usable by: Fighter or Prof. with bows)*
 
 > **Bloodstone Arrowtip (T1)**
 > You learn three blood shot options. Constitution modifier times per short rest, once per turn while using a bow, you can apply one as part of the attack on hit.
@@ -108,7 +114,8 @@
 
 ---
 ---
-## Living Nightmare Set (Usable by: Fighter or Con 15+)
+## Living Nightmare Set 
+*(Usable by: Fighter or Con 15+)*
 
 > **Flesh Sculptor's Gift (T1)**
 > You lose proficiency with heavy armor and shields. While not wearing armor your AC is 11 + Dex + Con. Your eldritch flesh is capable of devouring specific magical weapons, possibly adding their properties to your body (DM's discretion, requires 1 hour ritual).
@@ -128,10 +135,11 @@
 
 ---
 ---
-## Fire Dancer Set (Usable by: Monk or speed 40+)
+## Fire Dancer Set 
+*(Usable by: Monk or speed 40+)*
 
 > **Phoenix Anklets (T1)**
-> You gain expertise in Acrobatics and Performance, and resistance to fire damage. If you already have this resistance, instead, if you take fire damage, you can reduce that damage by 1d6. You gain one additional Ki point. If a creature misses you with a melee attack, you can use your reaction to make an unarmed strike or spend a ki point to flurry of blows.
+> You gain expertise in Performance, and resistance to fire damage. If you already have this resistance, instead, if you take fire damage, you can reduce that damage by 1d6. You gain one Ki point. If a creature misses you with a melee attack, you can use your reaction to make an unarmed strike or spend a ki point to flurry of blows.
 
 > **Emberdance Fire Sash (T1)**
 > Once per battle or whenever you expend Ki, your weapons and unarmed strikes catch fire until the start of your next turn. While on fire, they deal extra fire damage equal to your Wisdom modifier (minimum 1), and you gain a bonus to your AC equal to half your Wisdom modifier (minimum 1).
@@ -144,7 +152,8 @@
 
 ---
 ---
-## Eldritch Hunter Set (Usable by: Paladin or hunter)
+## Eldritch Hunter Set 
+*(Usable by: Paladin or hunter badge)*
 
 > **Hunting Mark (T1)**
 > Once per long rest, as a bonus action, you designate a creature within 60 feet of you as your prey for 10 minutes. As part of this ability, and as a bonus action on subsequent turns, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the marked target. 
@@ -160,7 +169,8 @@
 
 ---
 ---
-## Lunar Warden Set (Usable by: Ranger or Insight 7+)
+## Lunar Warden Set 
+*(Usable by: Ranger or Insight 7+)*
 
 > **Moonstone Pendant (T1)**
 > You learn the _dancing lights_ cantrip (appears as moonlight) and have advantage on saving throws against all effects caused by Eldritch Moons. Additionally, you gain magical darkvision out to a range of 60 feet. You can see in magical darkness.
@@ -176,7 +186,8 @@
 
 ---
 ---
-## Blade of Radiance Set (Usable by: Rogue or Cha 15+)
+## Blade of Radiance Set 
+*(Usable by: Rogue or Cha 15+)*
 
 > **Saint's Blessing (T1)**
 > You have a pool of Wisdom modifier Divine points that recharge on a short rest. You can spend a Divine point to use:
@@ -197,7 +208,8 @@
 
 ---
 ---
-## Shadow Set (Usable by: Rogue or Stealth 5+)
+## Shadow Set 
+*(Usable by: Rogue or Stealth 5+)*
 
 > **Shadowsmith's Tools (T1)**
 > You gain proficiency with firearms, and you learn to make an umbral weapon by wreathing a rifle in shadows with a 1-hour ritual. Once bonded, you can't be disarmed of it unless incapacitated. If on the same plane, you can summon the rifle as a bonus action. Your umbral weapon doesn't require ammunition, doesn't make sound when fired, and does not have the barrel property
@@ -210,6 +222,88 @@
 
 > **Umbral Cloak (T2)**
 > You have advantage on the first ranged attack made from darkness each turn and on a hit you can teleport to an unoccupied space within 30 feet that is also in darkness
+
+---
+---
+## Powder Keg Set
+*(Usable by: Artificer or Prof. with Tinker's tools)*
+
+> **Cannon Expertise (T1)**
+> You gain proficiency with martial firearms, can ignore the two-handed property of cannons and can reload them with a bonus action instead of an action. Once per turn when you hit with a cannon ranged attack, you can push the target 15ft away or knock it prone (Strenght save negates). 
+
+> **Demolition Expert (T1)**
+> You have advantage on checks to find or disable traps involving explosives and can spend 10gp to craft 1d4 explosive charges during a short rest. 
+> In combat, you can throw these charges up to 15ft as an action - creatures within a 5ft radius take 3d6 thunder damage (Dexterity save negates). You can have up to 2xInt mod. charge prepared.
+
+> **Stake Driver Mechanism (T2)**
+> You have created a spring-loaded explosive stake weapon. As an action, make a melee attack. On hit, you can trigger the mechanism to deal 6d6 piercing damage and knock the target back 20 feet. If they hit a wall or another creature, both take 2d6 bludgeoning damage. The mechanism has 3 charges and regains all charges on a long rest.
+
+> **Special Ammo (T2)**
+> Once per turn you can replace one of your cannon attacks with a charged or spread shot. 
+> Charged Shot: Each creature in a 120-footlong, 5-foot-wide line in front of you takes 3d12 bludgeoning damage and is knocked prone (Dexterity save negates).
+> Spread Shot: Each creature in a 30ft cone in front of you takes 3d12 bludgeoning damage and is deafened (Constitution save halves).
+
+---
+---
+## Executioner Set
+(Usable by: Ranger or Intimidation 5+)
+
+> **Public Execution (T1)**
+> Once per turn, when you reduce a creature to 0 hit points with a melee weapon, you can spend your reaction to make it a dramatic execution. All hostile creatures within 30 feet are frightened of you until the end of your next turn (Wisdom save agains intimidation negates) and you gain temporary hit points equal to the executed creature's CR + your Strength modifier.
+
+> **Judge's Presence (T1)**
+> You have advantage on Intimidation checks and can use Strength instead of Charisma for them. You learn and can cast once per long rest without expending a spell slot *zone of truth* and *silence*.
+
+> **Logarius' Wheel (T2)**
+> As a bonus action, you manifest a massive spectral torture wheel for 1 minute. The wheel hovers near you and has the following properties: 
+> When you first summon it and as a bonus action when you hit with a melee attack, you can slam the wheel into the same target, dealing 2d4 force damage. 
+> As an action, you can send the wheel spinning through a 30-foot line. Creatures in the line take 4d6 force damage (Dexterity save negates). 
+> You can manifest the wheel proficiency bonus times per long rest.
+
+> **Guillotine Phantom (T2)**
+> Once per long rest, as an action, you summon a massive spectral guillotine above a creature within 60 feet. At the end of the next round, the blade drops. A creature that is still in the space takes 10d10 force damage (Dexterity save halves) and If this damage reduces a creature to 20 hit points or fewer it is beheaded, triggering *Public Execution* if available.
+
+---
+---
+## Marionette Set
+(Usable by: Bard or Sleight of Hand 7+)
+
+> **String Mastery (T1)**
+> Invisible strings extend from your fingers. As an action, you can try to attach strings to a creature within 15ft (Dexterity save negates). While attached: use a reaction action to pull the creature 15 feet in any direction, force disadvantage on its Dexterity saves, or force it to drop prone. When attached to a creature, you can use your action to force it to make one weapon attack against itself or a target within reach. The string breaks if the creature gets 30ft away from you and succeeds on a contested Atlethic check or uses its full turn to free itself.
+
+> **Manikin Artistry (T1)**
+> You can craft and control a small manikin puppet. During a long rest, you can create a tiny manikin that resembles a specific creature you've seen. You can see and hear through the manikin as an action while it's within 1 mile. The manikin has AC 15, 1 hit point, and 20ft movement. Additionally, you can speak and cast touch spell through it. You can maintain one manikin at a time.
+
+> **Gilded Performance (T2)**
+> Your strings become razor wire. When a creature starts its turn attached to your strings, you can choose to deal 2d6 slashing damage to it. 
+> Additionally, as an action, you can force all strings taut, pulling all attached creatures up to 30 feet toward you and knocking them prone (Strenght save negates). If this brings one within 5 feet, you can use your reaction to make a melee attack or cast a touch spell on it.
+
+> **Grand Marionette (T2)**
+> Once per long rest, as a bonus action, you can take full control of a Large or smaller creature that is attached to your strings (Charisma save negates). As part of the activation and as an action on following turns you can make it act using the full statblock of the creature.
+
+---
+---
+## Scholar of Byrgenwerth Set
+*(Usable by: Wizard or Investigation 5+)*
+
+> **Forbidden Research (T1)**
+> You maintain a grimoire of cosmic secrets. During a long rest, choose two damage types you've encountered. You gain resistance to one and vulnerability to the other until your next long rest. Additionally, whenever you take damage from your chosen vulnerability, your next spell attack has advantage and deals an extra 2d6 damage of the resisted type.
+
+> **Academic Insight (T1)**
+> Your studies grant profound understanding. You gain expertise in Investigation and Arcana. When you spend 10 minutes studying a creature, object, or phenomenon, you learn its superficial properties and if it has any curses or enchantments on it. 
+
+> **Rune Inscription (T2)**
+> You've inscribed eldritch runes upon your body. Choose two of the following runes:
+> - **Lake**: Reduce all damage taken by 3
+> - **Deep Sea**: Gain +20 feet swimming speed and water breathing
+> - **Arcane**: +1 to spell attack rolls
+> - **Communion**: Gain 2 extra spell slot of 1st level
+> - **Beast**: Your melee attacks deal an extra 1d6 damage
+> You can change your runes at the end of a long rest by losing half of your hitpoints.
+
+> **Call of the Cosmos (T2)**
+> Once per long rest, as an action (concentration), you tear open a portal to the cosmos in a 20-foot radius within 120 feet. The area becomes zero gravity for 1 minute. Creatures that start their turn in the area take 4d8 psychic damage (Int save halves) and levitate 10 feet into the air (as per the spell). 
+> While the portal is open, you can use a bonus action to make a spell attack roll and fire starlight at a creature within the zone, dealing 1d8 radiant damage.
 
 ---
 ---
