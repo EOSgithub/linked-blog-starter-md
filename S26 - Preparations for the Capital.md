@@ -16,8 +16,6 @@
 > Avete notato che sono presenti numerosi inviati e esponenti fey dal vecchiobosco, forse potrebbe avere a che fare con l'evento del corno di Balmytria avvenuto settimane fa.
 > 
 > Infine, come gruppo avete deciso di prendervi gli ultimi giorni per mettere in ordine le ultime faccende prima di dirigervi alla capitale, dove un nuovo mondo di esperienze vi aspetta.
-> 
-> In vista del trasloco vi ricordate che dovete trovare un metodo di trasporto e un alloggio una volta arrivati, per vostra fortuna sembra che un imprenditore estoriano abbia comprato delle abitazioni a Mytros in vista delle Olimpiadi e ha postato delle offerte di affitto alla taverna...
 
 ---
 ### Shopping
