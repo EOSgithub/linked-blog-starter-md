@@ -115,7 +115,7 @@
 > Il ritmo dei remi è perfetto, ipnotico, instancabile. 
 > Decine di orbite vuote ti fissano dalle panche dei rematori. La carne è marcita da tempo, lasciando solo tendini rinsecchiti che ancora muovono braccia scheletriche in perfetta sincronia. Non respirano. Non sudano. Non si fermano mai. Eppure remano con una forza che nessun mortale potrebbe eguagliare.
 > 
-> Raggiungete le Nubi nere incombono sopra di voi. Il mare placido si anima di schiuma e furia. 
+> Raggiungete le nubi nere che incombono sopra di voi. Il mare placido si anima di schiuma e furia. 
 > Onde alte come torri si schiantano contro lo scafo, fulmini color cobalto cercano l'albero maestro.
 > Qualcosa di immenso e terribile vuole fermarti, e la sua collera cresce ogni secondo.
 > 
