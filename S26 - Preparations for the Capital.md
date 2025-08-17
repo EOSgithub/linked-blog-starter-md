@@ -21,7 +21,7 @@
 ### Shopping
 
 **Volkan/Marisa**
-- Solaris Orchid 800GP: https://www.reddit.com/r/TheGriffonsSaddlebag/comments/1mnfl03/the_griffons_saddlebag_solaris_orchid_wondrous/
+- Solaris Orchid 500GP: https://www.reddit.com/r/TheGriffonsSaddlebag/comments/1mnfl03/the_griffons_saddlebag_solaris_orchid_wondrous/
 - Lunchbox of Plenty 200 GP: https://www.reddit.com/r/TheGriffonsSaddlebag/comments/1mkxorr/the_griffons_saddlebag_lunchbox_of_plenty/
 - Foggy Kettle 100GP: https://www.reddit.com/r/TheGriffonsSaddlebag/comments/1jfr2rc/the_griffons_saddlebag_foggy_kettle_wondrous_item/
 - Enchanted Rug Beater 50GP: https://www.reddit.com/r/TheGriffonsSaddlebag/comments/1in1wbh/the_griffons_saddlebag_enchanted_rug_beater/
