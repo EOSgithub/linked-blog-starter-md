@@ -1,4 +1,3 @@
-
 > Per ere, Thylea ha sempre sognato lo stesso domani,
 > …e ora si sveglia in un futuro dettato dai vostri passi.
 > 
@@ -70,7 +69,7 @@
 > 
 > “Eroi, vi ho chiamato per assicurarmi che stiate bene e parlare delle vostre scoperte nella necropoli di Telamok. Mio padre mi ha accennato che siete riusciti a recuperare gli artefatti che stavate cercando. Cosa avete intenzione di fare ora che siete tornati?.”
 
-**Anora (più morbida, con un sorriso quasi divertito):**  
+**Anora (più morbida, con un sorriso quasi divertito):**
 > “Ah, ecco… stavo per dimenticare. Forse avete già notato la nostra ospite insolita.”
 
 **Laomedeia (con voce melodiosa ma sincera):**  
