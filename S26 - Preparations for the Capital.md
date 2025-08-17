@@ -25,7 +25,6 @@
 - Lunchbox of Plenty 200 GP: https://www.reddit.com/r/TheGriffonsSaddlebag/comments/1mkxorr/the_griffons_saddlebag_lunchbox_of_plenty/
 - Foggy Kettle 100GP: https://www.reddit.com/r/TheGriffonsSaddlebag/comments/1jfr2rc/the_griffons_saddlebag_foggy_kettle_wondrous_item/
 - Enchanted Rug Beater 50GP: https://www.reddit.com/r/TheGriffonsSaddlebag/comments/1in1wbh/the_griffons_saddlebag_enchanted_rug_beater/
-- Miraculous Bread Box 50GP: https://www.reddit.com/r/TheGriffonsSaddlebag/comments/1ihlt4b/the_griffons_saddlebag_miraculous_bread_box/
 
 **Elira**
 - Mini Magmin Mortar 100GP: https://www.reddit.com/r/TheGriffonsSaddlebag/comments/1mic7n5/the_griffons_saddlebag_mini_magmin_mortar/
