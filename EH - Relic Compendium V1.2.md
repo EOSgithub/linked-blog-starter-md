@@ -1,5 +1,6 @@
 ## Earthbreaker Set 
-*(Usable by: Martial or Atlethics 5+)*
+*(Usable by: Barbarian or Atlethics 5+)*
+*Unstoppable pugilist who manipulates gravity to control enemy positioning and can literally punch through magical barriers.*
 
 > **Overwhelming Fist (T1)**
 > When you hit with an unarmed strike, you can deal bludgeoning damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. When you make an unarmed strike against a creature on your turn, you can use a bonus action to make another unarmed strike against the same creature. The range of thrown weapons is doubled for you.
@@ -22,6 +23,7 @@
 ---
 ## Lightning Vessel Set 
 *(Usable by: Barbarian or Initiative 4+)*
+*Lightning warrior who chains enemies to the ground and transforms into living lightning for devastating mobility*
 
 > **Galvanic Core (T1)**
 > Once per turn you can use your bonus action to cause one of the following effects:
@@ -45,6 +47,7 @@
 ---
 ## Apocalypse Set 
 *(Usable by: Bard or Performance 7+)*
+*Eldritch bard who channels cosmic madness through lovecraftian melodies and void maws.*
 
 > **Harbinger's Lyre (T1)**
 > Your pool of bardic inspiration dies increases by 1 and all your bardic inspiration dice become d6s. If you didn't have bardic inspiration, you gain a pool equal to your Charisma or half performance modifier of d6 that recharge on a long rest.
@@ -53,7 +56,7 @@
 > You learn 2 eldritch melodies. You gain one additional bardic inspiration die. You can replace an eldritch melody you know by succeeding on a Charisma saving throw, suffering a short term madness on a failure.
 
 > **Star-Scribe's Testament (T2)**
-> You learn to speak, read, and write Deep Speech. You gain advantage on checks that relate to the cosmos or the eldritch. You learn an additional Eldritch melody. Your eldritch melodies can't be counterspelled.
+> You learn to speak, read, and write Deep Speech. You gain advantage on checks that relate to the cosmos or the eldritch. You learn an additional Eldritch melody. Your eldritch melodies can't be counterspelled nor dispelled.
 
 > **Void-Devouring Maw (T2)**
 > As a reaction when a creature you can see is targeted by an attack, you can expend a bardic inspiration, summoning an eldritch maw that engulfs and protects it. Until the start of its next turn, it gains a bonus to its AC equal to the number rolled. If this causes the triggering attack to miss, the targeted creature can choose to be ripped through space by the maw, teleporting it to a point within 30 feet of it that it can see; if it does so, it loses the bonus to its AC.
@@ -62,6 +65,7 @@
 ---
 ## Guardian Angel Set 
 *(Usable by: Cleric or Religion 5+)*
+*Protective cleric who summons celestial guardians and grants allies temporary vitality through divine blessings.*
 
 > **Touch of Mercy (T1)**
 > When you restore hit points to another creature it also gains half as many temporary hit points (rounded down, minimum 1). If a spell targets multiple creatures, choose one creature that benefits from this effect.
@@ -79,6 +83,7 @@
 ---
 ## Symbiosis Set 
 *(Usable by: Druid or Nature 7+)*
+*Nature-bonded druid who transforms into a regenerating behemoth with customizable beast grafts.*
 
 > **Wickerbone Heart (T1)**
 > Once per long rest or by expending a wild shape you can turn into a behemoth for 10 minutes, while in this form: Your arms count as clubs, each under the effect of the _shillelagh_ spell. Whenever a creature damages you with an attack, all other creatures within 5 feet take 1d4 magical piercing damage. At the start of your turn regain hit points equal to half the damage taken since the previous turn, up to a maximum of 3x Wisdom modifier or 2x Nature modifier.
@@ -93,12 +98,13 @@
 > You can attack twice, instead of once, whenever you take the Attack action on your turn. Moreover, you can cast one of your primal cantrips in place of one of those attacks. 
 
 > **Osseus Seed (T2)**
-> You learn and can cast once per long rest each without expending a spell slot the spells: _spike growth_, *skeletal tail*, *osseus cage* and _plant growth_. 
+> Your natural weapons count as magical and ignore resistance. You learn and can cast once per long rest each without expending a spell slot the spells: _spike growth_, *skeletal tail*, *osseus cage* and _plant growth_. 
 
 ---
 ---
 ## Blood Archer Set 
 *(Usable by: Fighter or Prof. with bows)*
+*Relentless archer who tracks prey through blood and creates magical ammunition from their own life force.*
 
 > **Bloodstone Arrowtip (T1)**
 > You learn three blood shot options. Constitution modifier times per short rest, once per turn while using a bow, you can apply one as part of the attack on hit.
@@ -110,19 +116,20 @@
 > You learn the _shape water_ cantrip (works only on blood). When you make a ranged attack using a bow, you can create a blood arrow in place of standard ammunition. Blood arrows are considered magical. When you use a blood shot you also add your Constitution modifier to the damage.
 
 > **Bloodseeker's Recalling Mark (T2)**
-> When you make an attack roll with a blood arrow and miss, you can use a bonus action to reroll the attack roll against the original target. You learn an additional blood shot option.
+> When you make an attack roll with a blood arrow and miss, you can use a bonus action to reroll the attack roll against the original target or another one within 15ft. You learn an additional blood shot option. When using a blood arrow, the weapon die increases by one size.
 
 ---
 ---
 ## Living Nightmare Set 
 *(Usable by: Fighter or Con 15+)*
+*Body horror fighter who abandons armor for morphic flesh weapons and can consume corpses for disguises.*
 
 > **Flesh Sculptor's Gift (T1)**
 > You lose proficiency with heavy armor and shields. While not wearing armor your AC is 11 + Dex + Con. Your eldritch flesh is capable of devouring specific magical weapons, possibly adding their properties to your body (DM's discretion, requires 1 hour ritual).
 
 > **Morphic Sinew (T1)**
 > As a bonus action you can mutate your arms, transforming them into four different biological weapons:
-> - **Stinger**: 2d8 piercing
+> - **Stinger**: 1d8 piercing & 1d8 poison
 > - **Hammer Arm**: 2d6 bludgeoning, push 15 feet on hit
 > - **Tendinous Lash**: 1d4 slashing, reach 15 ft, topple
 > - **Sinister Aegis**: Reaction +2 AC until the start of your next turn
@@ -137,9 +144,10 @@
 ---
 ## Fire Dancer Set 
 *(Usable by: Monk or speed 40+)*
+*Blazing monk who creates fire vortexes while dashing and can choose between destructive flames or divine purification.*
 
 > **Phoenix Anklets (T1)**
-> You gain expertise in Performance, and resistance to fire damage. If you already have this resistance, instead, if you take fire damage, you can reduce that damage by 1d6. You gain one Ki point. If a creature misses you with a melee attack, you can use your reaction to make an unarmed strike or spend a ki point to flurry of blows.
+> You gain expertise in Performance, and resistance to fire damage. If you already have this resistance, instead, if you take fire damage, you can reduce that damage by 1d6. If a creature misses you with a melee attack, you can use your reaction to make an unarmed strike or spend a ki point to flurry of blows.
 
 > **Emberdance Fire Sash (T1)**
 > Once per battle or whenever you expend Ki, your weapons and unarmed strikes catch fire until the start of your next turn. While on fire, they deal extra fire damage equal to your Wisdom modifier (minimum 1), and you gain a bonus to your AC equal to half your Wisdom modifier (minimum 1).
@@ -148,18 +156,19 @@
 > Dexterity modifier times per long rest, when you Dash, if you move through each space adjacent to a creature on your turn, you create a vortex of fire around them. The target must make a Dexterity saving throw, taking 2d6 fire damage and becoming trapped in a vortex of flames until the end of its next turn on a failed save. On a successful save, the target takes half damage and no vortex appears. The vortex is opaque. If the target attempts to move out of the flames, it must first succeed on a Wisdom saving throw or take 1d6 fire damage and have its speed reduced to 0 until the start of its next turn.
 
 > **Redemptive Flame Circlet (T2)**
-> Any fire damage that you deal ignores fire resistance. In addition, the clarity of your mind allows you to generate flames that many would call divine; you can replace any fire damage that you deal with radiant damage. You gain one additional Ki point and your unarmed strikes deal an additional damage while on fire.
+> Any fire damage that you deal ignores fire resistance. In addition, the clarity of your mind allows you to generate flames that many would call divine; you can replace any fire damage that you deal with radiant damage. You gain one additional Ki point and your unarmed strikes deal 1d4 additional damage while on fire.
 
 ---
 ---
 ## Eldritch Hunter Set 
 *(Usable by: Paladin or hunter badge)*
+*Teleporting paladin specialized in hunting aberrations with enhanced senses and otherworldly gifts.*
 
 > **Hunting Mark (T1)**
 > Once per long rest, as a bonus action, you designate a creature within 60 feet of you as your prey for 10 minutes. As part of this ability, and as a bonus action on subsequent turns, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the marked target. 
 
 > **Eldritch Gift (T1)**
-> Once per short rest, for the next 10 minutes, you add your Charisma modifier to any ability check you make. Additionally, you can speak and understand any language your prey speaks.
+> Once per short rest, for the next 10 minutes, you add your Charisma modifier to any ability check you make, you can speak and understand any language your prey speaks and have advantage on the first saving throw your prey imposes on you.
 
 > **Third Eye (T2)**
 > You have blindsight with a range of 10 feet. Once per long rest you can cast _see invisibility_ without expending a spell slot. You can't be surprised and have advantage on initiative rolls.
@@ -171,6 +180,7 @@
 ---
 ## Lunar Warden Set 
 *(Usable by: Ranger or Insight 7+)*
+*Moon-touched ranger who channels eldritch moon powers and gains strength based on lunar alignment.*
 
 > **Moonstone Pendant (T1)**
 > You learn the _dancing lights_ cantrip (appears as moonlight) and have advantage on saving throws against all effects caused by Eldritch Moons. Additionally, you gain magical darkvision out to a range of 60 feet. You can see in magical darkness.
@@ -188,6 +198,7 @@
 ---
 ## Blade of Radiance Set 
 *(Usable by: Rogue or Cha 15+)*
+*Divine rogue who sanctifies weapons to hunt the unholy while protecting allies through faith.*
 
 > **Saint's Blessing (T1)**
 > You have a pool of Wisdom modifier Divine points that recharge on a short rest. You can spend a Divine point to use:
@@ -210,12 +221,13 @@
 ---
 ## Shadow Set 
 *(Usable by: Rogue or Stealth 5+)*
+*Umbral sniper who becomes one with darkness, wielding silent shadow-rifles and teleporting between shadows.*
 
 > **Shadowsmith's Tools (T1)**
 > You gain proficiency with firearms, and you learn to make an umbral weapon by wreathing a rifle in shadows with a 1-hour ritual. Once bonded, you can't be disarmed of it unless incapacitated. If on the same plane, you can summon the rifle as a bonus action. Your umbral weapon doesn't require ammunition, doesn't make sound when fired, and does not have the barrel property
 
 > **Nightwalker's Boots (T1)**
-> When you are in darkness, you can use your bonus action to take the Hide action with advantage on the Stealth check and turn into a shadow for 1 minute or until you enter bright light. While in this form, you have advantage on Stealth checks, can move through spaces as narrow as 1 inch wide, have a climbing speed equal to your walking speed and are incapacitated. You can end the transformation early (no action required) on your turn. If you do so while in darkness, you can make am attack with your rifle (1d4 weapon die)
+> When you are in darkness, you can use your bonus action to take the Hide action with advantage on the Stealth check and turn into a shadow for 1 minute or until you enter bright light. While in this form, you have advantage on Stealth checks, can move through spaces as narrow as 1 inch wide, have a climbing speed equal to your walking speed and can't make attacks or cast spells. You can end the transformation early (no action required) on your turn. If you do so while in darkness, you can make am attack with your rifle (1d4 weapon die, no action required).
 
 > **Void-Touched Skin (T2)**
 > You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet. You can maintain the transformation of your Shadow Movement for up to 1 hour. While in shadow form, you have resistance to all damage except radiant, wich you are vulnerable to
@@ -227,6 +239,7 @@
 ---
 ## Powder Keg Set
 *(Usable by: Artificer or Prof. with Tinker's tools)*
+*Victorian demolitionist wielding handheld cannons and explosive devices for devastating area damage.*
 
 > **Cannon Expertise (T1)**
 > You gain proficiency with martial firearms, can ignore the two-handed property of cannons and can reload them with a bonus action instead of an action. Once per turn when you hit with a cannon ranged attack, you can push the target 15ft away or knock it prone (Strenght save negates). 
@@ -239,14 +252,15 @@
 > You have created a spring-loaded explosive stake weapon. As an action, make a melee attack. On hit, you can trigger the mechanism to deal 6d6 piercing damage and knock the target back 20 feet. If they hit a wall or another creature, both take 2d6 bludgeoning damage. The mechanism has 3 charges and regains all charges on a long rest.
 
 > **Special Ammo (T2)**
-> Once per turn you can replace one of your cannon attacks with a charged or spread shot. 
-> Charged Shot: Each creature in a 120-footlong, 5-foot-wide line in front of you takes 3d12 bludgeoning damage and is knocked prone (Dexterity save negates).
-> Spread Shot: Each creature in a 30ft cone in front of you takes 3d12 bludgeoning damage and is deafened (Constitution save halves).
+> As an action you can use your cannon to attack with a charged or spread shot. 
+> Charged Shot: Each creature in a 60ft long, 5ft wide line in front of you takes 3d12 bludgeoning damage and is knocked prone (Dexterity save negates).
+> Spread Shot: Each creature in a 30ft cone in front of you takes 3d10 bludgeoning damage and is deafened (Constitution save halves).
 
 ---
 ---
 ## Executioner Set
 (Usable by: Ranger or Intimidation 5+)
+*Grim judge who manifests spectral torture devices and gains power from dramatic public executions.*
 
 > **Public Execution (T1)**
 > Once per turn, when you reduce a creature to 0 hit points with a melee weapon, you can spend your reaction to make it a dramatic execution. All hostile creatures within 30 feet are frightened of you until the end of your next turn (Wisdom save agains intimidation negates) and you gain temporary hit points equal to the executed creature's CR + your Strength modifier.
@@ -267,12 +281,13 @@
 ---
 ## Marionette Set
 (Usable by: Bard or Sleight of Hand 7+)
+*Sinister puppeteer who controls enemies with invisible strings and creates spy dolls for reconnaissance.*
 
 > **String Mastery (T1)**
 > Invisible strings extend from your fingers. As an action, you can try to attach strings to a creature within 15ft (Dexterity save negates). While attached: use a reaction action to pull the creature 15 feet in any direction, force disadvantage on its Dexterity saves, or force it to drop prone. When attached to a creature, you can use your action to force it to make one weapon attack against itself or a target within reach. The string breaks if the creature gets 30ft away from you and succeeds on a contested Atlethic check or uses its full turn to free itself.
 
 > **Manikin Artistry (T1)**
-> You can craft and control a small manikin puppet. During a long rest, you can create a tiny manikin that resembles a specific creature you've seen. You can see and hear through the manikin as an action while it's within 1 mile. The manikin has AC 15, 1 hit point, and 20ft movement. Additionally, you can speak and cast touch spell through it. You can maintain one manikin at a time.
+> You can craft and control a small manikin puppet. During a long rest, you can create a tiny manikin that resembles a specific creature you've seen. You can see and hear through the manikin as an action while it's within 1 mile. The manikin has AC 15, 2x your level hit point, and 20ft movement. Additionally, you can speak and cast touch spell through it. You can maintain one manikin at a time and if destroyed, you can spend 20gp of materials to repair it during a short rest.
 
 > **Gilded Performance (T2)**
 > Your strings become razor wire. When a creature starts its turn attached to your strings, you can choose to deal 2d6 slashing damage to it. 
@@ -285,9 +300,10 @@
 ---
 ## Scholar of Byrgenwerth Set
 *(Usable by: Wizard or Investigation 5+)*
+*Risk-taking wizard who trades defensive vulnerabilities for offensive power while opening portals to the beyond.*
 
 > **Forbidden Research (T1)**
-> You maintain a grimoire of cosmic secrets. During a long rest, choose two damage types you've encountered. You gain resistance to one and vulnerability to the other until your next long rest. Additionally, whenever you take damage from your chosen vulnerability, your next spell attack has advantage and deals an extra 2d6 damage of the resisted type.
+> You maintain a grimoire of cosmic secrets. During a long rest, choose three damage types you've encountered. You gain resistance to two and vulnerability to the other until your next long rest. Additionally, whenever you take damage from your chosen vulnerability, your next spell attack has advantage and deals an extra 2d6 damage of the same type.
 
 > **Academic Insight (T1)**
 > Your studies grant profound understanding. You gain expertise in Investigation and Arcana. When you spend 10 minutes studying a creature, object, or phenomenon, you learn its superficial properties and if it has any curses or enchantments on it. 
@@ -302,8 +318,8 @@
 > You can change your runes at the end of a long rest by losing half of your hitpoints.
 
 > **Call of the Cosmos (T2)**
-> Once per long rest, as an action (concentration), you tear open a portal to the cosmos in a 20-foot radius within 120 feet. The area becomes zero gravity for 1 minute. Creatures that start their turn in the area take 4d8 psychic damage (Int save halves) and levitate 10 feet into the air (as per the spell). 
-> While the portal is open, you can use a bonus action to make a spell attack roll and fire starlight at a creature within the zone, dealing 1d8 radiant damage.
+> Once per long rest, as an action (concentration), you tear open a portal to the cosmos in a 20-foot radius within 120 feet. The area becomes zero gravity for 1 minute. Creatures that start their turn in the area take 4d6 psychic damage (Int save halves) and levitate 10 feet into the air (as per the spell). 
+> While the portal is open, you can use a bonus action to make a spell attack roll and fire starlight at a creature within the zone, dealing 1d6 radiant damage.
 
 ---
 ---

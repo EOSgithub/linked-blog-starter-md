@@ -1,4 +1,4 @@
-P
+
 > Per ere, Thylea ha sempre sognato lo stesso domani,
 > …e ora si sveglia in un futuro dettato dai vostri passi.
 > 
@@ -187,4 +187,4 @@ Lastly, Graxis’ corpse still holds on to the last of Xander’s treasures, th
 
 Both of these items are unfortunately damaged, and lack any of their magical properties at the moment. They must be taken to the Mithral Forge, another area accessed by following the heroes’ Great Labors in this Chapter, and fixed by Volkan, God of the Forge. He will not ask for any resources (materials nor currency) to do so, but must use Pythor’s Hammer for at least 1 week per item in order to restore them.
 
-THe deliverer know that asterius has the axis of permanence.
+THE deliverer know that asterius has the axis of permanence.
