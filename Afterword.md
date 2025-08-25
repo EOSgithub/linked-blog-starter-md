@@ -54,11 +54,11 @@ I stood up abruptly, my chair scraping against the floor. The sound made him loo
 
 I could hear him shifting in his chair behind me, but he didn't respond.
 
-"Lutheria sent you when she could have sent Chondrus to do what you did tonight," I continued, measuring out the dried herbs. "Someone who wouldn't have cared about the cost. Someone who wouldn't have hesitated, or shown mercy."
+"Lutheria sent you when she could have ordered Chondrus to do what you did tonight," I continued, measuring out the dried herbs. "Someone who wouldn't have cared about the cost. Someone who wouldn't have hesitated, or shown mercy."
 
 "Maybe that would have been better—"
 
-"Would it?" I turned to face him, the tea steeping in my hands. "She chose you for a reason, Cosmo. Maybe because she knew you'd do the job. Or maybe because she knew it would break something inside you, and that's what she wanted. But you still have a choice about who you become after."
+"Would it?" I turned to face him, the tea steeping in my hands. "She chose you for a reason. Maybe because she knew you'd do the job. Or maybe because she knew it would break something inside you, and that's what she wanted. But you still have a choice about who you become after."
 
 He stared at me for a long moment, something unreadable flickering across his features. Then, slowly, some of the tension seemed to drain from his shoulders.
 
@@ -66,7 +66,7 @@ He stared at me for a long moment, something unreadable flickering across his fe
 
 "Someone has to keep you grounded." I brought him the tea and settled back onto my stool. "Besides, we're both stuck in this mess together. Might as well look after each other."
 
-Cosmo accepted the cup gratefully, wrapping his hands around the warm ceramic. We sat in comfortable silence for a while, listening to the distant sounds of the city settling into sleep. Some color gradually returned to his face as the tea worked its magic.
+He accepted the cup gratefully, wrapping his hands around the warm ceramic. We sat in comfortable silence for a while, listening to the distant sounds of the city settling into sleep. Some color gradually returned to his face as the tea worked its magic.
 
 "She'll want a report tomorrow," he said eventually, meaning Lutheria.
 
@@ -78,7 +78,7 @@ I met his gaze steadily. "And what exactly would I do instead? Organize her libr
 
 "You could have an easier life. Less... complicated."
 
-The suggestion was so absurd I almost laughed. "Cosmo, do you remember the day our adventure ended? In her chambers, after we'd both lost everything to her champion's wager?"
+The suggestion was so absurd I almost laughed. "Do you remember the day our adventure ended? In her chambers, after we'd both lost everything to her champion's wager?"
 
 He frowned, clearly struggling to focus through his exhaustion. "You said... you said you weren't going to beg for mercy. That if she wanted to break you, she'd have to work for it."
 
@@ -86,13 +86,12 @@ He frowned, clearly struggling to focus through his exhaustion. "You said... you
 
 "I still think it might have been both."
 
-"Maybe. But do you remember what else you said? You said that if we were going to survive this, we'd need to find something worth preserving in ourselves. Something she couldn't take away." 
-
-"I found mine. Did you think I was going to abandon it now just because things got difficult?"
+"Maybe. But do you remember what else you said? You said that if we were going to survive this, we'd need to find something worth preserving in ourselves...
+I found mine. Did you think I was going to abandon it now just because things got difficult?"
 
 Understanding dawned in his tired eyes.
 
-"Besides," I added with a small smile, "someone needs to make sure you still remember how to be human. And someone needs to make sure you eat properly and sleep occasionally instead of staying up all night planning theorems."
+"Besides," I added with a small smile, "someone needs to make sure you still remember how to be human. And someone needs to make sure you eat properly and sleep occasionally instead of staying up all night planning."
 
 For the first time since he'd walked through the door, he smiled. It was small, tired, but genuine.
 
@@ -104,7 +103,7 @@ He finished his tea and set the cup aside, then pushed himself up from the chair
 
 "Thank you," he said simply."
 
-"Thank you for coming back," I replied. "Every time."
+"Thank you for coming back," I replied.
 
 After he disappeared into his room, I remained by the dying fire for a while longer.
 
